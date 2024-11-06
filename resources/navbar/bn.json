@@ -1,0 +1,20 @@
+[
+  {
+    "title": "হোম",
+    "href": "/"
+  },
+  {
+    "title": "গাইড",
+    "href": "/guide"
+  },
+  {
+    "title": "ইনফরমেশন",
+    "href": "/t",
+    "children": [
+      {
+        "title": " কিভাবে খেলা হয়?",
+        "href": "/t/how-to-play"
+      }
+    ]
+  }
+]

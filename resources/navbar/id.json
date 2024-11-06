@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Rumah",
+    "href": "/"
+  },
+  {
+    "title": "Panduan",
+    "href": "/guide"
+  },
+  {
+    "title": "Informasi",
+    "href": "/t",
+    "children": [
+      {
+        "title": "Bagaimana cara bermain?",
+        "href": "/t/how-to-play"
+      }
+    ]
+  }
+]

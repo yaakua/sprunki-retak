@@ -1,0 +1,20 @@
+[
+  {
+    "title": "บ้าน",
+    "href": "/"
+  },
+  {
+    "title": "คู่มือ",
+    "href": "/guide"
+  },
+  {
+    "title": "ข้อมูล",
+    "href": "/t",
+    "children": [
+      {
+        "title": "เล่นอย่างไร?",
+        "href": "/t/how-to-play"
+      }
+    ]
+  }
+]

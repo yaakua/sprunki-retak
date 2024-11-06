@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Trang chủ",
+    "href": "/"
+  },
+  {
+    "title": "Hướng dẫn",
+    "href": "/guide"
+  },
+  {
+    "title": "Thông tin",
+    "href": "/t",
+    "children": [
+      {
+        "title": "Cách chơi như thế nào?",
+        "href": "/t/how-to-play"
+      }
+    ]
+  }
+]

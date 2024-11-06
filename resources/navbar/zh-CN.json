@@ -1,0 +1,20 @@
+[
+  {
+    "title": "首页",
+    "href": "/"
+  },
+  {
+    "title": "指南",
+    "href": "/guide"
+  },
+  {
+    "title": "资讯",
+    "href": "/t",
+    "children": [
+      {
+        "title": "怎么玩？",
+        "href": "/t/how-to-play"
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "Loading": {
+    "title": ""
+  },
+  "Common": {
+    "createAt": "Create At",
+    "guide": "Guide",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfServices": "Terms of Services",
+    "text": "Content",
+    "help": "Help",
+    "friendlyLinks": "Friendly Links"
+  },
+  "title": "",
+  "slogan": "",
+  "description": "",
+  "HomeIframe": {
+    "title": "Try Our Game Now",
+    "description": "Experience the excitement firsthand! Jump into our game directly in your browser. No downloads required - just instant fun at your fingertips.",
+    "iframeTitle": "Game Preview",
+    "fullscreenButton": "Fullscreen",
+    "shareButton": "Share",
+    "urlCopied": "URL copied to clipboard!",
+    "downloadGame": "Download Game"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Experience the Ultimate Gaming Adventure",
+    "whatIsTitle": "What is Our Game?",
+    "whatIsDescription": "Our game is an exciting multiplayer experience that combines strategy, skill, and social interaction. Dive into a world where you can compete with friends, complete challenges, and climb the global leaderboards.",
+    "howToPlayTitle": "How to Play",
+    "howToPlayStep1": "Create your account and customize your profile",
+    "howToPlayStep2": "Join a game room or create your own",
+    "howToPlayStep3": "Compete with players and earn rewards",
+    "keyFeaturesTitle": "Key Features",
+    "feature1Title": "Real-time Multiplayer",
+    "feature1Description": "Play with friends and players worldwide in real-time matches",
+    "feature2Title": "Ranking System",
+    "feature2Description": "Climb the global leaderboards and earn prestigious ranks",
+    "feature3Title": "Custom Rooms",
+    "feature3Description": "Create private rooms and invite friends for exclusive matches",
+    "feature4Title": "Regular Updates",
+    "feature4Description": "Enjoy new content, features, and improvements regularly"
+  },
+  "HomeFAQs": {
+    "title": "FAQs"
+  },
+  "HomeRelatedVideo": {
+    "title": "Game Video"
+  },
+  "Navbar": {
+    "title": "Nav"
+  },
+  "HomeRecommendation": {
+    "title": "Recommends"
+  },
+  "HomeComments": {
+    "title": "Play Comments"
+  }
+}

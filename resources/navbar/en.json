@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Home",
+        "href": "/"
+    },
+    {
+        "title": "Guide",
+        "href": "/guide"
+    },
+    {
+        "title": "Information",
+        "href": "/t",
+        "children":[
+            {
+                "title": "How to play?",
+                "href": "/t/how-to-play"
+            }
+        ]
+    }
+]

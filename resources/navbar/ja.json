@@ -1,0 +1,20 @@
+[
+  {
+    "title": "ホーム",
+    "href": "/"
+  },
+  {
+    "title": "ガイド",
+    "href": "/guide"
+  },
+  {
+    "title": "情報",
+    "href": "/t",
+    "children": [
+      {
+        "title": "遊び方は？",
+        "href": "/t/how-to-play"
+      }
+    ]
+  }
+]

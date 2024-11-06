@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Página Inicial",
+    "href": "/"
+  },
+  {
+    "title": "Guia",
+    "href": "/guide"
+  },
+  {
+    "title": "Informações",
+    "href": "/t",
+    "children": [
+      {
+        "title": "Como jogar?",
+        "href": "/t/how-to-play"
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Домой",
+    "href": "/"
+  },
+  {
+    "title": "Руководство",
+    "href": "/guide"
+  },
+  {
+    "title": "Информация",
+    "href": "/t",
+    "children": [
+      {
+        "title": "Как играть?",
+        "href": "/t/how-to-play"
+      }
+    ]
+  }
+]

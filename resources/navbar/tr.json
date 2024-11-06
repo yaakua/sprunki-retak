@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Ana Sayfa",
+    "href": "/"
+  },
+  {
+    "title": "Rehber",
+    "href": "/guide"
+  },
+  {
+    "title": "Bilgi",
+    "href": "/t",
+    "children": [
+      {
+        "title": "Nasıl oynanır?",
+        "href": "/t/how-to-play"
+      }
+    ]
+  }
+]
