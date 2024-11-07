@@ -101,9 +101,21 @@ export const siteConfig = {
   "recommendations": {
     "en": [
       {
-        "title": "",
+        "title": "Escape Road",
         "cover": "",
-        "url": ""
+        "url": "",
+        "gameUrl": "https://escaperoad.online",
+        "imageUrl": "https://escaperoad.online/game_screenshot.webp"
+      },
+      {
+        "title": "Bad 2 Bad : Apocalypse",
+        "imageUrl": "https://bad2bad.com/game_screenshot.webp",
+        "gameUrl": "https://bad2bad.com/"
+      },
+      {
+        "title": "Block Blast 3D",
+        "imageUrl": "https://block-blast.fun/game_screenshot.webp",
+        "gameUrl": "https://block-blast.fun/"
       }
     ]
   },
