@@ -170,12 +170,12 @@ type SocialIconsProps = {
 
 function SocialIcons({
   className,
-  twitter = {},
+  twitter,
   github,
-  youtube = {},
+  youtube,
   discord,
-  instagram = {},
-  facebook = {},
+  instagram,
+  facebook
 }: SocialIconsProps) {
   return (
     <div className={cn('flex gap-4 mt-2', className)}>

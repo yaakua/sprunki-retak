@@ -21,6 +21,8 @@ interface LocaleDropdownProps {
 export function LocaleDropdown({ type = 'button' }: LocaleDropdownProps) {
   const pathname = usePathname();
   const locale = useLocale();
+  // 从pathname中移除当前locale前缀
+  const cleanPathname = pathname.replace(`/${locale}`, '');
   const currentLocaleName = getCurrentLocaleName(locale);
 
   return (
@@ -48,13 +50,14 @@ export function LocaleDropdown({ type = 'button' }: LocaleDropdownProps) {
             <DropdownMenuItem key={key} asChild>
               <Link
                 className={cn(
-                  'flex items-center gap-2 w-full rounded-md px-2 py-2 hover:bg-accent',
+                  'flex items-center gap-2 w-full rounded-md px-2 py-2 hover:bg-accent cursor-pointer',
                   locale === key ? 'text-primary bg-accent' : 'text-foreground hover:text-primary'
                 )}
-                href={pathname}
+                href={cleanPathname}
+                locale={key==="en"?".":key}
               >
                 <ChevronRight className="h-4 w-4" />
-                {name}
+                    {name}
               </Link>
             </DropdownMenuItem>
           ))}

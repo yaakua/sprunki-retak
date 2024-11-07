@@ -11,17 +11,18 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
   const t = useTranslations();
   const pathname = usePathname();
   const locale = useLocale();
-
-  const buildLocaleLinks = (href: string, name: string) => {
-    if (href === 'en') {
+  // 从pathname中移除当前locale前缀
+  const cleanPathname = pathname.replace(`/${locale}`, '');
+  const buildLocaleLinks = (key: string, name: string) => {
+    if (key === 'en') {
       return (
-        <NextLink className="text-gray-500 hover:text-primary-200" href={pathname}>
+        <NextLink className="text-gray-500 hover:text-primary-200" href={cleanPathname}>
           {name}
         </NextLink>
       );
     }
     return (
-      <Link className="text-gray-500 hover:text-primary-200" href={pathname}>
+      <Link className="text-gray-500 hover:text-primary-200" href={cleanPathname} locale={key}>
         {name}
       </Link>
     );
@@ -52,16 +53,6 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
                   },
                 }}
                 facebook={{
-                  share: {
-                    url: siteConfig.domain,
-                  },
-                }}
-                instagram={{
-                  share: {
-                    url: siteConfig.domain,
-                  },
-                }}
-                discord={{
                   share: {
                     url: siteConfig.domain,
                   },
