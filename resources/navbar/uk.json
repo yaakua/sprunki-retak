@@ -6,15 +6,5 @@
   {
     "title": "Посібник",
     "href": "/guide"
-  },
-  {
-    "title": "Інформація",
-    "href": "/t",
-    "children": [
-      {
-        "title": "Як грати?",
-        "href": "/t/how-to-play"
-      }
-    ]
   }
 ]

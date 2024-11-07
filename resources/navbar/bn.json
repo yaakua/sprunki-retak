@@ -1,20 +1,10 @@
 [
   {
-    "title": "হোম",
+    "title": "বাড়ি",
     "href": "/"
   },
   {
-    "title": "গাইড",
+    "title": "নির্দেশিকা",
     "href": "/guide"
-  },
-  {
-    "title": "ইনফরমেশন",
-    "href": "/t",
-    "children": [
-      {
-        "title": " কিভাবে খেলা হয়?",
-        "href": "/t/how-to-play"
-      }
-    ]
   }
 ]
