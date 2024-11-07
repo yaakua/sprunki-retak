@@ -1,59 +1,59 @@
 {
+  "title": "《Sprunki Retake》",
+  "slogan": "體驗全新的《Sprunki Retake》冒險之旅",
+  "description": "投入《Sprunki Retake》的音樂世界，釋放你的創造力！",
   "Loading": {
-    "title": ""
-  },
-  "Common": {
-    "createAt": "Create At",
-    "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
-  },
-  "title": "",
-  "slogan": "",
-  "description": "",
-  "HomeIframe": {
-    "title": "Try Our Game Now",
-    "description": "Experience the excitement firsthand! Jump into our game directly in your browser. No downloads required - just instant fun at your fingertips.",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
-  },
-  "HomeFeatures": {
-    "gameTitle": "Experience the Ultimate Gaming Adventure",
-    "whatIsTitle": "What is Our Game?",
-    "whatIsDescription": "Our game is an exciting multiplayer experience that combines strategy, skill, and social interaction. Dive into a world where you can compete with friends, complete challenges, and climb the global leaderboards.",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "Create your account and customize your profile",
-    "howToPlayStep2": "Join a game room or create your own",
-    "howToPlayStep3": "Compete with players and earn rewards",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "Real-time Multiplayer",
-    "feature1Description": "Play with friends and players worldwide in real-time matches",
-    "feature2Title": "Ranking System",
-    "feature2Description": "Climb the global leaderboards and earn prestigious ranks",
-    "feature3Title": "Custom Rooms",
-    "feature3Description": "Create private rooms and invite friends for exclusive matches",
-    "feature4Title": "Regular Updates",
-    "feature4Description": "Enjoy new content, features, and improvements regularly"
-  },
-  "HomeFAQs": {
-    "title": "FAQs"
-  },
-  "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "正在加載《Sprunki Retake》..."
   },
   "Navbar": {
-    "title": "Nav"
+    "title": "導航"
+  },
+  "Common": {
+    "createAt": "創建於",
+    "guide": "指南",
+    "privacyPolicy": "隱私政策",
+    "termsOfServices": "服務條款",
+    "text": "內容",
+    "help": "幫助",
+    "friendlyLinks": "友情鏈接"
+  },
+  "HomeIframe": {
+    "title": "探索《Sprunki Retake》",
+    "description": "直接在瀏覽器中深入《Sprunki Retake》。無需下載 - 無限的音樂樂趣等著你！",
+    "iframeTitle": "《Sprunki Retake》預覽",
+    "fullscreenButton": "全屏",
+    "shareButton": "分享",
+    "urlCopied": "URL已複製到剪貼板！",
+    "downloadGame": "下載《Sprunki Retake》"
+  },
+  "HomeFeatures": {
+    "gameTitle": "《Sprunki Retake》：全新音樂之旅",
+    "whatIsTitle": "什麼是《Sprunki Retake》？",
+    "whatIsDescription": "《Sprunki Retake》是一款由粉絲修改的遊戲，提供自定義音樂混音、自定義音效和新角色。加入由節拍、人聲和旋律組成的世界，創建你自己的曲目。",
+    "howToPlayTitle": "如何玩《Sprunki Retake》",
+    "howToPlayStep1": "啟動遊戲：在線訪問並開始遊戲。",
+    "howToPlayStep2": "選擇音效：探索各種節拍、效果和人聲。",
+    "howToPlayStep3": "混合搭配：將音效拖動到角色上，創新你的曲目。",
+    "keyFeaturesTitle": "《Sprunki Retake》的主要特點",
+    "feature1Title": "新音樂風格",
+    "feature1Description": "體驗全新多樣的音樂風格，增強遊戲體驗。",
+    "feature2Title": "創意自由",
+    "feature2Description": "享受擴展的創意自由，搭配特殊音效和角色。",
+    "feature3Title": "移動端優化",
+    "feature3Description": "在移動設備上流暢地玩《Sprunki Retake》。",
+    "feature4Title": "免費遊玩",
+    "feature4Description": "無限制參與 - 《Sprunki Retake》完全免費！"
+  },
+  "HomeFAQs": {
+    "title": "關於《Sprunki Retake》的常見問題"
+  },
+  "HomeRelatedVideo": {
+    "title": "《Sprunki Retake》視頻"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "推薦遊戲"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "關於《Sprunki Retake》的評論"
   }
 }

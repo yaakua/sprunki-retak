@@ -1,59 +1,59 @@
 {
+  "title": "スプルンキ・リテイク ($Sprunki Retake)",
+  "slogan": "新しいスプルンキ・リテイクの冒険を体験してください ($Sprunki Retake)",
+  "description": "スプルンキ・リテイクの音楽の世界に飛び込み、あなたの創造性を解き放ちましょう! ($Sprunki Retake)",
   "Loading": {
-    "title": ""
-  },
-  "Common": {
-    "createAt": "Create At",
-    "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
-  },
-  "title": "",
-  "slogan": "",
-  "description": "",
-  "HomeIframe": {
-    "title": "Try Our Game Now",
-    "description": "Experience the excitement firsthand! Jump into our game directly in your browser. No downloads required - just instant fun at your fingertips.",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
-  },
-  "HomeFeatures": {
-    "gameTitle": "Experience the Ultimate Gaming Adventure",
-    "whatIsTitle": "What is Our Game?",
-    "whatIsDescription": "Our game is an exciting multiplayer experience that combines strategy, skill, and social interaction. Dive into a world where you can compete with friends, complete challenges, and climb the global leaderboards.",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "Create your account and customize your profile",
-    "howToPlayStep2": "Join a game room or create your own",
-    "howToPlayStep3": "Compete with players and earn rewards",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "Real-time Multiplayer",
-    "feature1Description": "Play with friends and players worldwide in real-time matches",
-    "feature2Title": "Ranking System",
-    "feature2Description": "Climb the global leaderboards and earn prestigious ranks",
-    "feature3Title": "Custom Rooms",
-    "feature3Description": "Create private rooms and invite friends for exclusive matches",
-    "feature4Title": "Regular Updates",
-    "feature4Description": "Enjoy new content, features, and improvements regularly"
-  },
-  "HomeFAQs": {
-    "title": "FAQs"
-  },
-  "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "スプルンキ・リテイクを読み込み中... ($Sprunki Retake)"
   },
   "Navbar": {
-    "title": "Nav"
+    "title": "ナビゲーション"
+  },
+  "Common": {
+    "createAt": "作成日",
+    "guide": "ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfServices": "利用規約",
+    "text": "コンテンツ",
+    "help": "ヘルプ",
+    "friendlyLinks": "関連リンク"
+  },
+  "HomeIframe": {
+    "title": "スプルンキ・リテイクを発見しましょう ($Sprunki Retake)",
+    "description": "ブラウザで直接スプルンキ・リテイクに飛び込みましょう。ダウンロードは必要ありません - 無限の音楽の楽しみがあなたを待っています! ($Sprunki Retake)",
+    "iframeTitle": "スプルンキ・リテイク プレビュー ($Sprunki Retake)",
+    "fullscreenButton": "全画面",
+    "shareButton": "共有",
+    "urlCopied": "URLがクリップボードにコピーされました!",
+    "downloadGame": "スプルンキ・リテイクをダウンロード ($Sprunki Retake)"
+  },
+  "HomeFeatures": {
+    "gameTitle": "スプルンキ・リテイク: 新しい音楽の旅 ($Sprunki Retake)",
+    "whatIsTitle": "スプルンキ・リテイクとは何ですか? ($Sprunki Retake)",
+    "whatIsDescription": "スプルンキ・リテイクは、カスタムサウンドと新しいキャラクターでユニークな音楽ミキシングを提供するファンが改造したゲームです。ビート、ボーカル、メロディが組み合わさった世界に参加し、あなたのトラックを作成しましょう。 ($Sprunki Retake)",
+    "howToPlayTitle": "スプルンキ・リテイクの遊び方 ($Sprunki Retake)",
+    "howToPlayStep1": "ゲームを起動する: オンラインでアクセスして始めましょう。 ($Sprunki Retake)",
+    "howToPlayStep2": "サウンドを選択する: 様々なビート、エフェクト、ボーカルを探検しましょう。 ($Sprunki Retake)",
+    "howToPlayStep3": "ミックス&マッチ: サウンドをキャラクターにドラッグして、あなたのトラックを革新しましょう。 ($Sprunki Retake)",
+    "keyFeaturesTitle": "スプルンキ・リテイクの主要な特徴 ($Sprunki Retake)",
+    "feature1Title": "新しい音楽スタイル ($Sprunki Retake)",
+    "feature1Description": "ゲームプレイを高める新鮮で多様な音楽スタイルを体験しましょう。 ($Sprunki Retake)",
+    "feature2Title": "創造的な自由 ($Sprunki Retake)",
+    "feature2Description": "特別なサウンドとキャラクターで拡張された創造的な自由を楽しみましょう。 ($Sprunki Retake)",
+    "feature3Title": "モバイル向けに最適化されています ($Sprunki Retake)",
+    "feature3Description": "モバイルデバイスでスムーズにスプルンキ・リテイクをプレイしましょう。 ($Sprunki Retake)",
+    "feature4Title": "無料でプレイできます ($Sprunki Retake)",
+    "feature4Description": "制限なく参加 - スプルンキ・リテイクは完全に無料です! ($Sprunki Retake)"
+  },
+  "HomeFAQs": {
+    "title": "スプルンキ・リテイクに関するよくある質問 ($Sprunki Retake)"
+  },
+  "HomeRelatedVideo": {
+    "title": "スプルンキ・リテイクのビデオ ($Sprunki Retake)"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "おすすめのゲーム ($Sprunki Retake)"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "スプルンキ・リテイクに関するコメント ($Sprunki Retake)"
   }
 }

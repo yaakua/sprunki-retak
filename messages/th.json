@@ -1,59 +1,59 @@
 {
+  "title": "สปรังกี้ รีเทค ($Sprunki Retake)",
+  "slogan": "สัมผัสกับการผจญภัยใหม่ของสปรังกี้ รีเทค ($Sprunki Retake)",
+  "description": "ดำดิ่งลงในโลกดนตรีของสปรังกี้ รีเทคและปลดปล่อยความคิดสร้างสรรค์ของคุณ!",
   "Loading": {
-    "title": ""
-  },
-  "Common": {
-    "createAt": "Create At",
-    "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
-  },
-  "title": "",
-  "slogan": "",
-  "description": "",
-  "HomeIframe": {
-    "title": "Try Our Game Now",
-    "description": "Experience the excitement firsthand! Jump into our game directly in your browser. No downloads required - just instant fun at your fingertips.",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
-  },
-  "HomeFeatures": {
-    "gameTitle": "Experience the Ultimate Gaming Adventure",
-    "whatIsTitle": "What is Our Game?",
-    "whatIsDescription": "Our game is an exciting multiplayer experience that combines strategy, skill, and social interaction. Dive into a world where you can compete with friends, complete challenges, and climb the global leaderboards.",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "Create your account and customize your profile",
-    "howToPlayStep2": "Join a game room or create your own",
-    "howToPlayStep3": "Compete with players and earn rewards",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "Real-time Multiplayer",
-    "feature1Description": "Play with friends and players worldwide in real-time matches",
-    "feature2Title": "Ranking System",
-    "feature2Description": "Climb the global leaderboards and earn prestigious ranks",
-    "feature3Title": "Custom Rooms",
-    "feature3Description": "Create private rooms and invite friends for exclusive matches",
-    "feature4Title": "Regular Updates",
-    "feature4Description": "Enjoy new content, features, and improvements regularly"
-  },
-  "HomeFAQs": {
-    "title": "FAQs"
-  },
-  "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "กำลังโหลดสปรังกี้ รีเทค ($Sprunki Retake)..."
   },
   "Navbar": {
-    "title": "Nav"
+    "title": "การนำทาง"
+  },
+  "Common": {
+    "createAt": "สร้างเมื่อ",
+    "guide": "คู่มือ",
+    "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+    "termsOfServices": "เงื่อนไขการให้บริการ",
+    "text": "เนื้อหา",
+    "help": "ความช่วยเหลือ",
+    "friendlyLinks": "ลิงค์เพื่อนร่วม"
+  },
+  "HomeIframe": {
+    "title": "ค้นพบสปรังกี้ รีเทค ($Sprunki Retake)",
+    "description": "สำรวจสปรังกี้ รีเทคโดยตรงในเบราว์เซอร์ของคุณ ไม่ต้องดาวน์โหลด - ความสนุกดนตรีไม่มีที่สิ้นสุดรอคุณ!",
+    "iframeTitle": "หน้าตัวอย่างสปรังกี้ รีเทค ($Sprunki Retake)",
+    "fullscreenButton": "เต็มหน้าจอ",
+    "shareButton": "แชร์",
+    "urlCopied": "URL ถูกคัดลอกไปยังคลิปบอร์ดแล้ว!",
+    "downloadGame": "ดาวน์โหลดสปรังกี้ รีเทค ($Sprunki Retake)"
+  },
+  "HomeFeatures": {
+    "gameTitle": "สปรังกี้ รีเทค: การเดินทางดนตรีใหม่ ($Sprunki Retake)",
+    "whatIsTitle": "สปรังกี้ รีเทคคืออะไร? ($Sprunki Retake)",
+    "whatIsDescription": "สปรังกี้ รีเทคเป็นเกมที่ผู้แฟนได้ปรับแต่งเพื่อเสนอการผสมเสียงดนตรีแบบไม่ซ้ำใครพร้อมเสียงกำหนดเองและตัวละครใหม่ เข้าร่วมโลกของจังหวะ เสียงร้อง และเสียงดนตรีที่ผสมกันเพื่อสร้างเพลงของคุณ",
+    "howToPlayTitle": "วิธีเล่นสปรังกี้ รีเทค ($Sprunki Retake)",
+    "howToPlayStep1": "เปิดเกม: เข้าถึงออนไลน์และเริ่มต้น",
+    "howToPlayStep2": "เลือกเสียง: สำรวจเสียงจังหวะ ฉากเสียง และเสียงร้องต่างๆ",
+    "howToPlayStep3": "ผสมและจับคู่: ลากเสียงไปยังตัวละครและสร้างเพลงใหม่ของคุณ",
+    "keyFeaturesTitle": "ลักษณะสำคัญของสปรังกี้ รีเทค ($Sprunki Retake)",
+    "feature1Title": "สไตล์ดนตรีใหม่",
+    "feature1Description": "สัมผัสกับสไตล์ดนตรีที่สดใหม่และหลากหลายที่เพิ่มความสนุกในการเล่นเกม",
+    "feature2Title": "เสรีภาพในการสร้างสรรค์",
+    "feature2Description": "เพลิดเพลินกับเสรีภาพในการสร้างสรรค์ที่ขยายได้ด้วยเสียงพิเศษและตัวละคร",
+    "feature3Title": "ปรับให้เหมาะสมสำหรับมือถือ",
+    "feature3Description": "เล่นสปรังกี้ รีเทคได้อย่างราบรื่นบนอุปกรณ์มือถือของคุณ",
+    "feature4Title": "ฟรีเล่น",
+    "feature4Description": "เข้าร่วมโดยไม่มีขีดจำกัด - สปรังกี้ รีเทคฟรีโดยสมบูรณ์!"
+  },
+  "HomeFAQs": {
+    "title": "คำถามที่พบบ่อยเกี่ยวกับสปรังกี้ รีเทค ($Sprunki Retake)"
+  },
+  "HomeRelatedVideo": {
+    "title": "วิดีโอสปรังกี้ รีเทค ($Sprunki Retake)"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "เกมที่แนะนำ"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "ความคิดเห็นเกี่ยวกับสปรังกี้ รีเทค ($Sprunki Retake)"
   }
 }

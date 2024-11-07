@@ -1,59 +1,59 @@
 {
+  "title": "Sprunki Retake ($Sprunki Retake)",
+  "slogan": "Esperienza la nuova avventura di Sprunki Retake ($Sprunki Retake)",
+  "description": "Tuffati nel mondo musicale di Sprunki Retake e libera la tua creatività!",
   "Loading": {
-    "title": ""
-  },
-  "Common": {
-    "createAt": "Create At",
-    "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
-  },
-  "title": "",
-  "slogan": "",
-  "description": "",
-  "HomeIframe": {
-    "title": "Try Our Game Now",
-    "description": "Experience the excitement firsthand! Jump into our game directly in your browser. No downloads required - just instant fun at your fingertips.",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
-  },
-  "HomeFeatures": {
-    "gameTitle": "Experience the Ultimate Gaming Adventure",
-    "whatIsTitle": "What is Our Game?",
-    "whatIsDescription": "Our game is an exciting multiplayer experience that combines strategy, skill, and social interaction. Dive into a world where you can compete with friends, complete challenges, and climb the global leaderboards.",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "Create your account and customize your profile",
-    "howToPlayStep2": "Join a game room or create your own",
-    "howToPlayStep3": "Compete with players and earn rewards",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "Real-time Multiplayer",
-    "feature1Description": "Play with friends and players worldwide in real-time matches",
-    "feature2Title": "Ranking System",
-    "feature2Description": "Climb the global leaderboards and earn prestigious ranks",
-    "feature3Title": "Custom Rooms",
-    "feature3Description": "Create private rooms and invite friends for exclusive matches",
-    "feature4Title": "Regular Updates",
-    "feature4Description": "Enjoy new content, features, and improvements regularly"
-  },
-  "HomeFAQs": {
-    "title": "FAQs"
-  },
-  "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "Caricamento di Sprunki Retake..."
   },
   "Navbar": {
-    "title": "Nav"
+    "title": "Navigazione"
+  },
+  "Common": {
+    "createAt": "Creato il",
+    "guide": "Guida",
+    "privacyPolicy": "Politica sulla privacy",
+    "termsOfServices": "Termini di servizio",
+    "text": "Contenuto",
+    "help": "Aiuto",
+    "friendlyLinks": "Collegamenti utili"
+  },
+  "HomeIframe": {
+    "title": "Scopri Sprunki Retake",
+    "description": "Affondi in Sprunki Retake direttamente nel tuo browser. Nessuna download necessario - infinita musica e divertimento ti aspettano!",
+    "iframeTitle": "Anteprima di Sprunki Retake",
+    "fullscreenButton": "Schermo intero",
+    "shareButton": "Condividi",
+    "urlCopied": "URL copiato negli appunti!",
+    "downloadGame": "Scarica Sprunki Retake"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Sprunki Retake: Un nuovo viaggio musicale ($Sprunki Retake)",
+    "whatIsTitle": "Cos'è Sprunki Retake?",
+    "whatIsDescription": "Sprunki Retake è un gioco modificato dalla comunità che offre un'unica mescolanza musicale con suoni personalizzati e nuovi personaggi. Entra in un mondo di ritmi, voci e melodie combinate per creare le tue tracce.",
+    "howToPlayTitle": "Come giocare a Sprunki Retake",
+    "howToPlayStep1": "Avvia il gioco: Accedilo online e inizia.",
+    "howToPlayStep2": "Seleziona i suoni: Esplora una varietà di ritmi, effetti e voci.",
+    "howToPlayStep3": "Mescola e abbinamento: Trascina i suoni sui personaggi e innova la tua traccia.",
+    "keyFeaturesTitle": "Caratteristiche principali di Sprunki Retake",
+    "feature1Title": "Nuovi stili musicali",
+    "feature1Description": "Esperienza stili musicali freschi e diversi che migliorano il gameplay.",
+    "feature2Title": "Libertà creativa",
+    "feature2Description": "Goditi una maggiore libertà creativa con suoni speciali e personaggi.",
+    "feature3Title": "Ottimizzato per mobile",
+    "feature3Description": "Gioca a Sprunki Retake senza interruzioni sul tuo dispositivo mobile.",
+    "feature4Title": "Gratuito da giocare",
+    "feature4Description": "Immergiti senza limiti - Sprunki Retake è completamente gratuito!"
+  },
+  "HomeFAQs": {
+    "title": "Domande frequenti su Sprunki Retake"
+  },
+  "HomeRelatedVideo": {
+    "title": "Video di Sprunki Retake"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "Giochi consigliati"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "Commenti su Sprunki Retake"
   }
 }

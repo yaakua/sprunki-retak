@@ -1,59 +1,59 @@
 {
+  "title": "স্প্রংকি রিটেক ($Sprunki Retake)",
+  "slogan": "নতুন স্প্রংকি রিটেক অ্যাডভেঞ্চারের অভিজ্ঞতা করুন ($Sprunki Retake)",
+  "description": "স্প্রংকি রিটেকের সংগীতের বিশ্বে ডুবে যান এবং আপনার সৃজনশীলতা নিয়ে আসুন! ($Sprunki Retake)",
   "Loading": {
-    "title": ""
-  },
-  "Common": {
-    "createAt": "Create At",
-    "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
-  },
-  "title": "",
-  "slogan": "",
-  "description": "",
-  "HomeIframe": {
-    "title": "Try Our Game Now",
-    "description": "Experience the excitement firsthand! Jump into our game directly in your browser. No downloads required - just instant fun at your fingertips.",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
-  },
-  "HomeFeatures": {
-    "gameTitle": "Experience the Ultimate Gaming Adventure",
-    "whatIsTitle": "What is Our Game?",
-    "whatIsDescription": "Our game is an exciting multiplayer experience that combines strategy, skill, and social interaction. Dive into a world where you can compete with friends, complete challenges, and climb the global leaderboards.",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "Create your account and customize your profile",
-    "howToPlayStep2": "Join a game room or create your own",
-    "howToPlayStep3": "Compete with players and earn rewards",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "Real-time Multiplayer",
-    "feature1Description": "Play with friends and players worldwide in real-time matches",
-    "feature2Title": "Ranking System",
-    "feature2Description": "Climb the global leaderboards and earn prestigious ranks",
-    "feature3Title": "Custom Rooms",
-    "feature3Description": "Create private rooms and invite friends for exclusive matches",
-    "feature4Title": "Regular Updates",
-    "feature4Description": "Enjoy new content, features, and improvements regularly"
-  },
-  "HomeFAQs": {
-    "title": "FAQs"
-  },
-  "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "স্প্রংকি রিটেক লোড হচ্ছে... ($Sprunki Retake)"
   },
   "Navbar": {
-    "title": "Nav"
+    "title": "নেভিগেশন"
+  },
+  "Common": {
+    "createAt": "সৃষ্টি করা হয়েছে",
+    "guide": "গাইড",
+    "privacyPolicy": "গোপনীয়তা নীতি",
+    "termsOfServices": "সেবার শর্তাবলী",
+    "text": "বিষয়বস্তু",
+    "help": "সাহায্য",
+    "friendlyLinks": "বন্ধুত্বপূর্ণ লিঙ্কসমূহ"
+  },
+  "HomeIframe": {
+    "title": "স্প্রংকি রিটেক আবিষ্কার করুন ($Sprunki Retake)",
+    "description": "আপনার ব্রাউজারে সরাসরি স্প্রংকি রিটেকে ডুবে যান। ডাউনলোড করার দরকার নেই - অসীম সংগীতের মজা আপনার জন্য অপেক্ষা করছে!",
+    "iframeTitle": "স্প্রংকি রিটেক প্রিভিউ ($Sprunki Retake)",
+    "fullscreenButton": "ফুলস্ক্রিন",
+    "shareButton": "শেয়ার করুন",
+    "urlCopied": "ইউআরএল ক্লিপবোর্ডে কপি করা হয়েছে!",
+    "downloadGame": "স্প্রংকি রিটেক ডাউনলোড করুন ($Sprunki Retake)"
+  },
+  "HomeFeatures": {
+    "gameTitle": "স্প্রংকি রিটেক: একটি নতুন সংগীতের যাত্রা ($Sprunki Retake)",
+    "whatIsTitle": "স্প্রংকি রিটেক কি? ($Sprunki Retake)",
+    "whatIsDescription": "স্প্রংকি রিটেক একটি ফ্যান-পরিবর্তিত গেম যা কাস্টম সাউন্ড এবং নতুন চরিত্রের সাথে অনন্য সংগীত-মিশ্রণ প্রদান করে। সংগীতের ধ্বনি, ভোকাল এবং সুরের বিশ্বে যোগদান করুন এবং আপনার সংগীত তৈরি করুন।",
+    "howToPlayTitle": "স্প্রংকি রিটেক কিভাবে খেলা হয় ($Sprunki Retake)",
+    "howToPlayStep1": "গেম চালু করুন: এটি অনলাইনে অ্যাক্সেস করুন এবং শুরু করুন",
+    "howToPlayStep2": "সাউন্ড নির্বাচন করুন: বিভিন্ন ধ্বনি, প্রভাব এবং ভোকালের অন্বেষণ করুন",
+    "howToPlayStep3": "মিশ্রণ করুন এবং সংগত করুন: সাউন্ডগুলিকে চরিত্রের কাছে টেনে আনুন এবং আপনার সংগীতের উদ্ভাবন করুন",
+    "keyFeaturesTitle": "স্প্রংকি রিটেকের মূল বৈশিষ্ট্য ($Sprunki Retake)",
+    "feature1Title": "নতুন সংগীতের শৈলী",
+    "feature1Description": "নতুন এবং বৈচিত্র্যময় সংগীতের শৈলীগুলো অভিজ্ঞতা করুন যা গেমপ্লে বাড়ায়",
+    "feature2Title": "সৃজনশীল স্বাধীনতা",
+    "feature2Description": "বিশেষ সাউন্ড এবং চরিত্রের সাথে বিস্তৃত সৃজনশীল স্বাধীনতা উপভোগ করুন",
+    "feature3Title": "মোবাইলের জন্য অপ্টিমাইজড",
+    "feature3Description": "আপনার মোবাইল ডিভাইসে স্প্রংকি রিটেক নিঃশব্দে খেলুন",
+    "feature4Title": "নিন্মে খেলার জন্য ফ্রি",
+    "feature4Description": "সীমাবদ্ধ না হয়ে - স্প্রংকি রিটেক সম্পূর্ণ ফ্রি!"
+  },
+  "HomeFAQs": {
+    "title": "স্প্রংকি রিটেক সম্পর্কে প্রায়শই জিজ্ঞাসিত প্রশ্নাবলী ($Sprunki Retake)"
+  },
+  "HomeRelatedVideo": {
+    "title": "স্প্রংকি রিটেক ভিডিও ($Sprunki Retake)"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "সুপারিশ করা গেমস ($Sprunki Retake)"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "স্প্রংকি রিটেকের সংক্ষিপ্ত মতামত ($Sprunki Retake)"
   }
 }

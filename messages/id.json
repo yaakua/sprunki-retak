@@ -1,59 +1,59 @@
 {
+  "title": "Sprunki Retake ($Sprunki Retake)",
+  "slogan": "Nikmati petualangan Sprunki Retake baru ($Sprunki Retake)",
+  "description": "Telusuri dunia musik Sprunki Retake dan lepaskan kreativitas Anda! ($Sprunki Retake)",
   "Loading": {
-    "title": ""
-  },
-  "Common": {
-    "createAt": "Create At",
-    "guide": "Guide",
-    "privacyPolicy": "Privacy Policy",
-    "termsOfServices": "Terms of Services",
-    "text": "Content",
-    "help": "Help",
-    "friendlyLinks": "Friendly Links"
-  },
-  "title": "",
-  "slogan": "",
-  "description": "",
-  "HomeIframe": {
-    "title": "Try Our Game Now",
-    "description": "Experience the excitement firsthand! Jump into our game directly in your browser. No downloads required - just instant fun at your fingertips.",
-    "iframeTitle": "Game Preview",
-    "fullscreenButton": "Fullscreen",
-    "shareButton": "Share",
-    "urlCopied": "URL copied to clipboard!",
-    "downloadGame": "Download Game"
-  },
-  "HomeFeatures": {
-    "gameTitle": "Experience the Ultimate Gaming Adventure",
-    "whatIsTitle": "What is Our Game?",
-    "whatIsDescription": "Our game is an exciting multiplayer experience that combines strategy, skill, and social interaction. Dive into a world where you can compete with friends, complete challenges, and climb the global leaderboards.",
-    "howToPlayTitle": "How to Play",
-    "howToPlayStep1": "Create your account and customize your profile",
-    "howToPlayStep2": "Join a game room or create your own",
-    "howToPlayStep3": "Compete with players and earn rewards",
-    "keyFeaturesTitle": "Key Features",
-    "feature1Title": "Real-time Multiplayer",
-    "feature1Description": "Play with friends and players worldwide in real-time matches",
-    "feature2Title": "Ranking System",
-    "feature2Description": "Climb the global leaderboards and earn prestigious ranks",
-    "feature3Title": "Custom Rooms",
-    "feature3Description": "Create private rooms and invite friends for exclusive matches",
-    "feature4Title": "Regular Updates",
-    "feature4Description": "Enjoy new content, features, and improvements regularly"
-  },
-  "HomeFAQs": {
-    "title": "FAQs"
-  },
-  "HomeRelatedVideo": {
-    "title": "Game Video"
+    "title": "Memuat Sprunki Retake..."
   },
   "Navbar": {
-    "title": "Nav"
+    "title": "Navigasi"
+  },
+  "Common": {
+    "createAt": "Dibuat Pada",
+    "guide": "Panduan",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfServices": "Syarat Layanan",
+    "text": "Konten",
+    "help": "Bantuan",
+    "friendlyLinks": "Tautan Ramah"
+  },
+  "HomeIframe": {
+    "title": "Temukan Sprunki Retake ($Sprunki Retake)",
+    "description": "Telusuri Sprunki Retake langsung di browser Anda. Tidak perlu unduhan - kesenangan musik tanpa batas menanti Anda! ($Sprunki Retake)",
+    "iframeTitle": "Pratinjau Sprunki Retake ($Sprunki Retake)",
+    "fullscreenButton": "Layar Penuh",
+    "shareButton": "Bagikan",
+    "urlCopied": "URL telah disalin ke clipboard!",
+    "downloadGame": "Unduh Sprunki Retake ($Sprunki Retake)"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Sprunki Retake: Perjalanan Musik Baru ($Sprunki Retake)",
+    "whatIsTitle": "Apa itu Sprunki Retake? ($Sprunki Retake)",
+    "whatIsDescription": "Sprunki Retake adalah game yang dimodifikasi oleh penggemar yang menawarkan penggabungan musik unik dengan suara khusus dan karakter baru. Bergabunglah dengan dunia ritme, vokal, dan melodi yang digabung untuk membuat trek Anda. ($Sprunki Retake)",
+    "howToPlayTitle": "Cara Bermain Sprunki Retake ($Sprunki Retake)",
+    "howToPlayStep1": "Jalankan Game: Akses secara online dan mulai. ($Sprunki Retake)",
+    "howToPlayStep2": "Pilih Suara: Jelajahi berbagai ritme, efek, dan vokal. ($Sprunki Retake)",
+    "howToPlayStep3": "Campur & Cocokkan: Seret suara ke karakter dan inovasi trek Anda. ($Sprunki Retake)",
+    "keyFeaturesTitle": "Fitur Utama Sprunki Retake ($Sprunki Retake)",
+    "feature1Title": "Gaya Musik Baru",
+    "feature1Description": "Nikmati gaya musik baru dan beragam yang meningkatkan gameplay. ($Sprunki Retake)",
+    "feature2Title": "Kebebasan Kreatif",
+    "feature2Description": "Nikmati kebebasan kreatif yang diperluas dengan suara khusus dan karakter. ($Sprunki Retake)",
+    "feature3Title": "Dioptimalkan untuk Mobile",
+    "feature3Description": "Bermain Sprunki Retake lancar di perangkat mobile Anda. ($Sprunki Retake)",
+    "feature4Title": "Gratis Bermain",
+    "feature4Description": "Bermain tanpa batas - Sprunki Retake sepenuhnya gratis! ($Sprunki Retake)"
+  },
+  "HomeFAQs": {
+    "title": "Pertanyaan Umum tentang Sprunki Retake ($Sprunki Retake)"
+  },
+  "HomeRelatedVideo": {
+    "title": "Video Sprunki Retake ($Sprunki Retake)"
   },
   "HomeRecommendation": {
-    "title": "Recommends"
+    "title": "Game Rekomendasi"
   },
   "HomeComments": {
-    "title": "Play Comments"
+    "title": "Komentar tentang Sprunki Retake ($Sprunki Retake)"
   }
 }
