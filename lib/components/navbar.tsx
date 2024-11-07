@@ -57,7 +57,7 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
                 .map((item, index) => (
                   <Link
                     key={`${item.title}-${index}`}
-                    href={`/${locale}/${getPathname({ href: item.href, locale })}`}
+                    href={`/${getPathname({ href: item.href, locale })}`}
                     className={cn(
                       'flex items-center gap-2 px-4 py-2 text-sm font-medium rounded-md hover:bg-accent',
                       isActive(item.href) && 'bg-accent',

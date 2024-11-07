@@ -52,7 +52,6 @@ export function LocaleDropdown({ type = 'button' }: LocaleDropdownProps) {
                   locale === key ? 'text-primary bg-accent' : 'text-foreground hover:text-primary'
                 )}
                 href={pathname}
-                locale={key}
               >
                 <ChevronRight className="h-4 w-4" />
                 {name}
