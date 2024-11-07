@@ -102,20 +102,24 @@ export const siteConfig = {
     "en": [
       {
         "title": "Escape Road",
-        "cover": "",
-        "url": "",
+        "cover": "https://escaperoad.online/game_screenshot.webp",
+        "url": "https://escaperoad.online",
         "gameUrl": "https://escaperoad.online",
         "imageUrl": "https://escaperoad.online/game_screenshot.webp"
       },
       {
         "title": "Bad 2 Bad : Apocalypse",
         "imageUrl": "https://bad2bad.com/game_screenshot.webp",
-        "gameUrl": "https://bad2bad.com/"
+        "gameUrl": "https://bad2bad.com/",
+        "url": "https://bad2bad.com/",
+        "cover": "https://bad2bad.com/game_screenshot.webp"
       },
       {
         "title": "Block Blast 3D",
         "imageUrl": "https://block-blast.fun/game_screenshot.webp",
-        "gameUrl": "https://block-blast.fun/"
+        "gameUrl": "https://block-blast.fun/",
+        "cover": "https://block-blast.fun/game_screenshot.webp",
+        "url": "https://block-blast.fun/"
       }
     ]
   },
