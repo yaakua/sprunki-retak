@@ -71,7 +71,7 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
                   <Link
                     key={`${it.title}-${index}`}
                     href={it.href}
-                    locale={locale}
+                    locale={locale==="en"?undefined:locale}
                     className="text-gray-400 hover:text-primary-200"
                   >
                     {it.title}
