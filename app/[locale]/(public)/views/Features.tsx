@@ -5,7 +5,7 @@ export default async function Features() {
   const t = await getTranslations('HomeFeatures');
   return (
     <>
-      <h1 className="text-2xl md:text-5xl font-bold text-left mb-8 text-yellow-300 font-leckerli">{t('gameTitle')}</h1>
+      <h2 className="text-2xl md:text-5xl font-bold text-left mb-8 text-yellow-300 font-leckerli">{t('gameTitle')}</h2>
 
       <div className="flex flex-row mb-8 items-center">
         <section className="flex-grow pr-8">
