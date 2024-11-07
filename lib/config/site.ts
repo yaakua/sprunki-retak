@@ -108,11 +108,11 @@ export const siteConfig = {
         "imageUrl": "https://escaperoad.online/game_screenshot.webp"
       },
       {
-        "title": "Bad 2 Bad : Apocalypse",
+        "title": "My Femboy Roommate",
         "imageUrl": "https://bad2bad.com/game_screenshot.webp",
         "gameUrl": "https://bad2bad.com/",
-        "url": "https://bad2bad.com/",
-        "cover": "https://bad2bad.com/game_screenshot.webp"
+        "url": "https://myfemboyroomate.online/",
+        "cover": "https://myfemboyroomate.online/game_screenshot.webp"
       },
       {
         "title": "Block Blast 3D",
