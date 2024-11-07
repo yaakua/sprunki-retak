@@ -22,7 +22,7 @@ export function LocaleDropdown({ type = 'button' }: LocaleDropdownProps) {
   const pathname = usePathname();
   const locale = useLocale();
   // 从pathname中移除当前locale前缀
-  const cleanPathname = pathname.replace(`/${locale}`, '');
+  const cleanPathname = pathname.replace(`/${locale}`, '/');
   const currentLocaleName = getCurrentLocaleName(locale);
 
   return (
