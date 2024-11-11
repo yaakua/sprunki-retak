@@ -10,7 +10,7 @@ import { siteConfig } from '@/lib/config/site';
 import { NavbarItem } from '@/lib/types';
 import { Toaster } from '@/lib/ui/components/toaster';
 import { GoogleAnalytics } from '@next/third-parties/google';
-
+import MicrosoftClarity from '@/lib/components/microsoft-clarity';
 type Props = {
   children: ReactNode;
   params: Promise<{ locale: string }>;
@@ -42,6 +42,7 @@ export default async function LocaleLayout({ children, params }: Props) {
           <>
             {siteConfig.gaId && <GoogleAnalytics gaId={siteConfig.gaId as string} />}
             {siteConfig.plausible && <script defer data-domain={siteConfig.domain} src={siteConfig.plausible}></script>}
+            {siteConfig.clarityId && <MicrosoftClarity clarityId={siteConfig.clarityId} />}
           </>
         )}
       </NextUIProvider>

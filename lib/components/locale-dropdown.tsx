@@ -29,12 +29,19 @@ export function LocaleDropdown({ type = 'button' }: LocaleDropdownProps) {
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
         {type === 'button' ? (
-          <Button variant="outline" className="text-primary" size="sm">
+          <Button 
+            variant="ghost" 
+            className="text-white hover:text-white hover:bg-[#2a4056]" 
+            size="sm"
+          >
             <Languages className="mr-2 h-4 w-4" />
             {currentLocaleName}
           </Button>
         ) : (
-          <Button variant="ghost" className="w-full justify-start text-primary">
+          <Button 
+            variant="ghost" 
+            className="w-full justify-start text-white hover:text-white hover:bg-[#2a4056]"
+          >
             <Languages className="mr-2 h-4 w-4" />
             {currentLocaleName}
             <ChevronDown className="ml-2 h-4 w-4" />
@@ -43,21 +50,21 @@ export function LocaleDropdown({ type = 'button' }: LocaleDropdownProps) {
       </DropdownMenuTrigger>
       <DropdownMenuContent 
         align="start" 
-        className="w-[400px] bg-white p-4"
+        className="w-[400px] bg-[#1B2C41] p-4"
       >
         <div className="grid grid-cols-2 gap-2">
           {Object.entries(localeNames).map(([key, name]) => (
             <DropdownMenuItem key={key} asChild>
               <Link
                 className={cn(
-                  'flex items-center gap-2 w-full rounded-md px-2 py-2 hover:bg-accent cursor-pointer',
-                  locale === key ? 'text-primary bg-accent' : 'text-foreground hover:text-primary'
+                  'flex items-center gap-2 w-full rounded-md px-2 py-2 hover:bg-[#2a4056] cursor-pointer',
+                  locale === key ? 'text-primary bg-[#2a4056]' : 'text-gray-300 hover:text-white'
                 )}
                 href={cleanPathname}
                 locale={key==="en"?".":key}
               >
                 <ChevronRight className="h-4 w-4" />
-                    {name}
+                {name}
               </Link>
             </DropdownMenuItem>
           ))}

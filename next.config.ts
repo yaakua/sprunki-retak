@@ -44,8 +44,6 @@ const nextConfig: NextConfig = {
     trailingSlash: false,
     env: {
         UE_WEB_URL: process.env.UE_WEB_URL,
-        DOUBAO_API_KEY:process.env.DOUBAO_API_KEY,
-        DOUBAO_MODEL_NAME:process.env.DOUBAO_MODEL_NAME
     }
 }
 

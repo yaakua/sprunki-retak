@@ -71,7 +71,7 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
                   <Link
                     key={`${it.title}-${index}`}
                     href={it.href}
-                    locale={locale==="en"?undefined:locale}
+                    locale={locale === 'en' ? undefined : locale}
                     className="text-gray-400 hover:text-primary-200"
                   >
                     {it.title}
@@ -100,7 +100,7 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
         {/* 底部版权信息 */}
         <div className="pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-gray-400">© 2024 {t('title')} All rights reserved.</p>
+            <p className="text-gray-400">© 2024 {siteConfig.name} All rights reserved.</p>
             <div className="flex flex-wrap gap-4">
               {siteConfig.friendLinks.map((link: any) => (
                 <Link key={link.title} href={link.url} className="text-gray-400 hover:text-primary-200">

@@ -9,6 +9,7 @@ import IframeSection from './views/IframeSection';
 import Recommendation from './views/Recommendation';
 import RelatedVideo from './views/RelatedVideo';
 import SectionWrapper from './views/SectionWrapper';
+import DownloadGame from './views/DownloadGame';
 
 type Props = {
   params: Promise<{ locale: string }>;
@@ -48,6 +49,7 @@ export default async function Page({ params }: Props) {
         <Comments />
         <Recommendation locale={locale} />
       </SectionWrapper>
+      <DownloadGame />
     </div>
   );
 }

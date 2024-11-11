@@ -35,10 +35,10 @@ export interface FriendLinkItem {
 }
 
 export interface Theme {
-  headFont: string;
-  primaryColor: string;
-  fontColor: string;
-  backgroundColor: string;
+  headFont: string | null;
+  primaryColor: string | null;
+  fontColor: string | null;
+  backgroundColor: string | null;
 }
 
 export interface SiteConfig {
@@ -46,26 +46,42 @@ export interface SiteConfig {
   name: string;
   // 网站标语
   slogan: string;
+   // 网站域名
   domain: string
   // 网站图标
   icon: string;
+  // iframe || download || redirect
   gameType: string;
   // 苹果图标
   appleIcon: string;
   // 主题
   theme: Theme;
-  // 网站域名
+  // google 分析
   gaId: string;
+  // clarity 分析
+  clarityId: string;
   // 网站分析
   plausible: string;
   // 导航栏
   navbarItems: NavbarItem[];
   // 游戏 iframe url
   gameIframeUrl: string;
-  // 游戏下载背景图片
-  gameDownloadBg?: string;
-  // 游戏下载地址
-  gameDownloadUrl?: string;
+  // 游戏重定向地址
+  gameRedirectUrl?: string;
+  bgType: string;
+  bgImage?: string;
+  bgVideo?: string;
+  // 游戏下载配置
+  gameDownload?: {
+    showDownloadButton: boolean;
+    downloadUrls: {
+      ios: string;
+      android: string;
+      pc: string;
+      steam: string;
+      mac: string;
+    };
+  };
   // 指南
   isShowGuide: boolean;
   // 常见问题

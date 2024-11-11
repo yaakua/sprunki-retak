@@ -77,11 +77,11 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
         <div className="flex items-center gap-6">
           <Link
             href="/"
-            className="flex items-center space-x-2 group transition-transform duration-300 hover:scale-105"
+            className="flex items-center space-x-2 group "
           >
             <Image
               src="/logo.svg"
-              className="h-14 w-auto rounded-xl transform transition-all duration-300 group-hover:rotate-6"
+              className="h-14 w-auto rounded-xl "
               alt={`${t('title')} logo`}
               width={20}
               height={20}
@@ -90,7 +90,7 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
                 console.error('Image load failed:', e);
               }}
             />
-            <span className="inline-flex items-end text-lg font-leckerli bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent transition-all duration-300">
+            <span className="inline-flex items-end text-lg font-leckerli bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent transition-all duration-300 truncate max-w-[150px] sm:max-w-none">
               {t(siteConfig.slogan as any)}
             </span>
           </Link>
