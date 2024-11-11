@@ -27,18 +27,16 @@
       "href": "/t"
     }
   ],
-  "gameType": "iframe",
+  "gameType": "download",
   "gameIframeUrl": "https://scratch.mit.edu/projects/1090434936/embed",
   "gameRedirectUrl": "",
-  "bgType": "iframe",
-  "bgImage": "",
-  "bgVideo": "",
+  "bgType": "image",
+  "bgImage": "https://www.liarsbar.net/_next/image?url=https%3A%2F%2Fpub-7589a897b34045d6986ae76394f87b7b.r2.dev%2Fbar-background.webp&w=640&q=75",
+  "bgVideo": "https://www.youtube.com/watch?v=vhVUK0Ihhw4",
   "gameDownload": {
-    "bgType": "image",
-    "bgImage": "",
-    "bgVideo": "",
+    "showDownloadButton": true,
     "downloadUrls": {
-      "ios": "",
+      "ios": "https://www.baidu.com",
       "android": "",
       "pc": "",
       "steam": "",
@@ -64,7 +62,7 @@
   ],
   "isShowComments": true,
   "isShowTweets": false,
-  "useRealTweets": null,
+  "useRealTweets": false,
   "tweets": [
     ""
   ],

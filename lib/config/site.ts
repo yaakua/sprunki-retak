@@ -1,3 +1,14 @@
 import { SiteConfig } from '../types';
 import siteConfigJSON from './site.json';
-export const siteConfig: SiteConfig = siteConfigJSON
+import defaultConfigJSON from './default.json';
+
+let config = {...siteConfigJSON} as SiteConfig;
+
+if (process.env.NODE_ENV === 'development') {
+    config = {
+        ...siteConfigJSON,
+        ...defaultConfigJSON
+    }
+}
+
+export const siteConfig: SiteConfig = config;
