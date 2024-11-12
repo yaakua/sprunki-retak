@@ -94,7 +94,7 @@ export interface SiteConfig {
   // id
   tweets: string[];
   // 使用真实推特
-  useRealTweets: boolean;
+  useRealTweets: boolean | null;
   comments: CommentItem[];
   isShowRecommendation: boolean;
   friendLinks: FriendLinkItem[];
