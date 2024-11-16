@@ -1,10 +1,17 @@
 [
   {
-    "title": "Rumah",
-    "href": "/"
+    "title": "Panduan",
+    "href": "/guide",
+    "visible": true
   },
   {
-    "title": "Panduan",
-    "href": "/guide"
+    "title": "Cara Bermain",
+    "href": "/t/how-to-play",
+    "visible": true
+  },
+  {
+    "title": "Halo Tes",
+    "href": "/t/hello-test",
+    "visible": false
   }
 ]

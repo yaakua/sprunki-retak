@@ -1,10 +1,17 @@
 [
   {
-    "title": "Home",
-    "href": "/"
+    "title": "Guide",
+    "href": "/guide",
+    "visible": true
   },
   {
-    "title": "Guide",
-    "href": "/guide"
+    "title": "How To Play",
+    "href": "/t/how-to-play",
+    "visible": true
+  },
+  {
+    "title": "Hello Test",
+    "href": "/t/hello-test",
+    "visible": false
   }
 ]

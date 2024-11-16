@@ -1,10 +1,17 @@
 [
   {
-    "title": "ホーム",
-    "href": "/"
+    "title": "ガイド",
+    "href": "/guide",
+    "visible": true
   },
   {
-    "title": "ガイド",
-    "href": "/guide"
+    "title": "遊び方",
+    "href": "/t/how-to-play",
+    "visible": true
+  },
+  {
+    "title": "こんにちは テスト",
+    "href": "/t/hello-test",
+    "visible": false
   }
 ]

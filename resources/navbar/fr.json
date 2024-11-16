@@ -1,10 +1,17 @@
 [
   {
-    "title": "Accueil",
-    "href": "/"
+    "title": "Guide",
+    "href": "/guide",
+    "visible": true
   },
   {
-    "title": "Guide",
-    "href": "/guide"
+    "title": "Comment Jouer",
+    "href": "/t/how-to-play",
+    "visible": true
+  },
+  {
+    "title": "Bonjour Test",
+    "href": "/t/hello-test",
+    "visible": false
   }
 ]

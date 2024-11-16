@@ -1,10 +1,17 @@
 [
   {
-    "title": "홈",
-    "href": "/"
+    "title": "안내",
+    "href": "/guide",
+    "visible": true
   },
   {
-    "title": "안내",
-    "href": "/guide"
+    "title": "놀기 방법",
+    "href": "/t/how-to-play",
+    "visible": true
+  },
+  {
+    "title": "안녕 테스트",
+    "href": "/t/hello-test",
+    "visible": false
   }
 ]

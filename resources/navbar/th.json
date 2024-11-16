@@ -1,10 +1,17 @@
 [
   {
-    "title": "บ้าน",
-    "href": "/"
+    "title": "คู่มือ",
+    "href": "/guide",
+    "visible": true
   },
   {
-    "title": "คู่มือ",
-    "href": "/guide"
+    "title": "วิธีการเล่น",
+    "href": "/t/how-to-play",
+    "visible": true
+  },
+  {
+    "title": "สวัสดี 테스트",
+    "href": "/t/hello-test",
+    "visible": false
   }
 ]

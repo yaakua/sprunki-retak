@@ -1,10 +1,17 @@
 [
   {
-    "title": "Trang chủ",
-    "href": "/"
+    "title": "Hướng dẫn",
+    "href": "/guide",
+    "visible": true
   },
   {
-    "title": "Hướng dẫn",
-    "href": "/guide"
+    "title": "Cách chơi",
+    "href": "/t/how-to-play",
+    "visible": true
+  },
+  {
+    "title": "Xin chào Test",
+    "href": "/t/hello-test",
+    "visible": false
   }
 ]

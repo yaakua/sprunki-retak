@@ -1,10 +1,17 @@
 [
   {
-    "title": "Додому",
-    "href": "/"
+    "title": "Посібник",
+    "href": "/guide",
+    "visible": true
   },
   {
-    "title": "Посібник",
-    "href": "/guide"
+    "title": "Як Грати",
+    "href": "/t/how-to-play",
+    "visible": true
+  },
+  {
+    "title": "Привіт, Тест",
+    "href": "/t/hello-test",
+    "visible": false
   }
 ]

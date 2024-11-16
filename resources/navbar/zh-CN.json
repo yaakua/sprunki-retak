@@ -1,10 +1,17 @@
 [
   {
-    "title": "首页",
-    "href": "/"
+    "title": "指南",
+    "href": "/guide",
+    "visible": true
   },
   {
-    "title": "指南",
-    "href": "/guide"
+    "title": "",
+    "href": "/t/how-to-play",
+    "visible": true
+  },
+  {
+    "title": "",
+    "href": "/t/hello-test",
+    "visible": false
   }
 ]

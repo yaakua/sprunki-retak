@@ -1,10 +1,17 @@
 [
   {
-    "title": "বাড়ি",
-    "href": "/"
+    "title": "নির্দেশিকা",
+    "href": "/guide",
+    "visible": true
   },
   {
-    "title": "নির্দেশিকা",
-    "href": "/guide"
+    "title": "কিভাবে খেলতে হয়",
+    "href": "/t/how-to-play",
+    "visible": true
+  },
+  {
+    "title": "হ্যালো টেস্ট",
+    "href": "/t/hello-test",
+    "visible": false
   }
 ]

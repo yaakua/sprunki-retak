@@ -1,10 +1,17 @@
 [
   {
-    "title": "Домой",
-    "href": "/"
+    "title": "Руководство",
+    "href": "/guide",
+    "visible": true
   },
   {
-    "title": "Руководство",
-    "href": "/guide"
+    "title": "Как играть",
+    "href": "/t/how-to-play",
+    "visible": true
+  },
+  {
+    "title": "Привет, Тест",
+    "href": "/t/hello-test",
+    "visible": false
   }
 ]
