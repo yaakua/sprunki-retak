@@ -1,16 +1,16 @@
 [
   {
-    "title": "《Sprunki重制版》(Sprunki Retake)",
+    "title": "斯普朗基：重奪（Sprunki Retake）",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "最佳(TOP)",
+    "category": "頂部",
     "visible": true
   },
   {
-    "title": "《Sprunki感染模式》(Sprunki Infected)",
+    "title": "斯普朗基：感染（Sprunki Infected）",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "最佳(TOP)",
+    "category": "頂部",
     "visible": true
   }
 ]

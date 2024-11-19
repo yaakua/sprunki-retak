@@ -41,10 +41,40 @@
   ],
   "comments": [
     {
-      "author": "",
-      "role": "",
-      "content": "",
-      "avatar": ""
+      "author": "GamerXtreme",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/GamerXtreme.png",
+      "content": "Sprunki Infected is sooo much fun! 😎 The controls are super easy to get the hang of, whether using the mouse or arrow keys. And the levels are really challenging, which keeps me hooked. I can't stop playing it!"
+    },
+    {
+      "author": "PixelPusher",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/PixelPusher.png",
+      "content": "OMG, Sprunki Infected is amazing! 🤩 The colorful graphics create such a cool atmosphere. It's like I'm in a soda - filled wonderland. And the time - based gameplay adds an extra layer of excitement. Great game!"
+    },
+    {
+      "author": "GameGeekGal",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/GameGeekGal.png",
+      "content": "Sprunki Infected is lit! 💥 I love how I get to control that cute Sprunki. Collecting the healthy Sprunkies and defeating the infected ones is really addictive. I'm always trying to improve my score. Thumbs up!"
+    },
+    {
+      "author": "FunGamerDude",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/FunGamerDude.png",
+      "content": "This Sprunki Infected game is dope! 😜 The fact that I have to plan my route to collect all the Sprunkies efficiently is really cool. It makes me use my brain while having a blast. Highly recommended!"
+    },
+    {
+      "author": "JoystickJunkie",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/JoystickJunkie.png",
+      "content": "Sprunki Infected rocks! 🤘 The fast - paced gameplay is just what I need. I'm constantly on my toes trying to avoid or defeat the infected Sprunkies before time runs out. It's a great stress reliever."
+    },
+    {
+      "author": "LevelMaster",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/LevelMaster.png",
+      "content": "I'm really into Sprunki Infected! 😏 The concept of a soda - loving creature in a puzzle game is so unique. The challenging levels keep me coming back for more. Can't wait to see what new levels they'll add in the future."
     }
   ],
   "isShowRecommendation": false,
@@ -54,5 +84,12 @@
   "appleIcon": "/apple-touch-icon.png",
   "gaId": "G-XXXXX222",
   "clarityId": "",
-  "plausible": "https://app.pageview.app/js/script.js"
+  "plausible": "https://app.pageview.app/js/script.js",
+  "slogan": "slogan",
+  "friendLinks": [
+    {
+      "title": "spunky game",
+      "url": "https://spunkygame.online"
+    }
+  ]
 }

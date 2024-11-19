@@ -40,7 +40,7 @@ export default async function Page({ params }: Props) {
   setRequestLocale(locale);
   const siteConfig2 = siteConfig as unknown as SiteConfig
   const pageName = siteConfig.pageName;
-  
+  console.log("###siteConfig2",siteConfig2);
   return (
     <div className="bg-black pt-5 pb-5">
       <IframeSection pageName={pageName} />

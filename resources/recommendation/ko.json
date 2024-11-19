@@ -1,16 +1,16 @@
 [
   {
-    "title": "스프룬키 리테이크(Sprunki Retake)",
+    "title": "스프룽키 리테이크(Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "최고(TOP)",
+    "category": "최상위",
     "visible": true
   },
   {
-    "title": "스프룬키 인펙티드(Sprunki Infected)",
+    "title": "스프룽키 인펙티드(Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "최고(TOP)",
+    "category": "최상위",
     "visible": true
   }
 ]

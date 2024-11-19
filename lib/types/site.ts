@@ -28,6 +28,8 @@ export interface RecommendationItem {
   cover: string;
   url: string;
   category: string;
+  visible?: boolean;
+  position?: string;
 }
 
 export interface FriendLinkItem {

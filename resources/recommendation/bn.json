@@ -3,14 +3,14 @@
     "title": "স্প্রংকি রিটেক (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "শীর্ষ",
+    "category": "উপরের (TOP)",
     "visible": true
   },
   {
     "title": "স্প্রংকি সংক্রামিত (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "শীর্ষ",
+    "category": "উপরের (TOP)",
     "visible": true
   }
 ]

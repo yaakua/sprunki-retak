@@ -16,14 +16,14 @@ const withNextIntl = createNextIntlPlugin("./i18n.ts")
 // 添加支持直接使用本地.mdx文件组件
 const withMDX = createMDX({
     extension: /\.(md|mdx)$/,
-    options: {
-        remarkPlugins: [
-            remarkGfm,
-            remarkFrontmatter,
-            remarkMdxFrontmatter
-        ],
-        rehypePlugins: [],
-    },
+    // options: {
+    //     remarkPlugins: [
+    //         remarkGfm,
+    //         remarkFrontmatter,
+    //         remarkMdxFrontmatter
+    //     ],
+    //     rehypePlugins: [],
+    // },
 })
 
 const nextConfig: NextConfig = {

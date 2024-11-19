@@ -3,14 +3,14 @@
     "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "ด้านบน (TOP)",
+    "category": "ยอดนิยม (TOP)",
     "visible": true
   },
   {
     "title": "Sprunki Infected (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "ด้านบน (TOP)",
+    "category": "ยอดนิยม (TOP)",
     "visible": true
   }
 ]

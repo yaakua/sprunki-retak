@@ -3,14 +3,14 @@
     "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "TOP (TOP)",
+    "category": "MEILLEUR",
     "visible": true
   },
   {
     "title": "Sprunki Infected (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "TOP (TOP)",
+    "category": "MEILLEUR",
     "visible": true
   }
 ]

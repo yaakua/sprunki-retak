@@ -62,7 +62,7 @@
   ],
   "isShowComments": true,
   "isShowTweets": false,
-  "useRealTweets": null,
+  "useRealTweets": false,
   "tweets": [
     ""
   ],
