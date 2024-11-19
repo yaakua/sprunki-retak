@@ -1,0 +1,61 @@
+{
+  "sprunki-infected": {
+    "title": "Sprunki Bị Dịch ($Sprunki Infected)",
+    "slogan": "Thu thập, giải quyết, chinh phục!",
+    "description": "Đánh dấu vào thế giới của Sprunki Bị Dịch, một trò chơi ghép hình hấp dẫn trong đó thời gian là kẻ thù lớn nhất của bạn. Duyệt qua các cấp độ thách thức, thu thập các Sprunki khỏe mạnh và loại bỏ những con bị dịch. Với gameplay nhanh nhạy và gây nghiện, Sprunki Bị Dịch mang lại trải nghiệm chơi game không có bờ cạn.",
+    "Loading": {
+      "title": "Đang tải"
+    },
+    "Navbar": {
+      "title": "Điều hướng"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách riêng tư",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Các liên kết hữu ích"
+    },
+    "HomeIframe": {
+      "title": "Chơi Sprunki Bị Dịch ngay!",
+      "description": "Kiểm soát Sprunki nghịch ngợm trong một vũ trụ năng động và sôi động. Sử dụng trí thông minh và kỹ năng của bạn để giải quyết các câu đố, đánh bại kẻ thù và hoàn thành mỗi cấp độ trước khi thời gian hết.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đường dẫn đã được sao chép vào clipboard!",
+      "downloadGame": "Tải trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Bị Dịch: Sự thách thức cuối cùng",
+      "whatIsTitle": "Sprunki Bị Dịch là gì?",
+      "whatIsDescription": "Sprunki Bị Dịch là một trò chơi ghép hình độc đáo đòi hỏi người chơi phải tập hợp các Sprunki khỏe mạnh trong khi tránh hoặc đánh bại những con bị dịch. Duyệt qua các cấp độ phức tạp, mỗi cấp độ càng thách thức hơn cấp độ trước.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Kiểm soát Sprunki bằng chuột hoặc bàn phím để di chuyển trong mọi hướng.",
+      "howToPlayStep2": "Thu thập các Sprunki khỏe mạnh rải rác trong các cấp độ để tăng điểm số của bạn.",
+      "howToPlayStep3": "Nhảy lên các Sprunki bị dịch để loại bỏ chúng và tiến lên.",
+      "keyFeaturesTitle": "Điểm nổi bật trò chơi",
+      "feature1Title": "Các cấp độ thách thức",
+      "feature1Description": "Duyệt qua các cấp độ kiểm tra phản xạ và khả năng giải quyết vấn đề của bạn.",
+      "feature2Title": "Gameplay dựa trên thời gian",
+      "feature2Description": "Đua với đồng hồ để thu thập và chinh phục trước khi thời gian hết.",
+      "feature3Title": "Hình ảnh đầy màu sắc",
+      "feature3Description": "Chìm đắm trong các hình ảnh sôi động đặt nền cho vô số niềm vui.",
+      "feature4Title": "Gameplay gây nghiện",
+      "feature4Description": "Tham gia vào hành động nhanh nhạy và hấp dẫn khiến bạn muốn quay lại chơi nhiều lần."
+    },
+    "HomeFAQs": {
+      "title": "Các câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Gợi ý"
+    },
+    "HomeComments": {
+      "title": "Bình luận về trò chơi"
+    }
+  }
+}

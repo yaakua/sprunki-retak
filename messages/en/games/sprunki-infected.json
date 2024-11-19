@@ -1,8 +1,8 @@
 {
   "sprunki-infected": {
-    "title": "",
-    "slogan": "",
-    "description": "",
+    "title": "Sprunki Infected",
+    "slogan": "Collect, Solve, Conquer!",
+    "description": "Dive into the world of Sprunki Infected, a captivating puzzle game where time is your biggest enemy. Navigate through challenging levels, collecting healthy Sprunkies, and eliminating the infected ones. With fast-paced and addictive gameplay, Sprunki Infected offers an unparalleled gaming experience.",
     "Loading": {
       "title": "Loading"
     },
@@ -19,31 +19,31 @@
       "friendlyLinks": "Friendly Links"
     },
     "HomeIframe": {
-      "title": "",
-      "description": "",
+      "title": "Play Sprunki Infected Now!",
+      "description": "Control the mischievous Sprunki in a vibrant and dynamic universe. Use your wits and skills to solve puzzles, defeat enemies, and finish each level before time runs out.",
       "iframeTitle": "Game Preview",
-      "fullscreenButton": "Fullscreen 2",
+      "fullscreenButton": "Fullscreen",
       "shareButton": "Share",
       "urlCopied": "URL copied to clipboard!",
       "downloadGame": "Download Game"
     },
     "HomeFeatures": {
-      "gameTitle": "",
-      "whatIsTitle": "",
-      "whatIsDescription": "",
-      "howToPlayTitle": "How to Play 2",
-      "howToPlayStep1": "",
-      "howToPlayStep2": "",
-      "howToPlayStep3": "",
-      "keyFeaturesTitle": "Key Features",
-      "feature1Title": "",
-      "feature1Description": "",
-      "feature2Title": "",
-      "feature2Description": "",
-      "feature3Title": "",
-      "feature3Description": "",
-      "feature4Title": "",
-      "feature4Description": ""
+      "gameTitle": "Sprunki Infected: The Ultimate Challenge",
+      "whatIsTitle": "What is Sprunki Infected?",
+      "whatIsDescription": "Sprunki Infected is a unique puzzle game that challenges players to gather healthy Sprunkies while avoiding or defeating infected ones. Navigate through intricate levels, each more challenging than the last.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Control Sprunki using the mouse or keyboard to move in all directions.",
+      "howToPlayStep2": "Collect healthy Sprunkies scattered throughout the levels to boost your score.",
+      "howToPlayStep3": "Jump on infected Sprunkies to eliminate them and advance.",
+      "keyFeaturesTitle": "Game Highlights",
+      "feature1Title": "Challenging Levels",
+      "feature1Description": "Navigate through levels that test your reflexes and problem-solving abilities.",
+      "feature2Title": "Time-based Gameplay",
+      "feature2Description": "Race against the clock to collect and conquer before time expires.",
+      "feature3Title": "Colorful Graphics",
+      "feature3Description": "Immerse yourself in vibrant visuals that set the stage for endless fun.",
+      "feature4Title": "Addictive Gameplay",
+      "feature4Description": "Experience engaging, fast-paced action that keeps you coming back."
     },
     "HomeFAQs": {
       "title": "FAQs"

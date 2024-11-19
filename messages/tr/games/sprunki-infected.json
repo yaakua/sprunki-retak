@@ -1,0 +1,61 @@
+{
+  "sprunki-infected": {
+    "title": "Sprunki Infected ($Sprunki Infected)",
+    "slogan": "Topla, Çöz, Fethet!",
+    "description": "Sprunki Infected dünyasına dalın, burada zamanınız en büyük düşmanınızdır. Zorlu seviyeler arasında gezinerek sağlıklı Sprunkilerı toplayın ve enfekte olmuşları yok edin. Hızlı ve bağımlılık yaratan oyunculukla, Sprunki Infected benzersiz bir oyun deneyimi sunar.",
+    "Loading": {
+      "title": "Yükleniyor"
+    },
+    "Navbar": {
+      "title": "Navigasyon"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Rehber",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Arkadaşlık Bağlantıları"
+    },
+    "HomeIframe": {
+      "title": "Şimdi Sprunki Infected'i Oyna!",
+      "description": "Canlı ve dinamik bir evrende şakacı Sprunki'yi kontrol edin. Zekanızı ve becerilerinizi kullanarak bulmacaları çözün, düşmanları yenin ve zaman dolmadan her seviyeyi bitirin.",
+      "iframeTitle": "Oyun Önizleme",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyun'u İndir"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Infected: Son Sınav",
+      "whatIsTitle": "Sprunki Infected Nedir?",
+      "whatIsDescription": "Sprunki Infected, oyuncuları enfekte olmuşları kaçınarak veya yenerek sağlıklı Sprunkilerı toplamaları için zorlayan benzersiz bir bulmaca oyunudur. Karmaşık seviyeler arasında gezinerek ilerleyin, her biri bir öncekinden daha zorlu.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Fare veya klavye kullanarak Sprunki'yi her yönde hareket ettirerek kontrol edin.",
+      "howToPlayStep2": "Seviyeler boyunca dağılmış sağlıklı Sprunkilerı toplayarak puanınızı artırın.",
+      "howToPlayStep3": "Enfekte olmuş Sprunkilerin üzerine atlayarak onları yok edin ve ilerleyin.",
+      "keyFeaturesTitle": "Oyun Önemli Noktaları",
+      "feature1Title": "Zorlu Seviyeler",
+      "feature1Description": "Reflekslerinizi ve problem çözme yeteneğinizi test eden seviyeler arasında gezin.",
+      "feature2Title": "Zaman Temelli Oyunculuk",
+      "feature2Description": "Zamanın dolmadan toplamak ve fethetmek için saatle yarışın.",
+      "feature3Title": "Renkli Grafikler",
+      "feature3Description": "Sonsuz eğlenceye kapılarını açan canlı görsellerin içine dalın.",
+      "feature4Title": "Bağımlılık Yaratan Oyunculuk",
+      "feature4Description": "Sizi tekrar tekrar oynamaya davet eden ilgi çekici, hızlı oyunculuk deneyimini yaşayın."
+    },
+    "HomeFAQs": {
+      "title": "Sıkça Sorulan Sorular"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Video"
+    },
+    "HomeRecommendation": {
+      "title": "Öneriler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    }
+  }
+}

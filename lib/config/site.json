@@ -111,5 +111,6 @@
       "url": "https://spunkygame.online"
     }
   ],
-  "recommendations": null
+  "recommendations": null,
+  "isShowRightGames": false
 }

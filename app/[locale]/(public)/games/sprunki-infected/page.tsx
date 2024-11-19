@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const pagePath = siteConfig.pagePath;
   return {
     title: `${t(`${pageName}.title`)} | ${t(`${pageName}.slogan`)}`,
-    description: t(`${pageName}.description`),
+    description: t(`${pageName}.description`), 
     alternates: {
       languages: alternatesLanguage(pagePath),
     }

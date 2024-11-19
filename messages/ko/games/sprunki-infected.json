@@ -1,0 +1,61 @@
+{
+  "sprunki-infected": {
+    "title": "스프런키 감염 ($Sprunki Infected)",
+    "slogan": "수집, 해결, 정복!",
+    "description": "시간이 당신의 가장 큰 적인 매혹적인 퍼즐 게임인 스프런키 감염의 세계로 뛰어들어보세요. 어려운 레벨을 통과하면서 건강한 스프런키를 수집하고 감염된 스프런키를 제거합니다. 빠르고 중독성 있는 게임플레이로 스프런키 감염은 견줄 수 없는 게임 경험을 제공합니다.",
+    "Loading": {
+      "title": "로딩"
+    },
+    "Navbar": {
+      "title": "네비게이션"
+    },
+    "Common": {
+      "createAt": "생성 시점",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크"
+    },
+    "HomeIframe": {
+      "title": "지금 스프런키 감염 게임을 플레이하세요!",
+      "description": "생동감 넘치고 역동적인 우주에서 장난스러운 스프런키를 조종하세요. 지적과 기술을 사용하여 퍼즐을 해결하고 적을 이기고 시간이 끝나기 전에 각 레벨을 완료합니다.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드"
+    },
+    "HomeFeatures": {
+      "gameTitle": "스프런키 감염: 최종의 도전 ($Sprunki Infected: The Ultimate Challenge)",
+      "whatIsTitle": "스프런키 감염이란 무엇인가?",
+      "whatIsDescription": "스프런키 감염은 플레이어에게 감염된 스프런키를 피하거나 이기면서 건강한 스프런키를 모으도록 요구하는 독특한 퍼즐 게임입니다. 매번 더 어려워지는 복잡한 레벨을 통과합니다.",
+      "howToPlayTitle": "플레이 방법",
+      "howToPlayStep1": "마우스나 키보드를 사용하여 스프런키를 모든 방향으로 움직이세요.",
+      "howToPlayStep2": "레벨 전체에 흩어져 있는 건강한 스프런키를 수집하여 점수를 높입니다.",
+      "howToPlayStep3": "감염된 스프런키 위로 뛰어가 그들을 제거하고 진행합니다.",
+      "keyFeaturesTitle": "게임의 특징",
+      "feature1Title": "도전적인 레벨",
+      "feature1Description": "반사능과 문제 해결 능력을 시험하는 레벨을 통과합니다.",
+      "feature2Title": "시간 제한 게임플레이",
+      "feature2Description": "시간이 끝나기 전에 수집하고 정복하기 위한 시계와의 경쟁입니다.",
+      "feature3Title": "색다른 그래픽",
+      "feature3Description": "끝없는 재미를 위한 생동감 넘치는 시각적 요소에 몰입합니다.",
+      "feature4Title": "중독성 있는 게임플레이",
+      "feature4Description": "당신을 계속 끌어당기는 매력적인 빠른 속도의 액션을 경험합니다."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 비디오"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "플레이 후기"
+    }
+  }
+}
