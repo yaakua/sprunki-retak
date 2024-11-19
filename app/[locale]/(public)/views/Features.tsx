@@ -4,6 +4,8 @@ import Image from 'next/image';
 export default async function Features({pageName}:{pageName:string}) {
   const prefix = pageName ? pageName + '.' : '';
   const t = await getTranslations(`${prefix}HomeFeatures`);
+  const screenshot_prefix = pageName ? '/games/' + pageName : '';
+  const game_screenshot_path = `${screenshot_prefix}/game_screenshot.webp`;
   return (
     <>
       <h2 className="text-2xl md:text-5xl font-bold text-left mb-8 text-yellow-300 font-leckerli">{t('gameTitle')}</h2>
@@ -15,7 +17,7 @@ export default async function Features({pageName}:{pageName:string}) {
         </section>
         <div className="flex-shrink-0 w-1/3">
           <Image
-            src="/game_screenshot.webp"
+            src={game_screenshot_path}
             alt="Game screenshot"
             width={580}
             height={370}

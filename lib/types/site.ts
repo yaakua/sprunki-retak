@@ -1,6 +1,7 @@
 export interface NavbarItem {
   title: string;
   href: string;
+  visible?: boolean;
   children?: NavbarItem[];
 }
 

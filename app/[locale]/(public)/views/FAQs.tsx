@@ -5,7 +5,7 @@ import { getTranslations } from 'next-intl/server';
 
 export async function loadFaqs(locale:string,pageName:string){
   try {
-    let faqItems: FAQsItem[];
+    let faqItems: FAQsItem[] = [];
     if (pageName) {
       try {
         faqItems = (await import(`@/app/[locale]/(public)/games/${pageName}/config/faqs/${locale}.json`)).default;
@@ -19,16 +19,16 @@ export async function loadFaqs(locale:string,pageName:string){
           console.warn(`未找到页面 ${pageName} 的FAQ配置,使用默认FAQ`);
         }
       }
-    }
-    
-    // 加载默认FAQ
-    try {
-      faqItems = (await import(`@/resources/faqs/${locale}.json`)).default;
-    } catch {
+    }else{
+      // 加载默认FAQ
       try {
-        faqItems = (await import(`@/resources/faqs/${locale.toLowerCase()}.json`)).default;
+        faqItems = (await import(`@/resources/faqs/${locale}.json`)).default;
       } catch {
-        faqItems = (await import('@/resources/faqs/en.json')).default;
+        try {
+          faqItems = (await import(`@/resources/faqs/${locale.toLowerCase()}.json`)).default;
+        } catch {
+          faqItems = (await import('@/resources/faqs/en.json')).default;
+        }
       }
     }
     return faqItems;

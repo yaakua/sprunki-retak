@@ -30,6 +30,19 @@ export default async function LocaleLayout({ children, params }: Props) {
       navbars = (await import(`@/resources/navbar/${defaultLocale}.json`)).default;
     }
   }
+  // 过滤掉 visible=false 的导航项
+  navbars = navbars.filter(item => {
+    // 如果有子项,递归过滤子项
+    if (item.children) {
+      item.children = item.children.filter(child => child.visible !== false);
+      // 如果过滤后子项为空,则移除该父项
+      if (item.children.length === 0) {
+        return false;
+      }
+    }
+    // 过滤掉 visible=false 的项
+    return item.visible !== false;
+  });
   // 提取域名
   const domain = siteConfig.domain.replace(/^https?:\/\//, '').replace(/\/.*$/, '');
 
