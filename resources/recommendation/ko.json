@@ -1,0 +1,16 @@
+[
+  {
+    "title": "홈 게임 (Home Game)",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
+    "category": "탑 (TOP)",
+    "visible": true
+  },
+  {
+    "title": "신 게임 (New Game)",
+    "cover": "/games/new-game/game_screenshot.webp",
+    "url": "/games/new-game",
+    "category": "탑 (TOP)",
+    "visible": true
+  }
+]

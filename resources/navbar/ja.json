@@ -7,11 +7,16 @@
   {
     "title": "遊び方",
     "href": "/t/how-to-play",
-    "visible": true
+    "visible": false
   },
   {
-    "title": "こんにちは テスト",
+    "title": "ハロー・テスト",
     "href": "/t/hello-test",
     "visible": false
+  },
+  {
+    "title": "新しいゲーム",
+    "href": "/games/new-game",
+    "visible": true
   }
 ]

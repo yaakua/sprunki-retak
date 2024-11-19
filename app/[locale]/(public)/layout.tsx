@@ -30,6 +30,8 @@ export default async function LocaleLayout({ children, params }: Props) {
       navbars = (await import(`@/resources/navbar/${defaultLocale}.json`)).default;
     }
   }
+  // 提取域名
+  const domain = siteConfig.domain.replace(/^https?:\/\//, '').replace(/\/.*$/, '');
 
   return (
     <NextIntlClientProvider messages={messages} locale={locale}>
@@ -41,7 +43,7 @@ export default async function LocaleLayout({ children, params }: Props) {
         {!isDev && (
           <>
             {siteConfig.gaId && <GoogleAnalytics gaId={siteConfig.gaId as string} />}
-            {siteConfig.plausible && <script defer data-domain={siteConfig.domain} src={siteConfig.plausible}></script>}
+            {siteConfig.plausible && <script defer data-domain={domain} src={siteConfig.plausible}></script>}
             {siteConfig.clarityId && <MicrosoftClarity clarityId={siteConfig.clarityId} />}
           </>
         )}

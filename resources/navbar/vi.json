@@ -7,11 +7,16 @@
   {
     "title": "Cách chơi",
     "href": "/t/how-to-play",
-    "visible": true
+    "visible": false
   },
   {
-    "title": "Xin chào Test",
+    "title": "Xin chào - kiểm tra",
     "href": "/t/hello-test",
     "visible": false
+  },
+  {
+    "title": "Trò chơi mới",
+    "href": "/games/new-game",
+    "visible": true
   }
 ]

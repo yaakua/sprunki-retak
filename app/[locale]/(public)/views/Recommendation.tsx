@@ -4,12 +4,12 @@ import { Card, CardHeader, CardTitle } from '@/lib/ui/components/card';
 import { getTranslations } from 'next-intl/server';
 import Link from 'next/link';
 
-// 游戏推荐组件
+// 游戏推荐组件(使用全局配置)
 export default async function Recommendation({ locale }: PropsWithLocale) {
   if (!siteConfig.isShowRecommendation) {
     return <></>;
   }
-
+  
   const t = await getTranslations('HomeRecommendation');
   try {
     let games: RecommendationItem[];

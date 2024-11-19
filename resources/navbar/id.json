@@ -7,11 +7,16 @@
   {
     "title": "Cara Bermain",
     "href": "/t/how-to-play",
-    "visible": true
+    "visible": false
   },
   {
     "title": "Halo Tes",
     "href": "/t/hello-test",
     "visible": false
+  },
+  {
+    "title": "Game Baru",
+    "href": "/games/new-game",
+    "visible": true
   }
 ]

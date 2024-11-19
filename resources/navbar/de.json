@@ -1,17 +1,22 @@
 [
   {
-    "title": "Anleitung",
+    "title": "Führer",
     "href": "/guide",
     "visible": true
   },
   {
     "title": "Wie man spielt",
     "href": "/t/how-to-play",
-    "visible": true
+    "visible": false
   },
   {
     "title": "Hallo Test",
     "href": "/t/hello-test",
     "visible": false
+  },
+  {
+    "title": "Neues Spiel",
+    "href": "/games/new-game",
+    "visible": true
   }
 ]

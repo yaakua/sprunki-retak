@@ -1,17 +1,22 @@
 [
   {
-    "title": "Посібник",
+    "title": "Руководство",
     "href": "/guide",
     "visible": true
   },
   {
-    "title": "Як Грати",
+    "title": "Як грати",
     "href": "/t/how-to-play",
-    "visible": true
+    "visible": false
   },
   {
-    "title": "Привіт, Тест",
+    "title": "Привіт, тест",
     "href": "/t/hello-test",
     "visible": false
+  },
+  {
+    "title": "Нова гра",
+    "href": "/games/new-game",
+    "visible": true
   }
 ]

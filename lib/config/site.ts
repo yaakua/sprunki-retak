@@ -1,14 +1,53 @@
-import { SiteConfig } from '../types';
-import siteConfigJSON from './site.json';
-import defaultConfigJSON from './default.json';
-
-let config = {...siteConfigJSON} as SiteConfig;
-
-if (process.env.NODE_ENV === 'development') {
-    config = {
-        ...siteConfigJSON,
-        ...defaultConfigJSON
+export const siteConfig = {
+  "name": "",
+  "pagePath": "",
+  "pageName": "",
+  "theme": {
+    "headFont": "Arial, sans-serif",
+    "primaryColor": "#007bff",
+    "fontColor": "#333333",
+    "backgroundColor": "#ffffff"
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
     }
-}
-
-export const siteConfig: SiteConfig = config;
+  },
+  "isShowFAQs": true,
+  "isShowVideo": true,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": null,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "",
+      "role": "",
+      "content": "",
+      "avatar": ""
+    }
+  ],
+  "isShowRecommendation": false,
+  "isShowRightGames": true,
+  "recommendations": null
+};

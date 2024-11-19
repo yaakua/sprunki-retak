@@ -1,0 +1,16 @@
+[
+  {
+    "title": "ホームゲーム（Home Game）",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
+    "category": "トップ（TOP）",
+    "visible": true
+  },
+  {
+    "title": "ニューゲーム（New Game）",
+    "cover": "/games/new-game/game_screenshot.webp",
+    "url": "/games/new-game",
+    "category": "トップ（TOP）",
+    "visible": true
+  }
+]

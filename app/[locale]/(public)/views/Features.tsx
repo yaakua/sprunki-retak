@@ -1,8 +1,9 @@
 import { getTranslations } from 'next-intl/server';
 import Image from 'next/image';
 
-export default async function Features() {
-  const t = await getTranslations('HomeFeatures');
+export default async function Features({pageName}:{pageName:string}) {
+  const prefix = pageName ? pageName + '.' : '';
+  const t = await getTranslations(`${prefix}HomeFeatures`);
   return (
     <>
       <h2 className="text-2xl md:text-5xl font-bold text-left mb-8 text-yellow-300 font-leckerli">{t('gameTitle')}</h2>

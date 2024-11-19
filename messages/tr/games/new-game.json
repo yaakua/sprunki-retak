@@ -1,0 +1,61 @@
+{
+  "new-game": {
+    "title": "New GAme'e Hoş Geldiniz (New GAme)",
+    "slogan": "New GAme ile Devrimsel Scratch Tabanlı Oyun Deneyimi Yaşayın",
+    "description": "New GAme, müzik severler için özel olarak tasarlanmış yenilikçi scratch tabanlı oyun sunar. New GAme'de benzersiz bir etkileşimli deneyimle büyüleyici ritimler ve melodiler oluşturun.",
+    "Loading": {
+      "title": "Yükleniyor"
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Rehber",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "İlişkili Bağlantılar"
+    },
+    "HomeIframe": {
+      "title": "New GAme Oyun Alanı",
+      "description": "New GAme topluluğuna katılın ve müzik yolculuğuna çıkın, indirme gerekmez. PC ve mobil cihazlarda da erişilebilir, New GAme ile sonsuz yaratıcı olasılıkları keşfedin.",
+      "iframeTitle": "New GAme için Oyun Önizleme",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "New GAme'yi İndir"
+    },
+    "HomeFeatures": {
+      "gameTitle": "New GAme'yi Keşfedin",
+      "whatIsTitle": "New GAme Nedir?",
+      "whatIsDescription": "New GAme, gizli ses efektlerini ortaya çıkararak dinamik kompozisyonlar oluşturmanızı sağlayan etkileşimli bir HTML oyunudur. Çeşitli seslandırmalara katılın ve New GAme kullanarak yaratılarınızı paylaşın.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Ekranı kazınarak benzersiz ses efektlerini ortaya çıkarın.",
+      "howToPlayStep2": "Anlaşılmaz karakterlerin seslerini birleştirerek dinamik ritimler oluşturun.",
+      "howToPlayStep3": "Deneyerek ve müziksel yaratılarınızı topluluğumuzda paylaşın.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Yenilikçi Oyun Deneyimi",
+      "feature1Description": "New GAme'de scratch tabanlı mekaniklerle müzik oluşturmanın yeni bir yolunu deneyin.",
+      "feature2Title": "İndirme Gerekmez",
+      "feature2Description": "Tarayıcınızda doğrudan New GAme'i oynayın, PC ve mobil için optimize edilmiştir.",
+      "feature3Title": "Topluluğa Katılın",
+      "feature3Description": "Dinamik topluluğumuza katılın, New GAme ile oluşturulan benzersiz seslandırmaları paylaşın ve keşfedin.",
+      "feature4Title": "Popüler Modlardan İlham Alınmış",
+      "feature4Description": "Sevilen modların başarısı üzerine inşa edilmiş, New GAme'de yeni modlar ve karakterler getiriyor.",
+      "HomeFAQs": {
+        "title": "Sıkça Sorulan Sorular"
+      },
+      "HomeRelatedVideo": {
+        "title": "Oyun Video"
+      },
+      "HomeRecommendation": {
+        "title": "Öneriler"
+      },
+      "HomeComments": {
+        "title": "Oyun Yorumları"
+      }
+    }
+  }
+}

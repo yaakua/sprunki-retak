@@ -19,6 +19,7 @@ import Ukrainian from '@/messages/uk.json';
 import Bangla from '@/messages/bn.json';
 import TraditionalChinese from '@/messages/zh-TW.json';
 import Chinese from '@/messages/zh-CN.json';
+import gameMessages from '@/lib/config/game-page-messages.json';
 const messagesMap = {
   'bn': Bangla,
   'en': English,
@@ -51,10 +52,26 @@ export default getRequestConfig(async ({ requestLocale }) => {
     console.error(`无法加载 ${locale} 的翻译文件，将使用默认语言 ${defaultLocale}`);
     messages = messagesMap[defaultLocale];
   }
-
+  try {
+    // 遍历加载所有新游戏翻译文件
+    for(const gamePath of gameMessages[locale as keyof typeof gameMessages] || []){
+      try {
+        const gameTranslations = (await import(`./messages/${locale}/games/${gamePath}`)).default;
+        messages = {
+          ...messages,
+          ...gameTranslations
+        };
+      } catch (importError) {
+        console.error(`can not load game messages ${gamePath}:`, importError);
+      }
+    }
+  } catch (error) {
+    console.error(`can not load game messages ${locale}:`, error);
+  }
+  // console.log("###messages#####",messages);
   return {
     onError(error: any) {
-      console.error('加载国际化内容时出现异常：');
+      console.error('load internationalization content error:');
       console.error(error);
     },
     messages,

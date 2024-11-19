@@ -1,0 +1,61 @@
+{
+  "new-game": {
+    "title": "New GAme에 오신 것을 환영합니다. (New GAme)",
+    "slogan": "New GAme로 혁명적인 스크래치 기반의 게임 플레이를 경험하세요.",
+    "description": "New GAme는 음악 애호가들을 위해 맞춤화된 혁신적인 스크래치 기반의 게임을 제공합니다. New GAme에서 독특한 상호작용 경험으로 매혹적인 리듬과 멜로디를 만들어 보세요.",
+    "Loading": {
+      "title": "로딩"
+    },
+    "Navbar": {
+      "title": "네비게이션"
+    },
+    "Common": {
+      "createAt": "생성 시각",
+      "guide": "안내",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "유용한 링크"
+    },
+    "HomeIframe": {
+      "title": "New GAme 플레이 그라운드",
+      "description": "New GAme 커뮤니티에 참여하고 음악 여정을 떠나세요. 다운로드 없이도 PC와 모바일 모두에서 이용 가능합니다. New GAme로 무한한 창의적 가능성을 탐험하세요.",
+      "iframeTitle": "New GAme의 게임 미리보기",
+      "fullscreenButton": "전체화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "New GAme 다운로드"
+    },
+    "HomeFeatures": {
+      "gameTitle": "New GAme 발견하기",
+      "whatIsTitle": "New GAme란 무엇인가?",
+      "whatIsDescription": "New GAme는 숨겨진 효과음을 드러내면서 동적인 작곡을 할 수 있는 인터랙티브 HTML 게임입니다. 다양한 사운드스케이프와 상호작용하고 New GAme를 사용하여 자신의 창작물을 공유하세요.",
+      "howToPlayTitle": "플레이 방법",
+      "howToPlayStep1": "화면을 스크래치하여 독특한 효과음을 나타내세요.",
+      "howToPlayStep2": "기발한 캐릭터의 소리를 조합하여 동적인 리듬을 만들어 보세요.",
+      "howToPlayStep3": "실험해 보고 우리 커뮤니티에서 음악 창작물을 공유하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "혁신적인 게임 플레이",
+      "feature1Description": "New GAme에서 스크래치 기반의 메커니즘으로 음악을 만들 수 있는 새로운 방식을 경험하세요.",
+      "feature2Title": "다운로드 필요 없음",
+      "feature2Description": "브라우저에서 직접 New GAme를 즐기세요. PC와 모바일 모두 최적화되어 있습니다.",
+      "feature3Title": "커뮤니티와 상호작용",
+      "feature3Description": "우리의 활기찬 커뮤니티에 참여하여 New GAme로 만들어진 독특한 사운드스케이프를 공유하고 탐험하세요.",
+      "feature4Title": "인기 모드에서 영감을 받음",
+      "feature4Description": "사랑받는 모드의 성공을 바탕으로 New GAme에서 새로운 모드와 캐릭터를 소개합니다."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 비디오"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "플레이 후기"
+    }
+  }
+}

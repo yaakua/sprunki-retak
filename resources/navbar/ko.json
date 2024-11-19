@@ -1,17 +1,22 @@
 [
   {
-    "title": "안내",
+    "title": "가이드",
     "href": "/guide",
     "visible": true
   },
   {
-    "title": "놀기 방법",
+    "title": "놀이 방법",
     "href": "/t/how-to-play",
-    "visible": true
+    "visible": false
   },
   {
     "title": "안녕 테스트",
     "href": "/t/hello-test",
     "visible": false
+  },
+  {
+    "title": "새 게임",
+    "href": "/games/new-game",
+    "visible": true
   }
 ]

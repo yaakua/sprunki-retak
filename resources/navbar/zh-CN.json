@@ -5,13 +5,18 @@
     "visible": true
   },
   {
-    "title": "",
+    "title": "玩法",
     "href": "/t/how-to-play",
-    "visible": true
+    "visible": false
   },
   {
-    "title": "",
+    "title": "你好测试",
     "href": "/t/hello-test",
     "visible": false
+  },
+  {
+    "title": "新游戏",
+    "href": "/games/new-game",
+    "visible": true
   }
 ]

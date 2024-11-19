@@ -1,0 +1,16 @@
+[
+  {
+    "title": "家庭游戏（Home Game）",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
+    "category": "热门（TOP）",
+    "visible": true
+  },
+  {
+    "title": "新游戏（New Game）",
+    "cover": "/games/new-game/game_screenshot.webp",
+    "url": "/games/new-game",
+    "category": "热门（TOP）",
+    "visible": true
+  }
+]

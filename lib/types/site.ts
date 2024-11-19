@@ -27,6 +27,7 @@ export interface RecommendationItem {
   title: string;
   cover: string;
   url: string;
+  category: string;
 }
 
 export interface FriendLinkItem {
@@ -97,5 +98,7 @@ export interface SiteConfig {
   useRealTweets: boolean | null;
   comments: CommentItem[];
   isShowRecommendation: boolean;
+  // 右侧游戏推荐
+  isShowRightGames?: boolean;
   friendLinks: FriendLinkItem[];
 }

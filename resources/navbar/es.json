@@ -5,13 +5,18 @@
     "visible": true
   },
   {
-    "title": "Cómo Jugar",
+    "title": "Cómo jugar",
     "href": "/t/how-to-play",
-    "visible": true
+    "visible": false
   },
   {
     "title": "Hola Prueba",
     "href": "/t/hello-test",
     "visible": false
+  },
+  {
+    "title": "Nuevo juego",
+    "href": "/games/new-game",
+    "visible": true
   }
 ]

@@ -1,13 +1,14 @@
-'use client';
-import { siteConfig } from '@/lib/config/site';
 import { Button } from '@/lib/ui/components/button';
+import { loadSiteConfig } from '@/lib/utils/resource';
 import { motion } from 'framer-motion';
-import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
 import { FaAndroid, FaApple, FaSteam, FaWindows } from 'react-icons/fa';
 
 
-export default function DownloadGame() {
-  const t = useTranslations('HomeIframe');
+export default async function DownloadGame({pageName}:{pageName:string}) {
+  const prefix = pageName ? pageName + '.' : '';
+  const t = await getTranslations(`${prefix}HomeIframe`);
+  const siteConfig = await loadSiteConfig(pageName);
   if (siteConfig.gameType !== 'download') {
     return <></>;
   }

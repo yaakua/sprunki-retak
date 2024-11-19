@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Домашняя игра (Home Game)",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
+    "category": "ТОП",
+    "visible": true
+  },
+  {
+    "title": "Новая игра (New Game)",
+    "cover": "/games/new-game/game_screenshot.webp",
+    "url": "/games/new-game",
+    "category": "ТОП",
+    "visible": true
+  }
+]

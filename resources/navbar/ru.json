@@ -7,11 +7,16 @@
   {
     "title": "Как играть",
     "href": "/t/how-to-play",
-    "visible": true
+    "visible": false
   },
   {
-    "title": "Привет, Тест",
+    "title": "Тест приветствия",
     "href": "/t/hello-test",
     "visible": false
+  },
+  {
+    "title": "Новая игра",
+    "href": "/games/new-game",
+    "visible": true
   }
 ]

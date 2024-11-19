@@ -1,0 +1,61 @@
+{
+  "new-game": {
+    "title": "歡迎來到《$New GAme》（$New GAme）",
+    "slogan": "透過《$New GAme》體驗基於刮擦的革命性遊戲玩法",
+    "description": "《$New GAme》為音樂愛好者提供創新的基於刮擦的遊戲玩法。在《$New GAme》上透過獨特的互動體驗創造迷人的節奏和旋律。",
+    "Loading": {
+      "title": "載入中"
+    },
+    "Navbar": {
+      "title": "導航欄"
+    },
+    "Common": {
+      "createAt": "創建於",
+      "guide": "指南",
+      "privacyPolicy": "隱私政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情鏈接"
+    },
+    "HomeIframe": {
+      "title": "《$New GAme》遊戲場",
+      "description": "加入《$New GAme》社群，踏上音樂之旅，無需下載。可在電腦和手機上使用，在《$New GAme》中探索無盡的創作可能。",
+      "iframeTitle": "《$New GAme》遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼板！",
+      "downloadGame": "下載《$New GAme》"
+    },
+    "HomeFeatures": {
+      "gameTitle": "探索《$New GAme》",
+      "whatIsTitle": "什麼是《$New GAme》？",
+      "whatIsDescription": "《$New GAme》是一款互動式HTML遊戲，可透過揭示隱藏音效來製作動態曲目。透過《$New GAme》與各種音景互動並分享您的創作。",
+      "howToPlayTitle": "玩法",
+      "howToPlayStep1": "刮擦螢幕以揭示獨特音效。",
+      "howToPlayStep2": "組合奇思妙想的角色聲音以製作動態節奏。",
+      "howToPlayStep3": "在我們的社群中嘗試並分享您的音樂創作。",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "創新遊戲玩法",
+      "feature1Description": "在《$New GAme》中透過基於刮擦的機制體驗一種新的音樂創作方式。",
+      "feature2Title": "無需下載",
+      "feature2Description": "直接在瀏覽器中享受《$New GAme》，適用於電腦和手機。",
+      "feature3Title": "與社群互動",
+      "feature3Description": "加入我們充滿活力的社群，分享和探索使用《$New GAme》創造的獨特音景。",
+      "feature4Title": "受流行模組啟發",
+      "feature4Description": "基於受歡迎模組的成功，在《$New GAme》中引入新的模式和角色。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    }
+  }
+}

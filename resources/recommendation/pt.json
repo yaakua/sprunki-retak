@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Jogo em Casa (Home Game)",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
+    "category": "TOP",
+    "visible": true
+  },
+  {
+    "title": "Novo Jogo (New Game)",
+    "cover": "/games/new-game/game_screenshot.webp",
+    "url": "/games/new-game",
+    "category": "TOP",
+    "visible": true
+  }
+]

@@ -1,19 +1,20 @@
-import { siteConfig } from '@/lib/config/site';
+import { CommentItem, SiteConfig } from '@/lib/types';
 import { Avatar, AvatarFallback, AvatarImage } from '@/lib/ui/components/avatar';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/lib/ui/components/card';
 import { getTranslations } from 'next-intl/server';
 import { Tweet } from 'react-tweet';
 
-export default async function Comments() {
+export default async function Comments({pageName,siteConfig}:{pageName:string,siteConfig:SiteConfig}) {
   if (!siteConfig.isShowComments) {
     return <></>;
   }
-  const t = await getTranslations('HomeComments');
+  const prefix = pageName ? pageName + '.' : '';
+  const t = await getTranslations(`${prefix}HomeComments`);
   let comments: any = undefined;
   if (siteConfig.isShowTweets) {
-    comments = siteConfig.tweets.map((it) => <Tweet id={it} key={it} />);
+    comments = siteConfig.tweets.map((it:string) => <Tweet id={it} key={it} />);
   } else {
-    comments = siteConfig.comments.map((it, index) => (
+    comments = siteConfig.comments.map((it:CommentItem, index:number) => (
       <Card key={index} className="h-full bg-gray-800 border-none">
         <CardHeader>
           <div className="flex items-center gap-4">

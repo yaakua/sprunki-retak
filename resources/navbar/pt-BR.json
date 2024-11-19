@@ -7,11 +7,16 @@
   {
     "title": "Como Jogar",
     "href": "/t/how-to-play",
-    "visible": true
+    "visible": false
   },
   {
     "title": "Olá, Teste",
     "href": "/t/hello-test",
     "visible": false
+  },
+  {
+    "title": "Novo Jogo",
+    "href": "/games/new-game",
+    "visible": true
   }
 ]

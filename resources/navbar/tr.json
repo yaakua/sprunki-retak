@@ -7,11 +7,16 @@
   {
     "title": "Nasıl Oynanır",
     "href": "/t/how-to-play",
-    "visible": true
+    "visible": false
   },
   {
     "title": "Merhaba Test",
     "href": "/t/hello-test",
     "visible": false
+  },
+  {
+    "title": "Yeni Oyun",
+    "href": "/games/new-game",
+    "visible": true
   }
 ]

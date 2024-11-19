@@ -7,11 +7,16 @@
   {
     "title": "玩法",
     "href": "/t/how-to-play",
-    "visible": true
+    "visible": false
   },
   {
     "title": "你好測試",
     "href": "/t/hello-test",
     "visible": false
+  },
+  {
+    "title": "新遊戲",
+    "href": "/games/new-game",
+    "visible": true
   }
 ]

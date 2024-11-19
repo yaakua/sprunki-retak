@@ -1,7 +1,7 @@
-import { siteConfig } from '@/lib/config/site';
 import { getPathnameWithLocale } from '@/lib/i18n/navigation';
 import { getLocale, getTranslations } from 'next-intl/server';
 import IframeActions from './IframeActions';
+import { loadSiteConfig } from '@/lib/utils/resource';
 
 function getYoutubeVideoId(url: string): string {
   const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|&v=)([^#&?]*).*/;
@@ -9,11 +9,12 @@ function getYoutubeVideoId(url: string): string {
   return (match && match[2].length === 11) ? match[2] : '';
 }
 
-export default async function IframeSection() {
+export default async function IframeSection({pageName}:{pageName:string}) {
   const locale = await getLocale();
-  const t = await getTranslations('HomeIframe');
+  const prefix = pageName ? pageName + '.' : '';
+  const t = await getTranslations(`${prefix}HomeIframe`);
   const iframeUrl = getPathnameWithLocale('/playground', locale);
-
+  const siteConfig = await loadSiteConfig(pageName);
   // 检查背景类型和iframe配置
   const isIframe = siteConfig.gameType === 'iframe';
   
@@ -88,7 +89,7 @@ export default async function IframeSection() {
               className="w-full h-[calc(100vh-20rem)] md:min-h-[600px]"
               allowFullScreen
             />
-            <IframeActions />
+            <IframeActions pageName={pageName} />
           </>
         ) : siteConfig.gameType === 'download' && siteConfig.gameDownload?.showDownloadButton && (
           <div className="flex justify-center items-center py-8">

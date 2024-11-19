@@ -1,1 +1,16 @@
-[{"title": "Escape Road", "cover": "https://escaperoad.online/game_screenshot.webp", "url": "https://escaperoad.online", "gameUrl": "https://escaperoad.online", "imageUrl": "https://escaperoad.online/game_screenshot.webp"}, {"title": "My Femboy Roommate", "imageUrl": "https://bad2bad.com/game_screenshot.webp", "gameUrl": "https://bad2bad.com/", "url": "https://myfemboyroomate.online/", "cover": "https://myfemboyroomate.online/game_screenshot.webp"}, {"title": "Block Blast 3D", "imageUrl": "https://block-blast.fun/game_screenshot.webp", "gameUrl": "https://block-blast.fun/", "cover": "https://block-blast.fun/game_screenshot.webp", "url": "https://block-blast.fun/"}]
+[
+  {
+    "title": "Home Game",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
+    "category": "TOP",
+    "visible": true
+  },
+  {
+    "title": "New Game",
+    "cover": "/games/new-game/game_screenshot.webp",
+    "url": "/games/new-game",
+    "category": "TOP",
+    "visible": true
+  }
+]

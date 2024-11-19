@@ -5,13 +5,18 @@
     "visible": true
   },
   {
-    "title": "วิธีการเล่น",
+    "title": "วิธีเล่น",
     "href": "/t/how-to-play",
-    "visible": true
+    "visible": false
   },
   {
-    "title": "สวัสดี 테스트",
+    "title": "สวัสดี ทดสอบ",
     "href": "/t/hello-test",
     "visible": false
+  },
+  {
+    "title": "เกมใหม่",
+    "href": "/games/new-game",
+    "visible": true
   }
 ]

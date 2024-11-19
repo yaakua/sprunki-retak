@@ -10,7 +10,7 @@
     "fontColor": null,
     "backgroundColor": null
   },
-  "gaId": "G-XXXXXXXXXX",
+  "gaId": "G-XXXXX222",
   "clarityId": "",
   "plausible": "https://app.pageview.app/js/script.js",
   "navbarItems": [
@@ -104,36 +104,12 @@
       "content": "I've been playing Incredibox for years, and the Sprunki Retake mod is one of the best updates yet. The new sounds and characters are a great addition to the game."
     }
   ],
-  "isShowRecommendation": true,
+  "isShowRecommendation": false,
   "friendLinks": [
     {
       "title": "spunky game",
       "url": "https://spunkygame.online"
     }
   ],
-  "recommendations": {
-    "en": [
-      {
-        "title": "Escape Road",
-        "cover": "https://escaperoad.online/game_screenshot.webp",
-        "url": "https://escaperoad.online",
-        "gameUrl": "https://escaperoad.online",
-        "imageUrl": "https://escaperoad.online/game_screenshot.webp"
-      },
-      {
-        "title": "My Femboy Roommate",
-        "imageUrl": "https://bad2bad.com/game_screenshot.webp",
-        "gameUrl": "https://bad2bad.com/",
-        "url": "https://myfemboyroomate.online/",
-        "cover": "https://myfemboyroomate.online/game_screenshot.webp"
-      },
-      {
-        "title": "Block Blast 3D",
-        "imageUrl": "https://block-blast.fun/game_screenshot.webp",
-        "gameUrl": "https://block-blast.fun/",
-        "cover": "https://block-blast.fun/game_screenshot.webp",
-        "url": "https://block-blast.fun/"
-      }
-    ]
-  }
+  "recommendations": null
 }
