@@ -5,7 +5,7 @@
     "visible": true
   },
   {
-    "title": "놀이 방법",
+    "title": "플레이 방법",
     "href": "/t/how-to-play",
     "visible": false
   },
@@ -15,8 +15,8 @@
     "visible": false
   },
   {
-    "title": "새 게임",
-    "href": "/games/new-game",
+    "title": "스프룬키 감염",
+    "href": "/games/sprunki-infected",
     "visible": true
   }
 ]

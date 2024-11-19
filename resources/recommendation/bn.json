@@ -1,16 +1,16 @@
 [
   {
-    "title": "হোম গেম (Home Game)",
+    "title": "স্প্রংকি রিটেক (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "টপ (TOP)",
+    "category": "শীর্ষ",
     "visible": true
   },
   {
-    "title": "নতুন গেম (New Game)",
-    "cover": "/games/new-game/game_screenshot.webp",
-    "url": "/games/new-game",
-    "category": "টপ (TOP)",
+    "title": "স্প্রংকি সংক্রামিত (Sprunki Infected)",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+    "category": "শীর্ষ",
     "visible": true
   }
 ]

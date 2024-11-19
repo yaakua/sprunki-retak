@@ -5,18 +5,18 @@
     "visible": true
   },
   {
-    "title": "วิธีเล่น",
+    "title": "วิธีการเล่น",
     "href": "/t/how-to-play",
     "visible": false
   },
   {
-    "title": "สวัสดี ทดสอบ",
+    "title": "สวัสดีทดสอบ",
     "href": "/t/hello-test",
     "visible": false
   },
   {
-    "title": "เกมใหม่",
-    "href": "/games/new-game",
+    "title": "สปรังกี้ ติดเชื้อ",
+    "href": "/games/sprunki-infected",
     "visible": true
   }
 ]

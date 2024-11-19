@@ -1,16 +1,16 @@
 [
   {
-    "title": "Jogo da Casa (Home Game)",
+    "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "TOP",
+    "category": "TOP (TOP)",
     "visible": true
   },
   {
-    "title": "Novo Jogo (New Game)",
-    "cover": "/games/new-game/game_screenshot.webp",
-    "url": "/games/new-game",
-    "category": "TOP",
+    "title": "Sprunki Infected (Sprunki Infected)",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+    "category": "TOP (TOP)",
     "visible": true
   }
 ]

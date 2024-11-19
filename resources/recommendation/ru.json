@@ -1,15 +1,15 @@
 [
   {
-    "title": "Домашняя игра (Home Game)",
+    "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
     "category": "ТОП",
     "visible": true
   },
   {
-    "title": "Новая игра (New Game)",
-    "cover": "/games/new-game/game_screenshot.webp",
-    "url": "/games/new-game",
+    "title": "Sprunki Infected (Sprunki Infected)",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
     "category": "ТОП",
     "visible": true
   }

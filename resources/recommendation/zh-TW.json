@@ -1,16 +1,16 @@
 [
   {
-    "title": "家庭游戏 (Home Game)",
+    "title": "《Sprunki重制版》(Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "热门 (TOP)",
+    "category": "最佳(TOP)",
     "visible": true
   },
   {
-    "title": "新游戏 (New Game)",
-    "cover": "/games/new-game/game_screenshot.webp",
-    "url": "/games/new-game",
-    "category": "热门 (TOP)",
+    "title": "《Sprunki感染模式》(Sprunki Infected)",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+    "category": "最佳(TOP)",
     "visible": true
   }
 ]

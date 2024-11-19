@@ -1,11 +1,11 @@
 [
   {
-    "title": "প্রদর্শক",
+    "title": "দিকনির্দেশিকা",
     "href": "/guide",
     "visible": true
   },
   {
-    "title": "কিভাবে খেলতে হয়",
+    "title": "কীভাবে খেলতে হয়",
     "href": "/t/how-to-play",
     "visible": false
   },
@@ -15,8 +15,8 @@
     "visible": false
   },
   {
-    "title": "নতুন গেম",
-    "href": "/games/new-game",
+    "title": "স্প্রংকি সংক্রামিত",
+    "href": "/games/sprunki-infected",
     "visible": true
   }
 ]

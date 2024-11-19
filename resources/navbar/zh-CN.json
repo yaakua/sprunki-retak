@@ -5,7 +5,7 @@
     "visible": true
   },
   {
-    "title": "玩法",
+    "title": "游玩方法",
     "href": "/t/how-to-play",
     "visible": false
   },
@@ -15,8 +15,8 @@
     "visible": false
   },
   {
-    "title": "新游戏",
-    "href": "/games/new-game",
+    "title": "斯普伦基感染（游戏名）",
+    "href": "/games/sprunki-infected",
     "visible": true
   }
 ]

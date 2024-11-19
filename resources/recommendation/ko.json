@@ -1,16 +1,16 @@
 [
   {
-    "title": "홈 게임 (Home Game)",
+    "title": "스프룬키 리테이크(Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "탑 (TOP)",
+    "category": "최고(TOP)",
     "visible": true
   },
   {
-    "title": "신 게임 (New Game)",
-    "cover": "/games/new-game/game_screenshot.webp",
-    "url": "/games/new-game",
-    "category": "탑 (TOP)",
+    "title": "스프룬키 인펙티드(Sprunki Infected)",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+    "category": "최고(TOP)",
     "visible": true
   }
 ]

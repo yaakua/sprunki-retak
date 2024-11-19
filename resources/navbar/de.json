@@ -1,6 +1,6 @@
 [
   {
-    "title": "Führer",
+    "title": "Leitfaden",
     "href": "/guide",
     "visible": true
   },
@@ -15,8 +15,8 @@
     "visible": false
   },
   {
-    "title": "Neues Spiel",
-    "href": "/games/new-game",
+    "title": "Sprunki Infiziert",
+    "href": "/games/sprunki-infected",
     "visible": true
   }
 ]

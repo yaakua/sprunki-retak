@@ -1,6 +1,6 @@
 [
   {
-    "title": "Руководство",
+    "title": "Посібник",
     "href": "/guide",
     "visible": true
   },
@@ -10,13 +10,13 @@
     "visible": false
   },
   {
-    "title": "Привіт, тест",
+    "title": "Тест Привіт",
     "href": "/t/hello-test",
     "visible": false
   },
   {
-    "title": "Нова гра",
-    "href": "/games/new-game",
+    "title": "Спрунки-інфіковані",
+    "href": "/games/sprunki-infected",
     "visible": true
   }
 ]

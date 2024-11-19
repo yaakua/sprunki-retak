@@ -1,16 +1,16 @@
 [
   {
-    "title": "เกมบ้าน (Home Game)",
+    "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "ยอดนิยม (TOP)",
+    "category": "ด้านบน (TOP)",
     "visible": true
   },
   {
-    "title": "เกมใหม่ (New Game)",
-    "cover": "/games/new-game/game_screenshot.webp",
-    "url": "/games/new-game",
-    "category": "ยอดนิยม (TOP)",
+    "title": "Sprunki Infected (Sprunki Infected)",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+    "category": "ด้านบน (TOP)",
     "visible": true
   }
 ]

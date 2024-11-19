@@ -7,11 +7,16 @@
   {
     "title": "How To Play",
     "href": "/t/how-to-play",
-    "visible": true
+    "visible": false
   },
   {
     "title": "Hello Test",
     "href": "/t/hello-test",
     "visible": false
+  },
+  {
+    "title": "Sprunki Infected",
+    "href": "/games/sprunki-infected",
+    "visible": true
   }
 ]

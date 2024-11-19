@@ -10,13 +10,13 @@
     "visible": false
   },
   {
-    "title": "Halo Tes",
+    "title": "Halo Uji",
     "href": "/t/hello-test",
     "visible": false
   },
   {
-    "title": "Game Baru",
-    "href": "/games/new-game",
+    "title": "Sprunki Terinfeksi",
+    "href": "/games/sprunki-infected",
     "visible": true
   }
 ]

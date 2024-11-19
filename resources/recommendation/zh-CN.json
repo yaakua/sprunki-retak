@@ -1,15 +1,15 @@
 [
   {
-    "title": "家庭游戏（Home Game）",
+    "title": "斯普伦基重制（Sprunki Retake）",
     "cover": "/game_screenshot.webp",
     "url": "/",
     "category": "热门（TOP）",
     "visible": true
   },
   {
-    "title": "新游戏（New Game）",
-    "cover": "/games/new-game/game_screenshot.webp",
-    "url": "/games/new-game",
+    "title": "斯普伦基感染（Sprunki Infected）",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
     "category": "热门（TOP）",
     "visible": true
   }

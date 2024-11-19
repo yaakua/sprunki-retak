@@ -1,16 +1,16 @@
 [
   {
-    "title": "ホームゲーム（Home Game）",
+    "title": "スプルンキ リテイク(Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "トップ（TOP）",
+    "category": "トップ",
     "visible": true
   },
   {
-    "title": "ニューゲーム（New Game）",
-    "cover": "/games/new-game/game_screenshot.webp",
-    "url": "/games/new-game",
-    "category": "トップ（TOP）",
+    "title": "スプルンキ インフェクテッド(Sprunki Infected)",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+    "category": "トップ",
     "visible": true
   }
 ]

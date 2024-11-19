@@ -1,16 +1,16 @@
 [
   {
-    "title": "Ev Oyunları (Home Game)",
+    "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "ÜST (TOP)",
+    "category": "EN ÜSTE",
     "visible": true
   },
   {
-    "title": "Yeni Oyun (New Game)",
-    "cover": "/games/new-game/game_screenshot.webp",
-    "url": "/games/new-game",
-    "category": "ÜST (TOP)",
+    "title": "Sprunki Infected (Sprunki Infected)",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+    "category": "EN ÜSTE",
     "visible": true
   }
 ]

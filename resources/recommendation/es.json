@@ -1,16 +1,16 @@
 [
   {
-    "title": "Juego en Casa (Home Game)",
+    "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "PRINCIPAL (TOP)",
+    "category": "PRINCIPAL",
     "visible": true
   },
   {
-    "title": "Juego Nuevo (New Game)",
-    "cover": "/games/new-game/game_screenshot.webp",
-    "url": "/games/new-game",
-    "category": "PRINCIPAL (TOP)",
+    "title": "Sprunki Infected (Sprunki Infected)",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+    "category": "PRINCIPAL",
     "visible": true
   }
 ]
