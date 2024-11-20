@@ -1,59 +1,59 @@
 {
   "title": "Sprunki Retake ($Sprunki Retake)",
-  "slogan": "Досвіджуйте нову пригоду Sprunki Retake ($Sprunki Retake)",
-  "description": "Погружайтеся в музичний світ Sprunki Retake і розкрийте свою творчість!",
+  "slogan": "Досліджуйте нову пригоду Sprunki Retake ($Sprunki Retake)",
+  "description": "Погрузіться в музичний світ Sprunki Retake і розкрийте свою творчість! ($Sprunki Retake)",
   "Loading": {
-    "title": "Завантаження Sprunki Retake..."
+    "title": "Завантаження Sprunki Retake... ($Sprunki Retake)"
   },
   "Navbar": {
     "title": "Навігація"
   },
   "Common": {
     "createAt": "Створено",
-    "guide": "Інструкція",
+    "guide": "Посібник",
     "privacyPolicy": "Політика конфіденційності",
-    "termsOfServices": "Умови послуг",
+    "termsOfServices": "Умови обслуговування",
     "text": "Контент",
     "help": "Допомога",
-    "friendlyLinks": "Дружні посилання"
+    "friendlyLinks": "Друзіські посилання"
   },
   "HomeIframe": {
-    "title": "Відкрийте Sprunki Retake",
-    "description": "Погружайтеся в Sprunki Retake безпосередньо в вашому браузері. Немає необхідності в завантаженнях - нескінченна музична веселочина чекає на вас!",
-    "iframeTitle": "Передгляд Sprunki Retake",
-    "fullscreenButton": "На весь екран",
+    "title": "Відкрийте Sprunki Retake ($Sprunki Retake)",
+    "description": "Погрузіться в Sprunki Retake безпосередньо в браузері. Немає необхідності в завантаженнях - нескінченна музична задоволення чекає на вас! ($Sprunki Retake)",
+    "iframeTitle": "Попередній перегляд Sprunki Retake ($Sprunki Retake)",
+    "fullscreenButton": "Повний екран",
     "shareButton": "Поділитися",
     "urlCopied": "Посилання скопійовано в буфер обміну!",
-    "downloadGame": "Завантажити Sprunki Retake"
+    "downloadGame": "Завантажити Sprunki Retake ($Sprunki Retake)"
   },
   "HomeFeatures": {
     "gameTitle": "Sprunki Retake: Нова музична подорож ($Sprunki Retake)",
-    "whatIsTitle": "Що таке Sprunki Retake?",
-    "whatIsDescription": "Sprunki Retake - це фан-модифікована гра, яка пропонує унікальне змішування музики з власними звуками та новими персонажами. Приєднуйтеся до світу битів, вокалів і мелодій, щоб створювати свої треки.",
-    "howToPlayTitle": "Як грати в Sprunki Retake",
-    "howToPlayStep1": "Запустити гру: Доступ до неї онлайн і почати.",
-    "howToPlayStep2": "Вибрати звуки: Досліджити різноманітні біті, ефекти та вокали.",
-    "howToPlayStep3": "Мішати та поєднувати: Перетягуйте звуки до персонажів і створюйте свій трек.",
-    "keyFeaturesTitle": "Основні особливості Sprunki Retake",
+    "whatIsTitle": "Що таке Sprunki Retake? ($Sprunki Retake)",
+    "whatIsDescription": "Sprunki Retake - це гра, модифікована фанами, яка пропонує унікальне змішування музики з власними звуками та новими персонажами. Приєднуйтесь до світу ритмів, вокалів та мелодій, щоб створювати свої треки. ($Sprunki Retake)",
+    "howToPlayTitle": "Як грати в Sprunki Retake? ($Sprunki Retake)",
+    "howToPlayStep1": "Запустити гру: Доступ до неї онлайн і почати. ($Sprunki Retake)",
+    "howToPlayStep2": "Вибрати звуки: Дослідити різноманітність ритмів, ефектів та вокалів. ($Sprunki Retake)",
+    "howToPlayStep3": "Міксати та комбінувати: Переносити звуки на персонажі та інновувати свій трек. ($Sprunki Retake)",
+    "keyFeaturesTitle": "Основні риси Sprunki Retake ($Sprunki Retake)",
     "feature1Title": "Нові музичні стилі",
-    "feature1Description": "Досвіджувати свіжі та різноманітні музичні стилі, які покращують процес гри.",
+    "feature1Description": "Досвідчити свіжі та різноманітні музичні стилі, які покращують гру. ($Sprunki Retake)",
     "feature2Title": "Творча свобода",
-    "feature2Description": "Насолоджуватися розширеною творчою свободою з особливими звуками та персонажами.",
-    "feature3Title": "Оптимізовано для мобільних пристроїв",
-    "feature3Description": "Грати в Sprunki Retake безперебійно на своєму мобільному пристрої.",
+    "feature2Description": "Насолоджуватися розширеною творчою свободою з особливими звуками та персонажами. ($Sprunki Retake)",
+    "feature3Title": "Оптимізовано для мобільних",
+    "feature3Description": "Грати в Sprunki Retake безперебійно на мобільному пристрої. ($Sprunki Retake)",
     "feature4Title": "Грати безкоштовно",
-    "feature4Description": "Участь без обмежень - Sprunki Retake абсолютно безкоштовно!"
+    "feature4Description": "Участь без обмежень - Sprunki Retake абсолютно безкоштовно! ($Sprunki Retake)"
   },
   "HomeFAQs": {
-    "title": "Часті питання щодо Sprunki Retake"
+    "title": "Питання та відповіді щодо Sprunki Retake ($Sprunki Retake)"
   },
   "HomeRelatedVideo": {
-    "title": "Відео про Sprunki Retake"
+    "title": "Відео про Sprunki Retake ($Sprunki Retake)"
   },
   "HomeRecommendation": {
     "title": "Рекомендовані ігри"
   },
   "HomeComments": {
-    "title": "Коментарі щодо Sprunki Retake"
+    "title": "Коментарі щодо Sprunki Retake ($Sprunki Retake)"
   }
 }

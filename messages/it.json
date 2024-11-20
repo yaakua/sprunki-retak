@@ -1,6 +1,6 @@
 {
   "title": "Sprunki Retake ($Sprunki Retake)",
-  "slogan": "Esperienza la nuova avventura di Sprunki Retake ($Sprunki Retake)",
+  "slogan": "Esperienza la nuova avventura di Sprunki Retake",
   "description": "Tuffati nel mondo musicale di Sprunki Retake e libera la tua creatività!",
   "Loading": {
     "title": "Caricamento di Sprunki Retake..."
@@ -19,7 +19,7 @@
   },
   "HomeIframe": {
     "title": "Scopri Sprunki Retake",
-    "description": "Affondi in Sprunki Retake direttamente nel tuo browser. Nessuna download necessario - infinita musica e divertimento ti aspettano!",
+    "description": "Indaga in Sprunki Retake direttamente nel tuo browser. Nessun download necessario - l'infinito divertimento musicale ti aspetta!",
     "iframeTitle": "Anteprima di Sprunki Retake",
     "fullscreenButton": "Schermo intero",
     "shareButton": "Condividi",
@@ -28,8 +28,8 @@
   },
   "HomeFeatures": {
     "gameTitle": "Sprunki Retake: Un nuovo viaggio musicale ($Sprunki Retake)",
-    "whatIsTitle": "Cos'è Sprunki Retake?",
-    "whatIsDescription": "Sprunki Retake è un gioco modificato dalla comunità che offre un'unica mescolanza musicale con suoni personalizzati e nuovi personaggi. Entra in un mondo di ritmi, voci e melodie combinate per creare le tue tracce.",
+    "whatIsTitle": "Che cos'è Sprunki Retake?",
+    "whatIsDescription": "Sprunki Retake è un gioco modificato dai fan che offre un'unica miscela musicale con suoni personalizzati e nuovi personaggi. Unisciti a un mondo di ritmi, voci e melodie combinate per creare le tue tracce.",
     "howToPlayTitle": "Come giocare a Sprunki Retake",
     "howToPlayStep1": "Avvia il gioco: Accedilo online e inizia.",
     "howToPlayStep2": "Seleziona i suoni: Esplora una varietà di ritmi, effetti e voci.",

@@ -1,9 +1,9 @@
 {
-  "title": "สปรังกี้ รีเทค ($Sprunki Retake)",
-  "slogan": "สัมผัสกับการผจญภัยใหม่ของสปรังกี้ รีเทค ($Sprunki Retake)",
-  "description": "ดำดิ่งลงในโลกดนตรีของสปรังกี้ รีเทคและปลดปล่อยความคิดสร้างสรรค์ของคุณ!",
+  "title": "Sprunki Retake ($Sprunki Retake)",
+  "slogan": "สัมผัสประสบการณ์ใหม่ของ Sprunki Retake ($Sprunki Retake)",
+  "description": "ลงไปในโลกดนตรีของ Sprunki Retake และปลดปล่อยความคิดสร้างสรรค์ของคุณ!",
   "Loading": {
-    "title": "กำลังโหลดสปรังกี้ รีเทค ($Sprunki Retake)..."
+    "title": "กำลังโหลด Sprunki Retake..."
   },
   "Navbar": {
     "title": "การนำทาง"
@@ -15,45 +15,45 @@
     "termsOfServices": "เงื่อนไขการให้บริการ",
     "text": "เนื้อหา",
     "help": "ความช่วยเหลือ",
-    "friendlyLinks": "ลิงค์เพื่อนร่วม"
+    "friendlyLinks": "ลิงค์มิตร"
   },
   "HomeIframe": {
-    "title": "ค้นพบสปรังกี้ รีเทค ($Sprunki Retake)",
-    "description": "สำรวจสปรังกี้ รีเทคโดยตรงในเบราว์เซอร์ของคุณ ไม่ต้องดาวน์โหลด - ความสนุกดนตรีไม่มีที่สิ้นสุดรอคุณ!",
-    "iframeTitle": "หน้าตัวอย่างสปรังกี้ รีเทค ($Sprunki Retake)",
+    "title": "ค้นพบ Sprunki Retake",
+    "description": "ลงไปใน Sprunki Retake โดยตรงในเบราว์เซอร์ของคุณ ไม่ต้องดาวน์โหลด - บันเทิงดนตรีอันไม่มีที่สิ้นสุดรอคุณ!",
+    "iframeTitle": "หน้าตาประมาณ Sprunki Retake",
     "fullscreenButton": "เต็มหน้าจอ",
     "shareButton": "แชร์",
     "urlCopied": "URL ถูกคัดลอกไปยังคลิปบอร์ดแล้ว!",
-    "downloadGame": "ดาวน์โหลดสปรังกี้ รีเทค ($Sprunki Retake)"
+    "downloadGame": "ดาวน์โหลด Sprunki Retake"
   },
   "HomeFeatures": {
-    "gameTitle": "สปรังกี้ รีเทค: การเดินทางดนตรีใหม่ ($Sprunki Retake)",
-    "whatIsTitle": "สปรังกี้ รีเทคคืออะไร? ($Sprunki Retake)",
-    "whatIsDescription": "สปรังกี้ รีเทคเป็นเกมที่ผู้แฟนได้ปรับแต่งเพื่อเสนอการผสมเสียงดนตรีแบบไม่ซ้ำใครพร้อมเสียงกำหนดเองและตัวละครใหม่ เข้าร่วมโลกของจังหวะ เสียงร้อง และเสียงดนตรีที่ผสมกันเพื่อสร้างเพลงของคุณ",
-    "howToPlayTitle": "วิธีเล่นสปรังกี้ รีเทค ($Sprunki Retake)",
-    "howToPlayStep1": "เปิดเกม: เข้าถึงออนไลน์และเริ่มต้น",
-    "howToPlayStep2": "เลือกเสียง: สำรวจเสียงจังหวะ ฉากเสียง และเสียงร้องต่างๆ",
-    "howToPlayStep3": "ผสมและจับคู่: ลากเสียงไปยังตัวละครและสร้างเพลงใหม่ของคุณ",
-    "keyFeaturesTitle": "ลักษณะสำคัญของสปรังกี้ รีเทค ($Sprunki Retake)",
+    "gameTitle": "Sprunki Retake: การเดินทางดนตรีใหม่ ($Sprunki Retake)",
+    "whatIsTitle": "Sprunki Retake คืออะไร?",
+    "whatIsDescription": "Sprunki Retake เป็นเกมที่ผู้ใช้งานได้แก้ไขเอง ซึ่งเสิร์ฟเพลงแบบเด่นโดยใช้เสียงกำหนดเองและตัวละครใหม่ เข้าร่วมโลกของเสียงต่ำ เสียงสูง และเสียงเพลงที่รวมกันเพื่อสร้างเพลงของคุณ",
+    "howToPlayTitle": "วิธีเล่น Sprunki Retake",
+    "howToPlayStep1": "เปิดเกม: เข้าถึงออนไลน์และเริ่มเล่น",
+    "howToPlayStep2": "เลือกเสียง: สำรวจเสียงต่ำ เสียงสูง และเสียงเพลงที่หลากหลาย",
+    "howToPlayStep3": "ผสมและจับคู่: ลากเสียงไปยังตัวละครและสร้างเพลงใหม่",
+    "keyFeaturesTitle": "ลักษณะสำคัญของ Sprunki Retake",
     "feature1Title": "สไตล์ดนตรีใหม่",
-    "feature1Description": "สัมผัสกับสไตล์ดนตรีที่สดใหม่และหลากหลายที่เพิ่มความสนุกในการเล่นเกม",
+    "feature1Description": "สัมผัสสไตล์ดนตรีที่สดใหม่และหลากหลายที่เพิ่มความสนุกของการเล่นเกม",
     "feature2Title": "เสรีภาพในการสร้างสรรค์",
-    "feature2Description": "เพลิดเพลินกับเสรีภาพในการสร้างสรรค์ที่ขยายได้ด้วยเสียงพิเศษและตัวละคร",
-    "feature3Title": "ปรับให้เหมาะสมสำหรับมือถือ",
-    "feature3Description": "เล่นสปรังกี้ รีเทคได้อย่างราบรื่นบนอุปกรณ์มือถือของคุณ",
-    "feature4Title": "ฟรีเล่น",
-    "feature4Description": "เข้าร่วมโดยไม่มีขีดจำกัด - สปรังกี้ รีเทคฟรีโดยสมบูรณ์!"
+    "feature2Description": "เพลิดเพลินกับเสรีภาพในการสร้างสรรค์ที่ขยายโดยใช้เสียงพิเศษและตัวละครพิเศษ",
+    "feature3Title": "เพิ่มประสิทธิภาพสำหรับมือถือ",
+    "feature3Description": "เล่น Sprunki Retake สอดคล้องที่สมบูรณ์แบบบนอุปกรณ์มือถือของคุณ",
+    "feature4Title": "เล่นฟรี",
+    "feature4Description": "เล่นโดยไม่มีข้อ จำกัด - Sprunki Retake เป็นฟรีโดยสมบูรณ์!"
   },
   "HomeFAQs": {
-    "title": "คำถามที่พบบ่อยเกี่ยวกับสปรังกี้ รีเทค ($Sprunki Retake)"
+    "title": "คำถามที่พบบ่อยเกี่ยวกับ Sprunki Retake"
   },
   "HomeRelatedVideo": {
-    "title": "วิดีโอสปรังกี้ รีเทค ($Sprunki Retake)"
+    "title": "วิดีโอ Sprunki Retake"
   },
   "HomeRecommendation": {
     "title": "เกมที่แนะนำ"
   },
   "HomeComments": {
-    "title": "ความคิดเห็นเกี่ยวกับสปรังกี้ รีเทค ($Sprunki Retake)"
+    "title": "ความคิดเห็นเกี่ยวกับ Sprunki Retake"
   }
 }

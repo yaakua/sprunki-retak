@@ -1,7 +1,7 @@
 {
   "title": "Sprunki Retake ($Sprunki Retake)",
-  "slogan": "Nikmati petualangan Sprunki Retake baru ($Sprunki Retake)",
-  "description": "Telusuri dunia musik Sprunki Retake dan lepaskan kreativitas Anda! ($Sprunki Retake)",
+  "slogan": "Nikmati petualangan Sprunki Retake yang baru ($Sprunki Retake)",
+  "description": "Masuk ke dunia musik Sprunki Retake dan lepaskan kreativitas Anda! ($Sprunki Retake)",
   "Loading": {
     "title": "Memuat Sprunki Retake..."
   },
@@ -12,15 +12,15 @@
     "createAt": "Dibuat Pada",
     "guide": "Panduan",
     "privacyPolicy": "Kebijakan Privasi",
-    "termsOfServices": "Syarat Layanan",
+    "termsOfServices": "Syarat dan Ketentuan Layanan",
     "text": "Konten",
     "help": "Bantuan",
     "friendlyLinks": "Tautan Ramah"
   },
   "HomeIframe": {
-    "title": "Temukan Sprunki Retake ($Sprunki Retake)",
+    "title": "Temukan Sprunki Retake",
     "description": "Telusuri Sprunki Retake langsung di browser Anda. Tidak perlu unduhan - kesenangan musik tanpa batas menanti Anda! ($Sprunki Retake)",
-    "iframeTitle": "Pratinjau Sprunki Retake ($Sprunki Retake)",
+    "iframeTitle": "Pratinjau Sprunki Retake",
     "fullscreenButton": "Layar Penuh",
     "shareButton": "Bagikan",
     "urlCopied": "URL telah disalin ke clipboard!",
@@ -28,21 +28,21 @@
   },
   "HomeFeatures": {
     "gameTitle": "Sprunki Retake: Perjalanan Musik Baru ($Sprunki Retake)",
-    "whatIsTitle": "Apa itu Sprunki Retake? ($Sprunki Retake)",
-    "whatIsDescription": "Sprunki Retake adalah game yang dimodifikasi oleh penggemar yang menawarkan penggabungan musik unik dengan suara khusus dan karakter baru. Bergabunglah dengan dunia ritme, vokal, dan melodi yang digabung untuk membuat trek Anda. ($Sprunki Retake)",
-    "howToPlayTitle": "Cara Bermain Sprunki Retake ($Sprunki Retake)",
-    "howToPlayStep1": "Jalankan Game: Akses secara online dan mulai. ($Sprunki Retake)",
-    "howToPlayStep2": "Pilih Suara: Jelajahi berbagai ritme, efek, dan vokal. ($Sprunki Retake)",
-    "howToPlayStep3": "Campur & Cocokkan: Seret suara ke karakter dan inovasi trek Anda. ($Sprunki Retake)",
-    "keyFeaturesTitle": "Fitur Utama Sprunki Retake ($Sprunki Retake)",
+    "whatIsTitle": "Apa itu Sprunki Retake?",
+    "whatIsDescription": "Sprunki Retake adalah game yang dimodifikasi oleh penggemar yang menawarkan penyatuan musik unik dengan suara khusus dan karakter baru. Bergabunglah dengan dunia ritme, vokal, dan melodi yang digabung untuk membuat trek Anda. ($Sprunki Retake)",
+    "howToPlayTitle": "Cara Bermain Sprunki Retake",
+    "howToPlayStep1": "Luncurkan Game: Akses secara online dan mulai.",
+    "howToPlayStep2": "Pilih Suara: Jelajahi berbagai ritme, efek, dan vokal.",
+    "howToPlayStep3": "Campur & Padankan: Seret suara ke karakter dan inovasi trek Anda.",
+    "keyFeaturesTitle": "Fitur Utama Sprunki Retake",
     "feature1Title": "Gaya Musik Baru",
-    "feature1Description": "Nikmati gaya musik baru dan beragam yang meningkatkan gameplay. ($Sprunki Retake)",
-    "feature2Title": "Kebebasan Kreatif",
-    "feature2Description": "Nikmati kebebasan kreatif yang diperluas dengan suara khusus dan karakter. ($Sprunki Retake)",
+    "feature1Description": "Nikmati gaya musik baru dan beragam yang meningkatkan permainan.",
+    "feature2Title": "Kebijakan Bebas Kreatif",
+    "feature2Description": "Nikmati kebebasan kreatif yang lebih luas dengan suara khusus dan karakter.",
     "feature3Title": "Dioptimalkan untuk Mobile",
-    "feature3Description": "Bermain Sprunki Retake lancar di perangkat mobile Anda. ($Sprunki Retake)",
-    "feature4Title": "Gratis Bermain",
-    "feature4Description": "Bermain tanpa batas - Sprunki Retake sepenuhnya gratis! ($Sprunki Retake)"
+    "feature3Description": "Bermain Sprunki Retake dengan lancar di perangkat mobile Anda.",
+    "feature4Title": "Gratis untuk Dimainkan",
+    "feature4Description": "Bermain tanpa batasan - Sprunki Retake sepenuhnya gratis! ($Sprunki Retake)"
   },
   "HomeFAQs": {
     "title": "Pertanyaan Umum tentang Sprunki Retake ($Sprunki Retake)"
@@ -51,7 +51,7 @@
     "title": "Video Sprunki Retake ($Sprunki Retake)"
   },
   "HomeRecommendation": {
-    "title": "Game Rekomendasi"
+    "title": "Game yang Direkomendasikan ($Sprunki Retake)"
   },
   "HomeComments": {
     "title": "Komentar tentang Sprunki Retake ($Sprunki Retake)"

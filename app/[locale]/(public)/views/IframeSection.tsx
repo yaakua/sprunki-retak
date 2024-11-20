@@ -83,7 +83,7 @@ export default async function IframeSection({pageName}:{pageName:string}) {
           <>
             <iframe
               title={t('iframeTitle')}
-              src={iframeUrl}
+              src={siteConfig.gameIframeUrl}
               allow="accelerometer; gyroscope; autoplay; payment; fullscreen; microphone; clipboard-read; clipboard-write"
               sandbox="allow-forms allow-modals allow-orientation-lock allow-pointer-lock allow-popups allow-presentation allow-scripts allow-same-origin allow-downloads allow-popups-to-escape-sandbox"
               className="w-full h-[calc(100vh-20rem)] md:min-h-[600px]"

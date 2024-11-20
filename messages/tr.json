@@ -1,12 +1,12 @@
 {
   "title": "Sprunki Retake ($Sprunki Retake)",
-  "slogan": "Yeni Sprunki Retake macerasını deneyin ($Sprunki Retake)",
-  "description": "Sprunki Retake'in müzik dünyasına dalın ve yaratıcılığınızı serbest bırakın!",
+  "slogan": "Yeni Sprunki Retake macerasını deneyin",
+  "description": "Sprunki Retake'nin müzik dünyasına dalın ve yaratıcılığınızı serbest bırakın!",
   "Loading": {
     "title": "Sprunki Retake yükleniyor..."
   },
   "Navbar": {
-    "title": "Gezinti"
+    "title": "Navigasyon"
   },
   "Common": {
     "createAt": "Oluşturulma Tarihi",
@@ -27,33 +27,33 @@
     "downloadGame": "Sprunki Retake'ı İndir"
   },
   "HomeFeatures": {
-    "gameTitle": "Sprunki Retake: Yeni Bir Müzik Yolculuğu ($Sprunki Retake)",
-    "whatIsTitle": "Sprunki Retake Nedir? ($Sprunki Retake)",
-    "whatIsDescription": "Sprunki Retake, özel sesler ve yeni karakterler ile benzersiz müzik karıştırması sunan bir oyuncu tarafından değiştirilmiş oyun. Dönecekler, şarkılar ve melodilerle dolu bir dünyaya katılın ve kendi şarkılarınızı oluşturun.",
-    "howToPlayTitle": "Sprunki Retake Nasıl Oynanır? ($Sprunki Retake)",
-    "howToPlayStep1": "Oyunu Başlatın: İnternet üzerinden erişin ve başlayın.",
-    "howToPlayStep2": "Sesleri Seçin: Çeşitli dönecekler, efekler ve şarkılar keşfedin.",
-    "howToPlayStep3": "Karıştır ve Eşleştir: Sesleri karakterlere sürükleyin ve şarkınızı yenileyin.",
-    "keyFeaturesTitle": "Sprunki Retake'in Ana Özellikleri ($Sprunki Retake)",
-    "feature1Title": "Yeni Müzik Stilleri ($Sprunki Retake)",
+    "gameTitle": "Sprunki Retake: Yeni Bir Müzik Yolculuğu ($Sprunki Retake: A New Musical Journey)",
+    "whatIsTitle": "Sprunki Retake nedir?",
+    "whatIsDescription": "Sprunki Retake, özel seslerle ve yeni karakterlerle benzersiz müzik karıştırma sunan bir oyuncu tarafından değiştirilmiş oyun. Dönecekler, vokal ve melodilerle birleştirilmiş bir dünyaya katılın ve kendi parçalarınızı oluşturun.",
+    "howToPlayTitle": "Sprunki Retake Nasıl Oynanır?",
+    "howToPlayStep1": "Oyunu Başlat: İnternet üzerinden erişin ve başlayın.",
+    "howToPlayStep2": "Sesleri Seç: Çeşitli dönecekler, efektler ve vokaller keşfedin.",
+    "howToPlayStep3": "Karıştır ve Eşleştir: Sesleri karakterlere sürükleyin ve parçanızı yenileyin.",
+    "keyFeaturesTitle": "Sprunki Retake'nın Ana Özellikleri",
+    "feature1Title": "Yeni Müzik Stilleri",
     "feature1Description": "Oyunculuğu geliştiren taze ve çeşitli müzik stillerini deneyin.",
-    "feature2Title": "Yaratıcı Özgürlük ($Sprunki Retake)",
-    "feature2Description": "Özel sesler ve karakterlerle genişletilmiş yaratıcı özgürlüğü kullanın.",
-    "feature3Title": "Mobil İçin Optimizasyonlu ($Sprunki Retake)",
-    "feature3Description": "Sprunki Retake'i sorunsuz oynayın, mobil cihazınızda.",
-    "feature4Title": "Ücretsiz Oynanabilir ($Sprunki Retake)",
-    "feature4Description": "Sınırları olmadan oynayın - Sprunki Retake tamamen ücretsizdir!"
+    "feature2Title": "Yaratıcı Özgürlük",
+    "feature2Description": "Özel sesler ve karakterlerle genişletilmiş yaratıcı özgürlüğü tadın.",
+    "feature3Title": "Mobil İçin Optimizasyonlu",
+    "feature3Description": "Sprunki Retake'ı cep telefonunuzda sorunsuz oynayın.",
+    "feature4Title": "Ücretsiz Oynanabilir",
+    "feature4Description": "Sınırları yok - Sprunki Retake tamamen ücretsizdir!"
   },
   "HomeFAQs": {
-    "title": "Sprunki Retake Hakkında Sıkça Sorulan Sorular ($Sprunki Retake)"
+    "title": "Sprunki Retake Hakkında Sıkça Sorulan Sorular"
   },
   "HomeRelatedVideo": {
-    "title": "Sprunki Retake Video ($Sprunki Retake)"
+    "title": "Sprunki Retake Video"
   },
   "HomeRecommendation": {
-    "title": "Önerilen Oyunlar ($Sprunki Retake)"
+    "title": "Tavsiye Edilen Oyunlar"
   },
   "HomeComments": {
-    "title": "Sprunki Retake Hakkındaki Yorumlar ($Sprunki Retake)"
+    "title": "Sprunki Retake Hakkında Yorumlar"
   }
 }

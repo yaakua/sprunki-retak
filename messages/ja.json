@@ -1,9 +1,9 @@
 {
   "title": "スプルンキ・リテイク ($Sprunki Retake)",
-  "slogan": "新しいスプルンキ・リテイクの冒険を体験してください ($Sprunki Retake)",
-  "description": "スプルンキ・リテイクの音楽の世界に飛び込み、あなたの創造性を解き放ちましょう! ($Sprunki Retake)",
+  "slogan": "新しいスプルンキ・リテイクの冒険を体験しよう",
+  "description": "スプルンキ・リテイクの音楽の世界に飛び込み、あなたの創造性を解き放ちましょう！",
   "Loading": {
-    "title": "スプルンキ・リテイクを読み込み中... ($Sprunki Retake)"
+    "title": "スプルンキ・リテイクを読み込んでいます..."
   },
   "Navbar": {
     "title": "ナビゲーション"
@@ -12,48 +12,48 @@
     "createAt": "作成日",
     "guide": "ガイド",
     "privacyPolicy": "プライバシーポリシー",
-    "termsOfServices": "利用規約",
+    "termsOfServices": "サービス利用規約",
     "text": "コンテンツ",
     "help": "ヘルプ",
     "friendlyLinks": "関連リンク"
   },
   "HomeIframe": {
-    "title": "スプルンキ・リテイクを発見しましょう ($Sprunki Retake)",
-    "description": "ブラウザで直接スプルンキ・リテイクに飛び込みましょう。ダウンロードは必要ありません - 無限の音楽の楽しみがあなたを待っています! ($Sprunki Retake)",
-    "iframeTitle": "スプルンキ・リテイク プレビュー ($Sprunki Retake)",
+    "title": "スプルンキ・リテイクを発見しよう",
+    "description": "ブラウザで直接スプルンキ・リテイクに入り込む。ダウンロードは不要 - 無限の音楽の楽しみがあなたを待っています！",
+    "iframeTitle": "スプルンキ・リテイク プレビュー",
     "fullscreenButton": "全画面",
     "shareButton": "共有",
-    "urlCopied": "URLがクリップボードにコピーされました!",
-    "downloadGame": "スプルンキ・リテイクをダウンロード ($Sprunki Retake)"
+    "urlCopied": "URLがクリップボードにコピーされました！",
+    "downloadGame": "スプルンキ・リテイクをダウンロード"
   },
   "HomeFeatures": {
-    "gameTitle": "スプルンキ・リテイク: 新しい音楽の旅 ($Sprunki Retake)",
-    "whatIsTitle": "スプルンキ・リテイクとは何ですか? ($Sprunki Retake)",
-    "whatIsDescription": "スプルンキ・リテイクは、カスタムサウンドと新しいキャラクターでユニークな音楽ミキシングを提供するファンが改造したゲームです。ビート、ボーカル、メロディが組み合わさった世界に参加し、あなたのトラックを作成しましょう。 ($Sprunki Retake)",
-    "howToPlayTitle": "スプルンキ・リテイクの遊び方 ($Sprunki Retake)",
-    "howToPlayStep1": "ゲームを起動する: オンラインでアクセスして始めましょう。 ($Sprunki Retake)",
-    "howToPlayStep2": "サウンドを選択する: 様々なビート、エフェクト、ボーカルを探検しましょう。 ($Sprunki Retake)",
-    "howToPlayStep3": "ミックス&マッチ: サウンドをキャラクターにドラッグして、あなたのトラックを革新しましょう。 ($Sprunki Retake)",
-    "keyFeaturesTitle": "スプルンキ・リテイクの主要な特徴 ($Sprunki Retake)",
-    "feature1Title": "新しい音楽スタイル ($Sprunki Retake)",
-    "feature1Description": "ゲームプレイを高める新鮮で多様な音楽スタイルを体験しましょう。 ($Sprunki Retake)",
-    "feature2Title": "創造的な自由 ($Sprunki Retake)",
-    "feature2Description": "特別なサウンドとキャラクターで拡張された創造的な自由を楽しみましょう。 ($Sprunki Retake)",
-    "feature3Title": "モバイル向けに最適化されています ($Sprunki Retake)",
-    "feature3Description": "モバイルデバイスでスムーズにスプルンキ・リテイクをプレイしましょう。 ($Sprunki Retake)",
-    "feature4Title": "無料でプレイできます ($Sprunki Retake)",
-    "feature4Description": "制限なく参加 - スプルンキ・リテイクは完全に無料です! ($Sprunki Retake)"
+    "gameTitle": "スプルンキ・リテイク: 新しい音楽の旅 ($Sprunki Retake: A New Musical Journey)",
+    "whatIsTitle": "スプルンキ・リテイクとは？",
+    "whatIsDescription": "スプルンキ・リテイクは、カスタムサウンドと新しいキャラクターでユニークな音楽ミキシングを提供するファン修正版ゲームです。ビート、ボーカル、メロディが融合した世界に参加し、自分のトラックを作りましょう。",
+    "howToPlayTitle": "スプルンキ・リテイクの遊び方",
+    "howToPlayStep1": "ゲームを起動する: オンラインでアクセスして始めましょう。",
+    "howToPlayStep2": "サウンドを選択する: さまざまなビート、エフェクト、ボーカルを探検しましょう。",
+    "howToPlayStep3": "ミックス&マッチ: サウンドをキャラクターにドラッグして、自分のトラックを革新しましょう。",
+    "keyFeaturesTitle": "スプルンキ・リテイクの主要機能",
+    "feature1Title": "新しい音楽スタイル",
+    "feature1Description": "ゲームプレイを向上させる新鮮で多様な音楽スタイルを体験しましょう。",
+    "feature2Title": "創造的自由",
+    "feature2Description": "特別なサウンドとキャラクターで拡張された創造的自由を楽しむ。",
+    "feature3Title": "モバイル向け最適化",
+    "feature3Description": "モバイルデバイスでスムーズにスプルンキ・リテイクをプレイしましょう。",
+    "feature4Title": "無料で遊べる",
+    "feature4Description": "制限なく参加 - スプルンキ・リテイクは完全無料です！"
   },
   "HomeFAQs": {
-    "title": "スプルンキ・リテイクに関するよくある質問 ($Sprunki Retake)"
+    "title": "スプルンキ・リテイクに関するよくある質問"
   },
   "HomeRelatedVideo": {
-    "title": "スプルンキ・リテイクのビデオ ($Sprunki Retake)"
+    "title": "スプルンキ・リテイクのビデオ"
   },
   "HomeRecommendation": {
-    "title": "おすすめのゲーム ($Sprunki Retake)"
+    "title": "おすすめのゲーム"
   },
   "HomeComments": {
-    "title": "スプルンキ・リテイクに関するコメント ($Sprunki Retake)"
+    "title": "スプルンキ・リテイクに関するコメント"
   }
 }
