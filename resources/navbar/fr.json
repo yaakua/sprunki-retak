@@ -2,6 +2,27 @@
   {
     "title": "Guide",
     "href": "/guide",
+    "visible": true
+  },
+  {
+    "title": "Comment jouer",
+    "href": "/t/how-to-play",
+    "visible": false
+  },
+  {
+    "title": "Bonjour, test",
+    "href": "/t/hello-test",
+    "visible": false
+  },
+  {
+    "title": "Sprunki Infecté",
+    "href": "/games/sprunki-infected",
+    "visible": true
+  }
+][
+  {
+    "title": "Guide",
+    "href": "/guide",
 <<<<<<< HEAD
     "visible": false,
     "children": []

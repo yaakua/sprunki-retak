@@ -2,6 +2,27 @@
   {
     "title": "ガイド",
     "href": "/guide",
+    "visible": true
+  },
+  {
+    "title": "遊び方",
+    "href": "/t/how-to-play",
+    "visible": false
+  },
+  {
+    "title": "ハロー・テスト",
+    "href": "/t/hello-test",
+    "visible": false
+  },
+  {
+    "title": "スプルンキ感染",
+    "href": "/games/sprunki-infected",
+    "visible": true
+  }
+][
+  {
+    "title": "ガイド",
+    "href": "/guide",
 <<<<<<< HEAD
     "visible": false,
     "children": []

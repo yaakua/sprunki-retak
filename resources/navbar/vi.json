@@ -2,6 +2,27 @@
   {
     "title": "Hướng dẫn",
     "href": "/guide",
+    "visible": true
+  },
+  {
+    "title": "Cách chơi",
+    "href": "/t/how-to-play",
+    "visible": false
+  },
+  {
+    "title": "Xin chào - kiểm tra",
+    "href": "/t/hello-test",
+    "visible": false
+  },
+  {
+    "title": "Sprunki bị nhiễm bệnh",
+    "href": "/games/sprunki-infected",
+    "visible": true
+  }
+][
+  {
+    "title": "Hướng dẫn",
+    "href": "/guide",
 <<<<<<< HEAD
     "visible": false,
     "children": []

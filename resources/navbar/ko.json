@@ -1,5 +1,26 @@
 [
   {
+    "title": "가이드",
+    "href": "/guide",
+    "visible": true
+  },
+  {
+    "title": "플레이 방법",
+    "href": "/t/how-to-play",
+    "visible": false
+  },
+  {
+    "title": "안녕 테스트",
+    "href": "/t/hello-test",
+    "visible": false
+  },
+  {
+    "title": "스프룬키 감염",
+    "href": "/games/sprunki-infected",
+    "visible": true
+  }
+][
+  {
 <<<<<<< HEAD
     "title": "안내서",
     "href": "/guide",

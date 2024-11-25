@@ -3,6 +3,21 @@
     "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
+    "category": "ÜST",
+    "visible": true
+  },
+  {
+    "title": "Sprunki Infected (Sprunki Infected)",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+    "category": "ÜST",
+    "visible": true
+  }
+][
+  {
+    "title": "Sprunki Retake (Sprunki Retake)",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
 <<<<<<< HEAD
     "category": "EN ÜSTTE",
 =======

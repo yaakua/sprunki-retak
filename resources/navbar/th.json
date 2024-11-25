@@ -2,6 +2,27 @@
   {
     "title": "คู่มือ",
     "href": "/guide",
+    "visible": true
+  },
+  {
+    "title": "วิธีการเล่น",
+    "href": "/t/how-to-play",
+    "visible": false
+  },
+  {
+    "title": "สวัสดีทดสอบ",
+    "href": "/t/hello-test",
+    "visible": false
+  },
+  {
+    "title": "สปรังกี้ ติดเชื้อ",
+    "href": "/games/sprunki-infected",
+    "visible": true
+  }
+][
+  {
+    "title": "คู่มือ",
+    "href": "/guide",
 <<<<<<< HEAD
     "visible": false,
     "children": []

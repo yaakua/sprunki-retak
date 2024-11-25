@@ -1,5 +1,26 @@
 [
   {
+    "title": "দিকনির্দেশিকা",
+    "href": "/guide",
+    "visible": true
+  },
+  {
+    "title": "কীভাবে খেলতে হয়",
+    "href": "/t/how-to-play",
+    "visible": false
+  },
+  {
+    "title": "হ্যালো টেস্ট",
+    "href": "/t/hello-test",
+    "visible": false
+  },
+  {
+    "title": "স্প্রংকি সংক্রামিত",
+    "href": "/games/sprunki-infected",
+    "visible": true
+  }
+][
+  {
 <<<<<<< HEAD
     "title": "নির্দেশিকা",
     "href": "/guide",

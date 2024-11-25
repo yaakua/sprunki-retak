@@ -2,6 +2,27 @@
   {
     "title": "指南",
     "href": "/guide",
+    "visible": true
+  },
+  {
+    "title": "游玩方法",
+    "href": "/t/how-to-play",
+    "visible": false
+  },
+  {
+    "title": "你好测试",
+    "href": "/t/hello-test",
+    "visible": false
+  },
+  {
+    "title": "斯普伦基感染（游戏名）",
+    "href": "/games/sprunki-infected",
+    "visible": true
+  }
+][
+  {
+    "title": "指南",
+    "href": "/guide",
 <<<<<<< HEAD
     "visible": false,
     "children": []
