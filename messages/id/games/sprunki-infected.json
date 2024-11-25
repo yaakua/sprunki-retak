@@ -1,0 +1,61 @@
+{
+  "sprunki-infected": {
+    "title": "Sprunki Terinfeksi ($Sprunki Infected)",
+    "slogan": "Kumpulkan, Selesaikan, Kalahkan!",
+    "description": "Masuk ke dunia Sprunki Terinfeksi, sebuah permainan teka - teki yang menarik dimana waktu adalah musuh terbesar Anda. Navigasi melalui level yang menantang, mengumpulkan Sprunki sehat, dan menghilangkan yang terinfeksi. Dengan gameplay yang cepat dan ketagihan, Sprunki Terinfeksi menawarkan pengalaman bermain tanpa tandingannya.",
+    "Loading": {
+      "title": "Memuat"
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Syarat Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah"
+    },
+    "HomeIframe": {
+      "title": "Bermain Sprunki Terinfeksi Sekarang!",
+      "description": "Kontrol Sprunki nakal dalam alam semesta yang hidup dan dinamis. Gunakan kecerdasan dan keterampilan Anda untuk menyelesaikan teka - teki, mengalahkan musuh, dan menyelesaikan setiap level sebelum waktu habis.",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL telah disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Terinfeksi: Tantangan Utama",
+      "whatIsTitle": "Apa itu Sprunki Terinfeksi?",
+      "whatIsDescription": "Sprunki Terinfeksi adalah permainan teka - teki unik yang menantang pemain untuk mengumpulkan Sprunki sehat sambil menghindari atau mengalahkan yang terinfeksi. Navigasi melalui level yang rumit, masing - masing lebih menantang dari sebelumnya.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Kontrol Sprunki menggunakan mouse atau keyboard untuk bergerak ke segala arah.",
+      "howToPlayStep2": "Kumpulkan Sprunki sehat yang tersebar di seluruh level untuk meningkatkan skor Anda.",
+      "howToPlayStep3": "Lompat ke Sprunki terinfeksi untuk menghilangkannya dan maju.",
+      "keyFeaturesTitle": "Fitur Utama Permainan",
+      "feature1Title": "Level Menantang",
+      "feature1Description": "Navigasi melalui level yang menguji refleks dan kemampuan pemecahan masalah Anda.",
+      "feature2Title": "Gameplay Berdasarkan Waktu",
+      "feature2Description": "Bersaing melawan waktu untuk mengumpulkan dan mengalahkan sebelum waktu habis.",
+      "feature3Title": "Grafik Berwarna - warni",
+      "feature3Description": "Tenggelam dalam visual yang hidup yang menjadi panggung untuk kesenangan tanpa henti.",
+      "feature4Title": "Gameplay Ketagihan",
+      "feature4Description": "Alami tindakan cepat - paced yang menarik dan membuat Anda selalu ingin kembali."
+    },
+    "HomeFAQs": {
+      "title": "Pertanyaan Umum"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Bermain"
+    }
+  }
+}

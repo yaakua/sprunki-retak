@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Rehber",
+    "href": "/guide",
+<<<<<<< HEAD
+    "visible": false,
+    "children": []
+=======
+    "visible": true
+>>>>>>> 64154bd8332dfec9371019d58869721702292fba
+  },
+  {
+    "title": "Nasıl Oynanır",
+    "href": "/t/how-to-play",
+    "visible": false
+  },
+  {
+<<<<<<< HEAD
+    "title": "Sprunki Enfekte",
+    "href": "/games/sprunki-infected",
+    "visible": true
+  },
+  {
+    "title": "Merhaba Test",
+    "href": "/t/hello-test",
+    "visible": false
+=======
+    "title": "Merhaba Test",
+    "href": "/t/hello-test",
+    "visible": false
+  },
+  {
+    "title": "Sprunki Enfekte",
+    "href": "/games/sprunki-infected",
+    "visible": true
+>>>>>>> 64154bd8332dfec9371019d58869721702292fba
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "title": "Sprunki Retake ($Sprunki Retake)",
+  "slogan": "Duyệt trải nghiệm cuộc phiêu lưu mới Sprunki Retake",
+  "description": "Chìm sâu vào thế giới âm nhạc của Sprunki Retake và giải phóng trí tưởng tượng của bạn!",
+  "Loading": {
+    "title": "Đang tải Sprunki Retake..."
+  },
+  "Navbar": {
+    "title": "Điều hướng"
+  },
+  "Common": {
+    "createAt": "Ngày tạo",
+    "guide": "Hướng dẫn",
+    "privacyPolicy": "Chính sách riêng tư",
+    "termsOfServices": "Điều khoản dịch vụ",
+    "text": "Nội dung",
+    "help": "Trợ giúp",
+    "friendlyLinks": "Các liên kết thân thiện"
+  },
+  "HomeIframe": {
+    "title": "Khám phá Sprunki Retake",
+    "description": "Đọc sâu vào Sprunki Retake trực tiếp trên trình duyệt của bạn. Không cần tải xuống - niềm vui âm nhạc vô hạn chờ đợi bạn!",
+    "iframeTitle": "Xem trước Sprunki Retake",
+    "fullscreenButton": "Toàn màn hình",
+    "shareButton": "Chia sẻ",
+    "urlCopied": "Đường dẫn đã được sao chép vào clipboard!",
+    "downloadGame": "Tải xuống Sprunki Retake"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Sprunki Retake: Một cuộc hành trình âm nhạc mới ($Sprunki Retake)",
+    "whatIsTitle": "Sprunki Retake là gì?",
+    "whatIsDescription": "Sprunki Retake là một trò chơi được chỉnh sửa bởi người hâm mộ, cung cấp sự pha trộn âm nhạc độc đáo với âm thanh tùy chỉnh và các nhân vật mới. Tham gia vào một thế giới của nhịp đập, giọng hát và giai điệu kết hợp để tạo ra các bản nhạc của bạn.",
+    "howToPlayTitle": "Cách chơi Sprunki Retake",
+    "howToPlayStep1": "Khởi động trò chơi: Truy cập trực tuyến và bắt đầu.",
+    "howToPlayStep2": "Chọn âm thanh: Khám phá nhiều loại nhịp đập, hiệu ứng và giọng hát.",
+    "howToPlayStep3": "Phối hợp và kết hợp: Kéo các âm thanh cho các nhân vật và sáng tạo bản nhạc của bạn.",
+    "keyFeaturesTitle": "Tính năng chính của Sprunki Retake",
+    "feature1Title": "Các phong cách âm nhạc mới",
+    "feature1Description": "Duyệt trải các phong cách âm nhạc tươi mới và đa dạng, làm tăng trải nghiệm chơi.",
+    "feature2Title": "Tự do sáng tạo",
+    "feature2Description": "Thưởng thức tự do sáng tạo mở rộng với âm thanh đặc biệt và các nhân vật.",
+    "feature3Title": "Được tối ưu cho điện thoại di động",
+    "feature3Description": "Chơi Sprunki Retake một cách mượt mà trên thiết bị di động của bạn.",
+    "feature4Title": "Miễn phí chơi",
+    "feature4Description": "Tham gia không giới hạn - Sprunki Retake hoàn toàn miễn phí!"
+  },
+  "HomeFAQs": {
+    "title": "Các câu hỏi thường gặp về Sprunki Retake"
+  },
+  "HomeRelatedVideo": {
+    "title": "Video Sprunki Retake"
+  },
+  "HomeRecommendation": {
+    "title": "Các trò chơi được gợi ý"
+  },
+  "HomeComments": {
+    "title": "Các bình luận về Sprunki Retake"
+  }
+}

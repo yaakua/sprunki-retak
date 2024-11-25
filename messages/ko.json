@@ -1,0 +1,59 @@
+{
+  "title": "스프런키 리테이크 ($Sprunki Retake)",
+  "slogan": "새로운 스프런키 리테이크 모험을 경험하세요",
+  "description": "스프런키 리테이크의 음악 세계로 뛰어들고 창의력을 발휘하세요!",
+  "Loading": {
+    "title": "스프런키 리테이크를 로딩 중..."
+  },
+  "Navbar": {
+    "title": "네비게이션"
+  },
+  "Common": {
+    "createAt": "생성일",
+    "guide": "안내서",
+    "privacyPolicy": "개인정보 보호정책",
+    "termsOfServices": "서비스 약관",
+    "text": "콘텐츠",
+    "help": "도움말",
+    "friendlyLinks": "유용한 링크"
+  },
+  "HomeIframe": {
+    "title": "스프런키 리테이크 발견하기",
+    "description": "브라우저에서 직접 스프런키 리테이크에 뛰어들어보세요. 다운로드가 필요 없습니다 - 무한한 음악의 재미가 당신을 기다립니다!",
+    "iframeTitle": "스프런키 리테이크 미리보기",
+    "fullscreenButton": "전체화면",
+    "shareButton": "공유",
+    "urlCopied": "URL이 클립보드에 복사되었습니다!",
+    "downloadGame": "스프런키 리테이크 다운로드"
+  },
+  "HomeFeatures": {
+    "gameTitle": "스프런키 리테이크: 새로운 음악 여행 ($Sprunki Retake: A New Musical Journey)",
+    "whatIsTitle": "스프런키 리테이크란 무엇인가?",
+    "whatIsDescription": "스프런키 리테이크는 팬이 수정한 게임으로, 커스텀 사운드와 새로운 캐릭터를 사용한 독특한 음악 믹싱을 제공합니다. 비트, 보컬, 멜로디가 결합된 세계에 참여하여 자신의 트랙을 만들어 보세요.",
+    "howToPlayTitle": "스프런키 리테이크 플레이 방법",
+    "howToPlayStep1": "게임 실행: 온라인으로 접속하여 시작합니다.",
+    "howToPlayStep2": "사운드 선택: 다양한 비트, 효과, 보컬을 탐색합니다.",
+    "howToPlayStep3": "믹스 및 매치: 사운드를 캐릭터로 끌어가서 트랙을 혁신합니다.",
+    "keyFeaturesTitle": "스프런키 리테이크의 주요 기능",
+    "feature1Title": "새로운 음악 스타일",
+    "feature1Description": "게임플레이를 향상시키는 신선하고 다양한 음악 스타일을 경험하세요.",
+    "feature2Title": "창의적 자유",
+    "feature2Description": "특별한 사운드와 캐릭터로 확장된 창의적 자유를 즐기세요.",
+    "feature3Title": "모바일 최적화",
+    "feature3Description": "모바일 기기에서 끊김없이 스프런키 리테이크를 플레이합니다.",
+    "feature4Title": "무료 플레이",
+    "feature4Description": "제한 없이 즐기세요 - 스프런키 리테이크는 완전 무료입니다!"
+  },
+  "HomeFAQs": {
+    "title": "스프런키 리테이크에 대한 자주 묻는 질문"
+  },
+  "HomeRelatedVideo": {
+    "title": "스프런키 리테이크 비디오"
+  },
+  "HomeRecommendation": {
+    "title": "추천 게임"
+  },
+  "HomeComments": {
+    "title": "스프런키 리테이크에 대한 댓글"
+  }
+}

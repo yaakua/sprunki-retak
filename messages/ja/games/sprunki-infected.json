@@ -1,0 +1,61 @@
+{
+  "sprunki-infected": {
+    "title": "スプルンキ・インフェクティド ($Sprunki Infected)",
+    "slogan": "集め、解決、征服！",
+    "description": "「スプルンキ・インフェクティド」の世界に飛び込もう。これは魅惑的なパズルゲームで、時間が最大の敵です。困難なレベルを進む中で、健康なスプルンキを集め、感染したものを排除しましょう。速いペースで中毒性のあるゲームプレイで、比類ないゲーム体験を提供します。",
+    "Loading": {
+      "title": "ロード中"
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "サービス利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "おすすめリンク"
+    },
+    "HomeIframe": {
+      "title": "今すぐ「スプルンキ・インフェクティド」をプレイ！",
+      "description": "活気あるダイナミックな世界で、いたずら好きなスプルンキを操作しましょう。知恵とスキルを使ってパズルを解き、敵を倒し、時間切れになる前に各レベルをクリアしましょう。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード"
+    },
+    "HomeFeatures": {
+      "gameTitle": "スプルンキ・インフェクティド: 究極の挑戦",
+      "whatIsTitle": "スプルンキ・インフェクティドとは？",
+      "whatIsDescription": "スプルンキ・インフェクティドは独特のパズルゲームで、プレイヤーは健康なスプルンキを集める一方で、感染したものを避けるか倒すように挑戦します。複雑なレベルを進む中で、どれも前よりも挑戦的です。",
+      "howToPlayTitle": "プレイ方法",
+      "howToPlayStep1": "マウスまたはキーボードを使ってスプルンキを操作し、全方向に動かします。",
+      "howToPlayStep2": "レベル中に散らばる健康なスプルンキを集めて、スコアを上げましょう。",
+      "howToPlayStep3": "感染したスプルンキの上にジャンプしてそれらを排除し、進めましょう。",
+      "keyFeaturesTitle": "ゲームのハイライト",
+      "feature1Title": "挑戦的なレベル",
+      "feature1Description": "反射神経と問題解決能力を試すレベルを進みましょう。",
+      "feature2Title": "時間制限付きのゲームプレイ",
+      "feature2Description": "時間切れになる前に集めて征服するために、時計との戦いをしましょう。",
+      "feature3Title": "カラフルなグラフィック",
+      "feature3Description": "無限の楽しみのための舞台を作る鮮やかなビジュアルに没入しましょう。",
+      "feature4Title": "中毒性のあるゲームプレイ",
+      "feature4Description": "魅力的で速いペースのアクションを体験し、何度も戻ってきましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    }
+  }
+}

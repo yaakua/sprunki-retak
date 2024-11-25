@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Sprunki Retake (Sprunki Retake)",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
+<<<<<<< HEAD
+    "category": "TOP",
+=======
+    "category": "TOP (TOP)",
+>>>>>>> 64154bd8332dfec9371019d58869721702292fba
+    "visible": true
+  },
+  {
+    "title": "Sprunki Infected (Sprunki Infected)",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+<<<<<<< HEAD
+    "category": "TOP",
+=======
+    "category": "TOP (TOP)",
+>>>>>>> 64154bd8332dfec9371019d58869721702292fba
+    "visible": true
+  }
+]

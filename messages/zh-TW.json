@@ -1,0 +1,59 @@
+{
+  "title": "《Sprunki Retake》",
+  "slogan": "體驗全新的《Sprunki Retake》冒險",
+  "description": "投身《Sprunki Retake》的音樂世界，釋放你的創造力！",
+  "Loading": {
+    "title": "載入《Sprunki Retake》..."
+  },
+  "Navbar": {
+    "title": "導航"
+  },
+  "Common": {
+    "createAt": "創建於",
+    "guide": "指南",
+    "privacyPolicy": "隱私政策",
+    "termsOfServices": "服務條款",
+    "text": "內容",
+    "help": "幫助",
+    "friendlyLinks": "友情鏈接"
+  },
+  "HomeIframe": {
+    "title": "探索《Sprunki Retake》",
+    "description": "直接在瀏覽器中深入《Sprunki Retake》。無需下載 - 無限的音樂樂趣等著您！",
+    "iframeTitle": "《Sprunki Retake》預覽",
+    "fullscreenButton": "全屏",
+    "shareButton": "分享",
+    "urlCopied": "URL已複製到剪貼板！",
+    "downloadGame": "下載《Sprunki Retake》"
+  },
+  "HomeFeatures": {
+    "gameTitle": "《Sprunki Retake》：全新的音樂之旅",
+    "whatIsTitle": "什麼是《Sprunki Retake》？",
+    "whatIsDescription": "《Sprunki Retake》是一款由粉絲修改的遊戲，提供自定義聲音和新角色的獨特音樂混音。加入節拍、人聲和旋律的世界，組合創建您自己的音軌。",
+    "howToPlayTitle": "如何玩《Sprunki Retake》",
+    "howToPlayStep1": "啟動遊戲：在線訪問並開始遊戲。",
+    "howToPlayStep2": "選擇聲音：探索各種節拍、效果和人聲。",
+    "howToPlayStep3": "混合搭配：將聲音拖到角色上，創新您的音軌。",
+    "keyFeaturesTitle": "《Sprunki Retake》的主要特色",
+    "feature1Title": "新音樂風格",
+    "feature1Description": "體驗新鮮多樣的音樂風格，提升遊戲體驗。",
+    "feature2Title": "創作自由",
+    "feature2Description": "享受擴展的創作自由，使用特殊的聲音和角色。",
+    "feature3Title": "移動端優化",
+    "feature3Description": "在您的移動設備上無縫玩《Sprunki Retake》。",
+    "feature4Title": "免費玩",
+    "feature4Description": "無限制參與 - 《Sprunki Retake》完全免費！"
+  },
+  "HomeFAQs": {
+    "title": "關於《Sprunki Retake》的常見問題"
+  },
+  "HomeRelatedVideo": {
+    "title": "《Sprunki Retake》視頻"
+  },
+  "HomeRecommendation": {
+    "title": "推薦遊戲"
+  },
+  "HomeComments": {
+    "title": "關於《Sprunki Retake》的評論"
+  }
+}

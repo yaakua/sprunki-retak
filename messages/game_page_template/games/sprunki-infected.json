@@ -1,0 +1,61 @@
+{
+  "sprunki-infected": {
+    "title": "受感染的斯普朗基 ($Sprunki Infected)",
+    "slogan": "收集、解决、征服！",
+    "description": "沉浸在《受感染的斯普朗基》的世界中，这是一款迷人的益智游戏，在这里时间是你最大的敌人。穿越具有挑战性的关卡，收集健康的斯普朗基，消灭被感染的。凭借快节奏且令人上瘾的游戏玩法，《受感染的斯普朗基》提供了无与伦比的游戏体验。",
+    "Loading": {
+      "title": "加载中"
+    },
+    "Navbar": {
+      "title": "导航栏"
+    },
+    "Common": {
+      "createAt": "创建于",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接"
+    },
+    "HomeIframe": {
+      "title": "立即玩《受感染的斯普朗基》！",
+      "description": "在一个充满活力和动态的世界中控制调皮的斯普朗基。运用你的智慧和技能来解决谜题、打败敌人，并在时间耗尽之前完成每个关卡。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "《受感染的斯普朗基》：终极挑战",
+      "whatIsTitle": "什么是《受感染的斯普朗基》？",
+      "whatIsDescription": "《受感染的斯普朗基》是一款独特的益智游戏，它挑战玩家在避开或击败被感染的斯普朗基的同时收集健康的斯普朗基。穿越错综复杂的关卡，每个关卡都比上一个更具挑战性。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "使用鼠标或键盘控制斯普朗基向各个方向移动。",
+      "howToPlayStep2": "收集散落在关卡各处的健康斯普朗基以提高你的分数。",
+      "howToPlayStep3": "跳到被感染的斯普朗基上以消灭它们并前进。",
+      "keyFeaturesTitle": "游戏亮点",
+      "feature1Title": "具有挑战性的关卡",
+      "feature1Description": "穿越考验你反应能力和解决问题能力的关卡。",
+      "feature2Title": "基于时间的游戏玩法",
+      "feature2Description": "与时间赛跑，在时间耗尽之前收集并征服。",
+      "feature3Title": "多彩的图形",
+      "feature3Description": "沉浸在充满活力的视觉效果中，开启无尽的乐趣。",
+      "feature4Title": "令人上瘾的游戏玩法",
+      "feature4Description": "体验引人入胜、快节奏的动作，让你欲罢不能。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    }
+  }
+}

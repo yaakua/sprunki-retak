@@ -1,0 +1,59 @@
+{
+  "title": "Sprunki Retake ($Sprunki Retake)",
+  "slogan": "Yeni Sprunki Retake macerasını deneyin",
+  "description": "Sprunki Retake'nin müzik dünyasına dalın ve yaratıcılığınızı serbest bırakın!",
+  "Loading": {
+    "title": "Sprunki Retake yükleniyor..."
+  },
+  "Navbar": {
+    "title": "Navigasyon"
+  },
+  "Common": {
+    "createAt": "Oluşturulma Tarihi",
+    "guide": "Rehber",
+    "privacyPolicy": "Gizlilik Politikası",
+    "termsOfServices": "Hizmet Şartları",
+    "text": "İçerik",
+    "help": "Yardım",
+    "friendlyLinks": "Arkadaşlık Bağlantıları"
+  },
+  "HomeIframe": {
+    "title": "Sprunki Retake'ı Keşfedin",
+    "description": "Sprunki Retake'e doğrudan tarayıcınızda dalın. İndirme gerekmez - sonsuz müzik eğlencesi sizi bekliyor!",
+    "iframeTitle": "Sprunki Retake Önizleme",
+    "fullscreenButton": "Tam Ekran",
+    "shareButton": "Paylaş",
+    "urlCopied": "URL panoya kopyalandı!",
+    "downloadGame": "Sprunki Retake'ı İndir"
+  },
+  "HomeFeatures": {
+    "gameTitle": "Sprunki Retake: Yeni Bir Müzik Yolculuğu ($Sprunki Retake: A New Musical Journey)",
+    "whatIsTitle": "Sprunki Retake nedir?",
+    "whatIsDescription": "Sprunki Retake, özel seslerle ve yeni karakterlerle benzersiz müzik karıştırma sunan bir oyuncu tarafından değiştirilmiş oyun. Dönecekler, vokal ve melodilerle birleştirilmiş bir dünyaya katılın ve kendi parçalarınızı oluşturun.",
+    "howToPlayTitle": "Sprunki Retake Nasıl Oynanır?",
+    "howToPlayStep1": "Oyunu Başlat: İnternet üzerinden erişin ve başlayın.",
+    "howToPlayStep2": "Sesleri Seç: Çeşitli dönecekler, efektler ve vokaller keşfedin.",
+    "howToPlayStep3": "Karıştır ve Eşleştir: Sesleri karakterlere sürükleyin ve parçanızı yenileyin.",
+    "keyFeaturesTitle": "Sprunki Retake'nın Ana Özellikleri",
+    "feature1Title": "Yeni Müzik Stilleri",
+    "feature1Description": "Oyunculuğu geliştiren taze ve çeşitli müzik stillerini deneyin.",
+    "feature2Title": "Yaratıcı Özgürlük",
+    "feature2Description": "Özel sesler ve karakterlerle genişletilmiş yaratıcı özgürlüğü tadın.",
+    "feature3Title": "Mobil İçin Optimizasyonlu",
+    "feature3Description": "Sprunki Retake'ı cep telefonunuzda sorunsuz oynayın.",
+    "feature4Title": "Ücretsiz Oynanabilir",
+    "feature4Description": "Sınırları yok - Sprunki Retake tamamen ücretsizdir!"
+  },
+  "HomeFAQs": {
+    "title": "Sprunki Retake Hakkında Sıkça Sorulan Sorular"
+  },
+  "HomeRelatedVideo": {
+    "title": "Sprunki Retake Video"
+  },
+  "HomeRecommendation": {
+    "title": "Tavsiye Edilen Oyunlar"
+  },
+  "HomeComments": {
+    "title": "Sprunki Retake Hakkında Yorumlar"
+  }
+}

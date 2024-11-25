@@ -1,0 +1,41 @@
+[
+  {
+    "title": "คู่มือ",
+    "href": "/guide",
+<<<<<<< HEAD
+    "visible": false,
+    "children": []
+  },
+  {
+    "title": "วิธีเล่น",
+=======
+    "visible": true
+  },
+  {
+    "title": "วิธีการเล่น",
+>>>>>>> 64154bd8332dfec9371019d58869721702292fba
+    "href": "/t/how-to-play",
+    "visible": false
+  },
+  {
+<<<<<<< HEAD
+    "title": "คนติดเชื้อ Sprunki",
+    "href": "/games/sprunki-infected",
+    "visible": true
+  },
+  {
+    "title": "สวัสดีทดสอบ",
+    "href": "/t/hello-test",
+    "visible": false
+=======
+    "title": "สวัสดีทดสอบ",
+    "href": "/t/hello-test",
+    "visible": false
+  },
+  {
+    "title": "สปรังกี้ ติดเชื้อ",
+    "href": "/games/sprunki-infected",
+    "visible": true
+>>>>>>> 64154bd8332dfec9371019d58869721702292fba
+  }
+]

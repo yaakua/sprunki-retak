@@ -1,0 +1,16 @@
+[
+  {
+    "title": "斯普伦基重夺（Sprunki Retake）",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
+    "category": "热门（TOP）",
+    "visible": true
+  },
+  {
+    "title": "斯普伦基感染（Sprunki Infected）",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+    "category": "热门（TOP）",
+    "visible": true
+  }
+]

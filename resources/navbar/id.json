@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Panduan",
+    "href": "/guide",
+<<<<<<< HEAD
+    "visible": false,
+    "children": []
+=======
+    "visible": true
+>>>>>>> 64154bd8332dfec9371019d58869721702292fba
+  },
+  {
+    "title": "Cara Bermain",
+    "href": "/t/how-to-play",
+    "visible": false
+  },
+  {
+<<<<<<< HEAD
+    "title": "Sprunki Tertular",
+    "href": "/games/sprunki-infected",
+    "visible": true
+  },
+  {
+    "title": "Halo Tes",
+    "href": "/t/hello-test",
+    "visible": false
+=======
+    "title": "Halo Uji",
+    "href": "/t/hello-test",
+    "visible": false
+  },
+  {
+    "title": "Sprunki Terinfeksi",
+    "href": "/games/sprunki-infected",
+    "visible": true
+>>>>>>> 64154bd8332dfec9371019d58869721702292fba
+  }
+]

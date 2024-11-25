@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Guida",
+    "href": "/guide",
+<<<<<<< HEAD
+    "visible": false,
+    "children": []
+  },
+  {
+    "title": "Come Giocare",
+=======
+    "visible": true
+  },
+  {
+    "title": "Come giocare",
+>>>>>>> 64154bd8332dfec9371019d58869721702292fba
+    "href": "/t/how-to-play",
+    "visible": false
+  },
+  {
+<<<<<<< HEAD
+    "title": "Sprunki Infetti",
+    "href": "/games/sprunki-infected",
+    "visible": true
+  },
+  {
+    "title": "Ciao Test",
+    "href": "/t/hello-test",
+    "visible": false
+=======
+    "title": "Ciao Test",
+    "href": "/t/hello-test",
+    "visible": false
+  },
+  {
+    "title": "Sprunki Infected",
+    "href": "/games/sprunki-infected",
+    "visible": true
+>>>>>>> 64154bd8332dfec9371019d58869721702292fba
+  }
+]

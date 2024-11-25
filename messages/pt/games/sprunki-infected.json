@@ -1,0 +1,61 @@
+{
+  "sprunki-infected": {
+    "title": "Sprunki Infected ($Sprunki Infected)",
+    "slogan": "Coletar, Resolver, Conquistar!",
+    "description": " Mergulhe no mundo de Sprunki Infected, um fascinante jogo de quebra - cabeças onde o tempo é o seu maior inimigo. Navegue por níveis desafiadores, coletando Sprunkies saudáveis e eliminando os infectados. Com um gameplay rápido e viciante, Sprunki Infected oferece uma experiência de jogo incomparável.",
+    "Loading": {
+      "title": "Carregando"
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis"
+    },
+    "HomeIframe": {
+      "title": "Jogue Sprunki Infected Agora!",
+      "description": "Controle o travesso Sprunki em um universo vibrante e dinâmico. Use sua inteligência e habilidades para resolver quebra - cabeças, derrotar inimigos e terminar cada nível antes que o tempo acabe.",
+      "iframeTitle": "Pré - visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiada para a área de transferência!",
+      "downloadGame": "Baixar Jogo"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Infected: O Desafio Final ($Sprunki Infected: The Ultimate Challenge)",
+      "whatIsTitle": "O que é Sprunki Infected?",
+      "whatIsDescription": "Sprunki Infected é um jogo de quebra - cabeças único que desafia os jogadores a coletar Sprunkies saudáveis enquanto evitam ou derrotam os infectados. Navegue por níveis intrincados, cada um mais desafiador que o anterior.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Controle Sprunki usando o mouse ou o teclado para se mover em todas as direções.",
+      "howToPlayStep2": "Coletar Sprunkies saudáveis espalhados pelos níveis para aumentar sua pontuação.",
+      "howToPlayStep3": "Pule sobre Sprunkies infectados para eliminá - los e avançar.",
+      "keyFeaturesTitle": "Destaques do Jogo",
+      "feature1Title": "Níveis Desafiadores",
+      "feature1Description": "Navegue por níveis que testam seus reflexos e habilidades de resolução de problemas.",
+      "feature2Title": "Gameplay Baseado no Tempo",
+      "feature2Description": "Corra contra o relógio para coletar e conquistar antes que o tempo se esgote.",
+      "feature3Title": "Gráficos Coloridos",
+      "feature3Description": "Imerse - se em visuais vibrantes que criam o cenário para muita diversão.",
+      "feature4Title": "Gameplay Viciante",
+      "feature4Description": "Experimente uma ação envolvente e rápida que te faz querer voltar sempre."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários de Jogo"
+    }
+  }
+}
