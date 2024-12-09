@@ -17,7 +17,6 @@ export default async function Recommendation({ locale }: PropsWithLocale) {
         games = (await import('@/resources/recommendation/en.json')).default;
       }
     }
-    console.log("games",games);
     // 过滤掉不可见和以及右边位置的游戏
     games = games.filter(game => {
       return game?.visible !== false && game?.position !== 'right';

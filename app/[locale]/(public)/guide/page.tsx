@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     title: `${frontMatter.title} | ${siteConfig.name}`,
     description: frontMatter.description,
     alternates: {
-      languages: alternatesLanguage('guide'),
+      languages: alternatesLanguage('/guide'),
     },
   };
 }
@@ -40,6 +40,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
     // 直接导入 MDX 文件的原始内容
     let Content;
     try {
+      console.log("###locale#####",locale);
       Content = (await import(`!!raw-loader!./${locale}.mdx`)).default;
     } catch (error) {
       Content = (await import(`!!raw-loader!./en.mdx`)).default;

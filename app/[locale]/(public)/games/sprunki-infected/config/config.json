@@ -8,7 +8,7 @@
     "fontColor": null,
     "backgroundColor": null
   },
-  "gameType": "iframe",
+  "gameType": "popup",
   "gameIframeUrl": "https://html-classic.itch.zone/html/11700918/index.html",
   "gameRedirectUrl": "",
   "bgType": "iframe",
@@ -91,5 +91,6 @@
       "title": "spunky game",
       "url": "https://spunkygame.online"
     }
-  ]
+  ],
+  "adsenseClientId": null
 }

@@ -10,9 +10,9 @@
     "fontColor": null,
     "backgroundColor": null
   },
-  "gaId": "G-XXXXX222",
+  "gaId": "",
   "clarityId": "",
-  "plausible": "https://app.pageview.app/js/script.js",
+  "plausible": "https://appview.fafafa.ai/js/script.js",
   "navbarItems": [
     {
       "title": "home",
@@ -27,7 +27,7 @@
       "href": "/t"
     }
   ],
-  "gameType": "iframe",
+  "gameType": "popup",
   "gameIframeUrl": "https://scratch.mit.edu/projects/1090434936/embed",
   "gameRedirectUrl": "",
   "bgType": "iframe",
@@ -74,9 +74,9 @@
       "content": "This game is so much fun! I love the new sounds and characters in the Sprunki Retake mod. It's like the original Incredibox, but even better! "
     },
     {
-      "author": "Ben Stephens \u2014 ??\ufe0f/acc",
+      "author": "Ben Stephens — ??️/acc",
       "role": "player",
-      "avatar": "https://api.multiavatar.com/Ben Stephens \u2014 ??\ufe0f/acc.png",
+      "avatar": "https://api.multiavatar.com/Ben Stephens — ??️/acc.png",
       "content": "I'm a huge fan of the Incredibox series, and the Sprunki Retake mod is a great addition. The new tracks are amazing, and the graphics are really cool too."
     },
     {
@@ -111,5 +111,7 @@
       "url": "https://spunkygame.online"
     }
   ],
-  "isShowRightGames": false
+  "isShowRightGames": false,
+  "adsenseClientId": null,
+  "adsTxtContent": null
 }
