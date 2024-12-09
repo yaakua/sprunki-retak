@@ -1,0 +1,23 @@
+[
+  {
+    "title": "스프룬키 리테이크(Sprunki Retake)",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
+    "category": "탑(TOP)",
+    "visible": true
+  },
+  {
+    "title": "볼 클리커(Ball Clicker)",
+    "cover": "/games/ball-clicker/game_screenshot.webp",
+    "url": "/games/ball-clicker",
+    "category": "탑(TOP)",
+    "visible": true
+  },
+  {
+    "title": "스프룬키 인펙티드(Sprunki Infected)",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+    "category": "탑(TOP)",
+    "visible": true
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "title": "স্প্রাঙ্কি রিটেক (Sprunki Retake)",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
+    "category": "শীর্ষ",
+    "visible": true
+  },
+  {
+    "title": "বল ক্লিকার (Ball Clicker)",
+    "cover": "/games/ball-clicker/game_screenshot.webp",
+    "url": "/games/ball-clicker",
+    "category": "শীর্ষ",
+    "visible": true
+  },
+  {
+    "title": "স্প্রাঙ্কি সংক্রামিত (Sprunki Infected)",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+    "category": "শীর্ষ",
+    "visible": true
+  }
+]

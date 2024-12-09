@@ -8,6 +8,14 @@
     "position": "bottom"
   },
   {
+    "title": "Ball Clicker",
+    "cover": "/games/ball-clicker/game_screenshot.webp",
+    "url": "/games/ball-clicker",
+    "category": "TOP",
+    "visible": true,
+    "position": "all"
+  },
+  {
     "title": "Sprunki Infected",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",

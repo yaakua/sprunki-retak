@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Sprunki Retake (Sprunki Retake)",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
+    "category": "TERATAS",
+    "visible": true
+  },
+  {
+    "title": "Ball Clicker (Ball Clicker)",
+    "cover": "/games/ball-clicker/game_screenshot.webp",
+    "url": "/games/ball-clicker",
+    "category": "TERATAS",
+    "visible": true
+  },
+  {
+    "title": "Sprunki Infected (Sprunki Infected)",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+    "category": "TERATAS",
+    "visible": true
+  }
+]

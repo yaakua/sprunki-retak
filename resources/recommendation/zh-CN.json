@@ -1,0 +1,23 @@
+[
+  {
+    "title": "斯普朗基重制版(Sprunki Retake)",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
+    "category": "热门(TOP)",
+    "visible": true
+  },
+  {
+    "title": "小球点击器(Ball Clicker)",
+    "cover": "/games/ball-clicker/game_screenshot.webp",
+    "url": "/games/ball-clicker",
+    "category": "热门(TOP)",
+    "visible": true
+  },
+  {
+    "title": "斯普朗基感染(Sprunki Infected)",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+    "category": "热门(TOP)",
+    "visible": true
+  }
+]

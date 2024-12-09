@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Sprunki Retake（スプルンキ リテイク）",
+    "cover": "/game_screenshot.webp",
+    "url": "/",
+    "category": "トップ",
+    "visible": true
+  },
+  {
+    "title": "Ball Clicker（ボール クリッカー）",
+    "cover": "/games/ball-clicker/game_screenshot.webp",
+    "url": "/games/ball-clicker",
+    "category": "トップ",
+    "visible": true
+  },
+  {
+    "title": "Sprunki Infected（スプルンキ インフェクテッド）",
+    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "url": "/games/sprunki-infected",
+    "category": "トップ",
+    "visible": true
+  }
+]
