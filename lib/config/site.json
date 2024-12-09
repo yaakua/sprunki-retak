@@ -27,8 +27,8 @@
       "href": "/t"
     }
   ],
-  "gameType": "popup",
-  "gameIframeUrl": "https://scratch.mit.edu/projects/1090434936/embed",
+  "gameType": "iframe",
+  "gameIframeUrl": "https://iframegame.com/embed/sprunki-retake/index.html",
   "gameRedirectUrl": "",
   "bgType": "iframe",
   "bgImage": "",

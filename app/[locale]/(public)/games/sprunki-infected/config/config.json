@@ -8,8 +8,8 @@
     "fontColor": null,
     "backgroundColor": null
   },
-  "gameType": "popup",
-  "gameIframeUrl": "https://html-classic.itch.zone/html/11700918/index.html",
+  "gameType": "iframe",
+  "gameIframeUrl": "https://www.gameflare.com/embed/sprunki-infected/",
   "gameRedirectUrl": "",
   "bgType": "iframe",
   "bgImage": "",
