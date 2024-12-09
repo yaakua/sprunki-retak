@@ -1,0 +1,67 @@
+{
+  "sprunki-remastered": {
+    "title": "スプルンキ リマスタード (Sprunki Remastered)",
+    "slogan": "原点に帰る、しかし伝説を作る！(Back to the Roots, But Make it LEGENDARY!)",
+    "description": "スプルンキ リマスタード：オリジナルの体験を超ハイデフで再構築しました。(Sprunki Remastered: The OG experience rebuilt from the ground up with ultra - HD polish.)",
+    "Loading": {
+      "title": "スプルンキ リマスタードを読み込み中...(Loading Sprunki Remastered...)"
+    },
+    "Navbar": {
+      "title": "ナビゲーション(Nav)"
+    },
+    "Common": {
+      "createAt": "作成日(Create At)",
+      "guide": "ガイド(Guide)",
+      "privacyPolicy": "プライバシーポリシー(Privacy Policy)",
+      "termsOfServices": "利用規約(Terms of Services)",
+      "text": "コンテンツ(Content)",
+      "help": "ヘルプ(Help)",
+      "friendlyLinks": "関連リンク(Friendly Links)"
+    },
+    "HomeIframe": {
+      "title": "スプルンキ リマスタード (Sprunki Remastered)",
+      "description": "スプルンキ リマスタードを体験して、伝説のリメイクが次のレベルに引き上げます。(Experience Sprunki Remastered, the legendary remake taking it to the next level.)",
+      "iframeTitle": "ゲームプレビュー - スプルンキ リマスタード(Game Preview - Sprunki Remastered)",
+      "fullscreenButton": "全画面(Fullscreen)",
+      "shareButton": "共有(Share)",
+      "urlCopied": "URLをクリップボードにコピーしました！(URL copied to clipboard!)",
+      "downloadGame": "スプルンキ リマスタードをダウンロード(Download Sprunki Remastered)",
+      "playGame": "スプルンキ リマスタードをプレイ(Play Sprunki Remastered)"
+    },
+    "HomeFeatures": {
+      "gameTitle": "スプルンキ リマスタード：特徴(Sprunki Remastered: Features)",
+      "whatIsTitle": "スプルンキ リマスタードとは？(What is Sprunki Remastered?)",
+      "whatIsDescription": "スプルンキ リマスタードは、ノスタルジックな要素と現代的なアップデートを融合し、新しくて親しみのある体験を提供します。(Sprunki Remastered is a blend of nostalgic elements with modern updates for a fresh yet familiar experience.)",
+      "howToPlayTitle": "スプルンキ リマスタードのプレイ方法(How to Play Sprunki Remastered)",
+      "howToPlayStep1": "ゼロレイテンシーの相互作用でスプルンキの世界に入りましょう。(Step into the world of Sprunki with zero - latency interactions.)",
+      "howToPlayStep2": "レトロな視覚を強化したものと32ビットのクリスタルクリアなオーディオを探検しましょう。(Explore retro - enhanced visuals and 32 - bit crystal - clear audio.)",
+      "howToPlayStep3": "ベテランと新参者のコミュニティに参加しましょう。(Engage with a community of veterans and newcomers.)",
+      "keyFeaturesTitle": "スプルンキ リマスタードの主要な特徴(Key Features of Sprunki Remastered)",
+      "feature1Title": "クラシックエンジン(Classic Engine)",
+      "feature1Description": "現代的なパワーアップを備えたクラシックエンジンを楽しみましょう。(Enjoy a classic engine with modern power enhancements.)",
+      "feature2Title": "レトロな視覚(Retro Visuals)",
+      "feature2Description": "8K解像度でレトロな視覚を体験しましょう。(Experience retro visuals now in 8K definition.)",
+      "feature3Title": "ゼロレイテンシー(Zero - Latency)",
+      "feature3Description": "ゼロレイテンシーの応答でゲームプレイを最大化しましょう。(Maximize your gameplay with zero - latency responses.)",
+      "feature4Title": "コミュニティの復活(Community Revival)",
+      "feature4Description": "古いスタイルと新しいクールを混ぜ合わせた活気のあるコミュニティに参加しましょう。(Join a vibrant community mixing old school and new cool.)"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問(FAQs)"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ(Game Video)"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ(Recommends)"
+    },
+    "HomeComments": {
+      "title": "プレイコメント(Play Comments)"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム(All Games)",
+      "description": "すべてのゲーム(All Games)",
+      "games": "ゲーム(Games)"
+    }
+  }
+}

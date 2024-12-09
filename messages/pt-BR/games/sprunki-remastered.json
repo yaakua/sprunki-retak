@@ -1,0 +1,67 @@
+{
+  "sprunki-remastered": {
+    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "slogan": "De volta às raízes, mas tornando - o lendário! (Sprunki Remastered)",
+    "description": "Bem - vindo ao SPRUNKI REMASTERED - De volta às raízes, mas tornando - o lendário! 🌟 (Sprunki Remastered)",
+    "Loading": {
+      "title": "Carregando Sprunki Remastered... (Sprunki Remastered)"
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis"
+    },
+    "HomeIframe": {
+      "title": "Experiência Sprunki Remastered (Sprunki Remastered)",
+      "description": "Ei, parceiro, segure seus fones de ouvido porque o SPRUNKI REMASTERED acabou de chegar e é incrível! (Sprunki Remastered)",
+      "iframeTitle": "Visualização do Jogo - Sprunki Remastered (Sprunki Remastered)",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiada para a área de transferência!",
+      "downloadGame": "Baixar Sprunki Remastered (Sprunki Remastered)",
+      "playGame": "Jogar Sprunki Remastered (Sprunki Remastered)"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Recursos do Sprunki Remastered (Sprunki Remastered)",
+      "whatIsTitle": "O que é o Sprunki Remastered? (Sprunki Remastered)",
+      "whatIsDescription": "O SPRUNKI REMASTERED não é apenas um retorno ao passado - é a experiência original reconstruída do zero com amor, respeito e energia suficiente para deixar o seu GPU suar! (Sprunki Remastered)",
+      "howToPlayTitle": "Como Jogar Sprunki Remastered (Sprunki Remastered)",
+      "howToPlayStep1": "Entre no mundo do Sprunki com interações de zero latência. (Sprunki Remastered)",
+      "howToPlayStep2": "Explore visuais com melhorias retrô e áudio cristalino de 32 bits. (Sprunki Remastered)",
+      "howToPlayStep3": "Interaja com uma comunidade de veteranos e novos integrantes. (Sprunki Remastered)",
+      "keyFeaturesTitle": "Recursos Principais do Sprunki Remastered (Sprunki Remastered)",
+      "feature1Title": "Motor Clássico (Sprunki Remastered)",
+      "feature1Description": "Aproveite um motor clássico com melhorias de poder moderno. (Sprunki Remastered)",
+      "feature2Title": "Visuais Retrô (Sprunki Remastered)",
+      "feature2Description": "Experimente visuais retrô agora na definição 8K. (Sprunki Remastered)",
+      "feature3Title": "Zero Latência (Sprunki Remastered)",
+      "feature3Description": "Maximize sua jogabilidade com respostas de zero latência. (Sprunki Remastered)",
+      "feature4Title": "Renascença da Comunidade (Sprunki Remastered)",
+      "feature4Description": "Junte - se a uma comunidade vibrante misturando o velho e o novo. (Sprunki Remastered)"
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes (Sprunki Remastered)"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo (Sprunki Remastered)"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações (Sprunki Remastered)"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo (Sprunki Remastered)"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos (Sprunki Remastered)",
+      "description": "Todos os Jogos (Sprunki Remastered)",
+      "games": "Jogos (Sprunki Remastered)"
+    }
+  }
+}

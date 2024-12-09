@@ -1,0 +1,67 @@
+{
+  "sprunki-remastered": {
+    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "slogan": "Kembali ke Akar, Tetapi Jadikan menjadi LEGENDARY!",
+    "description": "Sprunki Remastered: Pengalaman asli dibangun kembali dari dasar dengan penyempurnaan ultra - HD.",
+    "Loading": {
+      "title": "Memuat Sprunki Remastered..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Syarat Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah"
+    },
+    "HomeIframe": {
+      "title": "Sprunki Remastered",
+      "description": "Alami Sprunki Remastered, remake legendaris yang membawa ke tingkat berikutnya.",
+      "iframeTitle": "Pratinjau Game - Sprunki Remastered",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL telah disalin ke clipboard!",
+      "downloadGame": "Unduh Sprunki Remastered",
+      "playGame": "Bermain Sprunki Remastered"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Remastered: Fitur",
+      "whatIsTitle": "Apa itu Sprunki Remastered?",
+      "whatIsDescription": "Sprunki Remastered adalah campuran elemen nostalgia dengan pembaruan modern untuk pengalaman segar namun familiar.",
+      "howToPlayTitle": "Cara Bermain Sprunki Remastered",
+      "howToPlayStep1": "Masuk ke dunia Sprunki dengan interaksi tanpa latensi.",
+      "howToPlayStep2": "Jelajahi visual yang diperbarui secara retro dan audio kristal jernih 32 - bit.",
+      "howToPlayStep3": "Bergabung dengan komunitas veteran dan pendatang baru.",
+      "keyFeaturesTitle": "Fitur Utama Sprunki Remastered",
+      "feature1Title": "Mesin Klasik",
+      "feature1Description": "Nikmati mesin klasik dengan peningkatan kekuatan modern.",
+      "feature2Title": "Visual Retro",
+      "feature2Description": "Alami visual retro sekarang dalam definisi 8K.",
+      "feature3Title": "Tanpa Latensi",
+      "feature3Description": "Maksimalkan permainan Anda dengan respon tanpa latensi.",
+      "feature4Title": "Revival Komunitas",
+      "feature4Description": "Bergabung dengan komunitas yang hidup dengan gaya lama dan baru."
+    },
+    "HomeFAQs": {
+      "title": "Pertanyaan Umum"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Bermain"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Game"
+    }
+  }
+}

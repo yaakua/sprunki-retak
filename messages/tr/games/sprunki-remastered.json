@@ -1,0 +1,67 @@
+{
+  "sprunki-remastered": {
+    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "slogan": "Köklerine Dön, Ama Şunu Efsaneye Dönüştür!",
+    "description": "Sprunki Remastered: Temelden yeniden inşa edilen, ultra-HD detaylı orijinal deneyim.",
+    "Loading": {
+      "title": "Sprunki Remastered Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Navigasyon"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Rehber",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Arkadaşlık Bağlantıları"
+    },
+    "HomeIframe": {
+      "title": "Sprunki Remastered (Sprunki Remastered)",
+      "description": "Sprunki Remastered'i Deneyimle, efsaneyen bir yeniden yapım, oyun deneyimini bir sonraki seviyeye taşıyor.",
+      "iframeTitle": "Oyun Önizleme - Sprunki Remastered",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Sprunki Remastered'i İndir",
+      "playGame": "Sprunki Remastered'i Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Remastered: Özellikler",
+      "whatIsTitle": "Sprunki Remastered Nedir?",
+      "whatIsDescription": "Sprunki Remastered, nostaljik unsurlar ile modern güncellemeler birleştirilmiş, yeni ama tanıdık bir deneyim sunuyor.",
+      "howToPlayTitle": "Sprunki Remastered Nasıl Oynanır?",
+      "howToPlayStep1": "Sprunki dünyasına sıfır gecikmeli etkileşimlerle adım atın.",
+      "howToPlayStep2": "Retro artılarla geliştirilmiş görünümleri ve 32-bit kristal berrak sesleri keşfedin.",
+      "howToPlayStep3": "Eski oyuncular ve yeni oyuncuların bir araya geldiği bir topluluğa katılın.",
+      "keyFeaturesTitle": "Sprunki Remastered'in Ana Özellikleri",
+      "feature1Title": "Klasik Motor",
+      "feature1Description": "Modern güç artırımlarıyla klasik bir motoru keyfini çıkarın.",
+      "feature2Title": "Retro Görünümler",
+      "feature2Description": "8K tanımlama ile retro görünümleri deneyimleyin.",
+      "feature3Title": "Sıfır Gecikmeli",
+      "feature3Description": "Sıfır gecikmeli tepkilerle oyun oynayın.",
+      "feature4Title": "Topluluk Dirilişi",
+      "feature4Description": "Eski okul ve yeni havaların karıştığı canlı bir topluluğa katılın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Video"
+    },
+    "HomeRecommendation": {
+      "title": "Öneriler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    }
+  }
+}

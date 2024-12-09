@@ -1,23 +1,37 @@
 [
   {
-    "title": "斯普朗基重製版(Sprunki Retake)",
+    "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "頂級",
+    "category": "最佳",
     "visible": true
   },
   {
-    "title": "小球點擊器(Ball Clicker)",
+    "title": "Ball Clicker (Ball Clicker)",
     "cover": "/games/ball-clicker/game_screenshot.webp",
     "url": "/games/ball-clicker",
-    "category": "頂級",
+    "category": "最佳",
     "visible": true
   },
   {
-    "title": "斯普朗基感染(Sprunki Infected)",
+    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "cover": "/games/sprunki-remastered/game_screenshot.webp",
+    "url": "/games/sprunki-remastered",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Sprunki Infected (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "頂級",
+    "category": "最佳",
+    "visible": true
+  },
+  {
+    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "cover": "/games/sprunki-remastered/game_screenshot.webp",
+    "url": "/games/sprunki-remastered",
+    "category": "",
     "visible": true
   }
 ]

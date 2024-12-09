@@ -1,0 +1,67 @@
+{
+  "sprunki-remastered": {
+    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "slogan": "Quay về Cội Cội, Nhưng Để Nó Bằng Lý Thuyết!",
+    "description": "Sprunki Remastered: Trải nghiệm gốc được xây dựng lại từ đầu với sự hoàn thiện siêu HD.",
+    "Loading": {
+      "title": "Đang tải Sprunki Remastered..."
+    },
+    "Navbar": {
+      "title": "Thanh điều hướng"
+    },
+    "Common": {
+      "createAt": "Tạo tại",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách riêng tư",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Các liên kết thân thiện"
+    },
+    "HomeIframe": {
+      "title": "Trải nghiệm Sprunki Remastered",
+      "description": "Trải nghiệm Sprunki Remastered, bản làm lại huyền thoại đưa nó lên cấp độ tiếp theo.",
+      "iframeTitle": "Xem trước trò chơi - Sprunki Remastered",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đường dẫn đã được sao chép vào clipboard!",
+      "downloadGame": "Tải Sprunki Remastered",
+      "playGame": "Chơi Sprunki Remastered"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Remastered: Tính năng",
+      "whatIsTitle": "Sprunki Remastered là gì?",
+      "whatIsDescription": "Sprunki Remastered là sự kết hợp của các yếu tố nô-đang với các cập nhật hiện đại cho một trải nghiệm tươi mới nhưng vẫn quen thuộc.",
+      "howToPlayTitle": "Cách chơi Sprunki Remastered",
+      "howToPlayStep1": "Bước vào thế giới Sprunki với các tương tác không có độ trễ.",
+      "howToPlayStep2": "Khám phá các hình ảnh được nâng cấp theo phong cách cổ điển và âm thanh trong suốt 32-bit.",
+      "howToPlayStep3": "Tham gia vào cộng đồng người cũ và người mới.",
+      "keyFeaturesTitle": "Tính năng chính của Sprunki Remastered",
+      "feature1Title": "Cơ chế cổ điển",
+      "feature1Description": "Thưởng thức cơ chế cổ điển với các nâng cấp sức mạnh hiện đại.",
+      "feature2Title": "Hình ảnh cổ điển",
+      "feature2Description": "Trải nghiệm hình ảnh cổ điển bây giờ trong định nghĩa 8K.",
+      "feature3Title": "Không có độ trễ",
+      "feature3Description": "Tối đa hóa trò chơi của bạn với các phản hồi không có độ trễ.",
+      "feature4Title": "Sự phục hồi cộng đồng",
+      "feature4Description": "Tham gia vào một cộng đồng năng động kết hợp cổ điển và hiện đại."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    }
+  }
+}

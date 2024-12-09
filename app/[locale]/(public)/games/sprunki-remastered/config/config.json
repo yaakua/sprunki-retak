@@ -1,0 +1,120 @@
+{
+  "name": "Sprunki Remastered",
+  "pagePath": "/games/sprunki-remastered",
+  "pageName": "sprunki-remastered",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://iframegame.com/embed/sprunki-remastered-2/index.html",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": true,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "SwiftGamer123",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/SwiftGamer123.png",
+      "content": "OMG! This game is sooo dope! It's super addictive, like I can't stop playing it! 😎"
+    },
+    {
+      "author": "FuryGamerX",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/FuryGamerX.png",
+      "content": "This game is lit! The graphics are on point and the gameplay is hella fun. 🤩"
+    },
+    {
+      "author": "GamerGirl99",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/GamerGirl99.png",
+      "content": "Whoa! This game is amazing. It has such a unique concept that keeps me engaged all the time. 💯"
+    },
+    {
+      "author": "AceGamer47",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/AceGamer47.png",
+      "content": "Damn! This game is wicked. The controls are so smooth and responsive. It's a blast to play! 😜"
+    },
+    {
+      "author": "ProGamer007",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/ProGamer007.png",
+      "content": "Holy moly! This game is just pure awesomeness. The levels are challenging but not frustrating. 🥳"
+    },
+    {
+      "author": "ShadowGamer8",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/ShadowGamer8.png",
+      "content": "Yay! This game is super cool. The characters are really well - designed. 👍"
+    },
+    {
+      "author": "HyperGamer21",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/HyperGamer21.png",
+      "content": "Oh my god! This game is a real gem. The sound effects are top - notch. 🎧"
+    },
+    {
+      "author": "NinjaGamer11",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/NinjaGamer11.png",
+      "content": "Woohoo! This game rocks. The story mode is really engaging. 😏"
+    },
+    {
+      "author": "LegendGamer55",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/LegendGamer55.png",
+      "content": "Fantastic! This game has such great replayability. I keep coming back for more. 💪"
+    },
+    {
+      "author": "BlazingGamer3",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/BlazingGamer3.png",
+      "content": "Boom! This game is so much fun. It's a must - play for all gamers. 🌟"
+    }
+  ],
+  "isShowRecommendation": false,
+  "isShowRightGames": true,
+  "slogan": "slogan",
+  "domain": "https://sprunkiretake.fun",
+  "icon": "/favicon.ico",
+  "appleIcon": "/apple-touch-icon.png",
+  "gaId": "G-XXXXX222",
+  "clarityId": "",
+  "plausible": "https://app.pageview.app/js/script.js",
+  "friendLinks": [
+    {
+      "title": "spunky game",
+      "url": "https://spunkygame.online"
+    }
+  ],
+  "adsenseClientId": null
+}

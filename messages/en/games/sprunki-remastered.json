@@ -1,0 +1,67 @@
+{
+  "sprunki-remastered": {
+    "title": "Sprunki Remastered",
+    "slogan": "Back to the Roots, But Make it LEGENDARY!",
+    "description": "Sprunki Remastered: The OG experience rebuilt from the ground up with ultra-HD polish.",
+    "Loading": {
+      "title": "Loading Sprunki Remastered..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links"
+    },
+    "HomeIframe": {
+      "title": "Sprunki Remastered",
+      "description": "Experience Sprunki Remastered, the legendary remake taking it to the next level.",
+      "iframeTitle": "Game Preview - Sprunki Remastered",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Sprunki Remastered",
+      "playGame": "Play Sprunki Remastered"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Remastered: Features",
+      "whatIsTitle": "What is Sprunki Remastered?",
+      "whatIsDescription": "Sprunki Remastered is a blend of nostalgic elements with modern updates for a fresh yet familiar experience.",
+      "howToPlayTitle": "How to Play Sprunki Remastered",
+      "howToPlayStep1": "Step into the world of Sprunki with zero-latency interactions.",
+      "howToPlayStep2": "Explore retro-enhanced visuals and 32-bit crystal-clear audio.",
+      "howToPlayStep3": "Engage with a community of veterans and newcomers.",
+      "keyFeaturesTitle": "Key Features of Sprunki Remastered",
+      "feature1Title": "Classic Engine",
+      "feature1Description": "Enjoy a classic engine with modern power enhancements.",
+      "feature2Title": "Retro Visuals",
+      "feature2Description": "Experience retro visuals now in 8K definition.",
+      "feature3Title": "Zero-Latency",
+      "feature3Description": "Maximize your gameplay with zero-latency responses.",
+      "feature4Title": "Community Revival",
+      "feature4Description": "Join a vibrant community mixing old school and new cool."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "sprunki-remastered": {
+    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "slogan": "Retour aux racines, mais en faire un légendaire!",
+    "description": "Sprunki Remastered : L'expérience originale reconstruite de fond en comble avec un fini ultra-HD.",
+    "Loading": {
+      "title": "Chargement de Sprunki Remastered..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens amicaux"
+    },
+    "HomeIframe": {
+      "title": "Sprunki Remastered (Sprunki Remastered)",
+      "description": "Expérience Sprunki Remastered, le remake légendaire qui le porte à un nouveau niveau.",
+      "iframeTitle": "Aperçu du jeu - Sprunki Remastered",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "L'URL a été copiée dans le presse - papier!",
+      "downloadGame": "Télécharger Sprunki Remastered",
+      "playGame": "Jouer à Sprunki Remastered"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Remastered : Caractéristiques",
+      "whatIsTitle": "Qu'est - ce que Sprunki Remastered?",
+      "whatIsDescription": "Sprunki Remastered est un mélange d'éléments nostalgiques avec des mises à jour modernes pour une expérience fraîche mais familière.",
+      "howToPlayTitle": "Comment jouer à Sprunki Remastered",
+      "howToPlayStep1": "Entrez dans le monde de Sprunki avec des interactions sans latence.",
+      "howToPlayStep2": "Explorez des visuels améliorés rétro et un son cristallin 32 - bits.",
+      "howToPlayStep3": "Engagez - vous avec une communauté de vétérans et de nouveaux arrivants.",
+      "keyFeaturesTitle": "Caractéristiques clés de Sprunki Remastered",
+      "feature1Title": "Moteur classique",
+      "feature1Description": "Profitez d'un moteur classique avec des améliorations de puissance modernes.",
+      "feature2Title": "Visuels rétro",
+      "feature2Description": "Expériencez des visuels rétro maintenant en définition 8K.",
+      "feature3Title": "Sans latence",
+      "feature3Description": "Maximisez votre jeu avec des réponses sans latence.",
+      "feature4Title": "Revival communautaire",
+      "feature4Description": "Rejoignez une communauté vibrante mêlant l'ancien et le nouveau."
+    },
+    "HomeFAQs": {
+      "title": "Questions fréquentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires de jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    }
+  }
+}

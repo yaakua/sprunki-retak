@@ -1,23 +1,37 @@
 [
   {
-    "title": "Sprunki Retake（スプルンキ リテイク）",
+    "title": "スプルンキ リテイク（Sprunki Retake）",
     "cover": "/game_screenshot.webp",
     "url": "/",
     "category": "トップ",
     "visible": true
   },
   {
-    "title": "Ball Clicker（ボール クリッカー）",
+    "title": "ボール クリッカー（Ball Clicker）",
     "cover": "/games/ball-clicker/game_screenshot.webp",
     "url": "/games/ball-clicker",
     "category": "トップ",
     "visible": true
   },
   {
-    "title": "Sprunki Infected（スプルンキ インフェクテッド）",
+    "title": "スプルンキ リマスタード（Sprunki Remastered）",
+    "cover": "/games/sprunki-remastered/game_screenshot.webp",
+    "url": "/games/sprunki-remastered",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "スプルンキ インフェクティド（Sprunki Infected）",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
     "category": "トップ",
+    "visible": true
+  },
+  {
+    "title": "スプルンキ リマスタード（Sprunki Remastered）",
+    "cover": "/games/sprunki-remastered/game_screenshot.webp",
+    "url": "/games/sprunki-remastered",
+    "category": "",
     "visible": true
   }
 ]

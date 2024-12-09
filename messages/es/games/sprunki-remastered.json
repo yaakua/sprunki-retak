@@ -1,0 +1,67 @@
+{
+  "sprunki-remastered": {
+    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "slogan": "Volver a las raíces, pero haciéndolo LEGENDARIO!",
+    "description": "Sprunki Remastered: La experiencia original reconstruida desde cero con un acabado Ultra-HD. Bienvenido a SPRUNKI REMASTERED - Volver a las raíces, pero haciéndolo LEGENDARIO! 🌟",
+    "Loading": {
+      "title": "Cargando Sprunki Remastered..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Creado en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amistosos"
+    },
+    "HomeIframe": {
+      "title": "Sprunki Remastered (Sprunki Remastered)",
+      "description": "Experimenta Sprunki Remastered, la legendaria reedición que lo lleva al siguiente nivel. Amigo, agárrate tus auriculares porque SPRUNKI REMASTERED acaba de llegar y es impresionante!",
+      "iframeTitle": "Vista previa del juego - Sprunki Remastered",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "URL copiada al portapapeles!",
+      "downloadGame": "Descargar Sprunki Remastered",
+      "playGame": "Jugar a Sprunki Remastered"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Remastered: Características",
+      "whatIsTitle": "¿Qué es Sprunki Remastered?",
+      "whatIsDescription": "Sprunki Remastered es una mezcla de elementos nostálgicos con actualizaciones modernas para una experiencia fresca pero familiar.",
+      "howToPlayTitle": "Cómo jugar Sprunki Remastered",
+      "howToPlayStep1": "Entra en el mundo de Sprunki con interacciones de cero latencia.",
+      "howToPlayStep2": "Explora visuales mejoradas retro y audio de 32 bits cristalino.",
+      "howToPlayStep3": "Únete a una comunidad de veteranos y nuevos jugadores.",
+      "keyFeaturesTitle": "Características clave de Sprunki Remastered",
+      "feature1Title": "Motor clásico",
+      "feature1Description": "Disfruta de un motor clásico con mejoras de potencia modernas.",
+      "feature2Title": "Visuales retro",
+      "feature2Description": "Experimenta visuales retro ahora en definición 8K.",
+      "feature3Title": "Cero latencia",
+      "feature3Description": "Maximiza tu juego con respuestas de cero latencia.",
+      "feature4Title": "Revivificación de la comunidad",
+      "feature4Description": "Únete a una comunidad vibrante que mezcla lo viejo y lo nuevo y genial."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios de juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    }
+  }
+}

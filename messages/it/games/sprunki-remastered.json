@@ -1,0 +1,67 @@
+{
+  "sprunki-remastered": {
+    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "slogan": "Tornare alle Radici, ma Renderlo LEGENDARIO!",
+    "description": "Sprunki Remastered: L'esperienza originale ricostruita dall'inizio con un finiamento Ultra-HD.",
+    "Loading": {
+      "title": "Caricamento Sprunki Remastered..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla Privacy",
+      "termsOfServices": "Termini di Servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti Amichevoli"
+    },
+    "HomeIframe": {
+      "title": "Sprunki Remastered (Sprunki Remastered)",
+      "description": "Esperienza Sprunki Remastered, il remake leggendario che porta tutto a un nuovo livello.",
+      "iframeTitle": "Anteprima del Gioco - Sprunki Remastered",
+      "fullscreenButton": "Schermo Intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL Copiato negli Appunti!",
+      "downloadGame": "Scarica Sprunki Remastered",
+      "playGame": "Gioca a Sprunki Remastered"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Remastered: Caratteristiche",
+      "whatIsTitle": "Cos'è Sprunki Remastered?",
+      "whatIsDescription": "Sprunki Remastered è una miscela di elementi nostalgici con aggiornamenti moderni per un'esperienza fresca ma familiare.",
+      "howToPlayTitle": "Come Giocare a Sprunki Remastered",
+      "howToPlayStep1": "Entra nel mondo di Sprunki con interazioni a zero latenza.",
+      "howToPlayStep2": "Esplora visivi migliorati in stile retrò e audio cristallino a 32 bit.",
+      "howToPlayStep3": "Interagisci con una comunità di veterani e nuovi arrivati.",
+      "keyFeaturesTitle": "Caratteristiche Principali di Sprunki Remastered",
+      "feature1Title": "Motore Classico",
+      "feature1Description": "Goditi un motore classico con potenziamenti moderni.",
+      "feature2Title": "Visivi in stile Retrò",
+      "feature2Description": "Esperienza visivi retrò ora in definizione 8K.",
+      "feature3Title": "Zero Latenza",
+      "feature3Description": "Massimizza la tua partita con risposte a zero latenza.",
+      "feature4Title": "Rinascita della Comunità",
+      "feature4Description": "Unisciti a una comunità vibrante che mescola vecchio stile e nuovo bello."
+    },
+    "HomeFAQs": {
+      "title": "Domande Frequenti"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del Gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandazioni"
+    },
+    "HomeComments": {
+      "title": "Commenti sui Giochi"
+    },
+    "GamePage": {
+      "title": "Tutti i Giochi",
+      "description": "Tutti i Giochi",
+      "games": "Giochi"
+    }
+  }
+}

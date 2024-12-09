@@ -1,0 +1,67 @@
+{
+  "sprunki-remastered": {
+    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "slogan": "Вернуться к корням, но сделай это ЛЕГЕНДАРНО!",
+    "description": "Sprunki Remastered: Оригинальный опыт, полностью перестроенный с поддержкой Ultra - HD. (Sprunki Remastered)",
+    "Loading": {
+      "title": "Загрузка Sprunki Remastered..."
+    },
+    "Navbar": {
+      "title": "Навигация"
+    },
+    "Common": {
+      "createAt": "Дата создания",
+      "guide": "Руководство",
+      "privacyPolicy": "Политика конфиденциальности",
+      "termsOfServices": "Условия обслуживания",
+      "text": "Содержание",
+      "help": "Помощь",
+      "friendlyLinks": "Дружественные ссылки"
+    },
+    "HomeIframe": {
+      "title": "Sprunki Remastered (Sprunki Remastered)",
+      "description": "Опробуйте Sprunki Remastered, легендарное переосмысление, которое переносит игру на новый уровень. (Sprunki Remastered)",
+      "iframeTitle": "Предварительный просмотр игры - Sprunki Remastered (Sprunki Remastered)",
+      "fullscreenButton": "Полный экран",
+      "shareButton": "Поделиться",
+      "urlCopied": "URL скопирован в буфер обмена!",
+      "downloadGame": "Скачать Sprunki Remastered (Sprunki Remastered)",
+      "playGame": "Играть в Sprunki Remastered (Sprunki Remastered)"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Remastered: Особенности (Sprunki Remastered)",
+      "whatIsTitle": "Что такое Sprunki Remastered? (Sprunki Remastered)",
+      "whatIsDescription": "Sprunki Remastered - это смесь ностальгических элементов с современными обновлениями для свежего, но знакомого опыта. (Sprunki Remastered)",
+      "howToPlayTitle": "Как играть в Sprunki Remastered (Sprunki Remastered)",
+      "howToPlayStep1": "Войти в мир Sprunki с нулевой задержкой взаимодействия. (Sprunki Remastered)",
+      "howToPlayStep2": "Исследовать ретро - улучшенный визуал и 32 - битный звук безупречной четкости. (Sprunki Remastered)",
+      "howToPlayStep3": "Вступить в сообщество ветеранов и новичков. (Sprunki Remastered)",
+      "keyFeaturesTitle": "Основные особенности Sprunki Remastered (Sprunki Remastered)",
+      "feature1Title": "Классический движок (Sprunki Remastered)",
+      "feature1Description": "Наслаждайтесь классическим движком с модернизированным мощностным потенциалом. (Sprunki Remastered)",
+      "feature2Title": "Ретро - визуал (Sprunki Remastered)",
+      "feature2Description": "Опробовать ретро - визуал теперь в 8K разрешении. (Sprunki Remastered)",
+      "feature3Title": "Нулевая задержка (Sprunki Remastered)",
+      "feature3Description": "Максимизировать игровой процесс с нулевой задержкой ответов. (Sprunki Remastered)",
+      "feature4Title": "Возрождение сообщества (Sprunki Remastered)",
+      "feature4Description": "Присоединиться к яркому сообществу, где старый и новый стиль сливаются. (Sprunki Remastered)"
+    },
+    "HomeFAQs": {
+      "title": "Часто задаваемые вопросы"
+    },
+    "HomeRelatedVideo": {
+      "title": "Видео игры"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендации"
+    },
+    "HomeComments": {
+      "title": "Комментарии о игре"
+    },
+    "GamePage": {
+      "title": "Все игры",
+      "description": "Все игры",
+      "games": "Игры"
+    }
+  }
+}

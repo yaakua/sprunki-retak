@@ -1,0 +1,67 @@
+{
+  "sprunki-remastered": {
+    "title": "สปรงกี้ เรมาสเตอร์เด็ด (Sprunki Remastered)",
+    "slogan": "กลับไปที่รากเดิม, แต่ทำให้มันเป็นที่นิยมสุดยอด! (Back to the Roots, But Make it LEGENDARY!)",
+    "description": "สปรงกี้ เรมาสเตอร์เด็ด: ประสบการณ์เดิมที่สร้างใหม่จากต้นตอไปด้วยความคมชัดแบบอัลตรา - HD. (Sprunki Remastered: The OG experience rebuilt from the ground up with ultra - HD polish.)",
+    "Loading": {
+      "title": "กำลังโหลด สปรงกี้ เรมาสเตอร์เด็ด... (Loading Sprunki Remastered...)"
+    },
+    "Navbar": {
+      "title": "นำอา"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ (Create At)",
+      "guide": "คู่มือ (Guide)",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว (Privacy Policy)",
+      "termsOfServices": "เงื่อนไขการให้บริการ (Terms of Services)",
+      "text": "เนื้อหา (Content)",
+      "help": "ความช่วยเหลือ (Help)",
+      "friendlyLinks": "ลิงค์เพื่อนร่วมทาง (Friendly Links)"
+    },
+    "HomeIframe": {
+      "title": "สปรงกี้ เรมาสเตอร์เด็ด (Sprunki Remastered)",
+      "description": "ประสบการณ์สปรงกี้ เรมาสเตอร์เด็ด, การสร้างใหม่ที่นิยมสุดยอดที่พาไปสู่ระดับต่อไป. (Experience Sprunki Remastered, the legendary remake taking it to the next level.)",
+      "iframeTitle": "หน้าตาประกาศเกม - สปรงกี้ เรมาสเตอร์เด็ด (Game Preview - Sprunki Remastered)",
+      "fullscreenButton": "เต็มหน้าจอ (Fullscreen)",
+      "shareButton": "แชร์ (Share)",
+      "urlCopied": "ลิงค์คัดลอกไปยังคลิปบอร์ดแล้ว! (URL copied to clipboard!)",
+      "downloadGame": "ดาวน์โหลด สปรงกี้ เรมาสเตอร์เด็ด (Download Sprunki Remastered)",
+      "playGame": "เล่น สปรงกี้ เรมาสเตอร์เด็ด (Play Sprunki Remastered)"
+    },
+    "HomeFeatures": {
+      "gameTitle": "สปรงกี้ เรมาสเตอร์เด็ด: คุณสมบัติ (Sprunki Remastered: Features)",
+      "whatIsTitle": "สปรงกี้ เรมาสเตอร์เด็ด คืออะไร? (What is Sprunki Remastered?)",
+      "whatIsDescription": "สปรงกี้ เรมาสเตอร์เด็ด คือการผสมผสานองค์ประกอบที่ดึงความคิดถึงอดีตเข้าสู่ปัจจุบันเพื่อสร้างประสบการณ์ใหม่แต่คุ้นเคย. (Sprunki Remastered is a blend of nostalgic elements with modern updates for a fresh yet familiar experience.)",
+      "howToPlayTitle": "วิธีเล่น สปรงกี้ เรมาสเตอร์เด็ด (How to Play Sprunki Remastered)",
+      "howToPlayStep1": "เดินเข้าสู่โลกสปรงกี้ ด้วยการโต้ตอบแบบไร้ความล่าช้า. (Step into the world of Sprunki with zero - latency interactions.)",
+      "howToPlayStep2": "สำรวจภาพแบบรีโทรที่ได้รับการปรับปรุง และเสียงที่ใสชัดแบบ 32 บิต. (Explore retro - enhanced visuals and 32 - bit crystal - clear audio.)",
+      "howToPlayStep3": "เข้าร่วมชุมชนของผู้มีประสบการณ์เดิมและผู้ใหม่เข้ามา. (Engage with a community of veterans and newcomers.)",
+      "keyFeaturesTitle": "คุณสมบัติสำคัญของ สปรงกี้ เรมาสเตอร์เด็ด (Key Features of Sprunki Remastered)",
+      "feature1Title": "เครื่องยนต์คลาสสิก (Classic Engine)",
+      "feature1Description": "เพลิดเพลินกับเครื่องยนต์คลาสสิกที่มีพลังทันสมัยเพิ่มเติม. (Enjoy a classic engine with modern power enhancements.)",
+      "feature2Title": "ภาพแบบรีโทร (Retro Visuals)",
+      "feature2Description": "ประสบการณ์ภาพแบบรีโทรในความละเอียด 8K. (Experience retro visuals now in 8K definition.)",
+      "feature3Title": "ไร้ความล่าช้า (Zero - Latency)",
+      "feature3Description": "เพิ่มประสิทธิภาพการเล่นเกมสูงสุดด้วยการตอบสนองแบบไร้ความล่าช้า. (Maximize your gameplay with zero - latency responses.)",
+      "feature4Title": "ฟื้นฟูชุมชน (Community Revival)",
+      "feature4Description": "เข้าร่วมชุมชนที่มีความชีวิตชมากที่ผสมผสานคนเก่าครั้งและคนใหม่ส์แนว. (Join a vibrant community mixing old school and new cool.)"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย (FAQs)"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม (Game Video)"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ (Recommends)"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นในการเล่น (Play Comments)"
+    },
+    "GamePage": {
+      "title": "ทุกเกม (All Games)",
+      "description": "ทุกเกม (All Games)",
+      "games": "เกม (Games)"
+    }
+  }
+}

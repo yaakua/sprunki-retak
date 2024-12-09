@@ -1,0 +1,67 @@
+{
+  "sprunki-remastered": {
+    "title": "《Sprunki重制版》(Sprunki Remastered)",
+    "slogan": "回歸本源，成就傳奇！",
+    "description": "《Sprunki重制版》：以超高清重制的原創體驗。",
+    "Loading": {
+      "title": "正在載入《Sprunki重制版》..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "創建於",
+      "guide": "指南",
+      "privacyPolicy": "隱私政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情鏈接"
+    },
+    "HomeIframe": {
+      "title": "《Sprunki重制版》",
+      "description": "體驗《Sprunki重制版》，這一傳奇重製版更上一層樓。",
+      "iframeTitle": "遊戲預覽 - 《Sprunki重制版》",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼板！",
+      "downloadGame": "下載《Sprunki重制版》",
+      "playGame": "玩《Sprunki重制版》"
+    },
+    "HomeFeatures": {
+      "gameTitle": "《Sprunki重制版》：特色",
+      "whatIsTitle": "什麼是《Sprunki重制版》？",
+      "whatIsDescription": "《Sprunki重制版》是懷舊元素與現代更新的融合，帶來新鮮又熟悉的體驗。",
+      "howToPlayTitle": "如何玩《Sprunki重制版》",
+      "howToPlayStep1": "零延遲互動進入Sprunki世界。",
+      "howToPlayStep2": "探索復古增強的視覺效果和32位清晰音頻。",
+      "howToPlayStep3": "與老手和新手組成的社區互動。",
+      "keyFeaturesTitle": "《Sprunki重制版》的主要特色",
+      "feature1Title": "經典引擎",
+      "feature1Description": "享受具有現代性能增強的經典引擎。",
+      "feature2Title": "復古視覺效果",
+      "feature2Description": "體驗8K清晰度的復古視覺效果。",
+      "feature3Title": "零延遲",
+      "feature3Description": "以零延遲回應最大化你的遊戲體驗。",
+      "feature4Title": "社區復興",
+      "feature4Description": "加入混合老派和新酷的活躍社區。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲視頻"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "玩家評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    }
+  }
+}

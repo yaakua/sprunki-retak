@@ -1,0 +1,67 @@
+{
+  "sprunki-remastered": {
+    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "slogan": "Zurück zur Wurzel, aber legendär machen!",
+    "description": "Sprunki Remastered: Die originale Erfahrung komplett neu aufgebaut mit Ultra - HD - Aufbereitung.",
+    "Loading": {
+      "title": "Sprunki Remastered wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigationsleiste"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundschaftslinks"
+    },
+    "HomeIframe": {
+      "title": "Sprunki Remastered (Sprunki Remastered)",
+      "description": "Erlebe Sprunki Remastered, die legendäre Neufassung, die es auf die nächste Stufe bringt.",
+      "iframeTitle": "Spiel - Vorschau - Sprunki Remastered",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL wurde in die Zwischenablage kopiert!",
+      "downloadGame": "Sprunki Remastered herunterladen",
+      "playGame": "Sprunki Remastered spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Remastered: Merkmale",
+      "whatIsTitle": "Was ist Sprunki Remastered?",
+      "whatIsDescription": "Sprunki Remastered ist eine Mischung aus nostalgischen Elementen mit modernen Updates für ein frisches und doch vertrautes Erlebnis.",
+      "howToPlayTitle": "So wird Sprunki Remastered gespielt",
+      "howToPlayStep1": "Betrete die Welt von Sprunki mit null - Latenz - Interaktionen.",
+      "howToPlayStep2": "Entdecke retro - verbesserte Visuals und 32 - Bit - kristallklares Audio.",
+      "howToPlayStep3": "Beteilige dich an einer Gemeinschaft von Veteranen und Neulingen.",
+      "keyFeaturesTitle": "Hauptmerkmale von Sprunki Remastered",
+      "feature1Title": "Klassischer Motor",
+      "feature1Description": "Genieße einen klassischen Motor mit modernen Leistungssteigerungen.",
+      "feature2Title": "Retro - Visuals",
+      "feature2Description": "Erlebe retro - Visuals jetzt in 8K - Auflösung.",
+      "feature3Title": "Null - Latenz",
+      "feature3Description": "Maximiere dein Spielverhalten mit null - Latenz - Antworten.",
+      "feature4Title": "Gemeinschaftsrevival",
+      "feature4Description": "Tritt einer lebendigen Gemeinschaft bei, die Alt - Schule und Neues Cool verbindet."
+    },
+    "HomeFAQs": {
+      "title": "Häufig gestellte Fragen"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spiel - Video"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spiel - Kommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "sprunki-remastered": {
+    "title": "Sprunki Remasterizado (Sprunki Remastered)",
+    "slogan": "Volte às raízes, mas faça isso LEGENDÁRIO! (Back to the Roots, But Make it LEGENDARY!)",
+    "description": "Sprunki Remasterizado: A experiência original reconstruída do zero com polimento ultra-HD. (Sprunki Remastered: The OG experience rebuilt from the ground up with ultra - HD polish.)",
+    "Loading": {
+      "title": "Carregando Sprunki Remasterizado... (Loading Sprunki Remastered...)"
+    },
+    "Navbar": {
+      "title": "Navegação (Nav)"
+    },
+    "Common": {
+      "createAt": "Criado em (Create At)",
+      "guide": "Guia (Guide)",
+      "privacyPolicy": "Política de Privacidade (Privacy Policy)",
+      "termsOfServices": "Termos de Serviço (Terms of Services)",
+      "text": "Conteúdo (Content)",
+      "help": "Ajuda (Help)",
+      "friendlyLinks": "Links Amigáveis (Friendly Links)"
+    },
+    "HomeIframe": {
+      "title": "Sprunki Remasterizado (Sprunki Remastered)",
+      "description": "Experimente Sprunki Remasterizado, a remake lendária que leva para o próximo nível. (Experience Sprunki Remastered, the legendary remake taking it to the next level.)",
+      "iframeTitle": "Pré-visualização do Jogo - Sprunki Remasterizado (Game Preview - Sprunki Remastered)",
+      "fullscreenButton": "Tela Cheia (Fullscreen)",
+      "shareButton": "Compartilhar (Share)",
+      "urlCopied": "URL copiada para a área de transferência! (URL copied to clipboard!)",
+      "downloadGame": "Baixar Sprunki Remasterizado (Download Sprunki Remastered)",
+      "playGame": "Jogar Sprunki Remasterizado (Play Sprunki Remastered)"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Remasterizado: Recursos (Sprunki Remastered: Features)",
+      "whatIsTitle": "O que é Sprunki Remasterizado? (What is Sprunki Remastered?)",
+      "whatIsDescription": "Sprunki Remasterizado é uma mistura de elementos nostálgicos com atualizações modernas para uma experiência nova, mas familiar. (Sprunki Remastered is a blend of nostalgic elements with modern updates for a fresh yet familiar experience.)",
+      "howToPlayTitle": "Como Jogar Sprunki Remasterizado (How to Play Sprunki Remastered)",
+      "howToPlayStep1": "Entre no mundo de Sprunki com interações de zero latência. (Step into the world of Sprunki with zero - latency interactions.)",
+      "howToPlayStep2": "Explore visuais melhorados e áudio cristalino de 32 bits. (Explore retro - enhanced visuals and 32 - bit crystal - clear audio.)",
+      "howToPlayStep3": "Interaja com uma comunidade de veteranos e novos jogadores. (Engage with a community of veterans and newcomers.)",
+      "keyFeaturesTitle": "Recursos Principais de Sprunki Remasterizado (Key Features of Sprunki Remastered)",
+      "feature1Title": "Motor Clássico (Classic Engine)",
+      "feature1Description": "Aproveite um motor clássico com melhorias de poder moderno. (Enjoy a classic engine with modern power enhancements.)",
+      "feature2Title": "Visuais Retro (Retro Visuals)",
+      "feature2Description": "Experimente visuais retro agora na definição 8K. (Experience retro visuals now in 8K definition.)",
+      "feature3Title": "Zero Latência (Zero - Latency)",
+      "feature3Description": "Maximize sua jogabilidade com respostas de zero latência. (Maximize your gameplay with zero - latency responses.)",
+      "feature4Title": "Revitalização da Comunidade (Community Revival)",
+      "feature4Description": "Junte - se a uma comunidade vibrante misturando velhos e novos. (Join a vibrant community mixing old school and new cool.)"
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes (FAQs)"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo (Game Video)"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações (Recommends)"
+    },
+    "HomeComments": {
+      "title": "Comentários de Jogadores (Play Comments)"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos (All Games)",
+      "description": "Todos os Jogos (All Games)",
+      "games": "Jogos (Games)"
+    }
+  }
+}

@@ -14,10 +14,24 @@
     "visible": true
   },
   {
+    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "cover": "/games/sprunki-remastered/game_screenshot.webp",
+    "url": "/games/sprunki-remastered",
+    "category": "",
+    "visible": true
+  },
+  {
     "title": "Sprunki Infected (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
     "category": "OBEN",
+    "visible": true
+  },
+  {
+    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "cover": "/games/sprunki-remastered/game_screenshot.webp",
+    "url": "/games/sprunki-remastered",
+    "category": "",
     "visible": true
   }
 ]

@@ -1,0 +1,67 @@
+{
+  "sprunki-remastered": {
+    "title": "스프룬키 리마스터드(Sprunki Remastered)",
+    "slogan": "근본으로 돌아가지만 전설적인 것으로 만들어라!(Back to the Roots, But Make it LEGENDARY!)",
+    "description": "스프룬키 리마스터드: 초고화질로 처음부터 재건된 오리지널 경험입니다.(Sprunki Remastered: The OG experience rebuilt from the ground up with ultra - HD polish.)",
+    "Loading": {
+      "title": "스프룬키 리마스터드 로딩 중...(Loading Sprunki Remastered...)"
+    },
+    "Navbar": {
+      "title": "네비게이션(Nav)"
+    },
+    "Common": {
+      "createAt": "생성 시각(Create At)",
+      "guide": "가이드(Guide)",
+      "privacyPolicy": "개인정보 보호 정책(Privacy Policy)",
+      "termsOfServices": "서비스 약관(Terms of Services)",
+      "text": "내용(Content)",
+      "help": "도움말(Help)",
+      "friendlyLinks": "유용한 링크(Friendly Links)"
+    },
+    "HomeIframe": {
+      "title": "스프룬키 리마스터드(Sprunki Remastered)",
+      "description": "스프룬키 리마스터드, 다음 단계로 이끄는 전설적인 리메이크를 경험하세요.(Experience Sprunki Remastered, the legendary remake taking it to the next level.)",
+      "iframeTitle": "게임 미리보기 - 스프룬키 리마스터드(Game Preview - Sprunki Remastered)",
+      "fullscreenButton": "전체화면(Fullscreen)",
+      "shareButton": "공유(Share)",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!(URL copied to clipboard!)",
+      "downloadGame": "스프룬키 리마스터드 다운로드(Download Sprunki Remastered)",
+      "playGame": "스프룬키 리마스터드 플레이(Play Sprunki Remastered)"
+    },
+    "HomeFeatures": {
+      "gameTitle": "스프룬키 리마스터드: 특징(Sprunki Remastered: Features)",
+      "whatIsTitle": "스프룬키 리마스터드란?(What is Sprunki Remastered?)",
+      "whatIsDescription": "스프룬키 리마스터드는 향수로운 요소와 현대적 업데이트가 혼합되어 새롭지만 친숙한 경험을 제공합니다.(Sprunki Remastered is a blend of nostalgic elements with modern updates for a fresh yet familiar experience.)",
+      "howToPlayTitle": "스프룬키 리마스터드 플레이 방법(How to Play Sprunki Remastered)",
+      "howToPlayStep1": "저지연 상호작용으로 스프룬키의 세계로 들어가세요.(Step into the world of Sprunki with zero - latency interactions.)",
+      "howToPlayStep2": "레트로가 강화된 시각 효과와 32비트 cristal - clear 오디오를 탐험하세요.(Explore retro - enhanced visuals and 32 - bit crystal - clear audio.)",
+      "howToPlayStep3": "경험자와 신규 사용자들의 커뮤니티와 교류하세요.(Engage with a community of veterans and newcomers.)",
+      "keyFeaturesTitle": "스프룬키 리마스터드의 주요 특징(Key Features of Sprunki Remastered)",
+      "feature1Title": "클래식 엔진(Classic Engine)",
+      "feature1Description": "현대적인 성능 향상을 가진 클래식 엔진을 즐기세요.(Enjoy a classic engine with modern power enhancements.)",
+      "feature2Title": "레트로 시각 효과(Retro Visuals)",
+      "feature2Description": "이제 8K 해상도로 레트로 시각 효과를 경험하세요.(Experience retro visuals now in 8K definition.)",
+      "feature3Title": "저지연(Zero - Latency)",
+      "feature3Description": "저지연 응답으로 게임 플레이를 최대화하세요.(Maximize your gameplay with zero - latency responses.)",
+      "feature4Title": "커뮤니티 부활(Community Revival)",
+      "feature4Description": "옛날 스타일과 새로운 멋진 요소가 혼합된 활기찬 커뮤니티에 참여하세요.(Join a vibrant community mixing old school and new cool.)"
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문(FAQs)"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 비디오(Game Video)"
+    },
+    "HomeRecommendation": {
+      "title": "추천(Recommends)"
+    },
+    "HomeComments": {
+      "title": "플레이 댓글(Play Comments)"
+    },
+    "GamePage": {
+      "title": "모든 게임(All Games)",
+      "description": "모든 게임(All Games)",
+      "games": "게임(Games)"
+    }
+  }
+}
