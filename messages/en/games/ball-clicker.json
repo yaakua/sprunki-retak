@@ -1,0 +1,67 @@
+{
+  "ball-clicker": {
+    "title": "Ball Clicker",
+    "slogan": "Click, Bounce, Evolve!",
+    "description": "Experience the mesmerizing world of Ball Clicker",
+    "Loading": {
+      "title": "Loading Ball Clicker..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links"
+    },
+    "HomeIframe": {
+      "title": "Welcome to Ball Clicker",
+      "description": "Get ready to experience the most satisfying ball bouncing game where you spawn vibrant balls inside rotating circles for endless fun!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Ball Clicker - A Mesmerizing Clicker Experience",
+      "whatIsTitle": "What is Ball Clicker?",
+      "whatIsDescription": "Ball Clicker is an incremental clicker game where you spawn vibrant, bouncing balls inside rotating circles. Watch as they transform into dazzling colors and collect valuable rewards as they fall.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Click to generate balls within the rotating circle",
+      "howToPlayStep2": "Keep balls bouncing inside to increase their value",
+      "howToPlayStep3": "Collect rewards and unlock powerful upgrades",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Dynamic Ball Physics",
+      "feature1Description": "Experience realistic ball bouncing and collisions within rotating circles",
+      "feature2Title": "Colorful Transformations",
+      "feature2Description": "Watch balls transform into dazzling colors as they bounce and evolve",
+      "feature3Title": "Strategic Upgrades",
+      "feature3Description": "Unlock powerful upgrades to enhance your ball collection and earnings",
+      "feature4Title": "Progressive Challenge",
+      "feature4Description": "Master multiple rotating circles and increasing difficulty levels"
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    }
+  }
+}

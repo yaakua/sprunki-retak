@@ -1,0 +1,67 @@
+{
+  "ball-clicker": {
+    "title": "ボールクリッカー (Ball Clicker)",
+    "slogan": "クリック、バウンス、進化！",
+    "description": "ボールクリッカーの魅惑的な世界を体験しよう",
+    "Loading": {
+      "title": "ボールクリッカーを読み込んでいます..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "サービス利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "関連リンク"
+    },
+    "HomeIframe": {
+      "title": "ボールクリッカーへようこそ",
+      "description": "回転する円の中に鮮やかなボールを生成し、無限の楽しみのためにバウンスさせる、最も満足感のあるボールバウンスゲームを体験する準備をしましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ボールクリッカー - 魅惑的なクリッカー体験",
+      "whatIsTitle": "ボールクリッカーとは？",
+      "whatIsDescription": "ボールクリッカーは、回転する円の中で鮮やかで跳ねるボールを生成するインクリメンタルクリッカーゲームです。跳ねるときに目を奪う色に変化し、落ちるときに価値のある報酬を集めるのを見ましょう。",
+      "howToPlayTitle": "プレイ方法",
+      "howToPlayStep1": "回転する円の中でボールを生成するためにクリックします",
+      "howToPlayStep2": "ボールが円の中で跳ね続けるようにしてそれらの価値を増加させます",
+      "howToPlayStep3": "報酬を集めて強力なアップグレードをアンロックします",
+      "keyFeaturesTitle": "主要な特徴",
+      "feature1Title": "ダイナミックなボール物理",
+      "feature1Description": "回転する円の中で現実的なボールの跳ねると衝突を体験します",
+      "feature2Title": "カラフルな変化",
+      "feature2Description": "ボールが跳ねて進化するときに目を奪う色に変化するのを見ましょう",
+      "feature3Title": "戦略的なアップグレード",
+      "feature3Description": "強力なアップグレードをアンロックしてボールの収集と収益を強化します",
+      "feature4Title": "段階的なチャレンジ",
+      "feature4Description": "複数の回転する円と難易度が上がるレベルをマスターします"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "全てのゲーム",
+      "description": "全てのゲーム",
+      "games": "ゲーム"
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "ball-clicker": {
+    "ball - clicker": {
+      "title": "Ball Clicker (Ball Clicker)",
+      "slogan": "Clique, Pule, Evolua!",
+      "description": "Experimente o mundo fascinante do Ball Clicker",
+      "Loading": {
+        "title": "Carregando o Ball Clicker..."
+      },
+      "Navbar": {
+        "title": "Navegação"
+      },
+      "Common": {
+        "createAt": "Criado em",
+        "guide": "Guia",
+        "privacyPolicy": "Política de Privacidade",
+        "termsOfServices": "Termos de Serviço",
+        "text": "Conteúdo",
+        "help": "Ajuda",
+        "friendlyLinks": "Links Amigáveis"
+      },
+      "HomeIframe": {
+        "title": "Bem - vindo ao Ball Clicker",
+        "description": "Prepare - se para experimentar o jogo de rebitar bolas mais satisfatório, onde você cria bolas vibrantes dentro de círculos rotativos para uma diversão infinita!",
+        "iframeTitle": "Pré - visualização do Jogo",
+        "fullscreenButton": "Tela Cheia",
+        "shareButton": "Compartilhar",
+        "urlCopied": "URL copiada para a área de transferência!",
+        "downloadGame": "Baixar Jogo",
+        "playGame": "Jogar"
+      },
+      "HomeFeatures": {
+        "gameTitle": "Ball Clicker - Uma Experiência de Clique Fascinante",
+        "whatIsTitle": "O que é o Ball Clicker?",
+        "whatIsDescription": "Ball Clicker é um jogo incremental de clique onde você cria bolas vibrantes e rebitantes dentro de círculos rotativos. Assista enquanto elas se transformam em cores deslumbrantes e colete recompensas valiosas enquanto caem.",
+        "howToPlayTitle": "Como Jogar",
+        "howToPlayStep1": "Clique para gerar bolas dentro do círculo rotativo",
+        "howToPlayStep2": "Mantenha as bolas rebitando dentro para aumentar o seu valor",
+        "howToPlayStep3": "Coleta recompensas e desbloqueie atualizações poderosas",
+        "keyFeaturesTitle": "Recursos Principais",
+        "feature1Title": "Física Dinâmica das Bolas",
+        "feature1Description": "Experimente o rebite e as colisões realísticas das bolas dentro de círculos rotativos",
+        "feature2Title": "Transformações Coloridas",
+        "feature2Description": "Assista as bolas se transformarem em cores deslumbrantes enquanto rebitam e evoluem",
+        "feature3Title": "Atualizações Estratégicas",
+        "feature3Description": "Desbloqueie atualizações poderosas para aumentar a sua coleção de bolas e ganhos",
+        "feature4Title": "Desafio Progressivo",
+        "feature4Description": "Domine vários círculos rotativos e níveis crescentes de dificuldade"
+      },
+      "HomeFAQs": {
+        "title": "Perguntas Frequentes"
+      },
+      "HomeRelatedVideo": {
+        "title": "Vídeo do Jogo"
+      },
+      "HomeRecommendation": {
+        "title": "Recomendações"
+      },
+      "HomeComments": {
+        "title": "Comentários do Jogo"
+      },
+      "GamePage": {
+        "title": "Todos os Jogos",
+        "description": "Todos os Jogos",
+        "games": "Jogos"
+      }
+    }
+  }
+}

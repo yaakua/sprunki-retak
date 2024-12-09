@@ -1,1 +1,34 @@
-[{"question": "What is the objective of the game?", "answer": "Das Ziel des Spiels besteht darin, eigene Musikst\u00fccke durch die Kombination von Beats, Gesang und Melodien zu erstellen."}, {"question": "Is there a multiplayer mode in Sprunki Retake?", "answer": "Nein, Sprunki Retake ist ein Einzelspielermodus."}, {"question": "Can I use Sprunki Retake on my mobile device?", "answer": "Ja, Sprunki Retake ist f\u00fcr mobile Ger\u00e4te optimiert und kann auf iOS- und Android-Ger\u00e4ten gespielt werden."}, {"question": "Are there any in-app purchases in Sprunki Retake?", "answer": "Es gibt keine In-App-K\u00e4ufe in Sprunki Retake. Das Spiel kann komplett kostenlos gespielt werden."}, {"question": "How many characters are available in Sprunki Retake?", "answer": "Es gibt insgesamt 10 Charaktere in Sprunki Retake, jeder mit seinen eigenen einzigartigen Kl\u00e4ngen und F\u00e4higkeiten."}, {"question": "Can I share my music creations on social media?", "answer": "Ja, Sie k\u00f6nnen die Aufzeichnungfunktion in Sprunki Retake verwenden, um Ihr Mix aufzunehmen und auf sozialen Medien zu teilen."}, {"question": "Is there a tutorial or help section in Sprunki Retake?", "answer": "Ja, es gibt einen Tutorial-Bereich in Sprunki Retake, der einen \u00dcberblick \u00fcber die Mechanik und die Steuerung des Spiels bietet."}, {"question": "What makes Sprunki Retake different from the original Incredibox game?", "answer": "Sprunki Retake f\u00fchrt neue Musikstile, Charaktere und visuelle Elemente ein und bietet den Spielern ein erweitertes Musik-Mixing-Erlebnis."}]
+[
+  {
+    "question": "Was ist das Ziel des Spiels?",
+    "answer": "Das Ziel des Spiels besteht darin, eigene Musikstücke zu erstellen, indem man Beats, Gesänge und Melodien kombiniert."
+  },
+  {
+    "question": "Gibt es einen Mehrspielermodus in Sprunki Retake?",
+    "answer": "Nein, Sprunki Retake ist ein Einzelspielerspiel."
+  },
+  {
+    "question": "Kann ich Sprunki Retake auf meinem Mobilgerät verwenden?",
+    "answer": "Ja, Sprunki Retake ist für Mobilgeräte optimiert und kann auf iOS- und Android-Geräten gespielt werden."
+  },
+  {
+    "question": "Gibt es In-App-Käufe in Sprunki Retake?",
+    "answer": "Es gibt keine In-App-Käufe in Sprunki Retake. Das Spiel kann vollständig kostenlos gespielt werden."
+  },
+  {
+    "question": "Wie viele Charaktere gibt es in Sprunki Retake zur Verfügung?",
+    "answer": "Es gibt insgesamt 10 Charaktere in Sprunki Retake, jeder mit seinen eigenen einzigartigen Klängen und Fähigkeiten."
+  },
+  {
+    "question": "Kann ich meine Musikschöpfungen auf sozialen Medien teilen?",
+    "answer": "Ja, Sie können die Aufzeichnungsfunktion in Sprunki Retake verwenden, um Ihren Mix aufzunehmen und auf sozialen Medien zu teilen."
+  },
+  {
+    "question": "Gibt es einen Tutorial- oder Hilfebereich in Sprunki Retake?",
+    "answer": "Ja, es gibt einen Tutorial-Bereich in Sprunki Retake, der einen Überblick über die Spielmechaniken und -steuerungen bietet."
+  },
+  {
+    "question": "Was unterscheidet Sprunki Retake vom ursprünglichen Incredibox-Spiel?",
+    "answer": "Sprunki Retake bringt neue Musikstile, Charaktere und visuelle Elemente ein und bietet den Spielern ein erweitertes Musik-Mixing-Erlebnis."
+  }
+]

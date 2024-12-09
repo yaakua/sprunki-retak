@@ -1,0 +1,69 @@
+{
+  "ball-clicker": {
+    "ball - clicker": {
+      "title": "Ball Clicker (Ball Clicker)",
+      "slogan": "Klik, Lompat, Berkembang!",
+      "description": "Nikmati dunia memukau dari Ball Clicker",
+      "Loading": {
+        "title": "Memuat Ball Clicker..."
+      },
+      "Navbar": {
+        "title": "Navigasi"
+      },
+      "Common": {
+        "createAt": "Dibuat Pada",
+        "guide": "Petunjuk",
+        "privacyPolicy": "Kebijakan Privasi",
+        "termsOfServices": "Syarat dan Ketentuan Layanan",
+        "text": "Konten",
+        "help": "Bantuan",
+        "friendlyLinks": "Tautan Ramah"
+      },
+      "HomeIframe": {
+        "title": "Selamat Datang di Ball Clicker",
+        "description": "Siapkan diri untuk mengalami permainan memantul bola yang paling memuaskan di mana Anda menghasilkan bola - bola berwarna - warni di dalam lingkaran berputar tanpa henti untuk bersenang - senang tanpa batas!",
+        "iframeTitle": "Pratinjau Permainan",
+        "fullscreenButton": "Layar Penuh",
+        "shareButton": "Bagikan",
+        "urlCopied": "URL telah disalin ke clipboard!",
+        "downloadGame": "Unduh Permainan",
+        "playGame": "Main Permainan"
+      },
+      "HomeFeatures": {
+        "gameTitle": "Ball Clicker - Pengalaman Kliker yang Menyemangati",
+        "whatIsTitle": "Apa itu Ball Clicker?",
+        "whatIsDescription": "Ball Clicker adalah permainan kliker bertambah di mana Anda menghasilkan bola - bola berwarna - warni yang memantul di dalam lingkaran berputar. Perhatikan bagaimana mereka berubah menjadi warna - warni yang mempesona dan membawa hadiah berharga ketika mereka jatuh.",
+        "howToPlayTitle": "Cara Bermain",
+        "howToPlayStep1": "Klik untuk menghasilkan bola di dalam lingkaran berputar",
+        "howToPlayStep2": "Jaga bola - bola tetap memantul di dalam untuk meningkatkan nilainya",
+        "howToPlayStep3": "Kumpulkan hadiah dan buka peningkatan yang kuat",
+        "keyFeaturesTitle": "Fitur Utama",
+        "feature1Title": "Fisika Bola Dinamis",
+        "feature1Description": "Nikmati memantul dan tabrakan bola yang realistis di dalam lingkaran berputar",
+        "feature2Title": "Transformasi Berwarna",
+        "feature2Description": "Perhatikan bola - bola berubah menjadi warna - warni yang mempesona saat mereka memantul dan berkembang",
+        "feature3Title": "Peningkatan Strategis",
+        "feature3Description": "Buka peningkatan yang kuat untuk meningkatkan koleksi bola dan penghasilan Anda",
+        "feature4Title": "Tantangan Bertambah",
+        "feature4Description": "Kuasi beberapa lingkaran berputar dan tingkat kesulitan yang meningkat"
+      },
+      "HomeFAQs": {
+        "title": "Pertanyaan Umum"
+      },
+      "HomeRelatedVideo": {
+        "title": "Video Permainan"
+      },
+      "HomeRecommendation": {
+        "title": "Rekomendasi"
+      },
+      "HomeComments": {
+        "title": "Komentar Bermain"
+      },
+      "GamePage": {
+        "title": "Semua Permainan",
+        "description": "Semua Permainan",
+        "games": "Permainan"
+      }
+    }
+  }
+}
