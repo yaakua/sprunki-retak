@@ -1,18 +1,18 @@
 [
   {
-    "title": "All Games",
+    "title": "Todos os Jogos",
     "href": "/games",
     "visible": true,
     "children": []
   },
   {
-    "title": "Sprunki Infected",
+    "title": "Sprunki Infectado",
     "href": "/games/sprunki-infected",
     "visible": true,
     "children": []
   },
   {
-    "title": "Ball Clicker",
+    "title": "Clicador de Bola",
     "href": "/games/ball-clicker",
     "visible": true,
     "children": []

@@ -1,18 +1,18 @@
 [
   {
-    "title": "All Games",
+    "title": "সমস্ত গেম",
     "href": "/games",
     "visible": true,
     "children": []
   },
   {
-    "title": "Sprunki Infected",
+    "title": "স্প্রংকি সংক্রামিত",
     "href": "/games/sprunki-infected",
     "visible": true,
     "children": []
   },
   {
-    "title": "Ball Clicker",
+    "title": "বল ক্লিকার",
     "href": "/games/ball-clicker",
     "visible": true,
     "children": []

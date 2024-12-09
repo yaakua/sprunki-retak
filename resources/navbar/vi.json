@@ -1,18 +1,18 @@
 [
   {
-    "title": "All Games",
+    "title": "Tất cả các trò chơi",
     "href": "/games",
     "visible": true,
     "children": []
   },
   {
-    "title": "Sprunki Infected",
+    "title": "Sprunki bị nhiễm bệnh",
     "href": "/games/sprunki-infected",
     "visible": true,
     "children": []
   },
   {
-    "title": "Ball Clicker",
+    "title": "Nhấn chuột vào bóng",
     "href": "/games/ball-clicker",
     "visible": true,
     "children": []

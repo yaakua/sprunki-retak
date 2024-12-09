@@ -11,9 +11,9 @@
   "gameType": "iframe",
   "gameIframeUrl": "https://games.crazygames.com/en_US/satisfying-ball-clicker/index.html?v=1.313",
   "gameRedirectUrl": "",
-  "bgType": "iframe",
+  "bgType": "video",
   "bgImage": "",
-  "bgVideo": "",
+  "bgVideo": "https://www.youtube-nocookie.com/embed/AHIOLlofNA8?autoplay=1&state=1&undefined",
   "gameDownload": {
     "showDownloadButton": true,
     "downloadUrls": {
@@ -25,7 +25,7 @@
     }
   },
   "isShowFAQs": true,
-  "isShowVideo": true,
+  "isShowVideo": false,
   "isShowGuide": true,
   "videos": [
     {

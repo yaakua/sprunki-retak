@@ -1,18 +1,18 @@
 [
   {
-    "title": "All Games",
+    "title": "所有游戏",
     "href": "/games",
     "visible": true,
     "children": []
   },
   {
-    "title": "Sprunki Infected",
+    "title": "斯普朗基感染",
     "href": "/games/sprunki-infected",
     "visible": true,
     "children": []
   },
   {
-    "title": "Ball Clicker",
+    "title": "小球点击器",
     "href": "/games/ball-clicker",
     "visible": true,
     "children": []

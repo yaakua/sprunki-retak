@@ -1,12 +1,12 @@
 [
   {
-    "title": "All Games",
+    "title": "Semua Permainan",
     "href": "/games",
     "visible": true,
     "children": []
   },
   {
-    "title": "Sprunki Infected",
+    "title": "Sprunki Tertular",
     "href": "/games/sprunki-infected",
     "visible": true,
     "children": []

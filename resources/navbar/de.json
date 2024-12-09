@@ -1,12 +1,12 @@
 [
   {
-    "title": "All Games",
+    "title": "Alle Spiele",
     "href": "/games",
     "visible": true,
     "children": []
   },
   {
-    "title": "Sprunki Infected",
+    "title": "Sprunki Infiziert",
     "href": "/games/sprunki-infected",
     "visible": true,
     "children": []

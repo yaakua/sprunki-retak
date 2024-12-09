@@ -1,18 +1,18 @@
 [
   {
-    "title": "All Games",
+    "title": "ทุกเกม",
     "href": "/games",
     "visible": true,
     "children": []
   },
   {
-    "title": "Sprunki Infected",
+    "title": "Sprunki เป็นโรคติดเชื้อ",
     "href": "/games/sprunki-infected",
     "visible": true,
     "children": []
   },
   {
-    "title": "Ball Clicker",
+    "title": "คลิกบอล",
     "href": "/games/ball-clicker",
     "visible": true,
     "children": []

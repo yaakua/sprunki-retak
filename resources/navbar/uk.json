@@ -1,18 +1,18 @@
 [
   {
-    "title": "All Games",
+    "title": "Усі ігри",
     "href": "/games",
     "visible": true,
     "children": []
   },
   {
-    "title": "Sprunki Infected",
+    "title": "Спрунки-інфектовані",
     "href": "/games/sprunki-infected",
     "visible": true,
     "children": []
   },
   {
-    "title": "Ball Clicker",
+    "title": "Клікер-м'яча",
     "href": "/games/ball-clicker",
     "visible": true,
     "children": []
