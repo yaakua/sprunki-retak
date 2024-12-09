@@ -24,7 +24,8 @@
     "fullscreenButton": "Tam Ekran",
     "shareButton": "Paylaş",
     "urlCopied": "URL panoya kopyalandı!",
-    "downloadGame": "Sprunki Retake'ı İndir"
+    "downloadGame": "Sprunki Retake'ı İndir",
+    "playGame": "Oyun Oyna"
   },
   "HomeFeatures": {
     "gameTitle": "Sprunki Retake: Yeni Bir Müzik Yolculuğu ($Sprunki Retake: A New Musical Journey)",
@@ -55,5 +56,10 @@
   },
   "HomeComments": {
     "title": "Sprunki Retake Hakkında Yorumlar"
+  },
+  "GamePage": {
+    "title": "All Games",
+    "description": "All Games",
+    "games": "Games"
   }
 }

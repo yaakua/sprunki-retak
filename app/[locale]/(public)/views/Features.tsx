@@ -11,18 +11,20 @@ export default async function Features({pageName}:{pageName:string}) {
       <h2 className="text-2xl md:text-5xl font-bold text-left mb-8 text-yellow-300 font-leckerli">{t('gameTitle')}</h2>
 
       <div className="flex flex-row mb-8 items-center">
-        <section className="flex-grow pr-8">
+        <section className="flex-1 pr-8">
           <h2 className="text-2xl md:text-3xl font-semibold mb-4 text-teal-300 font-leckerli">{t('whatIsTitle')}</h2>
           <p className="text-gray-200">{t('whatIsDescription')}</p>
         </section>
         <div className="flex-shrink-0 w-1/3">
-          <Image
-            src={game_screenshot_path}
-            alt="Game screenshot"
-            width={580}
-            height={370}
-            className="rounded-lg shadow-md w-full h-auto"
-          />
+          <div className="bg-gray-800/50 rounded-2xl p-1">
+            <div className="h-[250px] overflow-hidden rounded-xl">
+              <img
+                src={game_screenshot_path}
+                alt="Game screenshot"
+                className="w-full h-full object-cover object-top rounded-xl"
+              />
+            </div>
+          </div>
         </div>
       </div>
 

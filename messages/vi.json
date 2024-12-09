@@ -24,7 +24,8 @@
     "fullscreenButton": "Toàn màn hình",
     "shareButton": "Chia sẻ",
     "urlCopied": "Đường dẫn đã được sao chép vào clipboard!",
-    "downloadGame": "Tải xuống Sprunki Retake"
+    "downloadGame": "Tải xuống Sprunki Retake",
+    "playGame": "Ch i game"
   },
   "HomeFeatures": {
     "gameTitle": "Sprunki Retake: Một cuộc hành trình âm nhạc mới ($Sprunki Retake)",
@@ -55,5 +56,10 @@
   },
   "HomeComments": {
     "title": "Các bình luận về Sprunki Retake"
+  },
+  "GamePage": {
+    "title": "All Games",
+    "description": "All Games",
+    "games": "Games"
   }
 }

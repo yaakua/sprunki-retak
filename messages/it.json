@@ -24,7 +24,8 @@
     "fullscreenButton": "Schermo intero",
     "shareButton": "Condividi",
     "urlCopied": "URL copiato negli appunti!",
-    "downloadGame": "Scarica Sprunki Retake"
+    "downloadGame": "Scarica Sprunki Retake",
+    "playGame": "Gioca"
   },
   "HomeFeatures": {
     "gameTitle": "Sprunki Retake: Un nuovo viaggio musicale ($Sprunki Retake)",
@@ -55,5 +56,10 @@
   },
   "HomeComments": {
     "title": "Commenti su Sprunki Retake"
+  },
+  "GamePage": {
+    "title": "Tutti i giochi",
+    "description": "Tutti i giochi",
+    "games": "Giochi"
   }
 }

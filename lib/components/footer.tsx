@@ -12,7 +12,7 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
   const pathname = usePathname();
   const locale = useLocale();
   // 从pathname中移除当前locale前缀
-  const cleanPathname = pathname.replace(`/${locale}`, '');
+  const cleanPathname = pathname.replace(new RegExp(`^/${locale}`), '');
   const buildLocaleLinks = (key: string, name: string) => {
     if (key === 'en') {
       return (
@@ -100,7 +100,7 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
         {/* 底部版权信息 */}
         <div className="pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-gray-400">© 2024 {siteConfig.name} All rights reserved.</p>
+            <p className="text-gray-400"> 2024 {siteConfig.name} All rights reserved.</p>
             <div className="flex flex-wrap gap-4">
               {siteConfig.friendLinks.map((link: any) => (
                 <Link key={link.title} href={link.url} className="text-gray-400 hover:text-primary-200">

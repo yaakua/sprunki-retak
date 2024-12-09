@@ -25,7 +25,8 @@
       "fullscreenButton": "เต็มหน้าจอ",
       "shareButton": "แชร์",
       "urlCopied": "ลิงก์คัดลอกไปยังคลิปบอร์ดแล้ว!",
-      "downloadGame": "ดาวน์โหลดเกม"
+      "downloadGame": "ดาวน์โหลดเกม",
+      "playGame": "เล่นเกม"
     },
     "HomeFeatures": {
       "gameTitle": "สปรงกี้ อินเฟ็คต์: ความท้าทายยอดเยี่ยม",
@@ -56,6 +57,11 @@
     },
     "HomeComments": {
       "title": "ความคิดเห็นในการเล่น"
+    },
+    "GamePage": {
+      "title": "ทุกเกม",
+      "description": "ทุกเกม",
+      "games": "เกม"
     }
   }
 }

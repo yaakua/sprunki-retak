@@ -24,7 +24,8 @@
     "fullscreenButton": "Полный экран",
     "shareButton": "Поделиться",
     "urlCopied": "URL скопирован в буфер обмена!",
-    "downloadGame": "Скачать Sprunki Retake"
+    "downloadGame": "Скачать Sprunki Retake",
+    "playGame": "Играть в игру"
   },
   "HomeFeatures": {
     "gameTitle": "Sprunki Retake: Новое музыкальное путешествие ($Sprunki Retake)",
@@ -55,5 +56,10 @@
   },
   "HomeComments": {
     "title": "Комментарии о Sprunki Retake"
+  },
+  "GamePage": {
+    "title": "Все игры",
+    "description": "Все игры",
+    "games": "Игры"
   }
 }

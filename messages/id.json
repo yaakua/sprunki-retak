@@ -24,7 +24,8 @@
     "fullscreenButton": "Layar Penuh",
     "shareButton": "Bagikan",
     "urlCopied": "URL telah disalin ke clipboard!",
-    "downloadGame": "Unduh Sprunki Retake ($Sprunki Retake)"
+    "downloadGame": "Unduh Sprunki Retake ($Sprunki Retake)",
+    "playGame": "Mainkan Permainan"
   },
   "HomeFeatures": {
     "gameTitle": "Sprunki Retake: Perjalanan Musik Baru ($Sprunki Retake)",
@@ -55,5 +56,10 @@
   },
   "HomeComments": {
     "title": "Komentar tentang Sprunki Retake ($Sprunki Retake)"
+  },
+  "GamePage": {
+    "title": "Semua Permainan",
+    "description": "Semua Permainan",
+    "games": "Permainan"
   }
 }

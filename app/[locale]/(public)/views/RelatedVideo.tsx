@@ -24,7 +24,7 @@ export default  function RelatedVideo({pageName,siteConfig}:{pageName:string,sit
           {videos.map(({ url, title }: { url: string, title: string }, index: number) => (
             <Card key={index} className="border-none rounded-lg">
               <CardContent className="p-0">
-                <div className="aspect-video">
+                <div className="aspect-video rounded-lg">
                   <ReactPlayer
                     url={url}
                     width="100%"

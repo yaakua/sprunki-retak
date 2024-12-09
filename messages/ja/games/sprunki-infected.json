@@ -25,7 +25,8 @@
       "fullscreenButton": "全画面",
       "shareButton": "共有",
       "urlCopied": "URLがクリップボードにコピーされました！",
-      "downloadGame": "ゲームをダウンロード"
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
     },
     "HomeFeatures": {
       "gameTitle": "スプルンキ・インフェクティド: 究極の挑戦",
@@ -56,6 +57,11 @@
     },
     "HomeComments": {
       "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
     }
   }
 }

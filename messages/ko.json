@@ -24,7 +24,8 @@
     "fullscreenButton": "전체화면",
     "shareButton": "공유",
     "urlCopied": "URL이 클립보드에 복사되었습니다!",
-    "downloadGame": "스프런키 리테이크 다운로드"
+    "downloadGame": "스프런키 리테이크 다운로드",
+    "playGame": "게임하기"
   },
   "HomeFeatures": {
     "gameTitle": "스프런키 리테이크: 새로운 음악 여행 ($Sprunki Retake: A New Musical Journey)",
@@ -55,5 +56,10 @@
   },
   "HomeComments": {
     "title": "스프런키 리테이크에 대한 댓글"
+  },
+  "GamePage": {
+    "title": "모든 게임",
+    "description": "모든 게임",
+    "games": "게임"
   }
 }

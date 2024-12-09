@@ -25,7 +25,8 @@
       "fullscreenButton": "Повний екран",
       "shareButton": "Поділитися",
       "urlCopied": "Посилання скопійовано до буфера обміну!",
-      "downloadGame": "Завантажити гру"
+      "downloadGame": "Завантажити гру",
+      "playGame": "Грати у гру"
     },
     "HomeFeatures": {
       "gameTitle": "Інфікований Sprunki: Максимальний виклик",
@@ -56,6 +57,11 @@
     },
     "HomeComments": {
       "title": "Коментарі про гру"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
     }
   }
 }

@@ -24,7 +24,8 @@
     "fullscreenButton": "เต็มหน้าจอ",
     "shareButton": "แชร์",
     "urlCopied": "URL ถูกคัดลอกไปยังคลิปบอร์ดแล้ว!",
-    "downloadGame": "ดาวน์โหลด Sprunki Retake"
+    "downloadGame": "ดาวน์โหลด Sprunki Retake",
+    "playGame": "เล่นเกม"
   },
   "HomeFeatures": {
     "gameTitle": "Sprunki Retake: การเดินทางดนตรีใหม่ ($Sprunki Retake)",
@@ -55,5 +56,10 @@
   },
   "HomeComments": {
     "title": "ความคิดเห็นเกี่ยวกับ Sprunki Retake"
+  },
+  "GamePage": {
+    "title": "ทุกเกม",
+    "description": "ทุกเกม",
+    "games": "เกม"
   }
 }

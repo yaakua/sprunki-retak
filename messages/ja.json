@@ -24,7 +24,8 @@
     "fullscreenButton": "全画面",
     "shareButton": "共有",
     "urlCopied": "URLがクリップボードにコピーされました！",
-    "downloadGame": "スプルンキ・リテイクをダウンロード"
+    "downloadGame": "スプルンキ・リテイクをダウンロード",
+    "playGame": "ゲームをプレイ"
   },
   "HomeFeatures": {
     "gameTitle": "スプルンキ・リテイク: 新しい音楽の旅 ($Sprunki Retake: A New Musical Journey)",
@@ -55,5 +56,10 @@
   },
   "HomeComments": {
     "title": "スプルンキ・リテイクに関するコメント"
+  },
+  "GamePage": {
+    "title": "すべてのゲーム",
+    "description": "すべてのゲーム",
+    "games": "ゲーム"
   }
 }

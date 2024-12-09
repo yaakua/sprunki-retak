@@ -25,7 +25,8 @@
       "fullscreenButton": "Fullscreen",
       "shareButton": "Share",
       "urlCopied": "URL copied to clipboard!",
-      "downloadGame": "Download Game"
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
     },
     "HomeFeatures": {
       "gameTitle": "Sprunki Infected: The Ultimate Challenge",
@@ -56,6 +57,11 @@
     },
     "HomeComments": {
       "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
     }
   }
 }

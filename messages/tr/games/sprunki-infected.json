@@ -25,7 +25,8 @@
       "fullscreenButton": "Tam Ekran",
       "shareButton": "Paylaş",
       "urlCopied": "URL panoya kopyalandı!",
-      "downloadGame": "Oyun'u İndir"
+      "downloadGame": "Oyun'u İndir",
+      "playGame": "Oyun Oyna"
     },
     "HomeFeatures": {
       "gameTitle": "Sprunki Infected: Son Sınav",
@@ -56,6 +57,11 @@
     },
     "HomeComments": {
       "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
     }
   }
 }

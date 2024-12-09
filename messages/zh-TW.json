@@ -24,7 +24,8 @@
     "fullscreenButton": "全屏",
     "shareButton": "分享",
     "urlCopied": "URL已複製到剪貼板！",
-    "downloadGame": "下載《Sprunki Retake》"
+    "downloadGame": "下載《Sprunki Retake》",
+    "playGame": "遊玩遊戲"
   },
   "HomeFeatures": {
     "gameTitle": "《Sprunki Retake》：全新的音樂之旅",
@@ -55,5 +56,10 @@
   },
   "HomeComments": {
     "title": "關於《Sprunki Retake》的評論"
+  },
+  "GamePage": {
+    "title": "All Games",
+    "description": "All Games",
+    "games": "Games"
   }
 }

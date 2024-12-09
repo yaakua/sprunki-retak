@@ -115,3 +115,137 @@
   grid-template-columns: repeat(2, 1fr);
   gap: 8px;
 }
+
+@layer components {
+  .NavigationMenuContent {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    animation-duration: 250ms;
+    animation-timing-function: ease;
+    margin-top: 8px;
+  }
+
+  .NavigationMenuContent[data-motion="from-start"] {
+    animation-name: enterFromLeft;
+  }
+
+  .NavigationMenuContent[data-motion="from-end"] {
+    animation-name: enterFromRight;
+  }
+
+  .NavigationMenuContent[data-motion="to-start"] {
+    animation-name: exitToLeft;
+  }
+
+  .NavigationMenuContent[data-motion="to-end"] {
+    animation-name: exitToRight;
+  }
+
+  @keyframes enterFromRight {
+    from {
+      opacity: 0;
+      transform: translateX(calc(-50% + 200px));
+    }
+    to {
+      opacity: 1;
+      transform: translateX(-50%);
+    }
+  }
+
+  @keyframes enterFromLeft {
+    from {
+      opacity: 0;
+      transform: translateX(calc(-50% - 200px));
+    }
+    to {
+      opacity: 1;
+      transform: translateX(-50%);
+    }
+  }
+
+  @keyframes exitToRight {
+    from {
+      opacity: 1;
+      transform: translateX(-50%);
+    }
+    to {
+      opacity: 0;
+      transform: translateX(calc(-50% + 200px));
+    }
+  }
+
+  @keyframes exitToLeft {
+    from {
+      opacity: 1;
+      transform: translateX(-50%);
+    }
+    to {
+      opacity: 0;
+      transform: translateX(calc(-50% - 200px));
+    }
+  }
+}
+
+@layer utilities {
+  @keyframes enterFromRight {
+    from {
+      opacity: 0;
+      transform: translateX(200px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes enterFromLeft {
+    from {
+      opacity: 0;
+      transform: translateX(-200px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  @keyframes exitToRight {
+    from {
+      opacity: 1;
+      transform: translateX(0);
+    }
+    to {
+      opacity: 0;
+      transform: translateX(200px);
+    }
+  }
+
+  @keyframes exitToLeft {
+    from {
+      opacity: 1;
+      transform: translateX(0);
+    }
+    to {
+      opacity: 0;
+      transform: translateX(-200px);
+    }
+  }
+
+  .animate-enterFromLeft {
+    animation: enterFromLeft 250ms ease;
+  }
+
+  .animate-enterFromRight {
+    animation: enterFromRight 250ms ease;
+  }
+
+  .animate-exitToLeft {
+    animation: exitToLeft 250ms ease;
+  }
+
+  .animate-exitToRight {
+    animation: exitToRight 250ms ease;
+  }
+}

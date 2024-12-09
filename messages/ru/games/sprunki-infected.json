@@ -25,7 +25,8 @@
       "fullscreenButton": "Полный экран",
       "shareButton": "Поделиться",
       "urlCopied": "URL скопирован в буфер обмена!",
-      "downloadGame": "Скачать игру"
+      "downloadGame": "Скачать игру",
+      "playGame": "Играть в игру"
     },
     "HomeFeatures": {
       "gameTitle": "Зараженный Sprunki: Максимальное испытание",
@@ -56,6 +57,11 @@
     },
     "HomeComments": {
       "title": "Комментарии к игре"
+    },
+    "GamePage": {
+      "title": "Все игры",
+      "description": "Все игры",
+      "games": "Игры"
     }
   }
 }

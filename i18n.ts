@@ -56,7 +56,7 @@ export default getRequestConfig(async ({ requestLocale }) => {
     // 遍历加载所有新游戏翻译文件
     for(const gamePath of gameMessages[locale as keyof typeof gameMessages] || []){
       try {
-        const gameTranslations = (await import(`./messages/${locale}/games/${gamePath}`)).default;
+        const gameTranslations = (await import(`./messages/${locale}${gamePath}`)).default;
         messages = {
           ...messages,
           ...gameTranslations

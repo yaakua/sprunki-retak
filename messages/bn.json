@@ -24,7 +24,8 @@
     "fullscreenButton": "পূর্ণস্ক্রিন",
     "shareButton": "শেয়ার করুন",
     "urlCopied": "ইউআরএল ক্লিপবোর্ডে কপি করা হয়েছে!",
-    "downloadGame": "স্প্রংকি রিটেক ডাউনলোড করুন"
+    "downloadGame": "স্প্রংকি রিটেক ডাউনলোড করুন",
+    "playGame": "গেম খেলুন"
   },
   "HomeFeatures": {
     "gameTitle": "স্প্রংকি রিটেক: একটি নতুন সংগীতের যাত্রা ($Sprunki Retake: A New Musical Journey)",
@@ -55,5 +56,10 @@
   },
   "HomeComments": {
     "title": "স্প্রংকি রিটেকের উপর মন্তব্য"
+  },
+  "GamePage": {
+    "title": "সমস্ত গেম",
+    "description": "সমস্ত গেম",
+    "games": "গেম"
   }
 }

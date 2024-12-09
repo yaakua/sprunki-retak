@@ -1,7 +1,11 @@
 import MdxArticle from '@/lib/components/mdx-article';
-import { locales } from '@/lib/i18n/locales';
+import { host, locales } from '@/lib/i18n/locales';
 import matter from 'gray-matter';
+import { getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
+import { siteConfig } from '@/lib/config/site';
+import { Metadata } from 'next';
+import { alternatesLanguage } from '@/lib/i18n/locales';
 const components: any = {
   img: ({ src, alt }: { src: string; alt: string }) => {
     return <img src={src} alt={alt} className="object-cover" />;
@@ -10,6 +14,26 @@ const components: any = {
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+  const t = await getTranslations();
+  const { locale } = await params;
+    // 直接导入 MDX 文件的原始内容
+    let Content;
+    try {
+      Content = (await import(`!!raw-loader!./${locale}.mdx`)).default;
+    } catch (error) {
+      Content = (await import(`!!raw-loader!./en.mdx`)).default;
+    }
+    const { content, data: frontMatter } = matter(Content);
+  return {
+    title: `${frontMatter.title} | ${siteConfig.name}`,
+    description: frontMatter.description,
+    alternates: {
+      canonical: `${host}/terms-of-services`,
+    },
+  };
 }
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {

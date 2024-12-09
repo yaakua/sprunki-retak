@@ -25,7 +25,8 @@
       "fullscreenButton": "পূর্ণ-স্ক্রীন",
       "shareButton": "শেয়ার",
       "urlCopied": "ইউআরএল ক্লিপবোর্ডে কপি করা হয়েছে!",
-      "downloadGame": "গেম ডাউনলোড করুন"
+      "downloadGame": "গেম ডাউনলোড করুন",
+      "playGame": "গেম খেলুন"
     },
     "HomeFeatures": {
       "gameTitle": "স্প্রংকি ইনফেক্টেড: চূড়ান্ত চ্যালেঞ্জ",
@@ -56,6 +57,11 @@
     },
     "HomeComments": {
       "title": "খেলার মন্তব্য"
+    },
+    "GamePage": {
+      "title": "সমস্ত গেম",
+      "description": "সমস্ত গেম",
+      "games": "গেম"
     }
   }
 }

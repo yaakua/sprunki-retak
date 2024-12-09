@@ -25,7 +25,8 @@
       "fullscreenButton": "Tela Cheia",
       "shareButton": "Compartilhar",
       "urlCopied": "URL copiada para a área de transferência!",
-      "downloadGame": "Baixar Jogo"
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
     },
     "HomeFeatures": {
       "gameTitle": "Sprunki Infected: O Desafio Final ($Sprunki Infected: The Ultimate Challenge)",
@@ -56,6 +57,11 @@
     },
     "HomeComments": {
       "title": "Comentários de Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
     }
   }
 }

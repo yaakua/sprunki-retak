@@ -25,7 +25,8 @@
       "fullscreenButton": "Plein écran",
       "shareButton": "Partager",
       "urlCopied": "L'URL a été copiée dans le presse-papiers!",
-      "downloadGame": "Télécharger le jeu"
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
     },
     "HomeFeatures": {
       "gameTitle": "Sprunki Infected : Le défi ultime (Sprunki Infected)",
@@ -56,6 +57,11 @@
     },
     "HomeComments": {
       "title": "Commentaires de jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
     }
   }
 }
