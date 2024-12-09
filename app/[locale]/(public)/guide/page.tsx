@@ -40,7 +40,6 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
     // 直接导入 MDX 文件的原始内容
     let Content;
     try {
-      console.log("###locale#####",locale);
       Content = (await import(`!!raw-loader!./${locale}.mdx`)).default;
     } catch (error) {
       Content = (await import(`!!raw-loader!./en.mdx`)).default;

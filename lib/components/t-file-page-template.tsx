@@ -4,6 +4,8 @@ import { alternatesLanguage, locales,host } from '@/lib/i18n/locales';
 import matter from 'gray-matter';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
+import fs from 'fs';
+import path from 'path';
 const components: any = {
   img: ({src, alt}: { src: string, alt: string }) => {
       return <img src={src} alt={alt} className="object-cover"/>
@@ -21,8 +23,6 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     let hasOther = false;
     try {
       // Check if other locale files exist
-      const fs = require('fs');
-      const path = require('path');
       const currentDir = path.dirname(__filename);
       const mdxFiles = fs.readdirSync(currentDir).filter((file: string) => file.endsWith('.mdx'));
       hasOther = mdxFiles.some((file: string) => file !== 'en.mdx');
