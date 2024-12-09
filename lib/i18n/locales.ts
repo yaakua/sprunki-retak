@@ -95,4 +95,8 @@ export function alternatesCanonical(locale: string, subPath: string, page?: stri
 }
 
 export const port = process.env.PORT || 8000;
-export const host = process.env.UE_WEB_URL ? `${process.env.UE_WEB_URL}` : `http://localhost:${port}`;
+export const host = process.env.UE_WEB_URL
+  ? process.env.UE_WEB_URL.startsWith('https://') 
+    ? process.env.UE_WEB_URL 
+    : `https://${process.env.UE_WEB_URL}`
+  : `http://localhost:${port}`;

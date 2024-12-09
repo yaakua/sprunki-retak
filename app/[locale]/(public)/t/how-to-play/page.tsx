@@ -35,7 +35,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     // 获取当前文件所在的父级目录名称
     const pathSegments = __filename.split('/');
     const parentDirName = pathSegments[pathSegments.length - 2];
-    let slug = frontMatter.slug??parentDirName
+    let slug = parentDirName
     if(!slug.startsWith('/')){
       slug = `/t/${slug}`
     }

@@ -25,7 +25,7 @@
       }
     },
     "isShowFAQs": true,
-    "isShowVideo": true,
+    "isShowVideo": false,
     "isShowGuide": true,
     "videos": [
       {
