@@ -16,5 +16,11 @@
     "href": "/games/ball-clicker",
     "visible": true,
     "children": []
+  },
+  {
+    "title": "Sprunki Remastered",
+    "href": "/games/sprunki-remastered",
+    "visible": true,
+    "children": []
   }
 ]

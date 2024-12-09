@@ -6,14 +6,20 @@
     "children": []
   },
   {
-    "title": "Sprunki Infected",
+    "title": "Sprunki Infecté",
     "href": "/games/sprunki-infected",
     "visible": true,
     "children": []
   },
   {
-    "title": "Ball Clicker",
+    "title": "Clic sur la balle",
     "href": "/games/ball-clicker",
+    "visible": true,
+    "children": []
+  },
+  {
+    "title": "Sprunki Remasterisé",
+    "href": "/games/sprunki-remastered",
     "visible": true,
     "children": []
   }

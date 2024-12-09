@@ -6,7 +6,7 @@
     "children": []
   },
   {
-    "title": "スプランキ感染",
+    "title": "スプルンキ感染",
     "href": "/games/sprunki-infected",
     "visible": true,
     "children": []
@@ -14,6 +14,12 @@
   {
     "title": "ボールクリッカー",
     "href": "/games/ball-clicker",
+    "visible": true,
+    "children": []
+  },
+  {
+    "title": "スプルンキ リマスター版",
+    "href": "/games/sprunki-remastered",
     "visible": true,
     "children": []
   }

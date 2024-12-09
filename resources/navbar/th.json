@@ -6,7 +6,7 @@
     "children": []
   },
   {
-    "title": "Sprunki เป็นโรคติดเชื้อ",
+    "title": "สปรังกี้ ติดเชื้อ",
     "href": "/games/sprunki-infected",
     "visible": true,
     "children": []
@@ -14,6 +14,12 @@
   {
     "title": "คลิกบอล",
     "href": "/games/ball-clicker",
+    "visible": true,
+    "children": []
+  },
+  {
+    "title": "สปรังกี้ แบบรีแมสเตอร์",
+    "href": "/games/sprunki-remastered",
     "visible": true,
     "children": []
   }

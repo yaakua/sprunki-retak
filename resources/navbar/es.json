@@ -12,8 +12,14 @@
     "children": []
   },
   {
-    "title": "Haz clic en la bola",
+    "title": "Clickeador de Bola",
     "href": "/games/ball-clicker",
+    "visible": true,
+    "children": []
+  },
+  {
+    "title": "Sprunki Remasterizado",
+    "href": "/games/sprunki-remastered",
     "visible": true,
     "children": []
   }

@@ -12,8 +12,14 @@
     "children": []
   },
   {
-    "title": "Ball Clicker",
+    "title": "Kugel-Klicker",
     "href": "/games/ball-clicker",
+    "visible": true,
+    "children": []
+  },
+  {
+    "title": "Sprunki Neuaufnahme",
+    "href": "/games/sprunki-remastered",
     "visible": true,
     "children": []
   }

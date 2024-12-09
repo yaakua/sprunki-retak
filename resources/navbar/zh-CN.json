@@ -6,7 +6,7 @@
     "children": []
   },
   {
-    "title": "斯普朗基感染",
+    "title": "感染的斯普朗基",
     "href": "/games/sprunki-infected",
     "visible": true,
     "children": []
@@ -14,6 +14,12 @@
   {
     "title": "小球点击器",
     "href": "/games/ball-clicker",
+    "visible": true,
+    "children": []
+  },
+  {
+    "title": "斯普朗基重制版",
+    "href": "/games/sprunki-remastered",
     "visible": true,
     "children": []
   }
