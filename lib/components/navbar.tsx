@@ -138,7 +138,6 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
             className="flex items-center space-x-2 group"
           >
             <Image
-            //@ts-ignore
               src={logoUrl}
               className="h-14 w-auto rounded-xl"
               alt={`${t('title')} logo`}
