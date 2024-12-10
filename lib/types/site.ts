@@ -105,4 +105,6 @@ export interface SiteConfig {
   isShowRightGames?: boolean;
   friendLinks: FriendLinkItem[];
   adsenseClientId?: string | null;
+  // logo 地址
+  logoUrl?: string;
 }

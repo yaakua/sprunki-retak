@@ -114,5 +114,7 @@
   "isShowRightGames": false,
   "adsenseClientId": null,
   "adsTxtContent": null,
-  "logoUrl": "/customer-logo.png"
+  "faviconBgColor": "#424242",
+  "faviconTextColor": "#ff9800",
+  "faviconText": "S2"
 }

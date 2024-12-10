@@ -37,6 +37,7 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
         : [...prev, title]
     );
   };
+  const logoUrl = siteConfig.logoUrl ? siteConfig.logoUrl : '/logo.svg'
 
   return (
     <header className="sticky top-0 z-50 w-full border-b border-gray-700 bg-[rgb(27,44,65)] shadow-lg shadow-black/20">
@@ -138,7 +139,7 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
           >
             <Image
             //@ts-ignore
-              src={siteConfig['logoUrl']??'/logo.svg'}
+              src={logoUrl}
               className="h-14 w-auto rounded-xl"
               alt={`${t('title')} logo`}
               width={20}
