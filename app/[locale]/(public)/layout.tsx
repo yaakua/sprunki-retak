@@ -45,7 +45,6 @@ export default async function LocaleLayout({ children, params }: Props) {
   });
   // 提取域名
   const domain = siteConfig.domain.replace(/^https?:\/\//, '').replace(/\/.*$/, '');
-  console.log("navbars",navbars);
   return (
     <NextIntlClientProvider messages={messages} locale={locale}>
       <NextUIProvider>
