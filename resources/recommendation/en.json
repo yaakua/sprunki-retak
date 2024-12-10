@@ -30,13 +30,5 @@
     "category": "TOP",
     "visible": true,
     "position": "all"
-  },
-  {
-    "title": "Sprunki Remastered",
-    "cover": "/games/sprunki-remastered/game_screenshot.webp",
-    "url": "/games/sprunki-remastered",
-    "category": "",
-    "visible": true,
-    "position": "all"
   }
 ]
