@@ -2,20 +2,16 @@
   {
     "title": "Tất cả các trò chơi",
     "href": "/games",
-    "visible": true
+    "visible": true,
+    "children": []
   },
   {
-    "title": "Sprunki bị nhiễm bệnh",
+    "title": "Sprunki Nhiễm",
     "href": "/games/sprunki-infected",
     "visible": true
   },
   {
-    "title": "Ball Clicker",
-    "href": "/games/ball-clicker",
-    "visible": true
-  },
-  {
-    "title": "Sprunki được làm lại",
+    "title": "Sprunki Bản quyền",
     "href": "/games/sprunki-remastered",
     "visible": true
   }

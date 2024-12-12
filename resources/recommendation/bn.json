@@ -1,37 +1,23 @@
 [
   {
-    "title": "স্প্রংকি রিটেক (Sprunki Retake)",
+    "title": "স্প্রুঙ্কি রিটেক (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "শীর্ষ (TOP)",
+    "category": "টপ (TOP)",
     "visible": true
   },
   {
-    "title": "বল ক্লিকার (Ball Clicker)",
-    "cover": "/games/ball-clicker/game_screenshot.webp",
-    "url": "/games/ball-clicker",
-    "category": "শীর্ষ (TOP)",
-    "visible": true
-  },
-  {
-    "title": "স্প্রংকি রিমাস্টার্ড (Sprunki Remastered)",
+    "title": "স্প্রুঙ্কি পুনরাবৃত্তি (Sprunki Remastered)",
     "cover": "/games/sprunki-remastered/game_screenshot.webp",
     "url": "/games/sprunki-remastered",
     "category": "",
     "visible": true
   },
   {
-    "title": "স্প্রংকি ইনফেক্টেড (Sprunki Infected)",
+    "title": "স্প্রুঙ্কি আক্রান্ত (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "শীর্ষ (TOP)",
-    "visible": true
-  },
-  {
-    "title": "স্প্রংকি রিমাস্টার্ড (Sprunki Remastered)",
-    "cover": "/games/sprunki-remastered/game_screenshot.webp",
-    "url": "/games/sprunki-remastered",
-    "category": "",
+    "category": "টপ (TOP)",
     "visible": true
   }
 ]

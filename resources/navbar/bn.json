@@ -1,21 +1,17 @@
 [
   {
-    "title": "সমস্ত গেম",
+    "title": "সকল গেম",
     "href": "/games",
-    "visible": true
+    "visible": true,
+    "children": []
   },
   {
-    "title": "স্প্রাঙ্কি সংক্রামিত",
+    "title": "স্প্রুনকি সংক্রমিত",
     "href": "/games/sprunki-infected",
     "visible": true
   },
   {
-    "title": "বল ক্লিকার",
-    "href": "/games/ball-clicker",
-    "visible": true
-  },
-  {
-    "title": "স্প্রাঙ্কি পুনর্নির্মাণ",
+    "title": "স্প্রুনকি পুনর্গঠিত",
     "href": "/games/sprunki-remastered",
     "visible": true
   }

@@ -2,16 +2,12 @@
   {
     "title": "Alle Spiele",
     "href": "/games",
-    "visible": true
+    "visible": true,
+    "children": []
   },
   {
     "title": "Sprunki Infiziert",
     "href": "/games/sprunki-infected",
-    "visible": true
-  },
-  {
-    "title": "Ball Clicker",
-    "href": "/games/ball-clicker",
     "visible": true
   },
   {

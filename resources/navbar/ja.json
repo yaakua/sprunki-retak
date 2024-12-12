@@ -2,20 +2,16 @@
   {
     "title": "すべてのゲーム",
     "href": "/games",
-    "visible": true
+    "visible": true,
+    "children": []
   },
   {
-    "title": "感染スプルンキ",
+    "title": "スプンキ感染",
     "href": "/games/sprunki-infected",
     "visible": true
   },
   {
-    "title": "ボールクリッカー",
-    "href": "/games/ball-clicker",
-    "visible": true
-  },
-  {
-    "title": "リマスター版スプルンキ",
+    "title": "スプンキ リマスタード",
     "href": "/games/sprunki-remastered",
     "visible": true
   }

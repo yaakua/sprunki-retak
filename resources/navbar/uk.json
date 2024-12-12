@@ -1,21 +1,17 @@
 [
   {
-    "title": "Всі ігри",
+    "title": "Усі ігри",
     "href": "/games",
-    "visible": true
+    "visible": true,
+    "children": []
   },
   {
-    "title": "Спрунки Інфіковані",
+    "title": "Заражені Спрунки",
     "href": "/games/sprunki-infected",
     "visible": true
   },
   {
-    "title": "Клікер М'яча",
-    "href": "/games/ball-clicker",
-    "visible": true
-  },
-  {
-    "title": "Спрунки Перероблені",
+    "title": "Спрунки Перевидані",
     "href": "/games/sprunki-remastered",
     "visible": true
   }

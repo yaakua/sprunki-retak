@@ -3,14 +3,7 @@
     "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "ยอดเยี่ยม (TOP)",
-    "visible": true
-  },
-  {
-    "title": "Ball Clicker (Ball Clicker)",
-    "cover": "/games/ball-clicker/game_screenshot.webp",
-    "url": "/games/ball-clicker",
-    "category": "ยอดเยี่ยม (TOP)",
+    "category": "TOP",
     "visible": true
   },
   {
@@ -24,14 +17,7 @@
     "title": "Sprunki Infected (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "ยอดเยี่ยม (TOP)",
-    "visible": true
-  },
-  {
-    "title": "Sprunki Remastered (Sprunki Remastered)",
-    "cover": "/games/sprunki-remastered/game_screenshot.webp",
-    "url": "/games/sprunki-remastered",
-    "category": "",
+    "category": "TOP",
     "visible": true
   }
 ]

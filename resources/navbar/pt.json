@@ -2,20 +2,16 @@
   {
     "title": "Todos os Jogos",
     "href": "/games",
-    "visible": true
+    "visible": true,
+    "children": []
   },
   {
-    "title": "Sprunki Infectado",
+    "title": "Sprunki Infectados",
     "href": "/games/sprunki-infected",
     "visible": true
   },
   {
-    "title": "Clicador de Bolas",
-    "href": "/games/ball-clicker",
-    "visible": true
-  },
-  {
-    "title": "Sprunki Remasterizado",
+    "title": "Sprunki Remastered",
     "href": "/games/sprunki-remastered",
     "visible": true
   }

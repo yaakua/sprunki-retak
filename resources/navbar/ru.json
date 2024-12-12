@@ -2,20 +2,16 @@
   {
     "title": "Все игры",
     "href": "/games",
-    "visible": true
+    "visible": true,
+    "children": []
   },
   {
-    "title": "Зараженные Спрунки",
+    "title": "Заражённые Спрунки",
     "href": "/games/sprunki-infected",
     "visible": true
   },
   {
-    "title": "Кликер для шариков",
-    "href": "/games/ball-clicker",
-    "visible": true
-  },
-  {
-    "title": "Спрунки: переработанная версия",
+    "title": "Спрунки: Переиздание",
     "href": "/games/sprunki-remastered",
     "visible": true
   }

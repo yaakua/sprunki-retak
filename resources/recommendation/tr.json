@@ -3,14 +3,7 @@
     "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "EN İYİLERİ",
-    "visible": true
-  },
-  {
-    "title": "Ball Clicker (Ball Clicker)",
-    "cover": "/games/ball-clicker/game_screenshot.webp",
-    "url": "/games/ball-clicker",
-    "category": "EN İYİLERİ",
+    "category": "ÜST",
     "visible": true
   },
   {
@@ -24,14 +17,7 @@
     "title": "Sprunki Infected (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "EN İYİLERİ",
-    "visible": true
-  },
-  {
-    "title": "Sprunki Remastered (Sprunki Remastered)",
-    "cover": "/games/sprunki-remastered/game_screenshot.webp",
-    "url": "/games/sprunki-remastered",
-    "category": "",
+    "category": "ÜST",
     "visible": true
   }
 ]

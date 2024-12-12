@@ -2,20 +2,16 @@
   {
     "title": "所有遊戲",
     "href": "/games",
-    "visible": true
+    "visible": true,
+    "children": []
   },
   {
-    "title": "感染的史普朗奇",
+    "title": "Sprunki 感染",
     "href": "/games/sprunki-infected",
     "visible": true
   },
   {
-    "title": "點球遊戲",
-    "href": "/games/ball-clicker",
-    "visible": true
-  },
-  {
-    "title": "史普朗奇重製版",
+    "title": "Sprunki 重製版",
     "href": "/games/sprunki-remastered",
     "visible": true
   }
