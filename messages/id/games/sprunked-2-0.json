@@ -1,0 +1,67 @@
+{
+  "sprunked-2-0": {
+    "title": "Sprunked 2.0",
+    "slogan": "Benamkan Dirimu dalam Suara Gelap Sprunked 2.0 (Mod Incredibox)!(Sprunked 2.0)",
+    "description": "Alami alam Sprunked 2.0 yang disempurnakan di mana karakter yang direvisi dan visual horor yang diintensifkan bergabung untuk menciptakan petualangan gameplay yang mendalam.(Sprunked 2.0)",
+    "Loading": {
+      "title": "Memuat Sprunked 2.0..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah"
+    },
+    "HomeIframe": {
+      "title": "Sprunked 2.0: Masuk ke Kegelapan",
+      "description": "Jelajahi dunia misterius Sprunked 2.0 dengan pengaturan gelap dan suara mencekam di mana misteri menanti di setiap sudut.(Sprunked 2.0)",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke papan klip!",
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Fitur Sprunked 2.0",
+      "whatIsTitle": "Apa itu Sprunked 2.0?",
+      "whatIsDescription": "Mod Incredibox Sprunked 2.0 memperkenalkan alam yang lebih gelap dengan karakter yang didesain ulang dan visual yang mencekam. Mod ini meningkatkan ketegangan dengan lanskap yang menyeramkan.(Sprunked 2.0)",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Pilih Karakter yang Disempurnakan: Pilih dari beragam karakter yang direvisi yang memperkaya ketegangan dan kedalaman musik.(Sprunked 2.0)",
+      "howToPlayStep2": "Campur dan Padukan Suara: Seret dan lepas untuk membangun soundtrack yang menyeramkan yang dicirikan oleh ketukan yang mencekam.(Sprunked 2.0)",
+      "howToPlayStep3": "Buka Bonus Horor: Gabungkan karakter secara unik untuk membuka efek khusus dan animasi.(Sprunked 2.0)",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Desain Karakter yang Direvisi",
+      "feature1Description": "Setiap karakter telah dirancang ulang dengan inspirasi horor untuk meningkatkan suasana yang mencekam dalam game.(Sprunked 2.0)",
+      "feature2Title": "Visual Horor yang Diintensifkan",
+      "feature2Description": "Gaya seni gelap dan teduh menciptakan lingkungan yang mendalam, menegangkan.(Sprunked 2.0)",
+      "feature3Title": "Lapisan Suara yang Diperluas",
+      "feature3Description": "Lanskap suara yang lebih kaya menyediakan opsi untuk membuat campuran yang dalam dan mencekam.(Sprunked 2.0)",
+      "feature4Title": "Efek Khusus dan Bonus",
+      "feature4Description": "Temukan kombinasi tersembunyi yang mengaktifkan animasi dan suara unik, sempurna untuk tema horor.(Sprunked 2.0)"
+    },
+    "HomeFAQs": {
+      "title": "Pertanyaan Umum"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Game"
+    }
+  }
+}

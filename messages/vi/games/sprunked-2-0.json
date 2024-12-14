@@ -1,0 +1,67 @@
+{
+  "sprunked-2-0": {
+    "title": "Sprunked 2.0 (Sprunked 2.0)",
+    "slogan": "Lặn mình vào âm thanh u tối của Sprunked 2.0 (Phiên bản Mod Incredibox)! (Sprunked 2.0)",
+    "description": "Trải nghiệm thế giới mở rộng của Sprunked 2.0 nơi các nhân vật được làm lại và hình ảnh kinh dị được tăng cường hợp nhất để tạo nên một cuộc phiêu lưu chơi game nhập vai.",
+    "Loading": {
+      "title": "Đang tải Sprunked 2.0..."
+    },
+    "Navbar": {
+      "title": "Đọc"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Giúp đỡ",
+      "friendlyLinks": "Liên kết hữu ích"
+    },
+    "HomeIframe": {
+      "title": "Sprunked 2.0: Vào thế giới đen tối",
+      "description": "Nhập vào thế giới bí ẩn của Sprunked 2.0 với những khung cảnh u ám và âm thanh ám ảnh nơi bí ẩn đang chờ đợi ở mọi ngóc ngách.(Sprunked 2.0)",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải game",
+      "playGame": "Chơi game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Các tính năng của Sprunked 2.0",
+      "whatIsTitle": "Sprunked 2.0 là gì?",
+      "whatIsDescription": "Phiên bản Mod Incredibox của Sprunked 2.0 giới thiệu một thế giới u ám hơn với các nhân vật được thiết kế lại và hình ảnh kinh dị ám ảnh. Phiên bản mod này làm tăng thêm sự hồi hộp với các khung cảnh rùng rợn.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Chọn nhân vật được nâng cấp: Chọn từ hàng loạt nhân vật được tân trang lại để làm phong phú thêm sự hồi hộp và chiều sâu âm nhạc.",
+      "howToPlayStep2": "Kết hợp và phối hợp âm thanh: Kéo thả để tạo nên một bản nhạc nền rùng rợn được đặc trưng bởi những nhịp đập ám ảnh.",
+      "howToPlayStep3": "Mở khóa phần thưởng kinh dị: Kết hợp các nhân vật theo cách độc đáo để tiết lộ các hiệu ứng đặc biệt và hoạt ảnh.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Thiết kế nhân vật được làm lại",
+      "feature1Description": "Mỗi nhân vật đều được tạo ra với thiết kế lại mang hơi hướng kinh dị để nâng cao bầu không khí đáng sợ của trò chơi.",
+      "feature2Title": "Hình ảnh kinh dị được tăng cường",
+      "feature2Description": "Phong cách nghệ thuật tối và u ám tạo ra một môi trường đắm chìm, hồi hộp.",
+      "feature3Title": "Các lớp âm thanh được mở rộng",
+      "feature3Description": "Những bản phối âm thanh phong phú hơn cung cấp các tùy chọn để tạo ra những bản phối sâu sắc, ám ảnh.",
+      "feature4Title": "Hiệu ứng đặc biệt và phần thưởng",
+      "feature4Description": "Khám phá những sự kết hợp ẩn giấu kích hoạt các hoạt ảnh và âm thanh độc đáo, hoàn hảo cho chủ đề kinh dị."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video về trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    }
+  }
+}

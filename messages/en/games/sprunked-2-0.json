@@ -1,0 +1,67 @@
+{
+  "sprunked-2-0": {
+    "title": "Sprunked 2.0",
+    "slogan": "Immerse Yourselves in the Dark Sounds of Sprunked 2.0 (Incredibox Mod)!",
+    "description": "Experience the enhanced realm of Sprunked 2.0 where revamped characters and intensified horror visuals merge to create an immersive gameplay adventure.",
+    "Loading": {
+      "title": "Loading Sprunked 2.0..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links"
+    },
+    "HomeIframe": {
+      "title": "Sprunked 2.0: Enter the Dark",
+      "description": "Dive into the enigmatic world of Sprunked 2.0 with its shadowy settings and haunting sounds where mystery awaits at every turn.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunked 2.0 Features",
+      "whatIsTitle": "What is Sprunked 2.0?",
+      "whatIsDescription": "Sprunked 2.0 Mod of Incredibox introduces a darker realm with redesigned characters and haunting visuals. This mod heightens suspense with eerie landscapes.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Choose Enhanced Characters: Pick from an array of overhauled characters that enrich the suspense and musical depth.",
+      "howToPlayStep2": "Mix and Match Sounds: Drag and drop to build an eerie soundtrack characterized by haunting beats.",
+      "howToPlayStep3": "Unlock Horror Bonuses: Combine characters uniquely to unveil special effects and animations.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Revamped Character Designs",
+      "feature1Description": "Each character has been crafted with a horror-inspired redesign to elevate the game's chilling atmosphere.",
+      "feature2Title": "Intensified Horror Visuals",
+      "feature2Description": "Dark, shadowed art styles create an immersive, suspenseful environment.",
+      "feature3Title": "Expanded Sound Layers",
+      "feature3Description": "Richer soundscapes provide options for crafting deep, haunting mixes.",
+      "feature4Title": "Special Effects and Bonuses",
+      "feature4Description": "Discover hidden combos that activate unique animations and sounds, perfect for the horror theme."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    }
+  }
+}

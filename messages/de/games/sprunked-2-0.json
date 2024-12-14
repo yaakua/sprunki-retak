@@ -1,0 +1,67 @@
+{
+  "sprunked-2-0": {
+    "title": "Sprunked 2.0 (Sprunked 2.0)",
+    "slogan": "Tauchen Sie sich ein in die dunklen Klänge von Sprunked 2.0 (Incredibox Mod)!",
+    "description": "Erleben Sie das erweiterte Reich von Sprunked 2.0, in dem überarbeitete Charaktere und intensivierte Horror-Grafiken zu einem fesselnden Gameplay-Abenteuer verschmelzen.",
+    "Loading": {
+      "title": "Lädt Sprunked 2.0..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links"
+    },
+    "HomeIframe": {
+      "title": "Sprunked 2.0: Betreten Sie die Dunkelheit",
+      "description": "Tauchen Sie ein in die geheimnisvolle Welt von Sprunked 2.0 mit ihren schattenhaften Umgebungen und eindringlichen Klängen, in denen an jeder Ecke ein Mysterium lauert.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Funktionen von Sprunked 2.0",
+      "whatIsTitle": "Was ist Sprunked 2.0?",
+      "whatIsDescription": "Der Sprunked 2.0 Mod von Incredibox führt ein dunkleres Reich mit neu gestalteten Charakteren und eindringlichen Bildern ein. Dieser Mod steigert die Spannung mit unheimlichen Landschaften.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Wählen Sie verbesserte Charaktere: Wählen Sie aus einer Reihe überarbeiteter Charaktere, die die Spannung und die musikalische Tiefe bereichern.",
+      "howToPlayStep2": "Mischen und Kombinieren Sie Klänge: Ziehen und legen Sie Klänge ab, um eine unheimliche Soundtrack zu erstellen, der von eindringlichen Beats geprägt ist.",
+      "howToPlayStep3": "Schalten Sie Horror-Boni frei: Kombinieren Sie Charaktere einzigartig, um besondere Effekte und Animationen freizuschalten.",
+      "keyFeaturesTitle": "Wichtigste Funktionen",
+      "feature1Title": "Neugestaltete Charakterdesigns",
+      "feature1Description": "Jeder Charakter wurde mit einem Horror-inspirierten Redesign gestaltet, um die erschreckende Atmosphäre des Spiels zu steigern.",
+      "feature2Title": "Intensivierte Horror-Grafiken",
+      "feature2Description": "Dunkle, schattenhafte Kunststile schaffen eine immersive und spannende Umgebung.",
+      "feature3Title": "Erweiterte Klangschichten",
+      "feature3Description": "Reichhaltigere Soundscapes bieten Optionen für die Erstellung tiefer, eindringlicher Mixe.",
+      "feature4Title": "Spezielle Effekte und Boni",
+      "feature4Description": "Entdecken Sie versteckte Kombinationen, die einzigartige Animationen und Sounds aktivieren, perfekt für das Horror-Thema."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    }
+  }
+}

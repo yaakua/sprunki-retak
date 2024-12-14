@@ -1,0 +1,67 @@
+{
+  "sprunked-2-0": {
+    "title": "Sprunked 2.0 (Sprunked 2.0)",
+    "slogan": "沉浸在Sprunked 2.0（Incredibox 模组）的黑暗音效中！ (Immerse Yourselves in the Dark Sounds of Sprunked 2.0 (Incredibox Mod)!)",
+    "description": "体验 Sprunked 2.0 的增强版领域，改版后的角色和强化恐怖视觉效果融合，创造沉浸式游戏体验。 (Experience the enhanced realm of Sprunked 2.0 where revamped characters and intensified horror visuals merge to create an immersive gameplay adventure.)",
+    "Loading": {
+      "title": "正在加载 Sprunked 2.0..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接"
+    },
+    "HomeIframe": {
+      "title": "Sprunked 2.0：步入黑暗 (Sprunked 2.0: Enter the Dark)",
+      "description": "沉浸在 Sprunked 2.0 神秘的世界中，阴暗的环境和令人毛骨悚然的音效，处处充满谜团。(Dive into the enigmatic world of Sprunked 2.0 with its shadowy settings and haunting sounds where mystery awaits at every turn.)",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL 已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunked 2.0 功能",
+      "whatIsTitle": "Sprunked 2.0 是什么？",
+      "whatIsDescription": "Sprunked 2.0 (Incredibox 模组) 引入了更黑暗的领域，融入了重新设计的角色和令人毛骨悚然的视觉效果，增强了悬念，营造了阴森的环境。 (Sprunked 2.0 Mod of Incredibox introduces a darker realm with redesigned characters and haunting visuals. This mod heightens suspense with eerie landscapes.)",
+      "howToPlayTitle": "如何玩耍",
+      "howToPlayStep1": "选择增强角色：从众多经过改进的角色中选择，增加悬念和音乐层次。",
+      "howToPlayStep2": "混合匹配音效：拖放音效，构建充满令人毛骨悚然节拍的恐怖配乐。",
+      "howToPlayStep3": "解锁恐怖奖励：独特地组合角色，以揭示特殊效果和动画。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "改版角色设计",
+      "feature1Description": "每个角色都经过恐怖主题的重新设计，以提升游戏的恐怖气氛。",
+      "feature2Title": "强化恐怖视觉效果",
+      "feature2Description": "黑暗、阴暗的艺术风格创造了沉浸式、令人紧张的环境。",
+      "feature3Title": "扩展音效层",
+      "feature3Description": "更丰富的音景提供了创作深度、令人毛骨悚然混合的选项。",
+      "feature4Title": "特殊效果和奖励",
+      "feature4Description": "发现隐藏的组合，激活独特的动画和音效，非常适合恐怖主题。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    }
+  }
+}

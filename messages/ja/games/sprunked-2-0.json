@@ -1,0 +1,67 @@
+{
+  "sprunked-2-0": {
+    "title": "Sprunked 2.0 (Sprunked 2.0)",
+    "slogan": "Sprunked 2.0 (Incredibox Mod) の暗い音色に浸ってください！",
+    "description": "強化されたキャラクターと、強化されたホラービジュアルが融合した、Sprunked 2.0 の拡張された世界を体験してください。魅力的なゲームプレイの冒険に没頭できます。",
+    "Loading": {
+      "title": "Sprunked 2.0 をロード中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク"
+    },
+    "HomeIframe": {
+      "title": "Sprunked 2.0: ダークエントランス",
+      "description": "陰影のある雰囲気と、いたるところにある謎が隠された、不気味な音と共に、Sprunked 2.0 の神秘的な世界に没頭してください。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URL がクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunked 2.0 の機能",
+      "whatIsTitle": "Sprunked 2.0 とは何ですか？",
+      "whatIsDescription": "Sprunked 2.0 Mod of Incredibox は、リデザインされたキャラクターと不気味なビジュアルで、より暗い世界を導入します。この Mod は、不気味な風景で緊迫感を高めます。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "強化されたキャラクターを選択：サスペンスと音楽的な深さを豊かにする、改訂されたキャラクターの豊富な選択肢から選択してください。",
+      "howToPlayStep2": "サウンドを組み合わせる：不気味なビートを特徴とする不気味なサウンドトラックを作成するためにドラッグアンドドロップします。",
+      "howToPlayStep3": "ホラーボーナスをアンロック：特別な効果とアニメーションを明らかにするために、独自にキャラクタを組み合わせる。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "キャラクターデザインのリデザイン",
+      "feature1Description": "各キャラクターは、ゲームの不気味な雰囲気を高めるために、ホラーをテーマにしたリデザインで作成されています。",
+      "feature2Title": "強化されたホラービジュアル",
+      "feature2Description": "暗い陰影のあるアートスタイルは、没入感があり、緊迫感のある環境を作り出します。",
+      "feature3Title": "サウンドレイヤーの拡張",
+      "feature3Description": "より豊かなサウンドスケープは、深い不気味なミックスを作成するための選択肢を提供します。",
+      "feature4Title": "特殊効果とボーナス",
+      "feature4Description": "ホラーテーマに最適な、ユニークなアニメーションとサウンドをアクティブ化する、隠された組み合わせを発見してください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイに関するコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    }
+  }
+}

@@ -3,7 +3,7 @@
     "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "ÜST",
+    "category": "TOP",
     "visible": true
   },
   {
@@ -17,7 +17,14 @@
     "title": "Sprunki Infected (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "ÜST",
+    "category": "TOP",
+    "visible": true
+  },
+  {
+    "title": "Sprunked 2.0 (Sprunked 2.0)",
+    "cover": "/games/sprunked-2-0/game_screenshot.webp",
+    "url": "/games/sprunked-2-0",
+    "category": "",
     "visible": true
   }
 ]

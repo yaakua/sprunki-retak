@@ -1,0 +1,67 @@
+{
+  "sprunked-2-0": {
+    "title": "Sprunked 2.0 (Sprunked 2.0)",
+    "slogan": "Plongez-vous dans les sons sombres de Sprunked 2.0 (Mod Incredibox) !",
+    "description": "Découvrez le royaume amélioré de Sprunked 2.0, où des personnages remaniés et des visuels d'horreur intensifiés fusionnent pour créer une aventure de jeu immersive.",
+    "Loading": {
+      "title": "Chargement de Sprunked 2.0..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créé à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens Amis"
+    },
+    "HomeIframe": {
+      "title": "Sprunked 2.0 : Entrez dans l'obscurité",
+      "description": "Plongez dans le monde énigmatique de Sprunked 2.0 avec ses décors ombragés et ses sons hantés, où le mystère vous attend à chaque tournant.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Fonctionnalités de Sprunked 2.0",
+      "whatIsTitle": "Qu'est-ce que Sprunked 2.0 ?",
+      "whatIsDescription": "Le mod Sprunked 2.0 d'Incredibox introduit un royaume plus sombre avec des personnages redessinés et des visuels envoûtants. Ce mod amplifie le suspense avec des paysages étranges.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Choisissez des personnages améliorés : Sélectionnez parmi une gamme de personnages revisités qui enrichissent le suspense et la profondeur musicale.",
+      "howToPlayStep2": "Mélanger et assortir des sons : Faites glisser et déposez pour créer une bande son étrange caractérisée par des rythmes inquiétants.",
+      "howToPlayStep3": "Débloquez des bonus d'horreur : Combinez les personnages de manière unique pour révéler des effets spéciaux et des animations.",
+      "keyFeaturesTitle": "Principales fonctionnalités",
+      "feature1Title": "Conception des personnages remaniée",
+      "feature1Description": "Chaque personnage a été conçu avec une refonte inspirée de l'horreur pour intensifier l'atmosphère glaçante du jeu.",
+      "feature2Title": "Visuels d'horreur intensifiés",
+      "feature2Description": "Les styles artistiques sombres et ombragés créent un environnement immersif et captivant.",
+      "feature3Title": "Couches sonores étendues",
+      "feature3Description": "Des paysages sonores plus riches offrent des options pour créer des mélanges profonds et inquiétants.",
+      "feature4Title": "Effets spéciaux et bonus",
+      "feature4Description": "Découvrez des combinaisons cachées qui activent des animations et des sons uniques, parfaits pour le thème d'horreur."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 [
   {
-    "title": "Retomada Sprunki",
+    "title": "Retomada de Sprunki",
     "cover": "/game_screenshot.webp",
     "url": "/",
     "category": "TOP",
@@ -18,6 +18,13 @@
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
     "category": "TOP",
+    "visible": true
+  },
+  {
+    "title": "Sprunked 2.0",
+    "cover": "/games/sprunked-2-0/game_screenshot.webp",
+    "url": "/games/sprunked-2-0",
+    "category": "",
     "visible": true
   }
 ]

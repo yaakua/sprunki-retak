@@ -1,23 +1,30 @@
 [
   {
-    "title": "স্প্রুঙ্কি রিটেক (Sprunki Retake)",
+    "title": "স্প্রুঙ্কি পুনরুদ্ধার (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "টপ (TOP)",
+    "category": "শীর্ষস্থানীয়",
     "visible": true
   },
   {
-    "title": "স্প্রুঙ্কি পুনরাবৃত্তি (Sprunki Remastered)",
+    "title": "স্প্রুঙ্কি পুনর্নির্মিত (Sprunki Remastered)",
     "cover": "/games/sprunki-remastered/game_screenshot.webp",
     "url": "/games/sprunki-remastered",
     "category": "",
     "visible": true
   },
   {
-    "title": "স্প্রুঙ্কি আক্রান্ত (Sprunki Infected)",
+    "title": "স্প্রুঙ্কি সংক্রমিত (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "টপ (TOP)",
+    "category": "শীর্ষস্থানীয়",
+    "visible": true
+  },
+  {
+    "title": "স্প্রুঙ্কড ২.০ (Sprunked 2.0)",
+    "cover": "/games/sprunked-2-0/game_screenshot.webp",
+    "url": "/games/sprunked-2-0",
+    "category": "",
     "visible": true
   }
 ]

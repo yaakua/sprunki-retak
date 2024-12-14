@@ -1,0 +1,67 @@
+{
+  "sprunked-2-0": {
+    "title": "Sprunked 2.0 (Sprunked 2.0)",
+    "slogan": "Kendinizi Sprunked 2.0'ın (Incredibox Mod) Karanlık Seslerinde Bulundurun!",
+    "description": "Yeniden tasarlanmış karakterlerin ve yoğunlaştırılmış korku görsellerinin iç içe geçtiği gelişmiş Sprunked 2.0 alanını deneyimleyin, bu da sürükleyici bir oyun deneyimi oluşturur.",
+    "Loading": {
+      "title": "Sprunked 2.0 Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar"
+    },
+    "HomeIframe": {
+      "title": "Sprunked 2.0: Karanlığa Girin",
+      "description": "Gölgeli ortamları ve her köşede gizemi bekleyen ürkütücü sesleriyle Sprunked 2.0'ın gizemli dünyasına dalın.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunked 2.0 Özellikleri",
+      "whatIsTitle": "Sprunked 2.0 Nedir?",
+      "whatIsDescription": "Incredibox'ın Sprunked 2.0 Mod'u, yeniden tasarlanmış karakterler ve ürkütücü görsellerle karanlık bir alanı sunar. Bu mod, ürkütücü manzaralarla gerilimi artırır.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Geliştirilmiş Karakterleri Seçin: Gerilimi ve müzikal derinliği artıran çok sayıda yeniden tasarlanmış karakter arasından seçim yapın.",
+      "howToPlayStep2": "Sesleri Karıştırın ve Eşleştirin: Ürkütücü ritimlerle karakterize ürkütücü bir müzik bestelemek için sürükleyip bırakın.",
+      "howToPlayStep3": "Korku Bonüslerini Açın: Özel efektler ve animasyonlar ortaya çıkarmak için karakterleri benzersiz bir şekilde birleştirin.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Yeniden Tasarlanmış Karakter Tasarımları",
+      "feature1Description": "Her karakter, oyunun ürkütücü atmosferini yükseltmek için korku temalı bir yeniden tasarımla oluşturulmuştur.",
+      "feature2Title": "Yoğunlaştırılmış Korku Görselleri",
+      "feature2Description": "Karanlık, gölgeli sanat stilleri, sürükleyici ve gerilim dolu bir ortam oluşturur.",
+      "feature3Title": "Genişletilmiş Ses Katmanları",
+      "feature3Description": "Daha zengin ses ortamı, derin ve ürkütücü karışımlar oluşturmak için seçenekler sunar.",
+      "feature4Title": "Özel Efektler ve Bonüsler",
+      "feature4Description": "Korku teması için mükemmel olan benzersiz animasyonları ve sesleri etkinleştiren gizli kombinasyonları keşfedin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    }
+  }
+}

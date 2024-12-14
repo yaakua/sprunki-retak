@@ -1,0 +1,67 @@
+{
+  "sprunked-2-0": {
+    "title": "Sprunked 2.0 (Sprunked 2.0)",
+    "slogan": "沉浸在Sprunked 2.0 (Incredibox 模組) 的暗黑音效之中！(Immerse Yourselves in the Dark Sounds of Sprunked 2.0 (Incredibox Mod)!)",
+    "description": "體驗 Sprunked 2.0 增強的領域，改版角色和加強的恐怖視覺效果融合，創造沉浸式遊戲冒險。(Experience the enhanced realm of Sprunked 2.0 where revamped characters and intensified horror visuals merge to create an immersive gameplay adventure.)",
+    "Loading": {
+      "title": "正在載入 Sprunked 2.0..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立日期",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結"
+    },
+    "HomeIframe": {
+      "title": "Sprunked 2.0：步入黑暗",
+      "description": "深入 Sprunked 2.0 神秘的世界，其陰暗的環境和令人毛骨悚然的聲音，處處充滿謎團。(Dive into the enigmatic world of Sprunked 2.0 with its shadowy settings and haunting sounds where mystery awaits at every turn.)",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunked 2.0 特色",
+      "whatIsTitle": "Sprunked 2.0 究竟是什麼？",
+      "whatIsDescription": "Sprunked 2.0 (Incredibox 模組)帶領玩家進入更黑暗的領域，並重新設計角色以及令人毛骨悚然的視覺效果。此模組透過陰森的風景加強懸疑感。(Sprunked 2.0 Mod of Incredibox introduces a darker realm with redesigned characters and haunting visuals. This mod heightens suspense with eerie landscapes.)",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "選擇改版角色：從眾多經過改版的角色中選擇，豐富懸疑和音樂深度。(Choose Enhanced Characters: Pick from an array of overhauled characters that enrich the suspense and musical depth.)",
+      "howToPlayStep2": "混搭音效：拖曳並放下音效，創造令人毛骨悚然的配樂，並以令人難忘的節奏為特色。(Mix and Match Sounds: Drag and drop to build an eerie soundtrack characterized by haunting beats.)",
+      "howToPlayStep3": "解鎖恐怖獎勵：獨特的組合角色，揭示特殊效果和動畫。(Unlock Horror Bonuses: Combine characters uniquely to unveil special effects and animations.)",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "改版角色設計",
+      "feature1Description": "每個角色都經過恐怖風格的重新設計，以提升遊戲的陰森氛圍。(Each character has been crafted with a horror-inspired redesign to elevate the game's chilling atmosphere.)",
+      "feature2Title": "加強恐怖視覺效果",
+      "feature2Description": "深暗陰影的藝術風格創造出沉浸式且令人毛骨悚然的環境。(Dark, shadowed art styles create an immersive, suspenseful environment.)",
+      "feature3Title": "擴充音效層級",
+      "feature3Description": "更豐富的音景提供創作深刻令人難忘的混音。(Richer soundscapes provide options for crafting deep, haunting mixes.)",
+      "feature4Title": "特殊效果和獎勵",
+      "feature4Description": "發現隱藏的組合，啟用獨特的動畫和音效，非常適合恐怖主題。(Discover hidden combos that activate unique animations and sounds, perfect for the horror theme.)"
+    },
+    "HomeFAQs": {
+      "title": "常見問題集"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊玩評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    }
+  }
+}

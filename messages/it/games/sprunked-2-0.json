@@ -1,0 +1,67 @@
+{
+  "sprunked-2-0": {
+    "title": "Sprunked 2.0",
+    "slogan": "Immergetevi nei suoni oscuri di Sprunked 2.0 (Mod Incredibox)!",
+    "description": "Sperimenta il regno potenziato di Sprunked 2.0, dove personaggi ridisegnati e visive horror più intense si fondono per creare un'avventura di gioco immersiva.",
+    "Loading": {
+      "title": "Caricamento di Sprunked 2.0..."
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Collegamenti amichevoli"
+    },
+    "HomeIframe": {
+      "title": "Sprunked 2.0: Entra nel Buio",
+      "description": "Immergiti nell'enigmatico mondo di Sprunked 2.0, con le sue ambientazioni ombra e suoni inquietanti, dove il mistero attende ad ogni angolo.",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Caratteristiche di Sprunked 2.0",
+      "whatIsTitle": "Cos'è Sprunked 2.0?",
+      "whatIsDescription": "Il modulo Sprunked 2.0 di Incredibox introduce un regno più cupo con personaggi ridisegnati e visive inquietanti. Questo modulo aumenta la suspense con paesaggi inquietanti.",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Scegli i personaggi migliorati: scegli tra una serie di personaggi riprogettati che arricchiscono la suspense e la profondità musicale.",
+      "howToPlayStep2": "Combina e confronta i suoni: trascina e rilascia per creare una colonna sonora inquietante caratterizzata da ritmi inquietanti.",
+      "howToPlayStep3": "Sblocca i bonus Horror: Combina i personaggi in modo unico per svelare effetti speciali e animazioni.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Progettazione dei personaggi rielaborata",
+      "feature1Description": "Ogni personaggio è stato creato con una riprogettazione ispirata all'horror per elevare l'atmosfera agghiacciante del gioco.",
+      "feature2Title": "Visive horror più intense",
+      "feature2Description": "Stili artistici scuri e ombreggiati creano un ambiente immersivo e pieno di suspense.",
+      "feature3Title": "Strati sonori ampliati",
+      "feature3Description": "Paesaggi sonori più ricchi offrono opzioni per creare mix profondi e inquietanti.",
+      "feature4Title": "Effetti speciali e bonus",
+      "feature4Description": "Scopri combinazioni nascoste che attivano animazioni e suoni unici, perfetti per il tema horror."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandazioni"
+    },
+    "HomeComments": {
+      "title": "Commenti del gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Tutti i giochi",
+      "games": "Giochi"
+    }
+  }
+}

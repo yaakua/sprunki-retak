@@ -1,0 +1,109 @@
+{
+  "name": "Sprunked 2.0",
+  "pagePath": "/games/sprunked-2-0",
+  "pageName": "sprunked-2-0",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://game.sprunki-incredibox.org/sprunki/sprunked-new-things/index.html",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": false,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [],
+  "isShowComments": false,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [],
+  "comments": [
+    {
+      "author": "Lex Fridman",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Lex_Fridman.png",
+      "content": "OMG, Sprunked 2.0 is SOOOO creepy!  The music is amazing, and the horror elements are seriously intense.  Definitely a must-try for anyone who loves both music and scares! 💯"
+    },
+    {
+      "author": "Packy McCormick",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Packy_McCormick.png",
+      "content": "This Sprunked 2.0 mod is like, totally wicked!  The characters are all super creepy, and the sounds are insane.  I'm obsessed with how they made the music so intense.  Definitely a new fave!"
+    },
+    {
+      "author": "Mike Taylor",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Mike_Taylor.png",
+      "content": "Loving the revamped characters in Sprunked 2.0!  The whole atmosphere is just so immersive.  The sound design is top-notch, and I'm having a blast mixing different soundscapes.  Definitely give it a go!"
+    },
+    {
+      "author": "Lorenz S.",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Lorenz_S.png",
+      "content": "This Sprunked 2.0 mod is giving me major chills!  The visuals are so freaking creepy!  Also, the sound layering is amazing.  I'm obsessed!  10/10 would play again!"
+    },
+    {
+      "author": "Ben Stephens",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Ben_Stephens.png",
+      "content": "Sprunked 2.0, like, totally SLAPS!  I'm digging the enhanced horror elements.  The music is on point and the new characters are freakin' awesome!  Highly recommend!"
+    },
+    {
+      "author": "MK",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/MK.png",
+      "content": "This Sprunked 2.0  is my new jam!  The horror elements are perfect.  The new characters are super cool and the music is intense.  I'm loving the whole experience. 💯"
+    },
+    {
+      "author": "jesse",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/jesse.png",
+      "content": "OMG!  Sprunked 2.0  is the best horror music game ever!  The intense sound effects are amazing. The characters are super creepy!  You guys should totally play it!"
+    },
+    {
+      "author": "Sarah J.",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Sarah_J.png",
+      "content": "I'm obsessed with Sprunked 2.0! The new sounds and visuals are seriously next level.  It's really immersive."
+    },
+    {
+      "author": "David Lee",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/David_Lee.png",
+      "content": "This Sprunked 2.0 mod is so much fun!  The horror theme is perfect, and the sound mixing is incredible.  I'm loving the new characters and bonus sounds."
+    },
+    {
+      "author": "Emily Carter",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Emily_Carter.png",
+      "content": "Y'all, Sprunked 2.0 is a total game changer! The horror elements are perfectly balanced with the music.  Highly addictive!  Gotta try it!"
+    }
+  ],
+  "isShowRecommendation": false,
+  "isShowRightGames": true,
+  "slogan": "",
+  "domain": "",
+  "icon": "",
+  "appleIcon": "",
+  "gaId": "",
+  "clarityId": "",
+  "plausible": "",
+  "friendLinks": [],
+  "adsenseClientId": "",
+  "createdTime": "2024-12-14 15:58:59"
+}

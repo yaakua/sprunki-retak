@@ -22,5 +22,13 @@
     "category": "TOP",
     "visible": true,
     "position": "all"
+  },
+  {
+    "title": "Sprunked 2.0",
+    "cover": "/games/sprunked-2-0/game_screenshot.webp",
+    "url": "/games/sprunked-2-0",
+    "category": "",
+    "visible": true,
+    "position": "all"
   }
 ]
