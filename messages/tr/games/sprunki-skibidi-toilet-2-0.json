@@ -1,0 +1,67 @@
+{
+  "sprunki-skibidi-toilet-2-0": {
+    "title": "Sprunki: Skibidi Klozet 2.0 (Sprunki: Skibidi Toilet 2.0)",
+    "slogan": "Sprunki: Skibidi Klozet 2.0'ın tuhaf dünyasına dalın",
+    "description": "Sprunki: Skibidi Klozet 2.0, Sprunki evrenine eğlenceli ve komik bir dokunuş getiriyor. Bu devam serisi, daha da tuhaf karakterler, son derece komik animasyonlar ve yaratıcı müzikal olanaklar sunuyor.",
+    "Loading": {
+      "title": "Sprunki: Skibidi Klozet 2.0 Yükleniyor"
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Kullanım Kılavuzu",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar"
+    },
+    "HomeIframe": {
+      "title": "Sprunki: Skibidi Klozet 2.0'a Hoş Geldiniz",
+      "description": "Sprunki: Skibidi Klozet 2.0'da klozet temalı karakterlerle etkileşime geçin ve benzersiz müzik parçaları yaratın.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki: Skibidi Klozet 2.0 Özellikleri",
+      "whatIsTitle": "Sprunki: Skibidi Klozet 2.0 Nedir?",
+      "whatIsDescription": "Sprunki: Skibidi Klozet 2.0'da, Sprunki karakterleri Skibidi Klozet temalı tasarımlarla yeniden tasarlanarak son derece komik görsellerle canlandırılıyor.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Genişletilmiş Skibidi Klozet temalı karakter kadrosunu keşfedin.",
+      "howToPlayStep2": "Komik ve benzersiz müzik parçaları oluşturun.",
+      "howToPlayStep3": "Ekstra eğlence için gizli bonusları keşfedin!",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Genişletilmiş Kadro",
+      "feature1Description": "Eşsiz sesler ve animasyonlara sahip yeni Skibidi Klozet temalı karakterler.",
+      "feature2Title": "Komik Görseller",
+      "feature2Description": "Oyunun neşeli ve eğlenceli tonunu yansıtan tuhaf tasarımlar.",
+      "feature3Title": "Etkileşimli Oyun",
+      "feature3Description": "Ek eğlence için geliştirilmiş ses kombinasyonları ve gizli bonuslar.",
+      "feature4Title": "Müzikal Yaratıcılık",
+      "feature4Description": "Müziksel hayal gücünüzü serbest bırakın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    }
+  }
+}

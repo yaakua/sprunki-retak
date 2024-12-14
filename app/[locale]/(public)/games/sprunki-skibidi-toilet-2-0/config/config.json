@@ -1,0 +1,109 @@
+{
+  "name": "Sprunki: Skibidi Toilet 2.0",
+  "pagePath": "/games/sprunki-skibidi-toilet-2-0",
+  "pageName": "sprunki-skibidi-toilet-2-0",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://wowtbc.net/sprunkin/skibidi-toilet2/index.html",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": false,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [],
+  "isShowComments": false,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [],
+  "comments": [
+    {
+      "author": "Lex Fridman",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Lex_Fridman.png",
+      "content": "OMG, Sprunki Skibidi Toilet 2 Mod is SO FUN!  The characters are totally bonkers, and the music is INSANE!  Definitely gonna spend hours on this one!  10/10 would totally recommend!"
+    },
+    {
+      "author": "Packy McCormick",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Packy_McCormick.png",
+      "content": "This Sprunki Skibidi Toilet 2 Mod is a total vibe!  The visuals are so crazy, and the new tracks are 🔥.  I'm already hooked.  This game is a must-have for anyone who loves quirky, musical stuff!"
+    },
+    {
+      "author": "Mike Taylor",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Mike_Taylor.png",
+      "content": "Seriously, Sprunki Skibidi Toilet 2 is EPIC!  The expanded cast is awesome.  Love the insane animations and the music is super catchy.   This mod is a total win.  Highly recommend!"
+    },
+    {
+      "author": "Lorenz S.",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Lorenz_S.png",
+      "content": "I'm obsessed with Sprunki Skibidi Toilet Mod 2!  The new characters are so creative, and the gameplay feels super smooth.  I'm already looking for new music mixes. This game is amazeballs."
+    },
+    {
+      "author": "Ben Stephens",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Ben_Stephens.png",
+      "content": "This Sprunki Skibidi Toilet 2 Mod is absolutely hilarious!  The characters' designs are amazing; like, wow.  Can't wait to explore more of the music tracks.  My new fave game, for sure."
+    },
+    {
+      "author": "MK",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/MK.png",
+      "content": "Srunki Skibidi Toilet 2 Mod is totally a vibe.  The new music is so catchy and the characters are pretty cool.  I'm having a blast with this one.  Love the funny stuff"
+    },
+    {
+      "author": "jesse",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/jesse.png",
+      "content": "This Sprunki Skibidi Toilet 2 Mod is a total blast!  The tunes are killer, and the visuals are off the charts. Music is great!  Definitely keeps you entertained."
+    },
+    {
+      "author": "Sarah J.",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Sarah_J.png",
+      "content": "I'm so hyped for Sprunki Skibidi Toilet 2 Mod!  Best mod ever!  The creativity is insane.  This is a must-play for anyone who loves crazy stuff!"
+    },
+    {
+      "author": "Emily K.",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Emily_K.png",
+      "content": "Loving the new Sprunki Skibidi Toilet 2 Mod!!  The new characters are so unique, and the music is so good.  I'm hooked on this game for sure!  Thumbs up for this one!"
+    },
+    {
+      "author": "Kevin K.",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Kevin_K.png",
+      "content": "OMG!  Srunki Skibidi Toilet 2 Mod is a total game changer.  The creativity is off the charts! This music is SO good. Definitely looking forward to more!  10/10!"
+    }
+  ],
+  "isShowRecommendation": false,
+  "isShowRightGames": true,
+  "slogan": "",
+  "domain": "",
+  "icon": "",
+  "appleIcon": "",
+  "gaId": "",
+  "clarityId": "",
+  "plausible": "",
+  "friendLinks": [],
+  "adsenseClientId": "",
+  "createdTime": "2024-12-14 16:17:34"
+}

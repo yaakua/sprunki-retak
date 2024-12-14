@@ -1,0 +1,67 @@
+{
+  "sprunki-skibidi-toilet-2-0": {
+    "title": "Sprunki: Skibidi Toilet 2.0 (Sprunki: Skibidi Toilet 2.0)",
+    "slogan": "潜入Sprunki: Skibidi Toilet 2.0的奇特世界",
+    "description": "Sprunki: Skibidi Toilet 2.0为Sprunki宇宙增添了令人愉悦且幽默的元素。本续作包含更多古怪角色、滑稽动画和富有创意的音乐可能性。",
+    "Loading": {
+      "title": "正在加载Sprunki: Skibidi Toilet 2.0"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接"
+    },
+    "HomeIframe": {
+      "title": "欢迎来到Sprunki: Skibidi Toilet 2.0",
+      "description": "参与到以厕所为主题的角色互动中，并在Sprunki: Skibidi Toilet 2.0中创作独特的音乐曲目。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "游戏试玩"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki: Skibidi Toilet 2.0 的特色",
+      "whatIsTitle": "Sprunki: Skibidi Toilet 2.0 是什么？",
+      "whatIsDescription": "在Sprunki: Skibidi Toilet 2.0中，Sprunki角色以Skibidi Toilet风格重新设计，呈现出荒谬有趣的视觉效果。",
+      "howToPlayTitle": "如何玩游戏",
+      "howToPlayStep1": "探索扩展的Skibidi Toilet风格角色阵容。",
+      "howToPlayStep2": "创作引人发笑且独特的音乐曲目。",
+      "howToPlayStep3": "发现隐藏的奖励，获得额外乐趣！",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "扩展角色阵容",
+      "feature1Description": "带有独特声音和动画的新Skibidi Toilet风格角色。",
+      "feature2Title": "滑稽的视觉效果",
+      "feature2Description": "古怪的设计，增添轻松愉快的氛围。",
+      "feature3Title": "引人入胜的游戏玩法",
+      "feature3Description": "增强的声音组合和隐藏的奖励，带来更多乐趣。",
+      "feature4Title": "音乐创造力",
+      "feature4Description": "尽情发挥你的音乐想象力。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    }
+  }
+}

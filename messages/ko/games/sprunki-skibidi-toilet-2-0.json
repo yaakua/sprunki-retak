@@ -1,0 +1,67 @@
+{
+  "sprunki-skibidi-toilet-2-0": {
+    "title": "스프런키: 스키비디 변기 2.0 (Sprunki: Skibidi Toilet 2.0)",
+    "slogan": "스프런키: 스키비디 변기 2.0의 독특한 세계로 뛰어들어보세요 (Dive into the quirky world of Sprunki: Skibidi Toilet 2.0)",
+    "description": "스프런키: 스키비디 변기 2.0은 스프런키 세계에 재미있고 유머러스한 새로운 요소를 선사합니다. 이 시리즈는 더욱 기발한 캐릭터, 웃음을 자아내는 애니메이션, 그리고 창의적인 음악적 가능성을 제공합니다. (Sprunki: Skibidi Toilet 2.0 brings an entertaining and humorous twist to the Sprunki universe. This sequel introduces even more eccentric characters, hilarious animations, and creative musical possibilities.)",
+    "Loading": {
+      "title": "스프런키: 스키비디 변기 2.0 로딩 중 (Loading Sprunki: Skibidi Toilet 2.0)"
+    },
+    "Navbar": {
+      "title": "탐색 (Nav)"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친절한 링크"
+    },
+    "HomeIframe": {
+      "title": "스프런키: 스키비디 변기 2.0 환영합니다 (Welcome to Sprunki: Skibidi Toilet 2.0)",
+      "description": "스프런키: 스키비디 변기 2.0에서 변기 테마의 캐릭터와 상호 작용하고 독특한 음악 트랙을 제작해보세요. (Engage with toilet-themed characters and create unique musical tracks in Sprunki: Skibidi Toilet 2.0.)",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "스프런키: 스키비디 변기 2.0의 특징 (Features of Sprunki: Skibidi Toilet 2.0)",
+      "whatIsTitle": "스프런키: 스키비디 변기 2.0이란 무엇인가요? (What is Sprunki: Skibidi Toilet 2.0?)",
+      "whatIsDescription": "스프런키: 스키비디 변기 2.0에서 스프런키 캐릭터는 스키비디 변기를 테마로 재해석되어 터무니없이 웃기는 시각 효과를 선사합니다. (In Sprunki: Skibidi Toilet 2.0, Sprunki characters are reimagined with Skibidi Toilet-inspired designs, bringing absurdly funny visuals to life.)",
+      "howToPlayTitle": "게임 방법 (How to Play)",
+      "howToPlayStep1": "확장된 스키비디 변기 테마 캐릭터들을 탐험해보세요.",
+      "howToPlayStep2": "웃기고 독창적인 음악 트랙을 제작해보세요.",
+      "howToPlayStep3": "추가적인 재미를 위한 숨겨진 보너스를 발견해보세요!",
+      "keyFeaturesTitle": "주요 특징 (Key Features)",
+      "feature1Title": "확장된 캐릭터 (Expanded Cast)",
+      "feature1Description": "새로운 스키비디 변기 테마 캐릭터들, 각기 다른 사운드와 애니메이션을 가지고 있습니다.",
+      "feature2Title": "코믹한 시각 효과 (Comical Visuals)",
+      "feature2Description": "재미있고 경쾌한 분위기를 더하는 기발한 디자인들.",
+      "feature3Title": "몰입적인 게임 플레이 (Engaging Gameplay)",
+      "feature3Description": "향상된 사운드 조합과 추가적인 재미를 위한 숨겨진 보너스.",
+      "feature4Title": "음악적 창의성 (Musical Creativity)",
+      "feature4Description": "귀하의 음악적 상상력을 마음껏 발휘해보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문 (FAQs)"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상 (Game Video)"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임 (Recommends)"
+    },
+    "HomeComments": {
+      "title": "게임 댓글 (Play Comments)"
+    },
+    "GamePage": {
+      "title": "모든 게임 (All Games)",
+      "description": "모든 게임 (All Games)",
+      "games": "게임들 (Games)"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "sprunki-skibidi-toilet-2-0": {
+    "title": "Sprunki: Skibidi Toilet 2.0",
+    "slogan": "Selami dunia Sprunki: Skibidi Toilet 2.0 yang unik dan aneh",
+    "description": "Sprunki: Skibidi Toilet 2.0 menghadirkan sentuhan menghibur dan lucu pada semesta Sprunki. Seri ini memperkenalkan karakter yang lebih eksentrik, animasi lucu, dan kemungkinan musik yang kreatif.",
+    "Loading": {
+      "title": "Memuat Sprunki: Skibidi Toilet 2.0"
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Syarat dan Ketentuan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah"
+    },
+    "HomeIframe": {
+      "title": "Selamat Datang di Sprunki: Skibidi Toilet 2.0",
+      "description": "Berinteraksi dengan karakter bertema toilet dan ciptakan lagu musik unik di Sprunki: Skibidi Toilet 2.0.",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Fitur Sprunki: Skibidi Toilet 2.0",
+      "whatIsTitle": "Apa itu Sprunki: Skibidi Toilet 2.0?",
+      "whatIsDescription": "Di Sprunki: Skibidi Toilet 2.0, karakter Sprunki dibayangkan ulang dengan desain terinspirasi Skibidi Toilet, menghadirkan visual yang sangat lucu.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Jelajahi daftar karakter terinspirasi Skibidi Toilet yang diperluas.",
+      "howToPlayStep2": "Ciptakan lagu musik lucu dan unik.",
+      "howToPlayStep3": "Temukan bonus tersembunyi untuk kesenangan ekstra!",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Daftar Karakter yang Diperluas",
+      "feature1Description": "Karakter baru terinspirasi Skibidi Toilet dengan suara dan animasi unik.",
+      "feature2Title": "Visual Lucu",
+      "feature2Description": "Desain nyeleneh yang menambahkan nada ceria dan ceria.",
+      "feature3Title": "Gameplay yang Menarik",
+      "feature3Description": "Kombinasi suara yang ditingkatkan dan bonus tersembunyi untuk kesenangan yang lebih.",
+      "feature4Title": "Kreativitas Musik",
+      "feature4Description": "Biarkan imajinasi musik Anda melesat."
+    },
+    "HomeFAQs": {
+      "title": "Tanya Jawab"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Game"
+    }
+  }
+}

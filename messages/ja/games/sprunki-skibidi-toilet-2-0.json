@@ -1,0 +1,67 @@
+{
+  "sprunki-skibidi-toilet-2-0": {
+    "title": "スプンキ：スキビディトイレット2.0 (Sprunki: Skibidi Toilet 2.0)",
+    "slogan": "スプンキ：スキビディトイレット2.0の奇妙な世界に飛び込もう (Dive into the quirky world of Sprunki: Skibidi Toilet 2.0)",
+    "description": "スプンキ：スキビディトイレット2.0は、スプンキ宇宙にユーモラスでエンターテイメント満点のひねりを加えます。この続編では、さらに奇抜なキャラクター、陽気なアニメーション、そして創造的な音楽の可能性が登場します。(Sprunki: Skibidi Toilet 2.0 brings an entertaining and humorous twist to the Sprunki universe. This sequel introduces even more eccentric characters, hilarious animations, and creative musical possibilities.)",
+    "Loading": {
+      "title": "スプンキ：スキビディトイレット2.0 の読み込み (Loading Sprunki: Skibidi Toilet 2.0)"
+    },
+    "Navbar": {
+      "title": "ナビゲーション (Nav)"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "サービス利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友好リンク"
+    },
+    "HomeIframe": {
+      "title": "スプンキ：スキビディトイレット2.0へようこそ (Welcome to Sprunki: Skibidi Toilet 2.0)",
+      "description": "スプンキ：スキビディトイレット2.0で、トイレをテーマにしたキャラクターと、独自の音楽トラックを作成しましょう。(Engage with toilet-themed characters and create unique musical tracks in Sprunki: Skibidi Toilet 2.0.)",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームのダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "スプンキ：スキビディトイレット2.0 の特徴 (Features of Sprunki: Skibidi Toilet 2.0)",
+      "whatIsTitle": "スプンキ：スキビディトイレット2.0とは？ (What is Sprunki: Skibidi Toilet 2.0?)",
+      "whatIsDescription": "スプンキ：スキビディトイレット2.0では、スプンキキャラクターはスキビディトイレットをテーマにしたデザインで再構築され、ばかげたほど面白いビジュアルを実現します。 (In Sprunki: Skibidi Toilet 2.0, Sprunki characters are reimagined with Skibidi Toilet-inspired designs, bringing absurdly funny visuals to life.)",
+      "howToPlayTitle": "遊び方 (How to Play)",
+      "howToPlayStep1": "拡張されたスキビディトイレットをテーマにしたキャラクターたちを探索しましょう。",
+      "howToPlayStep2": "陽気でユニークな音楽トラックを作成しましょう。",
+      "howToPlayStep3": "隠されたボーナスでさらに楽しくしましょう！",
+      "keyFeaturesTitle": "主な特徴 (Key Features)",
+      "feature1Title": "拡張されたキャラクター (Expanded Cast)",
+      "feature1Description": "ユニークなサウンドとアニメーションを持つ、新しいスキビディトイレットをテーマにしたキャラクター。",
+      "feature2Title": "コミカルなビジュアル (Comical Visuals)",
+      "feature2Description": "遊び心あふれる、軽快な雰囲気を醸し出す、陽気なデザイン。",
+      "feature3Title": "魅力的なゲームプレイ (Engaging Gameplay)",
+      "feature3Description": "さらに楽しいサウンドの組み合わせと隠されたボーナス。",
+      "feature4Title": "音楽創造 (Musical Creativity)",
+      "feature4Description": "あなたの音楽的な想像力を自由に発揮しましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "ゲームコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    }
+  }
+}

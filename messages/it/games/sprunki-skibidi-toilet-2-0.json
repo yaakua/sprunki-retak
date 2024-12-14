@@ -1,0 +1,67 @@
+{
+  "sprunki-skibidi-toilet-2-0": {
+    "title": "Sprunki: Skibidi Toilet 2.0",
+    "slogan": "Immergiti nell'affascinante mondo bizzarro di Sprunki: Skibidi Toilet 2.0",
+    "description": "Sprunki: Skibidi Toilet 2.0 aggiunge un tocco divertente e umoristico all'universo di Sprunki. Questo sequel presenta personaggi ancora più stravaganti, animazioni esilaranti e possibilità musicali creative.",
+    "Loading": {
+      "title": "Caricamento di Sprunki: Skibidi Toilet 2.0 (Sprunki: Skibidi Toilet 2.0)"
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Crea In",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuti",
+      "help": "Aiuto",
+      "friendlyLinks": "Link utili"
+    },
+    "HomeIframe": {
+      "title": "Benvenuti in Sprunki: Skibidi Toilet 2.0",
+      "description": "Interagisci con personaggi a tema wc e crea tracce musicali uniche in Sprunki: Skibidi Toilet 2.0.",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Caratteristiche di Sprunki: Skibidi Toilet 2.0",
+      "whatIsTitle": "Cos'è Sprunki: Skibidi Toilet 2.0?",
+      "whatIsDescription": "In Sprunki: Skibidi Toilet 2.0, i personaggi di Sprunki sono reinterpretati con design ispirati a Skibidi Toilet, rendendo visivamente assurdo e divertente.",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Esplora il cast ampliato di personaggi ispirati a Skibidi Toilet.",
+      "howToPlayStep2": "Crea tracce musicali esilaranti e uniche.",
+      "howToPlayStep3": "Scopri bonus nascosti per un divertimento extra!",
+      "keyFeaturesTitle": "Principali caratteristiche",
+      "feature1Title": "Cast ampliato",
+      "feature1Description": "Nuovi personaggi ispirati a Skibidi Toilet con suoni e animazioni uniche.",
+      "feature2Title": "Visuali comiche",
+      "feature2Description": "Design stravaganti che aggiungono un tono giocoso e leggero.",
+      "feature3Title": "Gameplay coinvolgente",
+      "feature3Description": "Combinazioni sonore migliorate e bonus nascosti per un divertimento extra.",
+      "feature4Title": "Creatività musicale",
+      "feature4Description": "Lascia che la tua immaginazione musicale si sbizzarrisca."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Raccomandazioni"
+    },
+    "HomeComments": {
+      "title": "Commenti sul gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Tutti i giochi",
+      "games": "Giochi"
+    }
+  }
+}

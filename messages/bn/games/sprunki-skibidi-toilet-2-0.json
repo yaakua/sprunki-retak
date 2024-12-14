@@ -1,0 +1,67 @@
+{
+  "sprunki-skibidi-toilet-2-0": {
+    "title": "স্প্রাঙ্কি: স্কিবিডি টয়লেট ২.০ (Sprunki: Skibidi Toilet 2.0)",
+    "slogan": "স্প্রাঙ্কি: স্কিবিডি টয়লেট ২.০ এর বিচিত্র জগতে ডুব দিন (Dive into the quirky world of Sprunki: Skibidi Toilet 2.0)",
+    "description": "স্প্রাঙ্কি: স্কিবিডি টয়লেট ২.০ স্প্রাঙ্কি বিশ্বে একটি মজার এবং বিনোদনমূলক ঘূর্ণন নিয়ে আসে। এই ধারাবাহিকতা আরও বেশি অদ্ভুত চরিত্র, মজার অ্যানিমেশন এবং সৃজনশীল সঙ্গীতের সম্ভাবনা নিয়ে আসে। (Sprunki: Skibidi Toilet 2.0 brings an entertaining and humorous twist to the Sprunki universe. This sequel introduces even more eccentric characters, hilarious animations, and creative musical possibilities.)",
+    "Loading": {
+      "title": "স্প্রাঙ্কি: স্কিবিডি টয়লেট ২.০ লোডিং (Loading Sprunki: Skibidi Toilet 2.0)"
+    },
+    "Navbar": {
+      "title": "নেভিগেশন (Nav)"
+    },
+    "Common": {
+      "createAt": "সৃষ্টি করুন (Create At)",
+      "guide": "নির্দেশিকা (Guide)",
+      "privacyPolicy": "গোপনীয়তা নীতি (Privacy Policy)",
+      "termsOfServices": "সেবা শর্তাবলী (Terms of Services)",
+      "text": "বিষয়বস্তু (Content)",
+      "help": "সাহায্য (Help)",
+      "friendlyLinks": "বান্ধব লিঙ্ক (Friendly Links)"
+    },
+    "HomeIframe": {
+      "title": "স্প্রাঙ্কি: স্কিবিডি টয়লেট ২.০ - স্বাগতম (Welcome to Sprunki: Skibidi Toilet 2.0)",
+      "description": "স্প্রাঙ্কি: স্কিবিডি টয়লেট ২.০ -র টয়লেট-থিমযুক্ত চরিত্রগুলির সাথে জড়িয়ে পড়ুন এবং অনন্য সঙ্গীত ট্র্যাক তৈরি করুন। (Engage with toilet-themed characters and create unique musical tracks in Sprunki: Skibidi Toilet 2.0.)",
+      "iframeTitle": "খেলা পূর্বরূপ (Game Preview)",
+      "fullscreenButton": "পূর্ণ পর্দা (Fullscreen)",
+      "shareButton": "শেয়ার করুন (Share)",
+      "urlCopied": "URL ক্লিপবোর্ডে অনুলিপি করা হয়েছে! (URL copied to clipboard!)",
+      "downloadGame": "খেলা ডাউনলোড করুন (Download Game)",
+      "playGame": "খেলা খেলুন (Play Game)"
+    },
+    "HomeFeatures": {
+      "gameTitle": "স্প্রাঙ্কি: স্কিবিডি টয়লেট ২.০ এর বৈশিষ্ট্যসমূহ (Features of Sprunki: Skibidi Toilet 2.0)",
+      "whatIsTitle": "স্প্রাঙ্কি: স্কিবিডি টয়লেট ২.০ কি? (What is Sprunki: Skibidi Toilet 2.0?)",
+      "whatIsDescription": "স্প্রাঙ্কি: স্কিবিডি টয়লেট ২.০ -তে, স্প্রাঙ্কি চরিত্রগুলিকে স্কিবিডি টয়লেট-পরবর্তী ডিজাইনের সাথে পুনর্গঠিত করা হয়েছে, যা অদ্ভুতভাবে মজার ভিজ্যুয়ালগুলি জীবনে নিয়ে আসে। (In Sprunki: Skibidi Toilet 2.0, Sprunki characters are reimagined with Skibidi Toilet-inspired designs, bringing absurdly funny visuals to life.)",
+      "howToPlayTitle": "কিভাবে খেলবেন (How to Play)",
+      "howToPlayStep1": "স্কিবিডি টয়লেট-পরবর্তী চরিত্রের বর্ধিত দল এক্সপ্লোর করুন।",
+      "howToPlayStep2": "উদ্ভট এবং অনন্য সঙ্গীত ট্র্যাক তৈরি করুন।",
+      "howToPlayStep3": "অতিরিক্ত মজার জন্য লুকানো বোনাস আবিষ্কার করুন!",
+      "keyFeaturesTitle": "প্রধান বৈশিষ্ট্য (Key Features)",
+      "feature1Title": "বর্ধিত দল (Expanded Cast)",
+      "feature1Description": "নতুন স্কিবিডি টয়লেট-পরবর্তী চরিত্রগুলি অনন্য শব্দ এবং অ্যানিমেশনের সাথে।",
+      "feature2Title": "মজার ভিজ্যুয়াল (Comical Visuals)",
+      "feature2Description": "উন্মাদ ডিজাইন যা একটি খেলার মতো, হালকা হাস্যরসপূর্ণ স্বর যোগ করে।",
+      "feature3Title": "আকর্ষণীয় গেমপ্লে (Engaging Gameplay)",
+      "feature3Description": "বর্ধিত শব্দ সংমিশ্রণ এবং অতিরিক্ত মজার জন্য লুকানো বোনাস।",
+      "feature4Title": "সঙ্গীতের সৃজনশীলতা (Musical Creativity)",
+      "feature4Description": "আপনার সঙ্গীতের কল্পনা ছড়িয়ে দিন।"
+    },
+    "HomeFAQs": {
+      "title": "প্রায়শ জিজ্ঞাস্য প্রশ্ন (FAQs)"
+    },
+    "HomeRelatedVideo": {
+      "title": "খেলা ভিডিও (Game Video)"
+    },
+    "HomeRecommendation": {
+      "title": "সুপারিশ (Recommends)"
+    },
+    "HomeComments": {
+      "title": "খেলার মন্তব্য (Play Comments)"
+    },
+    "GamePage": {
+      "title": "সকল খেলা (All Games)",
+      "description": "সকল খেলা (All Games)",
+      "games": "খেলা (Games)"
+    }
+  }
+}

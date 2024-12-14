@@ -1,0 +1,67 @@
+{
+  "sprunki-skibidi-toilet-2-0": {
+    "title": "Sprunki: Skibidi Toilet 2.0 (Sprunki: Skibidi Toilet 2.0)",
+    "slogan": "Đắm mình vào thế giới kỳ quái của Sprunki: Skibidi Toilet 2.0",
+    "description": "Sprunki: Skibidi Toilet 2.0 mang đến một nét xoắn hài hước và thú vị cho vũ trụ Sprunki. Phiên bản tiếp theo này giới thiệu thêm nhiều nhân vật lập dị, hình ảnh hoạt hình hài hước và những khả năng âm nhạc sáng tạo.",
+    "Loading": {
+      "title": "Đang tải Sprunki: Skibidi Toilet 2.0"
+    },
+    "Navbar": {
+      "title": "Điều hướng"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích"
+    },
+    "HomeIframe": {
+      "title": "Chào mừng đến với Sprunki: Skibidi Toilet 2.0",
+      "description": "Tham gia với các nhân vật chủ đề nhà vệ sinh và tạo ra các bản nhạc độc đáo trong Sprunki: Skibidi Toilet 2.0.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Các tính năng của Sprunki: Skibidi Toilet 2.0",
+      "whatIsTitle": "Sprunki: Skibidi Toilet 2.0 là gì?",
+      "whatIsDescription": "Trong Sprunki: Skibidi Toilet 2.0, các nhân vật Sprunki được tái thiết kế với thiết kế lấy cảm hứng từ Skibidi Toilet, mang đến những hình ảnh hài hước đến sống động.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Khám phá dàn diễn viên mở rộng bao gồm các nhân vật lấy cảm hứng từ Skibidi Toilet.",
+      "howToPlayStep2": "Tạo ra các bản nhạc hài hước và độc đáo.",
+      "howToPlayStep3": "Khám phá các phần thưởng ẩn để có thêm niềm vui!",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Dàn diễn viên mở rộng",
+      "feature1Description": "Các nhân vật mới lấy cảm hứng từ Skibidi Toilet với âm thanh và hình ảnh hoạt hình độc đáo.",
+      "feature2Title": "Hình ảnh hài hước",
+      "feature2Description": "Các thiết kế kỳ lạ tạo ra một âm hưởng vui tươi, nhẹ nhàng.",
+      "feature3Title": "Gameplay hấp dẫn",
+      "feature3Description": "Kết hợp âm thanh được nâng cao và các phần thưởng ẩn để thêm niềm vui.",
+      "feature4Title": "Sự sáng tạo âm nhạc",
+      "feature4Description": "Hãy để trí tưởng tượng âm nhạc của bạn bay bổng."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    }
+  }
+}

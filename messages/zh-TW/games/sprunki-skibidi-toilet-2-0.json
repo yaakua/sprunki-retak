@@ -1,0 +1,67 @@
+{
+  "sprunki-skibidi-toilet-2-0": {
+    "title": "Sprunki：Skibidi 廁所 2.0 (Sprunki: Skibidi Toilet 2.0)",
+    "slogan": "潛入 Sprunki：Skibidi 廁所 2.0 的古怪世界 (Dive into the quirky world of Sprunki: Skibidi Toilet 2.0)",
+    "description": "Sprunki：Skibidi 廁所 2.0 為 Sprunki 宇宙增添了令人愉悅又幽默的轉折。 此續集引入了更多古怪的角色、滑稽的動畫和創意的音樂可能性。(Sprunki: Skibidi Toilet 2.0 brings an entertaining and humorous twist to the Sprunki universe. This sequel introduces even more eccentric characters, hilarious animations, and creative musical possibilities.)",
+    "Loading": {
+      "title": "正在載入 Sprunki：Skibidi 廁所 2.0 (Loading Sprunki: Skibidi Toilet 2.0)"
+    },
+    "Navbar": {
+      "title": "導覽 (Nav)"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結"
+    },
+    "HomeIframe": {
+      "title": "歡迎來到 Sprunki：Skibidi 廁所 2.0 (Welcome to Sprunki: Skibidi Toilet 2.0)",
+      "description": "在 Sprunki：Skibidi 廁所 2.0 中與以馬桶為主題的角色互動，並創作獨特的音樂曲目。(Engage with toilet-themed characters and create unique musical tracks in Sprunki: Skibidi Toilet 2.0.)",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki：Skibidi 廁所 2.0 特色 (Features of Sprunki: Skibidi Toilet 2.0)",
+      "whatIsTitle": "Sprunki：Skibidi 廁所 2.0 介紹 (What is Sprunki: Skibidi Toilet 2.0?)",
+      "whatIsDescription": "在 Sprunki：Skibidi 廁所 2.0 中，Sprunki 角色以 Skibidi 廁所為靈感重新設計，將荒謬有趣的視覺效果活生生地呈現出來。(In Sprunki: Skibidi Toilet 2.0, Sprunki characters are reimagined with Skibidi Toilet-inspired designs, bringing absurdly funny visuals to life.)",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "探索擴充的 Skibidi 廁所靈感角色陣容。",
+      "howToPlayStep2": "創作滑稽獨特的音樂曲目。",
+      "howToPlayStep3": "發現隱藏獎勵獲得額外樂趣！",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "擴充的角色陣容",
+      "feature1Description": "擁有獨特音效和動畫的新 Skibidi 廁所靈感角色。",
+      "feature2Title": "滑稽的視覺效果",
+      "feature2Description": "誇張的設計，增添了輕鬆愉快的基調。",
+      "feature3Title": "引人入勝的遊戲玩法",
+      "feature3Description": "增強的聲音組合和隱藏獎勵，讓遊戲更有趣。",
+      "feature4Title": "音樂創意",
+      "feature4Description": "讓你的音樂想像力自由馳騁。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題集"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    }
+  }
+}
