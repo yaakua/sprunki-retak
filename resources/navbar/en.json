@@ -2,8 +2,7 @@
   {
     "title": "All Games",
     "href": "/games",
-    "visible": true,
-    "children": []
+    "visible": true
   },
   {
     "title": "Sprunki Infected",
@@ -13,6 +12,16 @@
   {
     "title": "Sprunki Remastered",
     "href": "/games/sprunki-remastered",
+    "visible": true
+  },
+  {
+    "title": "Sprunked 2.0",
+    "href": "/games/sprunked-2-0",
+    "visible": true
+  },
+  {
+    "title": "Sprunki:Skibidi Toilet 2.0",
+    "href": "/games/sprunki-skibidi-toilet-2-0",
     "visible": true
   }
 ]

@@ -2,8 +2,7 @@
   {
     "title": "เกมทั้งหมด",
     "href": "/games",
-    "visible": true,
-    "children": []
+    "visible": true
   },
   {
     "title": "สปริงกี้ติดเชื้อ",
@@ -13,6 +12,16 @@
   {
     "title": "สปริงกี้รีมาสเตอร์",
     "href": "/games/sprunki-remastered",
+    "visible": true
+  },
+  {
+    "title": "สปริงกี้ 2.0",
+    "href": "/games/sprunked-2-0",
+    "visible": true
+  },
+  {
+    "title": "สปริงกี้: ห้องน้ำสกีบิดี้ 2.0",
+    "href": "/games/sprunki-skibidi-toilet-2-0",
     "visible": true
   }
 ]

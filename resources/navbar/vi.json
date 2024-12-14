@@ -2,17 +2,26 @@
   {
     "title": "Tất cả các trò chơi",
     "href": "/games",
-    "visible": true,
-    "children": []
+    "visible": true
   },
   {
-    "title": "Sprunki Nhiễm",
+    "title": "Sprunki Nhiễm trùng",
     "href": "/games/sprunki-infected",
     "visible": true
   },
   {
-    "title": "Sprunki Bản quyền",
+    "title": "Sprunki Bản làm lại",
     "href": "/games/sprunki-remastered",
+    "visible": true
+  },
+  {
+    "title": "Sprunked 2.0",
+    "href": "/games/sprunked-2-0",
+    "visible": true
+  },
+  {
+    "title": "Sprunki: Bồn cầu Skibidi 2.0",
+    "href": "/games/sprunki-skibidi-toilet-2-0",
     "visible": true
   }
 ]

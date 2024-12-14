@@ -2,17 +2,26 @@
   {
     "title": "所有遊戲",
     "href": "/games",
-    "visible": true,
-    "children": []
+    "visible": true
   },
   {
-    "title": "Sprunki 感染",
+    "title": "Sprunki 受感染",
     "href": "/games/sprunki-infected",
     "visible": true
   },
   {
     "title": "Sprunki 重製版",
     "href": "/games/sprunki-remastered",
+    "visible": true
+  },
+  {
+    "title": "Sprunked 2.0",
+    "href": "/games/sprunked-2-0",
+    "visible": true
+  },
+  {
+    "title": "Sprunki：Skibidi 廁所 2.0",
+    "href": "/games/sprunki-skibidi-toilet-2-0",
     "visible": true
   }
 ]

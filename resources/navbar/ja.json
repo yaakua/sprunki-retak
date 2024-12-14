@@ -2,17 +2,26 @@
   {
     "title": "すべてのゲーム",
     "href": "/games",
-    "visible": true,
-    "children": []
+    "visible": true
   },
   {
-    "title": "スプンキ感染",
+    "title": "スプランキ感染者",
     "href": "/games/sprunki-infected",
     "visible": true
   },
   {
-    "title": "スプンキ リマスタード",
+    "title": "スプランキ リマスタード",
     "href": "/games/sprunki-remastered",
+    "visible": true
+  },
+  {
+    "title": "スプランク 2.0",
+    "href": "/games/sprunked-2-0",
+    "visible": true
+  },
+  {
+    "title": "スプランキ：スキビディトイレ 2.0",
+    "href": "/games/sprunki-skibidi-toilet-2-0",
     "visible": true
   }
 ]

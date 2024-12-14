@@ -2,8 +2,7 @@
   {
     "title": "Усі ігри",
     "href": "/games",
-    "visible": true,
-    "children": []
+    "visible": true
   },
   {
     "title": "Заражені Спрунки",
@@ -13,6 +12,16 @@
   {
     "title": "Спрунки Перевидані",
     "href": "/games/sprunki-remastered",
+    "visible": true
+  },
+  {
+    "title": "Спрунки 2.0",
+    "href": "/games/sprunked-2-0",
+    "visible": true
+  },
+  {
+    "title": "Спрунки: туалет Скібіді 2.0",
+    "href": "/games/sprunki-skibidi-toilet-2-0",
     "visible": true
   }
 ]
