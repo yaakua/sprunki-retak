@@ -128,7 +128,7 @@ function Ad() {
 
     if (selectedMaterial.type === 'image') {
       return (
-        <a href={selectedMaterial?.clickUrl} target="_blank" rel="noopener noreferrer">
+        <a href={selectedMaterial?.clickUrl} target="_blank">
           <img
             src={selectedMaterial.materialUrl}
             alt={selectedMaterial?.title || ''}
@@ -213,7 +213,6 @@ function Ad() {
                   <a 
                     href={selectedMaterial?.clickUrl} 
                     target="_blank" 
-                    rel="noopener noreferrer"
                     className="flex-1 group"
                   >
                     <div className="flex items-center space-x-2">
