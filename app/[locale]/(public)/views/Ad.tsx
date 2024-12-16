@@ -15,6 +15,45 @@ const AdContent = dynamic(() => Promise.resolve(Ad), {
 export default AdContent;
 
 function Ad() {
+  const { enablePromotion, selectedMaterial } = siteConfig as SiteConfig;
+  const [isVisible, setIsVisible] = useState(true);
+  const [isSticky, setIsSticky] = useState(true);
+  const [dimensions, setDimensions] = useState(() => 
+    calculateDimensions(selectedMaterial?.size || '', selectedMaterial?.ratio || '')
+  );
+  const adRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    const handleResize = () => {
+      setDimensions(calculateDimensions(selectedMaterial?.size || '', selectedMaterial?.ratio || ''));
+    };
+
+    const handleScroll = () => {
+      if (!adRef.current) return;
+      
+      const windowHeight = window.innerHeight;
+      const documentHeight = document.documentElement.scrollHeight;
+      const scrollTop = window.scrollY;
+      
+      if (scrollTop + windowHeight >= documentHeight - 100) {
+        setIsSticky(false);
+      } else {
+        setIsSticky(true);
+      }
+    };
+
+    window.addEventListener('resize', handleResize);
+    window.addEventListener('scroll', handleScroll);
+    return () => {
+      window.removeEventListener('resize', handleResize);
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, [selectedMaterial, calculateDimensions]);
+
+  if(!enablePromotion){
+    return null;
+  }
+
   function getYoutubeVideoId(url: string): string {
     const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|&v=)([^#&?]*).*/;
     const match = url.match(regExp);
@@ -79,44 +118,6 @@ function Ad() {
       isMobile
     };
   }
-
-  const { enablePromotion,selectedMaterial } = siteConfig as SiteConfig;
-  if(!enablePromotion){
-      return null;
-  }
-  const [isVisible, setIsVisible] = useState(true);
-  const [isSticky, setIsSticky] = useState(true);
-  const [dimensions, setDimensions] = useState(() => 
-    calculateDimensions(selectedMaterial?.size || '', selectedMaterial?.ratio || '')
-  );
-  const adRef = useRef<HTMLDivElement>(null);
-
-  useEffect(() => {
-    const handleResize = () => {
-      setDimensions(calculateDimensions(selectedMaterial?.size || '', selectedMaterial?.ratio || ''));
-    };
-
-    const handleScroll = () => {
-      if (!adRef.current) return;
-      
-      const windowHeight = window.innerHeight;
-      const documentHeight = document.documentElement.scrollHeight;
-      const scrollTop = window.scrollY;
-      
-      if (scrollTop + windowHeight >= documentHeight - 100) {
-        setIsSticky(false);
-      } else {
-        setIsSticky(true);
-      }
-    };
-
-    window.addEventListener('resize', handleResize);
-    window.addEventListener('scroll', handleScroll);
-    return () => {
-      window.removeEventListener('resize', handleResize);
-      window.removeEventListener('scroll', handleScroll);
-    };
-  }, [selectedMaterial]);
 
   const handleClose = () => {
     setIsVisible(false);
