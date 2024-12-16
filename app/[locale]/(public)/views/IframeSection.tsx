@@ -4,7 +4,7 @@ import IframeActions from './IframeActions';
 import { loadSiteConfig } from '@/lib/utils/resource';
 import PopupWindows from './PopupWindows';
 import { SiteConfig } from '@/lib/types';
-
+import Ad from './Ad';
 function getYoutubeVideoId(url: string): string {
   const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|&v=)([^#&?]*).*/;
   const match = url.match(regExp);
@@ -114,6 +114,7 @@ export default async function IframeSection({pageName}:{pageName:string}) {
           )
         }
       </div>
+      <Ad/>
     </section>
   );
 }

@@ -45,6 +45,15 @@ export interface Theme {
   backgroundColor: string | null;
 }
 
+export interface MaterialItem {
+  type: string;
+  ratio: string;
+  size: string;
+  materialUrl: string;
+  clickUrl: string;
+  title: string;
+}
+
 export interface SiteConfig {
   // 网站名称
   name: string;
@@ -107,4 +116,10 @@ export interface SiteConfig {
   adsenseClientId?: string | null;
   // logo地址
   logoUrl?: string | null;
+  // 开启广告
+  enablePromotion?: boolean;
+  // 推广素材
+  selectedMaterial?: MaterialItem;
+  // ads.txt 内容
+  adsTxtContent?: string | null;
 }
