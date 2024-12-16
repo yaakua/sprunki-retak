@@ -28,7 +28,7 @@
   "isShowVideo": false,
   "isShowGuide": true,
   "videos": [],
-  "isShowComments": false,
+  "isShowComments": true,
   "isShowTweets": false,
   "useRealTweets": false,
   "tweets": [],
