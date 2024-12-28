@@ -1,0 +1,67 @@
+{
+  "sprunki-incredibox": {
+    "title": "Sprunki Incredibox (Sprunki Incredibox)",
+    "slogan": "一个由Incredibox启发制作的粉丝版MOD，Sprunki Incredibox",
+    "description": "Sprunki Incredibox 提供一种新颖、充满活力的体验，在Incredibox 的基础上添加了独特的音乐爱好者专属特色。",
+    "Loading": {
+      "title": "正在加载 Sprunki Incredibox"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接"
+    },
+    "HomeIframe": {
+      "title": "Sprunki Incredibox (Sprunki Incredibox)",
+      "description": "体验Sprunki Incredibox 在线音乐混音的创造力。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载Sprunki",
+      "playGame": "播放Sprunki Incredibox"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Incredibox (Sprunki Incredibox)",
+      "whatIsTitle": "Sprunki Incredibox 是什么？",
+      "whatIsDescription": "Sprunki Incredibox 是原版游戏的粉丝版MOD，以独特的声音景观和视觉效果将音乐混音提升到一个新的水平。",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "从精选的新节奏、效果、旋律和声音中进行选择。",
+      "howToPlayStep2": "将您选择的音效拖放到角色上，开始构建您的曲目。",
+      "howToPlayStep3": "尝试各种组合，创作您自己的独特音乐。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "新的音乐风格",
+      "feature1Description": "享受各种不同类型音乐的全新音循环和节奏。",
+      "feature2Title": "独特的视觉效果",
+      "feature2Description": "独特的角色和动画使Sprunki拥有引人注目的视觉效果。",
+      "feature3Title": "易于上手",
+      "feature3Description": "简单有趣的界面，所有玩家都能轻松访问。",
+      "feature4Title": "创意表达",
+      "feature4Description": "鼓励无限的实验，创造出充满活力的音轨。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    }
+  }
+}

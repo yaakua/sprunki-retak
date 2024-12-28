@@ -1,0 +1,67 @@
+{
+  "sprunki-incredibox": {
+    "title": "Sprunki Incredibox (Sprunki Incredibox)",
+    "slogan": "มอดแปลกใหม่ที่สร้างขึ้นจาก Incredibox, Sprunki Incredibox",
+    "description": "Sprunki Incredibox มอบประสบการณ์ใหม่ที่สดใสและสร้างสรรค์จาก Incredibox พร้อมเพิ่มความโดดเด่นเฉพาะตัวสำหรับผู้ที่ชื่นชอบดนตรี",
+    "Loading": {
+      "title": "กำลังโหลด Sprunki Incredibox"
+    },
+    "Navbar": {
+      "title": "นำทาง"
+    },
+    "Common": {
+      "createAt": "สร้างเมื่อ",
+      "guide": "คู่มือ",
+      "privacyPolicy": "นโยบายความเป็นส่วนตัว",
+      "termsOfServices": "ข้อกำหนดในการให้บริการ",
+      "text": "เนื้อหา",
+      "help": "ช่วยเหลือ",
+      "friendlyLinks": "ลิงก์เพื่อนฝูง"
+    },
+    "HomeIframe": {
+      "title": "Sprunki Incredibox",
+      "description": "สัมผัสกับความคิดสร้างสรรค์ในการผสมดนตรีกับ Sprunki Incredibox ที่พร้อมให้บริการออนไลน์แล้ว",
+      "iframeTitle": "ตัวอย่างเกม",
+      "fullscreenButton": "เต็มหน้าจอ",
+      "shareButton": "แชร์",
+      "urlCopied": "คัดลอก URL ลงในคลิปบอร์ดแล้ว!",
+      "downloadGame": "ดาวน์โหลด Sprunki",
+      "playGame": "เล่น Sprunki Incredibox"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Incredibox",
+      "whatIsTitle": "Sprunki Incredibox คืออะไร?",
+      "whatIsDescription": "Sprunki Incredibox เป็นมอดที่สร้างขึ้นจากเกมต้นฉบับ นำการผสมดนตรีไปสู่ระดับใหม่ด้วยเสียงและภาพที่ไม่เหมือนใคร",
+      "howToPlayTitle": "วิธีการเล่น",
+      "howToPlayStep1": "เลือกจากชุดเสียง เบส เอฟเฟ็กต์ทำนอง และเสียงต่างๆ",
+      "howToPlayStep2": "ลากและวางเสียงที่เลือกไว้บนตัวละครเพื่อเริ่มสร้างเพลงของคุณ",
+      "howToPlayStep3": "ทดลองผสมผสานเพื่อสร้างดนตรีที่เป็นเอกลักษณ์ของคุณเอง",
+      "keyFeaturesTitle": "คุณสมบัติหลัก",
+      "feature1Title": "สไตล์ดนตรีใหม่",
+      "feature1Description": "เพลิดเพลินไปกับเสียงลูปและจังหวะใหม่ๆ สำหรับสไตล์ดนตรีที่หลากหลาย",
+      "feature2Title": "ภาพที่ไม่เหมือนใคร",
+      "feature2Description": "ตัวละครและภาพเคลื่อนไหวที่โดดเด่นทำให้ Sprunki มีความน่าสนใจ",
+      "feature3Title": "ใช้งานง่าย",
+      "feature3Description": "ส่วนต่อประสานที่ใช้งานง่ายและสนุกสำหรับผู้เล่นทุกคน",
+      "feature4Title": "การแสดงออกทางสร้างสรรค์",
+      "feature4Description": "ส่งเสริมการทดลองอย่างไม่รู้จบเพื่อสร้างซาวด์แทร็กไดนามิก"
+    },
+    "HomeFAQs": {
+      "title": "คำถามที่พบบ่อย"
+    },
+    "HomeRelatedVideo": {
+      "title": "วิดีโอเกม"
+    },
+    "HomeRecommendation": {
+      "title": "แนะนำ"
+    },
+    "HomeComments": {
+      "title": "ความคิดเห็นเกี่ยวกับเกม"
+    },
+    "GamePage": {
+      "title": "เกมทั้งหมด",
+      "description": "เกมทั้งหมด",
+      "games": "เกม"
+    }
+  }
+}

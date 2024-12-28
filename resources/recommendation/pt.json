@@ -7,17 +7,24 @@
     "visible": true
   },
   {
+    "title": "Sprunki Incredibox (Sprunki Incredibox)",
+    "cover": "/games/sprunki-incredibox/game_screenshot.webp",
+    "url": "/games/sprunki-incredibox",
+    "category": "TOP",
+    "visible": true
+  },
+  {
     "title": "Sprunki: Skibidi Toilet 2.0 (Sprunki: Skibidi Toilet 2.0)",
     "cover": "/games/sprunki-skibidi-toilet-2-0/game_screenshot.webp",
     "url": "/games/sprunki-skibidi-toilet-2-0",
-    "category": "",
+    "category": "TOP",
     "visible": true
   },
   {
     "title": "Sprunki Remastered (Sprunki Remastered)",
     "cover": "/games/sprunki-remastered/game_screenshot.webp",
     "url": "/games/sprunki-remastered",
-    "category": "",
+    "category": "TOP",
     "visible": true
   },
   {
@@ -31,7 +38,7 @@
     "title": "Sprunked 2.0 (Sprunked 2.0)",
     "cover": "/games/sprunked-2-0/game_screenshot.webp",
     "url": "/games/sprunked-2-0",
-    "category": "",
+    "category": "TOP",
     "visible": true
   }
 ]

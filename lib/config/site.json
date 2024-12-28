@@ -117,7 +117,7 @@
   "faviconBgColor": "#424242",
   "faviconTextColor": "#ff9800",
   "faviconText": "S2",
-  "enablePromotion": true,
+  "enablePromotion": false,
   "selectedMaterial": {
     "type": "image",
     "ratio": "2:1",
@@ -125,5 +125,6 @@
     "materialUrl": "https://cloud.heartvoicegifts.com/intro-hero-fusion-2.avif",
     "clickUrl": "https://www.heartvoicegifts.com?utm_campaign=AF-FaFaFa-2855&utm_medium=FaFaFa",
     "title": "Customize Your Own bobblehead"
-  }
+  },
+  "customizeFeatures": true
 }

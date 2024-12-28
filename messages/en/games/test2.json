@@ -1,0 +1,67 @@
+{
+    "test2": {
+      "title": "Sprunki: Skibidi Toilet 2.0",
+      "slogan": "Dive into the quirky world of Sprunki: Skibidi Toilet 2.0",
+      "description": "Sprunki: Skibidi Toilet 2.0 brings an entertaining and humorous twist to the Sprunki universe. This sequel introduces even more eccentric characters, hilarious animations, and creative musical possibilities.",
+      "Loading": {
+        "title": "Loading Sprunki: Skibidi Toilet 2.0"
+      },
+      "Navbar": {
+        "title": "Nav"
+      },
+      "Common": {
+        "createAt": "Create At",
+        "guide": "Guide",
+        "privacyPolicy": "Privacy Policy",
+        "termsOfServices": "Terms of Services",
+        "text": "Content",
+        "help": "Help",
+        "friendlyLinks": "Friendly Links"
+      },
+      "HomeIframe": {
+        "title": "Welcome to Sprunki: Skibidi Toilet 2.0",
+        "description": "Engage with toilet-themed characters and create unique musical tracks in Sprunki: Skibidi Toilet 2.0.",
+        "iframeTitle": "Game Preview",
+        "fullscreenButton": "Fullscreen",
+        "shareButton": "Share",
+        "urlCopied": "URL copied to clipboard!",
+        "downloadGame": "Download Game",
+        "playGame": "Play Game"
+      },
+      "HomeFeatures": {
+        "gameTitle": "Features of Sprunki: Skibidi Toilet 2.0",
+        "whatIsTitle": "What is Sprunki: Skibidi Toilet 2.0?",
+        "whatIsDescription": "In Sprunki: Skibidi Toilet 2.0, Sprunki characters are reimagined with Skibidi Toilet-inspired designs, bringing absurdly funny visuals to life.",
+        "howToPlayTitle": "How to Play",
+        "howToPlayStep1": "Explore the expanded cast of Skibidi Toilet-inspired characters.",
+        "howToPlayStep2": "Create hilarious and unique musical tracks.",
+        "howToPlayStep3": "Discover hidden bonuses for extra fun!",
+        "keyFeaturesTitle": "Key Features",
+        "feature1Title": "Expanded Cast",
+        "feature1Description": "New Skibidi Toilet-inspired characters with unique sounds and animations.",
+        "feature2Title": "Comical Visuals",
+        "feature2Description": "Wacky designs that add a playful, lighthearted tone.",
+        "feature3Title": "Engaging Gameplay",
+        "feature3Description": "Enhanced sound combinations and hidden bonuses for added fun.",
+        "feature4Title": "Musical Creativity",
+        "feature4Description": "Let your musical imagination run wild."
+      },
+      "HomeFAQs": {
+        "title": "FAQs"
+      },
+      "HomeRelatedVideo": {
+        "title": "Game Video"
+      },
+      "HomeRecommendation": {
+        "title": "Recommends"
+      },
+      "HomeComments": {
+        "title": "Play Comments"
+      },
+      "GamePage": {
+        "title": "All Games",
+        "description": "All Games",
+        "games": "Games"
+      }
+    }
+  }

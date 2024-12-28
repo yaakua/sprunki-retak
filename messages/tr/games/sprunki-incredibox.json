@@ -1,0 +1,67 @@
+{
+  "sprunki-incredibox": {
+    "title": "Sprunki Incredibox",
+    "slogan": "Incredibox'ten Esinlenilmiş Hayran Yapımı Bir Mod, Sprunki Incredibox",
+    "description": "Sprunki Incredibox, müzik severler için Incredibox'a dayanarak benzersiz bir tarz ekleyerek taze ve canlı bir deneyim sunuyor.",
+    "Loading": {
+      "title": "Sprunki Incredibox Yükleniyor"
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar"
+    },
+    "HomeIframe": {
+      "title": "Sprunki Incredibox",
+      "description": "Sprunki Incredibox ile şimdi çevrimiçi olarak müzik karıştırma yaratıcılığını deneyimleyin.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Sprunki İndir",
+      "playGame": "Sprunki Incredibox Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Incredibox",
+      "whatIsTitle": "Sprunki Incredibox Nedir?",
+      "whatIsDescription": "Sprunki Incredibox, orijinal oyunun hayran yapımı bir modudur ve benzersiz ses peyzajları ve görsellerle müzik karıştırmayı yeni bir seviyeye taşıyor.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Yeni ritimler, efektler, melodiler ve seslerden bir seçim yapın.",
+      "howToPlayStep2": "Seçtiğiniz sesleri karakterlere sürükleyip bırakın ve parçanızı oluşturmaya başlayın.",
+      "howToPlayStep3": "Kendi benzersiz müziğinizi oluşturmak için kombinasyonlarla deneyin.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Yeni Müzik Stilleri",
+      "feature1Description": "Daha geniş bir müzik türü yelpazesi için yeni ses döngülerinden ve ritimlerden keyif alın.",
+      "feature2Title": "Benzersiz Görseller",
+      "feature2Description": "Ayrıntılı karakterler ve animasyonlar, Sprunki'yi görsel olarak çekici hale getiriyor.",
+      "feature3Title": "Kolay Oynanabilirlik",
+      "feature3Description": "Tüm oyuncular için erişilebilir basit ve eğlenceli arayüz.",
+      "feature4Title": "Yaratıcı İfade",
+      "feature4Description": "Dinamik müzik parçaları için sonsuz deneme teşvik ediyor."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    }
+  }
+}

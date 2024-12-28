@@ -1,0 +1,67 @@
+{
+  "sprunki-incredibox": {
+    "title": "Sprunki Incredibox",
+    "slogan": "Modifikasi buatan penggemar yang terinspirasi oleh Incredibox, Sprunki Incredibox",
+    "description": "Sprunki Incredibox menawarkan pengalaman baru yang semarak, yang dibangun di atas Incredibox sambil menambahkan sentuhan unik untuk pecinta musik.",
+    "Loading": {
+      "title": "Memuat Sprunki Incredibox"
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah"
+    },
+    "HomeIframe": {
+      "title": "Sprunki Incredibox",
+      "description": "Rasakan kreativitas pencampuran musik dengan Sprunki Incredibox, sekarang tersedia online.",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Sprunki",
+      "playGame": "Mainkan Sprunki Incredibox"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Incredibox",
+      "whatIsTitle": "Apa Itu Sprunki Incredibox?",
+      "whatIsDescription": "Sprunki Incredibox adalah mod penggemar dari game aslinya, membawa pencampuran musik ke level berikutnya dengan lanskap suara dan visual unik.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Pilih dari berbagai pilihan beat, efek, melodi, dan suara.",
+      "howToPlayStep2": "Seret dan lepas suara pilihan Anda ke karakter untuk mulai membangun trek Anda.",
+      "howToPlayStep3": "Eksperimen dengan kombinasi untuk menciptakan musik unik Anda sendiri.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Gaya Musik Baru",
+      "feature1Description": "Nikmati loop dan ritme suara baru untuk berbagai macam genre.",
+      "feature2Title": "Visual Unik",
+      "feature2Description": "Karakter dan animasi yang khas menjadikan Sprunki menarik secara visual.",
+      "feature3Title": "Mudah Dimainkan",
+      "feature3Description": "Antarmuka yang sederhana dan menyenangkan dapat diakses oleh semua pemain.",
+      "feature4Title": "Ekspresi Kreatif",
+      "feature4Description": "Mendorong eksperimen tanpa henti untuk soundtrack dinamis."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Permainan"
+    }
+  }
+}

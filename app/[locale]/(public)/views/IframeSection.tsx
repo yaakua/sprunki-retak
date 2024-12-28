@@ -1,10 +1,11 @@
 import { getPathnameWithLocale } from '@/lib/i18n/navigation';
 import { getLocale, getTranslations } from 'next-intl/server';
-import IframeActions from './IframeActions';
 import { loadSiteConfig } from '@/lib/utils/resource';
 import PopupWindows from './PopupWindows';
 import { SiteConfig } from '@/lib/types';
 import Ad from './Ad';
+import LazyIframe from './LazyIframe';
+
 function getYoutubeVideoId(url: string): string {
   const regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|&v=)([^#&?]*).*/;
   const match = url.match(regExp);
@@ -16,9 +17,10 @@ export default async function IframeSection({pageName}:{pageName:string}) {
   const prefix = pageName ? pageName + '.' : '';
   const t = await getTranslations(`${prefix}HomeIframe`);
   const siteConfig = await loadSiteConfig(pageName);
-  // 检查背景类型和iframe配置
   const isIframe = siteConfig.gameType === 'iframe';
   const isPopup = siteConfig.gameType === 'popup';
+  const screenshot_prefix = pageName ? '/games/' + pageName : '';
+  const game_screenshot_path = `${screenshot_prefix}/game_screenshot.webp`;
   return (
     <section className="bg-black text-white flex flex-col items-center justify-center p-4 pt-0 relative mb-6 min-h-[calc(40vh-6rem)] md:min-h-[600px]">
       {/* 背景图片处理 */}
@@ -67,7 +69,7 @@ export default async function IframeSection({pageName}:{pageName:string}) {
       )}
 
       {/* 内容区域 - 调整内边距 */}
-      <div className="relative z-10 text-gray-100 p-4 md:p-6 pt-2 max-w-6xl mx-auto rounded-lg shadow-lg w-full">
+      {/* <div className="relative z-10 text-gray-100 p-4 md:p-6 pt-2 max-w-6xl mx-auto rounded-lg shadow-lg w-full">
         <div className="flex flex-col">
           <h1 className="text-2xl md:text-5xl font-bold text-center mb-4 text-yellow-300 font-leckerli">
             {t('title')}
@@ -76,24 +78,14 @@ export default async function IframeSection({pageName}:{pageName:string}) {
             {t('description')}
           </p>
         </div>
-      </div>
+      </div> */}
 
       {/* iframe 容器 - 调整高度 */}
       <div className="relative z-10 rounded w-full max-w-6xl">
-        {isIframe && (
-          <>
-            <iframe
-              title={t('iframeTitle')}
-              src={siteConfig.gameIframeUrl}
-              allow="accelerometer; gyroscope; autoplay; payment; fullscreen; microphone; clipboard-read; clipboard-write"
-              sandbox="allow-forms allow-modals allow-orientation-lock allow-pointer-lock allow-popups allow-presentation allow-scripts allow-same-origin allow-downloads allow-popups-to-escape-sandbox"
-              className="w-full h-[calc(100vh-20rem)] md:min-h-[600px]"
-              allowFullScreen
-            />
-            <IframeActions pageName={pageName} />
-          </>
-        ) }
-        { siteConfig.gameType === 'download' && siteConfig.gameDownload?.showDownloadButton && (
+        {isIframe && <LazyIframe gameIframeUrl={siteConfig.gameIframeUrl} title={t('title')}  gameImage={game_screenshot_path}
+          description={t('description')} playGameButtonText={t('playGame')}
+          pageName={pageName} />}
+        {siteConfig.gameType === 'download' && siteConfig.gameDownload?.showDownloadButton && (
           <div className="flex justify-center items-center py-8">
             <a 
               href="#download-game" 
@@ -106,13 +98,11 @@ export default async function IframeSection({pageName}:{pageName:string}) {
             </a>
           </div>
         )}
-        {
-          siteConfig.gameType === 'popup' && (
-            <div className="flex justify-center items-center py-8">
-              <PopupWindows pageName={pageName} siteConfig={{...siteConfig}} />
-            </div>
-          )
-        }
+        {isPopup && (
+          <div className="flex justify-center items-center py-8">
+            <PopupWindows pageName={pageName} siteConfig={{...siteConfig}} />
+          </div>
+        )}
       </div>
       <Ad/>
     </section>

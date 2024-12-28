@@ -1,0 +1,67 @@
+{
+  "sprunki-incredibox": {
+    "title": "Sprunki Incredibox",
+    "slogan": "A Fan-Made Mod Inspired By Incredibox, Sprunki Incredibox",
+    "description": "Sprunki Incredibox offers a fresh, vibrant experience that builds upon Incredibox while adding unique flair for music lovers.",
+    "Loading": {
+      "title": "Loading Sprunki Incredibox"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links"
+    },
+    "HomeIframe": {
+      "title": "Sprunki Incredibox",
+      "description": "Experience the creativity of music-mixing with Sprunki Incredibox, now available online.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Sprunki",
+      "playGame": "Play Sprunki Incredibox"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Incredibox",
+      "whatIsTitle": "What Is Sprunki Incredibox?",
+      "whatIsDescription": "Sprunki Incredibox is a fan-mod of the original game, taking music mixing to a new level with unique soundscapes and visuals.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Choose from a selection of new beats, effects, melodies, and voices.",
+      "howToPlayStep2": "Drag and drop your chosen sounds onto characters to start building your track.",
+      "howToPlayStep3": "Experiment with combinations to create your own unique music.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "New Music Styles",
+      "feature1Description": "Enjoy fresh sound loops and rhythms for a wider variety of genres.",
+      "feature2Title": "Unique Visuals",
+      "feature2Description": "Distinctive characters and animations make Sprunki visually appealing.",
+      "feature3Title": "Easy to Play",
+      "feature3Description": "Simple and fun interface accessible to all players.",
+      "feature4Title": "Creative Expression",
+      "feature4Description": "Encourages endless experimentation for dynamic soundtracks."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    }
+  }
+}

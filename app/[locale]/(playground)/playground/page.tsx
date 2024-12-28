@@ -1,5 +1,5 @@
 import { siteConfig } from '@/lib/config/site';
-import { alternatesLanguage, defaultLocale } from '@/lib/i18n/locales';
+import { alternatesLanguage, defaultLocale, locales } from '@/lib/i18n/locales';
 import { Metadata } from 'next';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import IframeView from './iframe_view';
@@ -7,7 +7,9 @@ import IframeView from './iframe_view';
 type Props = {
   params: Promise<{ locale: string }>;
 };
-
+export function generateStaticParams() {
+  return locales.map((locale) => ({ locale }));
+}
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale = defaultLocale } = await params;
   const t = await getTranslations({ locale });

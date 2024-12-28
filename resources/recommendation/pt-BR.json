@@ -1,34 +1,41 @@
 [
   {
-    "title": "Retomada Sprunki",
+    "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
     "category": "TOP",
     "visible": true
   },
   {
-    "title": "Sprunki: Skibidi Toilet 2.0",
+    "title": "Sprunki Incredibox (Sprunki Incredibox)",
+    "cover": "/games/sprunki-incredibox/game_screenshot.webp",
+    "url": "/games/sprunki-incredibox",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Sprunki: Skibidi Toilet 2.0 (Sprunki: Skibidi Toilet 2.0)",
     "cover": "/games/sprunki-skibidi-toilet-2-0/game_screenshot.webp",
     "url": "/games/sprunki-skibidi-toilet-2-0",
     "category": "",
     "visible": true
   },
   {
-    "title": "Sprunki remasterizado",
+    "title": "Sprunki Remastered (Sprunki Remastered)",
     "cover": "/games/sprunki-remastered/game_screenshot.webp",
     "url": "/games/sprunki-remastered",
     "category": "",
     "visible": true
   },
   {
-    "title": "Sprunki Infectado",
+    "title": "Sprunki Infected (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
     "category": "TOP",
     "visible": true
   },
   {
-    "title": "Sprunked 2.0",
+    "title": "Sprunked 2.0 (Sprunked 2.0)",
     "cover": "/games/sprunked-2-0/game_screenshot.webp",
     "url": "/games/sprunked-2-0",
     "category": "",

@@ -1,0 +1,67 @@
+{
+  "sprunki-incredibox": {
+    "title": "Sprunki Incredibox",
+    "slogan": "Ein Fan-Mod, inspiriert von Incredibox, Sprunki Incredibox",
+    "description": "Sprunki Incredibox bietet ein frisches, lebendiges Erlebnis, das auf Incredibox aufbaut und Musikliebhabern einzigartige Akzente verleiht.",
+    "Loading": {
+      "title": "Lädt Sprunki Incredibox"
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links"
+    },
+    "HomeIframe": {
+      "title": "Sprunki Incredibox",
+      "description": "Erleben Sie die Kreativität des Musik-Mixens mit Sprunki Incredibox, jetzt online verfügbar.",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Sprunki herunterladen",
+      "playGame": "Sprunki Incredibox spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Sprunki Incredibox",
+      "whatIsTitle": "Was ist Sprunki Incredibox?",
+      "whatIsDescription": "Sprunki Incredibox ist ein Fan-Mod des Originalspiels, das das Musik-Mixing mit einzigartigen Soundscapes und Grafiken auf ein neues Level hebt.",
+      "howToPlayTitle": "So spielst du",
+      "howToPlayStep1": "Wähle aus einer Auswahl neuer Beats, Effekte, Melodien und Stimmen.",
+      "howToPlayStep2": "Ziehe und lege deine gewählten Sounds auf die Charaktere, um deine Spur zu erstellen.",
+      "howToPlayStep3": "Experimentiere mit Kombinationen, um deine eigene einzigartige Musik zu kreieren.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Neue Musikstile",
+      "feature1Description": "Genieße neue Soundloops und Rhythmen für eine größere Vielfalt an Musikgenres.",
+      "feature2Title": "Einzigartige Grafiken",
+      "feature2Description": "Besondere Charaktere und Animationen machen Sprunki visuell ansprechend.",
+      "feature3Title": "Einfach zu spielen",
+      "feature3Description": "Eine einfache und unterhaltsame Oberfläche, die allen Spielern zugänglich ist.",
+      "feature4Title": "Kreative Umsetzung",
+      "feature4Description": "Fördert grenzenloses Experimentieren für dynamische Soundtracks."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    }
+  }
+}

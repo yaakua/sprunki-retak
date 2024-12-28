@@ -35,9 +35,10 @@ const nextConfig: NextConfig = {
         pagesBufferLength: 5,
     },
     experimental: {
-        cssChunking: "strict"
+        cssChunking: "strict",
     },
     // output: 'standalone',
+    // output: 'export',
     productionBrowserSourceMaps: true,
     pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
     transpilePackages: ["next-mdx-remote"],

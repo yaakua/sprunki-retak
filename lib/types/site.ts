@@ -122,4 +122,6 @@ export interface SiteConfig {
   selectedMaterial?: MaterialItem;
   // ads.txt 内容
   adsTxtContent?: string | null;
+  // 是否自定义特色内容
+  customizeFeatures?: boolean;
 }

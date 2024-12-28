@@ -1,0 +1,67 @@
+{
+  "sprunki-incredibox": {
+    "title": "স্প্রুঙ্কি ইনক্রেডিবক্স (Sprunki Incredibox)",
+    "slogan": "ইনক্রেডিবক্স থেকে অনুপ্রাণিত একটি ফ্যান-মেড মড, স্প্রুঙ্কি ইনক্রেডিবক্স (A Fan-Made Mod Inspired By Incredibox, Sprunki Incredibox)",
+    "description": "স্প্রুঙ্কি ইনক্রেডিবক্স সঙ্গীতপ্রেমীদের জন্য একটি নতুন, উজ্জ্বল অভিজ্ঞতা প্রদান করে যা ইনক্রেডিবক্সের উপর নির্মিত এবং অনন্য স্বাদ যুক্ত করে। (Sprunki Incredibox offers a fresh, vibrant experience that builds upon Incredibox while adding unique flair for music lovers.)",
+    "Loading": {
+      "title": "স্প্রুঙ্কি ইনক্রেডিবক্স লোডিং (Loading Sprunki Incredibox)"
+    },
+    "Navbar": {
+      "title": "নেভিগেশন (Nav)"
+    },
+    "Common": {
+      "createAt": "উৎপাদনকাল (Create At)",
+      "guide": "নির্দেশিকা (Guide)",
+      "privacyPolicy": "গোপনীয়তা নীতি (Privacy Policy)",
+      "termsOfServices": "সেবা নীতি (Terms of Services)",
+      "text": "বিষয়বস্তু (Content)",
+      "help": "সাহায্য (Help)",
+      "friendlyLinks": "বন্ধুত্বপূর্ণ লিঙ্ক (Friendly Links)"
+    },
+    "HomeIframe": {
+      "title": "স্প্রুঙ্কি ইনক্রেডিবক্স (Sprunki Incredibox)",
+      "description": "এখন অনলাইনে পাওয়া স্প্রুঙ্কি ইনক্রেডিবক্সের সাথে সঙ্গীত মিশ্রণের সৃজনশীলতা অনুভব করুন। (Experience the creativity of music-mixing with Sprunki Incredibox, now available online.)",
+      "iframeTitle": "গেম প্রিভিউ (Game Preview)",
+      "fullscreenButton": "পূর্ণ পর্দা (Fullscreen)",
+      "shareButton": "শেয়ার করুন (Share)",
+      "urlCopied": "URL ক্লীপবোর্ডে কপি করা হয়েছে! (URL copied to clipboard!)",
+      "downloadGame": "স্প্রুঙ্কি ডাউনলোড করুন (Download Sprunki)",
+      "playGame": "স্প্রুঙ্কি ইনক্রেডিবক্স খেলুন (Play Sprunki Incredibox)"
+    },
+    "HomeFeatures": {
+      "gameTitle": "স্প্রুঙ্কি ইনক্রেডিবক্স (Sprunki Incredibox)",
+      "whatIsTitle": "স্প্রুঙ্কি ইনক্রেডিবক্স কি?",
+      "whatIsDescription": "স্প্রুঙ্কি ইনক্রেডিবক্স মূল গেমের একটি ফ্যান-মড, অনন্য শব্দ ও ভিজ্যুয়ালসহ সঙ্গীত মিশ্রণ নতুন পর্যায়ে নিয়ে যায়। (Sprunki Incredibox is a fan-mod of the original game, taking music mixing to a new level with unique soundscapes and visuals.)",
+      "howToPlayTitle": "কেমন করে খেলবেন?",
+      "howToPlayStep1": "নতুন বিট, প্রভাব, সুর এবং ভয়েসের মধ্য থেকে বেছে নিন।",
+      "howToPlayStep2": "আপনার নির্বাচিত শব্দগুলি অক্ষরগুলিতে টেনে আনা শুরু করার জন্য টেনে আনুন এবং রাখুন।",
+      "howToPlayStep3": "আপনার নিজস্ব অনন্য সঙ্গীত তৈরি করার জন্য সংমিশ্রণ পরীক্ষা করুন।",
+      "keyFeaturesTitle": "প্রধান বৈশিষ্ট্য",
+      "feature1Title": "নতুন সঙ্গীত শৈলী",
+      "feature1Description": "বিভিন্ন জেনারের জন্য নতুন শব্দ লুপ এবং তাল উপভোগ করুন।",
+      "feature2Title": "অনন্য ভিজ্যুয়ালস",
+      "feature2Description": "বিশিষ্ট চরিত্র এবং অ্যানিমেশনগুলি স্প্রুঙ্কি ভিজ্যুয়ালি আকর্ষণীয় করে তোলে।",
+      "feature3Title": "খেলার সহজ উপায়",
+      "feature3Description": "সभी खिलाड़ियों के लिए सरल और मजेदार इंटरफ़ेस।",
+      "feature4Title": "সৃজনশীলতা প্রকাশ",
+      "feature4Description": "গতিশীল সঙ্গীত স্কোরের জন্য অফুরন্ত পরীক্ষার উৎসাহ দেয়।"
+    },
+    "HomeFAQs": {
+      "title": "প্রায়শ জিজ্ঞাসিত প্রশ্ন"
+    },
+    "HomeRelatedVideo": {
+      "title": "গেম ভিডিও"
+    },
+    "HomeRecommendation": {
+      "title": "পরামর্শ দেয়"
+    },
+    "HomeComments": {
+      "title": "খেলা মন্তব্য"
+    },
+    "GamePage": {
+      "title": "সকল গেম",
+      "description": "সকল গেম",
+      "games": "গেম"
+    }
+  }
+}
