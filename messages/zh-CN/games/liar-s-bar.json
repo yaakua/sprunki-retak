@@ -1,0 +1,67 @@
+{
+  "liar-s-bar": {
+    "title": "《骗子酒吧》:终极欺骗游戏",
+    "slogan": "虚张声势的艺术殿堂",
+    "description": "踏入《骗子酒吧》的世界，沉浸式多人游戏，策略与欺骗交织其中。(Liar's Bar)",
+    "Loading": {
+      "title": "正在加载《骗子酒吧》..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接"
+    },
+    "HomeIframe": {
+      "title": "进入《骗子酒吧》",
+      "description": "加入《骗子酒吧》，在这个充满欺骗的世界里，每一步都至关重要。(Liar's Bar)",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "探索《骗子酒吧》",
+      "whatIsTitle": "什么是《骗子酒吧》？",
+      "whatIsDescription": "《骗子酒吧》是一款沉浸式多人在线游戏，以一个充满欺骗的酒吧环境为背景，包含各种虚张声势的游戏。(Liar's Bar)",
+      "howToPlayTitle": "如何玩《骗子酒吧》",
+      "howToPlayStep1": "1. 选择游戏模式和角色",
+      "howToPlayStep2": "2. 精通虚张声势的艺术",
+      "howToPlayStep3": "3. 击败你的对手",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "沉浸式体验",
+      "feature1Description": "享受逼真的酒吧氛围模拟。",
+      "feature2Title": "刺激的游戏",
+      "feature2Description": "玩充满欺骗性的引人入胜的游戏。",
+      "feature3Title": "丰富的人物故事",
+      "feature3Description": "通过引人入胜的背景故事，探索游戏中的深度。",
+      "feature4Title": "社区参与",
+      "feature4Description": "受益于持续更新和反馈。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "liar-s-bar": {
+    "title": "騙子酒吧：終極欺騙遊戲",
+    "slogan": "虛張聲勢成為一種藝術的場所",
+    "description": "踏入騙子酒吧的世界，沉浸式多人遊戲體驗，策略與欺騙並存。 (Liar's Bar)",
+    "Loading": {
+      "title": "載入騙子酒吧..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結"
+    },
+    "HomeIframe": {
+      "title": "進入騙子酒吧",
+      "description": "加入騙子酒吧，在充滿欺詐的世界裡，每一步都至關重要。(Liar's Bar)",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "探索騙子酒吧",
+      "whatIsTitle": "什麼是騙子酒吧？",
+      "whatIsDescription": "騙子酒吧是一款沉浸式多人線上遊戲，以欺騙為主題，在虛構的酒吧環境中進行各種虛張聲勢遊戲。(Liar's Bar)",
+      "howToPlayTitle": "如何玩騙子酒吧",
+      "howToPlayStep1": "1. 選擇遊戲模式和角色",
+      "howToPlayStep2": "2. 掌握虛張聲勢的藝術",
+      "howToPlayStep3": "3. 智勝你的對手",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "沉浸式體驗",
+      "feature1Description": "享受逼真的酒吧氛圍模擬。",
+      "feature2Title": "刺激的遊戲",
+      "feature2Description": "玩引人入勝的以欺騙為中心的遊戲。",
+      "feature3Title": "豐富的角色故事",
+      "feature3Description": "透過引人入勝的背景故事探索遊戲的深度。",
+      "feature4Title": "社群參與",
+      "feature4Description": "受益於持續更新和回饋。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    }
+  }
+}

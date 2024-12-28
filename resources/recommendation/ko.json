@@ -1,44 +1,44 @@
 [
   {
-    "title": "Sprunki Retake (Sprunki Retake)",
+    "title": "Sprunki Retake(Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
     "category": "TOP",
     "visible": true
   },
   {
-    "title": "Sprunki Incredibox (Sprunki Incredibox)",
-    "cover": "/games/sprunki-incredibox/game_screenshot.webp",
-    "url": "/games/sprunki-incredibox",
-    "category": "",
+    "title": "Liar's Bar(Liar's Bar)",
+    "cover": "/games/liar-s-bar/game_screenshot.webp",
+    "url": "/games/liar-s-bar",
+    "category": "기타",
     "visible": true
   },
   {
-    "title": "Sprunki: Skibidi Toilet 2.0 (Sprunki: Skibidi Toilet 2.0)",
+    "title": "Sprunki: Skibidi Toilet 2.0(Sprunki: Skibidi Toilet 2.0)",
     "cover": "/games/sprunki-skibidi-toilet-2-0/game_screenshot.webp",
     "url": "/games/sprunki-skibidi-toilet-2-0",
-    "category": "",
+    "category": "기타",
     "visible": true
   },
   {
-    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "title": "Sprunki Remastered(Sprunki Remastered)",
     "cover": "/games/sprunki-remastered/game_screenshot.webp",
     "url": "/games/sprunki-remastered",
-    "category": "",
+    "category": "기타",
     "visible": true
   },
   {
-    "title": "Sprunki Infected (Sprunki Infected)",
+    "title": "Sprunki Infected(Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
     "category": "TOP",
     "visible": true
   },
   {
-    "title": "Sprunked 2.0 (Sprunked 2.0)",
+    "title": "Sprunked 2.0(Sprunked 2.0)",
     "cover": "/games/sprunked-2-0/game_screenshot.webp",
     "url": "/games/sprunked-2-0",
-    "category": "",
+    "category": "기타",
     "visible": true
   }
 ]

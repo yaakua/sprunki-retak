@@ -1,0 +1,67 @@
+{
+  "liar-s-bar": {
+    "title": "Liar's Bar: Trò chơi lừa đảo hoàn hảo",
+    "slogan": "Nơi mà nói dối trở thành nghệ thuật",
+    "description": "Bước vào thế giới của Liar's Bar, một trải nghiệm đa người chơi đắm chìm, nơi gian lận gặp chiến lược.",
+    "Loading": {
+      "title": "Đang tải Liar's Bar..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích"
+    },
+    "HomeIframe": {
+      "title": "Vào Liar's Bar",
+      "description": "Tham gia Liar's Bar, nơi mỗi bước đi đều quan trọng trong một thế giới đầy gian trá.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Khám phá Liar's Bar",
+      "whatIsTitle": "Liar's Bar là gì?",
+      "whatIsDescription": "Liar's Bar là một trò chơi trực tuyến đa người chơi đắm chìm trong một quán bar lừa đảo, bao gồm nhiều trò chơi nói dối.",
+      "howToPlayTitle": "Cách chơi Liar's Bar",
+      "howToPlayStep1": "1. Chọn chế độ chơi và nhân vật của bạn",
+      "howToPlayStep2": "2. Làm chủ nghệ thuật nói dối",
+      "howToPlayStep3": "3. Lừa thắng đối thủ của bạn",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Trải nghiệm đắm chìm",
+      "feature1Description": "Tận hưởng một mô phỏng thực tế của không khí quán bar.",
+      "feature2Title": "Các trò chơi hấp dẫn",
+      "feature2Description": "Chơi các trò chơi hấp dẫn xoay quanh gian lận.",
+      "feature3Title": "Câu chuyện nhân vật phong phú",
+      "feature3Description": "Khám phá chiều sâu trong lối chơi với những câu chuyện thú vị.",
+      "feature4Title": "Tham gia cộng đồng",
+      "feature4Description": "Hưởng lợi từ các bản cập nhật và phản hồi liên tục."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    }
+  }
+}

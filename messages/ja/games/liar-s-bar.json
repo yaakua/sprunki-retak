@@ -1,0 +1,67 @@
+{
+  "liar-s-bar": {
+    "title": "ライアーズバー：究極の欺瞞ゲーム (Liar's Bar)",
+    "slogan": "Bluffingが芸術となる場所 (Where Bluffing Becomes an Art)",
+    "description": "欺瞞と戦略が交錯する没入型のマルチプレイヤー体験、ライアーズバーの世界へ足を踏み入れてください。 (Step into the world of Liar's Bar, an immersive multiplayer experience where deception meets strategy.)",
+    "Loading": {
+      "title": "ライアーズバー読み込み中… (Loading Liar's Bar...)"
+    },
+    "Navbar": {
+      "title": "ナビゲーション (Nav)"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク"
+    },
+    "HomeIframe": {
+      "title": "ライアーズバーへようこそ (Enter the Liar's Bar)",
+      "description": "欺瞞の世界で、あらゆる動きがカウントされるライアーズバーに参加しましょう。(Join Liar's Bar, where every move counts in a world of deceit.)",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ライアーズバーを発見する (Discover Liar's Bar)",
+      "whatIsTitle": "ライアーズバーとは何ですか？",
+      "whatIsDescription": "ライアーズバーは、策略的なバーの環境で複数のプレイヤーが参加する、没入型のオンラインゲームです。様々なBluffingゲームが含まれています。(Liar's Bar is an immersive multiplayer online game in a deceptive bar setting, involving various bluffing games.)",
+      "howToPlayTitle": "ライアーズバーの遊び方",
+      "howToPlayStep1": "1. ゲームモードとキャラクターを選択してください",
+      "howToPlayStep2": "2. Bluffingの技術を習得しましょう",
+      "howToPlayStep3": "3. 相手を見抜きましょう",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "没入型の体験",
+      "feature1Description": "リアルなバーの雰囲気をシミュレーションします。(Enjoy a realistic bar atmosphere simulation.)",
+      "feature2Title": "スリリングなゲーム",
+      "feature2Description": "策略を中心に据えた魅力的なゲームをプレイしてください。(Play engaging games centered on deception.)",
+      "feature3Title": "豊かなキャラクターストーリー",
+      "feature3Description": "興味深いバックストーリーでゲームプレイの奥深さを探求してください。(Explore depth in gameplay with intriguing backstories.)",
+      "feature4Title": "コミュニティへの参加",
+      "feature4Description": "継続的なアップデートとフィードバックをお楽しみください。(Benefit from continuous updates and feedback.)"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    }
+  }
+}

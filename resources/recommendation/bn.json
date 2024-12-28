@@ -1,41 +1,41 @@
 [
   {
-    "title": "Sprunki Retake (Sprunki Retake)",
+    "title": "স্প্রুঙ্কি রিটেক (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "শীর্ষ",
+    "category": "টপ (TOP)",
     "visible": true
   },
   {
-    "title": "Sprunki Incredibox (Sprunki Incredibox)",
-    "cover": "/games/sprunki-incredibox/game_screenshot.webp",
-    "url": "/games/sprunki-incredibox",
+    "title": "ঝোঁকের বার (Liar's Bar)",
+    "cover": "/games/liar-s-bar/game_screenshot.webp",
+    "url": "/games/liar-s-bar",
     "category": "",
     "visible": true
   },
   {
-    "title": "Sprunki: Skibidi Toilet 2.0 (Sprunki: Skibidi Toilet 2.0)",
+    "title": "স্প্রুঙ্কি: স্কিবিডি টয়লেট ২.০ (Sprunki: Skibidi Toilet 2.0)",
     "cover": "/games/sprunki-skibidi-toilet-2-0/game_screenshot.webp",
     "url": "/games/sprunki-skibidi-toilet-2-0",
     "category": "",
     "visible": true
   },
   {
-    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "title": "স্প্রুঙ্কি পুনর্নির্মিত (Sprunki Remastered)",
     "cover": "/games/sprunki-remastered/game_screenshot.webp",
     "url": "/games/sprunki-remastered",
     "category": "",
     "visible": true
   },
   {
-    "title": "Sprunki Infected (Sprunki Infected)",
+    "title": "স্প্রুঙ্কি সংক্রমিত (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "শীর্ষ",
+    "category": "টপ (TOP)",
     "visible": true
   },
   {
-    "title": "Sprunked 2.0 (Sprunked 2.0)",
+    "title": "স্প্রুঙ্কড ২.০ (Sprunked 2.0)",
     "cover": "/games/sprunked-2-0/game_screenshot.webp",
     "url": "/games/sprunked-2-0",
     "category": "",

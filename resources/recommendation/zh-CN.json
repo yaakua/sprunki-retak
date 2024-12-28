@@ -1,41 +1,41 @@
 [
   {
-    "title": "Sprunki Retake (Sprunki Retake)",
+    "title": "夺回史普朗基 (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "TOP",
+    "category": "顶级",
     "visible": true
   },
   {
-    "title": "Sprunki Incredibox (Sprunki Incredibox)",
-    "cover": "/games/sprunki-incredibox/game_screenshot.webp",
-    "url": "/games/sprunki-incredibox",
+    "title": "骗子酒吧 (Liar's Bar)",
+    "cover": "/games/liar-s-bar/game_screenshot.webp",
+    "url": "/games/liar-s-bar",
     "category": "",
     "visible": true
   },
   {
-    "title": "Sprunki: Skibidi Toilet 2.0 (Sprunki: Skibidi Toilet 2.0)",
+    "title": "史普朗基：史基比迪厕所 2.0 (Sprunki: Skibidi Toilet 2.0)",
     "cover": "/games/sprunki-skibidi-toilet-2-0/game_screenshot.webp",
     "url": "/games/sprunki-skibidi-toilet-2-0",
     "category": "",
     "visible": true
   },
   {
-    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "title": "史普朗基重制版 (Sprunki Remastered)",
     "cover": "/games/sprunki-remastered/game_screenshot.webp",
     "url": "/games/sprunki-remastered",
     "category": "",
     "visible": true
   },
   {
-    "title": "Sprunki Infected (Sprunki Infected)",
+    "title": "史普朗基感染版 (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "TOP",
+    "category": "顶级",
     "visible": true
   },
   {
-    "title": "Sprunked 2.0 (Sprunked 2.0)",
+    "title": "史普朗基 2.0 (Sprunked 2.0)",
     "cover": "/games/sprunked-2-0/game_screenshot.webp",
     "url": "/games/sprunked-2-0",
     "category": "",

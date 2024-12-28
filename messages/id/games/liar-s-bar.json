@@ -1,0 +1,67 @@
+{
+  "liar-s-bar": {
+    "title": "Liar's Bar: Permainan Penipuan Terakhir",
+    "slogan": "Tempat Berbohong Menjadi Seni",
+    "description": "Masuki dunia Liar's Bar, pengalaman multipemain yang mendalam di mana penipuan berjumpa dengan strategi.",
+    "Loading": {
+      "title": "Memuat Liar's Bar..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Buat Di",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah"
+    },
+    "HomeIframe": {
+      "title": "Masuk ke Liar's Bar",
+      "description": "Bergabunglah dengan Liar's Bar, di mana setiap langkah penting di dunia penipuan.",
+      "iframeTitle": "Pratinjau Permainan",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Permainan",
+      "playGame": "Mainkan Permainan"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Temukan Liar's Bar",
+      "whatIsTitle": "Apa itu Liar's Bar?",
+      "whatIsDescription": "Liar's Bar adalah permainan online multipemain yang mendalam di lingkungan bar penipuan, melibatkan berbagai permainan berbohong.",
+      "howToPlayTitle": "Cara Memainkan Liar's Bar",
+      "howToPlayStep1": "1. Pilih Mode Permainan dan Karakter Anda",
+      "howToPlayStep2": "2. Kuasai Seni Berbohong",
+      "howToPlayStep3": "3. Cerdas Mengalahkan Lawan Anda",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Pengalaman Mendalam",
+      "feature1Description": "Nikmati simulasi suasana bar yang realistis.",
+      "feature2Title": "Permainan yang Menarik",
+      "feature2Description": "Mainkan permainan menarik yang berpusat pada penipuan.",
+      "feature3Title": "Kisah Karakter yang Kaya",
+      "feature3Description": "Jelajahi kedalaman permainan dengan latar belakang yang menarik.",
+      "feature4Title": "Keterlibatan Komunitas",
+      "feature4Description": "Manfaatkan pembaruan dan umpan balik berkelanjutan."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Permainan"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Permainan",
+      "description": "Semua Permainan",
+      "games": "Permainan"
+    }
+  }
+}
