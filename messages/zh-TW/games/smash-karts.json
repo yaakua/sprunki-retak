@@ -1,0 +1,67 @@
+{
+  "smash-karts": {
+    "title": "狂暴衝鋒車",
+    "slogan": "在狂暴衝鋒車中，用衝鋒破陣的方式贏得勝利！",
+    "description": "狂暴衝鋒車是一款刺激的3D多人線上IO卡丁車對戰遊戲。駕駛你的卡丁車，拾取武器，炸毀你的朋友，享受無止境的樂趣！(Smash Karts)",
+    "Loading": {
+      "title": "正在載入狂暴衝鋒車..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結"
+    },
+    "HomeIframe": {
+      "title": "歡迎來到狂暴衝鋒車",
+      "description": "加入狂暴衝鋒車的終極卡丁車對決！使用道具和增強功能來超越你的對手。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "關於狂暴衝鋒車",
+      "whatIsTitle": "狂暴衝鋒車是什麼？",
+      "whatIsDescription": "狂暴衝鋒車是一款精彩的多人IO遊戲，您可以在競技場中駕駛卡丁車，並用各種武器炸毀其他玩家！在穿梭地圖的過程中，您可以收集各種稀奇古怪的武器。",
+      "howToPlayTitle": "遊戲玩法",
+      "howToPlayStep1": "駕駛你的卡丁車，並操控在競技場中穿梭。",
+      "howToPlayStep2": "收集增強功能和武器，以獲得優勢。",
+      "howToPlayStep3": "摧毀其他卡丁車來贏得比賽。",
+      "keyFeaturesTitle": "主要功能",
+      "feature1Title": "激動人心的遊戲玩法",
+      "feature1Description": "參與高速度的卡丁車對決。",
+      "feature2Title": "多人模式",
+      "feature2Description": "與來自世界各地的玩家競爭。",
+      "feature3Title": "龐大的武器庫",
+      "feature3Description": "使用各種武器來摧毀你的對手。",
+      "feature4Title": "可客製化卡丁車",
+      "feature4Description": "個性化你的卡丁車設計和皮膚。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "探索所有可用的遊戲",
+      "games": "遊戲"
+    }
+  }
+}

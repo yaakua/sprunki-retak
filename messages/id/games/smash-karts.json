@@ -1,0 +1,67 @@
+{
+  "smash-karts": {
+    "title": "Smash Karts",
+    "slogan": "Hancurkan jalan Anda menuju kemenangan di Smash Karts!",
+    "description": "Smash Karts adalah game pertempuran kart IO multipemain 3D yang menegangkan. Kendarai go-kart Anda, kumpulkan senjata, dan hancurkan teman-teman Anda untuk kesenangan tak berujung!",
+    "Loading": {
+      "title": "Memuat Smash Karts..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah"
+    },
+    "HomeIframe": {
+      "title": "Selamat Datang di Smash Karts",
+      "description": "Bergabunglah dalam pertempuran kart terbaik di Smash Karts! Gunakan barang dan peningkatan untuk bertahan dari lawan-lawan Anda.",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tentang Smash Karts",
+      "whatIsTitle": "Apa Itu Smash Karts?",
+      "whatIsDescription": "Smash Karts adalah game io multipemain yang mengagumkan di mana Anda mengendarai kart melalui arena dan mencoba menghancurkan pemain lain dengan berbagai senjata! Anda dapat mengumpulkan berbagai senjata aneh saat Anda berlomba di seluruh peta.(Smash Karts)",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Kendalikan kart Anda dan navigasikan melalui arena.",
+      "howToPlayStep2": "Kumpulkan peningkatan dan senjata untuk mendapatkan keuntungan.",
+      "howToPlayStep3": "Hancurkan kart lain untuk memenangkan pertandingan.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Gameplay Menarik",
+      "feature1Description": "Terlibat dalam pertempuran kart berkecepatan tinggi.",
+      "feature2Title": "Mode Multiplayer",
+      "feature2Description": "Bersaing dengan pemain dari seluruh dunia.",
+      "feature3Title": "Senjata yang Luas",
+      "feature3Description": "Gunakan berbagai senjata untuk menghancurkan lawan Anda.",
+      "feature4Title": "Kart yang Dapat Disesuaikan",
+      "feature4Description": "Personalisasi desain dan skin kart Anda."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Game"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Jelajahi semua game yang tersedia",
+      "games": "Game"
+    }
+  }
+}

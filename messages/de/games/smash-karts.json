@@ -1,0 +1,67 @@
+{
+  "smash-karts": {
+    "title": "Smash Karts",
+    "slogan": "Schlagen Sie sich im Smash Karts zum Sieg!",
+    "description": "Smash Karts ist ein aufregendes 3D-Mehrspieler-IO-Kart-Kampfspiel. Fahren Sie mit Ihrem Go-Kart, sammeln Sie Waffen und sprengen Sie Ihre Freunde, um endlosen Spaß zu haben! (Smash Karts)",
+    "Loading": {
+      "title": "Wird Smash Karts geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links"
+    },
+    "HomeIframe": {
+      "title": "Willkommen zu Smash Karts",
+      "description": "Treten Sie im Smash Karts in den ultimativen Kartkampf ein! Nutzen Sie Gegenstände und Power-ups, um Ihre Gegner zu übertreffen.",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Über Smash Karts",
+      "whatIsTitle": "Was ist Smash Karts?",
+      "whatIsDescription": "Smash Karts ist ein tolles Mehrspieler-IO-Spiel, in dem Sie mit Karts durch eine Arena fahren und versuchen, andere Spieler mit verschiedenen Waffen zu sprengen! Sammeln Sie während des Rennens über die Karte verteilt eine Vielzahl von verrückten Waffen.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Fahren Sie mit Ihrem Kart und bewegen Sie sich durch die Arena.",
+      "howToPlayStep2": "Sammeln Sie Power-ups und Waffen, um einen Vorteil zu erzielen.",
+      "howToPlayStep3": "Zerstören Sie andere Karts, um das Spiel zu gewinnen.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Spannendes Gameplay",
+      "feature1Description": "Nehmen Sie an rasanten Kartkämpfen teil.",
+      "feature2Title": "Mehrspielermodus",
+      "feature2Description": "Treten Sie mit Spielern aus aller Welt an.",
+      "feature3Title": "Riesiges Waffenarsenal",
+      "feature3Description": "Verwenden Sie eine breite Palette an Waffen, um Ihre Gegner zu bekämpfen.",
+      "feature4Title": "Personalisierbare Karts",
+      "feature4Description": "Gestalten und personalisieren Sie Ihre Kartendesigns und Skins."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Erkunden Sie alle verfügbaren Spiele",
+      "games": "Spiele"
+    }
+  }
+}

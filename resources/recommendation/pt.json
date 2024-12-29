@@ -21,6 +21,13 @@
     "visible": true
   },
   {
+    "title": "Smash Karts (Smash Karts)",
+    "cover": "/games/smash-karts/game_screenshot.webp",
+    "url": "/games/smash-karts",
+    "category": "",
+    "visible": true
+  },
+  {
     "title": "Sprunki Remastered (Sprunki Remastered)",
     "cover": "/games/sprunki-remastered/game_screenshot.webp",
     "url": "/games/sprunki-remastered",

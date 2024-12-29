@@ -1,0 +1,67 @@
+{
+  "smash-karts": {
+    "title": "Smash Karts",
+    "slogan": "Đánh bại đối thủ để giành chiến thắng trong Smash Karts!",
+    "description": "Smash Karts là một trò chơi đối kháng xe đua IO 3D đầy kịch tính. Điều khiển chiếc xe go-kart của bạn, thu thập vũ khí và tiêu diệt bạn bè của bạn để có những phút giây vui vẻ không giới hạn!",
+    "Loading": {
+      "title": "Đang tải Smash Karts..."
+    },
+    "Navbar": {
+      "title": "ĐặC Điểm"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích"
+    },
+    "HomeIframe": {
+      "title": "Chào mừng đến với Smash Karts",
+      "description": "Tham gia trận đấu xe đua cuối cùng trong Smash Karts! Sử dụng vật phẩm và sức mạnh để vượt qua đối thủ của bạn.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Giới thiệu về Smash Karts",
+      "whatIsTitle": "Smash Karts là gì?",
+      "whatIsDescription": "Smash Karts là một trò chơi IO nhiều người chơi tuyệt vời, nơi bạn điều khiển xe đua trên một đấu trường và cố gắng tiêu diệt các cầu thủ khác bằng các loại vũ khí khác nhau! Bạn có thể thu thập nhiều loại vũ khí kỳ lạ khi bạn đua xe trên bản đồ.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Điều khiển xe đua của bạn và di chuyển trên đấu trường.",
+      "howToPlayStep2": "Thu thập vật phẩm và vũ khí để có lợi thế.",
+      "howToPlayStep3": "Phá hủy những chiếc xe đua khác để giành chiến thắng.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Gameplay thú vị",
+      "feature1Description": "Tham gia các trận chiến xe đua tốc độ cao.",
+      "feature2Title": "Chế độ nhiều người chơi",
+      "feature2Description": "Cạnh tranh với người chơi từ khắp nơi trên thế giới.",
+      "feature3Title": "Kho vũ khí khổng lồ",
+      "feature3Description": "Sử dụng nhiều loại vũ khí khác nhau để tấn công đối thủ của bạn.",
+      "feature4Title": "Xe đua tùy chỉnh",
+      "feature4Description": "Cá nhân hóa thiết kế và hình ảnh xe đua của bạn."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Khám phá tất cả các trò chơi có sẵn",
+      "games": "Trò chơi"
+    }
+  }
+}

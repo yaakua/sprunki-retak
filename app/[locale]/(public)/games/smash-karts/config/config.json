@@ -1,0 +1,110 @@
+{
+  "name": "Smash Karts",
+  "pagePath": "/games/smash-karts",
+  "pageName": "smash-karts",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://games.crazygames.com/en_US/smash-karts/index.html?v=1.316",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": false,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [],
+  "comments": [
+    {
+      "author": "Lex Fridman",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Lex_Fridman.png",
+      "content": "Smash Karts is totally lit!  The karts are so cool, and the weapons are insane.  Seriously,  this game is a total blast!  Can't wait to level up and try all the new characters."
+    },
+    {
+      "author": "Packy McCormick",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Packy_McCormick.png",
+      "content": "OMG, Smash Karts is SOOOO much fun!  I'm totally hooked.  The graphics are sick, and the gameplay is super smooth.  Definitely checking out some of the other CrazyGames .io games that are suggested after I finish this one."
+    },
+    {
+      "author": "Mike Taylor",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Mike_Taylor.png",
+      "content": "Smash Karts is a total win!  I'm loving the customization options, and all the different characters and weapons are amazing.  Highly recommend this game for some seriously fun racing mayhem!  Gotta try more maps."
+    },
+    {
+      "author": "Lorenz S.",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Lorenz_S.png",
+      "content": "This Smash Karts game is a total vibe!  The controls are super easy to get the hang of, and it's so satisfying to blow up other karts.  Plus,  the rewards for leveling up are pretty sweet."
+    },
+    {
+      "author": "Ben Stephens",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Ben_Stephens.png",
+      "content": "Smash Karts is a solid .io game!  The maps are pretty cool, and the constant stream of weapons and power-ups keep the action going.  Defo replaying this!"
+    },
+    {
+      "author": "MK",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/MK.png",
+      "content": "Smash Karts is like,  totally epic!  The variety of karts and characters is great.  I'm obsessed with this game already, especially the crazy weapons.  Gotta try them all."
+    },
+    {
+      "author": "jesse",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/jesse.png",
+      "content": "This Smash Karts game is a total blast!  The kart driving is smooth, and the weapons are super fun to use.  I'm already thinking about trying all my new weapons and characters!"
+    },
+    {
+      "author": "Emily",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Emily.png",
+      "content": "Smash Karts is so much fun, I'm totally hooked! The game is extremely addictive.  I love that there are events happening all the time. It's such a good game!"
+    },
+    {
+      "author": "Sophia",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Sophia.png",
+      "content": "I'm having a blast playing Smash Karts!  It's better than I expected. I love that you can customize your cart, it makes it even better, and the variety of weapons keep things interesting."
+    },
+    {
+      "author": "Noah",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/Noah.png",
+      "content": "Smash Karts is a super cool .io game! I'm having a blast with the maps, weapons & karts.  The game is a little challenging, but it's definitely worth trying!"
+    }
+  ],
+  "isShowRecommendation": false,
+  "isShowRightGames": true,
+  "slogan": "",
+  "domain": "",
+  "icon": "",
+  "appleIcon": "",
+  "gaId": "",
+  "clarityId": "",
+  "plausible": "",
+  "friendLinks": [],
+  "adsenseClientId": "",
+  "customizeFeatures": true,
+  "createdTime": "2024-12-29 10:48:37"
+}

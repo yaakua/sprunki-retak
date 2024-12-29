@@ -1,0 +1,67 @@
+{
+  "smash-karts": {
+    "title": "Smash Karts",
+    "slogan": "Smash Karts'ta zafer için yolunuzu açın!",
+    "description": "Smash Karts, heyecan verici bir 3D çok oyunculu IO kart savaş oyunudur. Go-kart'ınızı sürün, silahlar alın ve arkadaşlarınızı sonsuza dek eğlendirmek için patlatın! (Smash Karts)",
+    "Loading": {
+      "title": "Smash Karts Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Koşulları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar"
+    },
+    "HomeIframe": {
+      "title": "Smash Karts'a Hoş Geldiniz",
+      "description": "Smash Karts'ta en son kart savaşına katılın! Rakiplerinizi alt etmek için eşyalar ve güçlendirmeleri kullanın.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Smash Karts Hakkında",
+      "whatIsTitle": "Smash Karts Nedir?",
+      "whatIsDescription": "Smash Karts, farklı silahlarla diğer oyuncuları patlatmaya çalışarak bir arenada kartlarla yarıştığınız harika bir çok oyunculu io oyunudur. Haritada yarışırken çeşitli çılgın silahlar toplayabilirsiniz. (Smash Karts)",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Kartınızı sürün ve arenada gezin.",
+      "howToPlayStep2": "Avantaj elde etmek için güçlendirmeleri ve silahları toplayın.",
+      "howToPlayStep3": "Maçı kazanmak için diğer kartları yok edin.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Heyecan Verici Oyun",
+      "feature1Description": "Yüksek hızda kart savaşlarına katılın.",
+      "feature2Title": "Çok Oyunculu Mod",
+      "feature2Description": "Dünyanın dört bir yanındaki oyuncularla yarışın.",
+      "feature3Title": "Geniş Silahlar Arsenali",
+      "feature3Description": "Rakiplerinizi havaya uçurmak için geniş bir silah yelpazesi kullanın.",
+      "feature4Title": "Kişiselleştirilebilir Kartlar",
+      "feature4Description": "Kart tasarımlarınızı ve skinlerinizi kişiselleştirin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Mevcut tüm oyunları keşfedin",
+      "games": "Oyunlar"
+    }
+  }
+}

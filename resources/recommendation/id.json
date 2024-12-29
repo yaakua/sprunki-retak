@@ -3,7 +3,7 @@
     "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "TOP",
+    "category": "TERBAIK",
     "visible": true
   },
   {
@@ -21,6 +21,13 @@
     "visible": true
   },
   {
+    "title": "Smash Karts (Smash Karts)",
+    "cover": "/games/smash-karts/game_screenshot.webp",
+    "url": "/games/smash-karts",
+    "category": "",
+    "visible": true
+  },
+  {
     "title": "Sprunki Remastered (Sprunki Remastered)",
     "cover": "/games/sprunki-remastered/game_screenshot.webp",
     "url": "/games/sprunki-remastered",
@@ -31,7 +38,7 @@
     "title": "Sprunki Infected (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "TOP",
+    "category": "TERBAIK",
     "visible": true
   },
   {

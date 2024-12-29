@@ -3,42 +3,49 @@
     "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "TOP",
+    "category": "トップ",
     "visible": true
   },
   {
     "title": "Liar's Bar (Liar's Bar)",
     "cover": "/games/liar-s-bar/game_screenshot.webp",
     "url": "/games/liar-s-bar",
-    "category": "",
+    "category": "不明",
     "visible": true
   },
   {
     "title": "Sprunki: Skibidi Toilet 2.0 (Sprunki: Skibidi Toilet 2.0)",
     "cover": "/games/sprunki-skibidi-toilet-2-0/game_screenshot.webp",
     "url": "/games/sprunki-skibidi-toilet-2-0",
-    "category": "",
+    "category": "不明",
+    "visible": true
+  },
+  {
+    "title": "Smash Karts (Smash Karts)",
+    "cover": "/games/smash-karts/game_screenshot.webp",
+    "url": "/games/smash-karts",
+    "category": "不明",
     "visible": true
   },
   {
     "title": "Sprunki Remastered (Sprunki Remastered)",
     "cover": "/games/sprunki-remastered/game_screenshot.webp",
     "url": "/games/sprunki-remastered",
-    "category": "",
+    "category": "不明",
     "visible": true
   },
   {
     "title": "Sprunki Infected (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "TOP",
+    "category": "トップ",
     "visible": true
   },
   {
     "title": "Sprunked 2.0 (Sprunked 2.0)",
     "cover": "/games/sprunked-2-0/game_screenshot.webp",
     "url": "/games/sprunked-2-0",
-    "category": "",
+    "category": "不明",
     "visible": true
   }
 ]

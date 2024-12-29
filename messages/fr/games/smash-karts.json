@@ -1,0 +1,67 @@
+{
+  "smash-karts": {
+    "title": "Smash Karts",
+    "slogan": "Écrasez vos adversaires pour remporter la victoire dans Smash Karts ! (Smash Karts)",
+    "description": "Smash Karts est un formidable jeu de bataille en ligne multijoueur en 3D. Conduisez votre kart, récupérez des armes et faites exploser vos amis pour un plaisir sans fin ! (Smash Karts)",
+    "Loading": {
+      "title": "Chargement de Smash Karts..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Créer à",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles"
+    },
+    "HomeIframe": {
+      "title": "Bienvenue dans Smash Karts",
+      "description": "Rejoignez la bataille ultime de karts dans Smash Karts ! Utilisez des objets et des bonus pour surpasser vos adversaires. (Smash Karts)",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papier !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Joue le jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "À propos de Smash Karts",
+      "whatIsTitle": "Qu'est-ce que Smash Karts ?",
+      "whatIsDescription": "Smash Karts est un formidable jeu multijoueur IO où vous conduisez des karts dans une arène et essayez de faire exploser d'autres joueurs avec différentes armes ! Vous pouvez collecter une variété d'armes délirantes tandis que vous traversez la carte. (Smash Karts)",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Conduisez votre kart et naviguez dans l'arène.",
+      "howToPlayStep2": "Collectez des bonus et des armes pour prendre le dessus.",
+      "howToPlayStep3": "Détruisez les autres karts pour remporter la partie.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Gameplay passionnant",
+      "feature1Description": "Participez à des batailles de karts à grande vitesse.",
+      "feature2Title": "Mode multijoueur",
+      "feature2Description": "Affrontez des joueurs du monde entier.",
+      "feature3Title": "Armement varié",
+      "feature3Description": "Utilisez une large gamme d'armes pour anéantir vos adversaires.",
+      "feature4Title": "Karts personnalisables",
+      "feature4Description": "Personnalisez les designs et les skins de votre kart."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires du jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Parcourez tous les jeux disponibles",
+      "games": "Jeux"
+    }
+  }
+}

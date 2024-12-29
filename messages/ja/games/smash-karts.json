@@ -1,0 +1,67 @@
+{
+  "smash-karts": {
+    "title": "スマッシュカートス (Smash Karts)",
+    "slogan": "スマッシュカートスで勝利を目指しましょう！",
+    "description": "スマッシュカートスは、スリリングな3DマルチプレイヤーIOカートバトルゲームです。ゴーカートを運転し、武器を集め、友達を爆破して無限の楽しみを！",
+    "Loading": {
+      "title": "スマッシュカートス読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友情リンク"
+    },
+    "HomeIframe": {
+      "title": "スマッシュカートスへようこそ",
+      "description": "スマッシュカートスで究極のカートバトルに参加！アイテムやパワーアップを使用して、対戦相手を出し抜きましょう。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "スマッシュカートスの紹介",
+      "whatIsTitle": "スマッシュカートスとは？",
+      "whatIsDescription": "スマッシュカートスは、アリーナでカートを運転し、さまざまな武器で他のプレイヤーを爆破しようとする、素晴らしいマルチプレイヤーIOゲームです！マップを駆け抜ける際に、様々な奇妙な武器を集めることができます。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "カートを運転し、アリーナをナビゲートします。",
+      "howToPlayStep2": "パワーアップと武器を集めて優位性を築きます。",
+      "howToPlayStep3": "他のカートを破壊して試合に勝利します。",
+      "keyFeaturesTitle": "主な特徴",
+      "feature1Title": "エキサイティングなゲームプレイ",
+      "feature1Description": "高速カートバトルに参加しましょう。",
+      "feature2Title": "マルチプレイヤーモード",
+      "feature2Description": "世界中のプレイヤーと競い合いましょう。",
+      "feature3Title": "広範な武器庫",
+      "feature3Description": "対戦相手を打ち負かすために、幅広い武器を使用しましょう。",
+      "feature4Title": "カスタマイズ可能なカート",
+      "feature4Description": "カートのデザインとスキンをカスタマイズしましょう。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "コメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "利用可能なすべてのゲームを探索",
+      "games": "ゲーム"
+    }
+  }
+}

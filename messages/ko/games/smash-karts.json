@@ -1,0 +1,67 @@
+{
+  "smash-karts": {
+    "title": "스매시 카츠",
+    "slogan": "스매시 카츠에서 승리의 길을 개척하세요!",
+    "description": "스매시 카츠는 짜릿한 3D 멀티플레이어 IO 카트 대결 게임입니다. 고카트를 운전하고 무기를 획득하여 친구들을 폭파하며 끝없는 즐거움을 만끽하세요!",
+    "Loading": {
+      "title": "스매시 카츠 로딩..."
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인정보 보호정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "친구 링크"
+    },
+    "HomeIframe": {
+      "title": "스매시 카츠에 오신 것을 환영합니다",
+      "description": "스매시 카츠에서 최고의 카트 대결에 참여하세요! 아이템과 강화 아이템을 활용하여 상대를 제압하세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 시작"
+    },
+    "HomeFeatures": {
+      "gameTitle": "스매시 카츠 소개",
+      "whatIsTitle": "스매시 카츠는 무엇인가요?",
+      "whatIsDescription": "스매시 카츠는 멋진 멀티플레이어 IO 게임으로, 아레나에서 카트를 운전하고 다양한 무기로 다른 플레이어를 공격하는 게임입니다. 지도를 질주하며 다양한 기상천외한 무기를 수집할 수 있습니다.",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "카트를 운전하고 아레나를 이동하세요.",
+      "howToPlayStep2": "강화 아이템과 무기를 수집하여 우위를 점하세요.",
+      "howToPlayStep3": "다른 카트를 파괴하여 승리하세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "흥미진진한 게임 플레이",
+      "feature1Description": "고속 카트 대결에 참여하세요.",
+      "feature2Title": "멀티플레이어 모드",
+      "feature2Description": "전 세계 플레이어들과 경쟁하세요.",
+      "feature3Title": "다양한 무기",
+      "feature3Description": "다양한 무기를 사용하여 상대를 공격하세요.",
+      "feature4Title": "커스터마이즈 가능한 카트",
+      "feature4Description": "카트 디자인 및 스킨을 개성 있게 설정하세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 영상"
+    },
+    "HomeRecommendation": {
+      "title": "추천 게임"
+    },
+    "HomeComments": {
+      "title": "게임 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임을 탐색하세요",
+      "games": "게임 목록"
+    }
+  }
+}
