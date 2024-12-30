@@ -7,23 +7,9 @@
     "visible": true
   },
   {
-    "title": "骗子酒吧(Liar's Bar)",
-    "cover": "/games/liar-s-bar/game_screenshot.webp",
-    "url": "/games/liar-s-bar",
-    "category": "",
-    "visible": true
-  },
-  {
     "title": "斯普伦基：スキビディトイレ 2.0(Sprunki: Skibidi Toilet 2.0)",
     "cover": "/games/sprunki-skibidi-toilet-2-0/game_screenshot.webp",
     "url": "/games/sprunki-skibidi-toilet-2-0",
-    "category": "",
-    "visible": true
-  },
-  {
-    "title": "史诗赛车(Smash Karts)",
-    "cover": "/games/smash-karts/game_screenshot.webp",
-    "url": "/games/smash-karts",
     "category": "",
     "visible": true
   },

@@ -115,7 +115,7 @@ export default function MdxArticle({source, className, components = {}}: MdxArti
     try {
         return <article
             className={cn(
-                "prose-sm md:prose-base lg:prose-lg dark:prose-dark	",
+                "prose prose-sm md:prose-base lg:prose-lg w-full max-w-full",
                 className,
             )}
         >
@@ -131,7 +131,7 @@ export default function MdxArticle({source, className, components = {}}: MdxArti
         </article>
     } catch (error) {
         console.error("MDX 解析错误:", error)
-        return <div>内容加载失败，请稍后再试。</div>
+        return <div>Content loading failed. Please try again later.</div>
     }
 
 }

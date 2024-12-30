@@ -1,7 +1,7 @@
 import { getTranslations } from 'next-intl/server';
 import Image from 'next/image';
 
-export default async function Features({pageName}:{pageName:string}) {
+export default async function Features({pageName}:{pageName:string|null}) {
   const prefix = pageName ? pageName + '.' : '';
   const t = await getTranslations(`${prefix}HomeFeatures`);
   const screenshot_prefix = pageName ? '/games/' + pageName : '';

@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     title: `${t('GamePage.title')} | ${siteConfig.name}`,
     description: t('GamePage.description'),
     alternates: {
-      languages: alternatesLanguage('games'),
+      languages: alternatesLanguage('/games'),
     }
   };
 }

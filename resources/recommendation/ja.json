@@ -7,23 +7,9 @@
     "visible": true
   },
   {
-    "title": "Liar's Bar (Liar's Bar)",
-    "cover": "/games/liar-s-bar/game_screenshot.webp",
-    "url": "/games/liar-s-bar",
-    "category": "不明",
-    "visible": true
-  },
-  {
     "title": "Sprunki: Skibidi Toilet 2.0 (Sprunki: Skibidi Toilet 2.0)",
     "cover": "/games/sprunki-skibidi-toilet-2-0/game_screenshot.webp",
     "url": "/games/sprunki-skibidi-toilet-2-0",
-    "category": "不明",
-    "visible": true
-  },
-  {
-    "title": "Smash Karts (Smash Karts)",
-    "cover": "/games/smash-karts/game_screenshot.webp",
-    "url": "/games/smash-karts",
     "category": "不明",
     "visible": true
   },

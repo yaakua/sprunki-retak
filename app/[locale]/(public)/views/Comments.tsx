@@ -4,7 +4,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/lib
 import { getTranslations } from 'next-intl/server';
 import { Tweet } from 'react-tweet';
 
-export default async function Comments({pageName,siteConfig}:{pageName:string,siteConfig:SiteConfig}) {
+export default async function Comments({pageName,siteConfig}:{pageName:string|null,siteConfig:SiteConfig}) {
   if (!siteConfig.isShowComments) {
     return <></>;
   }

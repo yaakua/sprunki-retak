@@ -134,6 +134,10 @@ const config: Config = {
         'green-dark': {
           css: {
             color: '#E2E8F0',
+            p: {
+              fontSize: '1rem',
+              lineHeight: '1.75'
+            },
             h1: {
               color: '#FDE047',
               fontWeight: '800',
@@ -199,6 +203,10 @@ const config: Config = {
         },
         lg: {
           css: {
+            p: {
+              fontSize: '1rem',
+              lineHeight: '1.75'
+            },
             h1: {
               fontSize: '2.2em',
               marginTop: '0.8em',

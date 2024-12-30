@@ -4,7 +4,7 @@ import {siteConfig as defaultConfig} from "@/lib/config/site";
  * @param pageName 页面名称,可选
  * @returns 站点配置对象
  */
-export async function loadSiteConfig(pageName?: string) {
+export async function loadSiteConfig(pageName?: string|null) {
   let siteConfig;
   try {
     // 首先加载默认配置

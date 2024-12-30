@@ -1,5 +1,4 @@
 import React from 'react';
-import matter from 'gray-matter';
 import MdxArticle from '@/lib/components/mdx-article';
 
 const components: any = {
