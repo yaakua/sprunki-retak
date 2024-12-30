@@ -54,7 +54,7 @@ export default async function Page({ params }: Props) {
   return (
     <div className="bg-black pt-5 pb-5">
       <div className="container mx-auto">
-        <div className="flex flex-col lg:flex-row gap-8">
+        <div className="flex flex-col lg:flex-row">
           {/* 左侧主要内容区域 */}
           <div className="flex-1 min-w-0">
             <IframeSection pageName={pageName} />
@@ -73,7 +73,7 @@ export default async function Page({ params }: Props) {
           </div>
           
           {/* 右侧推荐卡片 - 移动端隐藏 */}
-          <div className="hidden lg:block w-full lg:w-80 px-4">
+          <div className="hidden lg:block w-full lg:w-80">
             <GameRecommendationCard locale={locale} />
           </div>
         </div>
