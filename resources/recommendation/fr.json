@@ -1,13 +1,13 @@
 [
   {
-    "title": "Reprise Sprunki",
+    "title": "Reprise de Sprunki",
     "cover": "/game_screenshot.webp",
     "url": "/",
     "category": "TOP",
     "visible": true
   },
   {
-    "title": "Sprunki : Skibidi Toilet 2.0",
+    "title": "Sprunki : Skibidi Toilet 2.0",
     "cover": "/games/sprunki-skibidi-toilet-2-0/game_screenshot.webp",
     "url": "/games/sprunki-skibidi-toilet-2-0",
     "category": "",
@@ -21,13 +21,6 @@
     "visible": true
   },
   {
-    "title": "Tracesoccer",
-    "cover": "/games/tracesoccer/game_screenshot.webp",
-    "url": "/games/tracesoccer",
-    "category": "",
-    "visible": true
-  },
-  {
     "title": "Sprunki Infecté",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
@@ -35,7 +28,7 @@
     "visible": true
   },
   {
-    "title": "Fusion du Monde",
+    "title": "Fusionner le Monde",
     "cover": "/games/merge-world/game_screenshot.webp",
     "url": "/games/merge-world",
     "category": "",

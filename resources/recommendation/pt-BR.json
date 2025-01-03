@@ -1,6 +1,6 @@
 [
   {
-    "title": "Retomada de Sprunki",
+    "title": "Sprunki Retake",
     "cover": "/game_screenshot.webp",
     "url": "/",
     "category": "TOP",
@@ -21,14 +21,7 @@
     "visible": true
   },
   {
-    "title": "Tracesoccer",
-    "cover": "/games/tracesoccer/game_screenshot.webp",
-    "url": "/games/tracesoccer",
-    "category": "",
-    "visible": true
-  },
-  {
-    "title": "Sprunki Infectado",
+    "title": "Sprunki Infected",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
     "category": "TOP",

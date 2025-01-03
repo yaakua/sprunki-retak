@@ -1,8 +1,8 @@
 {
   "merge-world": {
     "title": "Merge World",
-    "slogan": "Shape Your Vibrant World",
-    "description": "Merge World is an awesome merge game that lets you shape a vibrant world to your liking. Combine materials to create larger structures and expand your domain with imaginative constructions. Friendly fairies lend their magic to help you design and develop your very own paradise. Relax as you strategize, merge, and watch your world come to life, one step at a time.",
+    "slogan": "Unleash Your Creativity in Merge World",
+    "description": "Merge World is a creative game where you blend colors skillfully to bring 3D objects to life, turning each one into a stunning work of art. Challenge your creativity and enjoy the satisfaction of crafting vibrant masterpieces in this immersive and artistic experience.",
     "Loading": {
       "title": "Loading Merge World..."
     },
@@ -16,11 +16,13 @@
       "termsOfServices": "Terms of Services",
       "text": "Content",
       "help": "Help",
-      "friendlyLinks": "Friendly Links"
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home"
     },
     "HomeIframe": {
-      "title": "Merge World - The Ultimate Merge Game",
-      "description": "Dive into Merge World, a soothing merge game powered by HTML5, perfect for creative and peaceful gameplay. Play unblocked and for free on any modern browser.",
+      "title": "Merge World - A Creative Color-Matching Game",
+      "description": "Dive into Merge World, where you can unleash your inner artist by blending colors to create stunning 3D art pieces. Experience the joy of creativity and the satisfaction of crafting vibrant masterpieces.",
       "iframeTitle": "Game Preview",
       "fullscreenButton": "Fullscreen",
       "shareButton": "Share",
@@ -31,20 +33,20 @@
     "HomeFeatures": {
       "gameTitle": "Merge World",
       "whatIsTitle": "What is Merge World?",
-      "whatIsDescription": "Merge World is a soothing merge game that lets you shape a vibrant world to your liking. Combine materials to create larger structures and expand your domain with imaginative constructions.",
+      "whatIsDescription": "Merge World is an innovative game that challenges you to blend colors skillfully, bringing 3D objects to life and turning them into stunning works of art.",
       "howToPlayTitle": "How to Play",
-      "howToPlayStep1": "Use the mouse to select and merge items.",
-      "howToPlayStep2": "Combine materials to create larger structures.",
-      "howToPlayStep3": "Expand your domain with imaginative constructions and watch your world come to life.",
+      "howToPlayStep1": "Click and drag the left mouse button to mix the colors.",
+      "howToPlayStep2": "Challenge your creativity by experimenting with different color combinations.",
+      "howToPlayStep3": "Enjoy the satisfaction of crafting vibrant masterpieces in Merge World.",
       "keyFeaturesTitle": "Key Features",
-      "feature1Title": "Creative Gameplay",
-      "feature1Description": "Unleash your creativity by merging items to build your unique world.",
-      "feature2Title": "Soothing Experience",
-      "feature2Description": "Enjoy a peaceful and relaxing game environment.",
-      "feature3Title": "Friendly Fairies",
-      "feature3Description": "Get magical assistance from friendly fairies to enhance your constructions.",
-      "feature4Title": "HTML5 Powered",
-      "feature4Description": "Experience fast and smooth gameplay on any modern browser."
+      "feature1Title": "Creative Color Matching",
+      "feature1Description": "Unleash your inner artist by blending colors to create stunning 3D art pieces.",
+      "feature2Title": "Immersive Experience",
+      "feature2Description": "Dive into an immersive and artistic experience that challenges your creativity.",
+      "feature3Title": "Vibrant Masterpieces",
+      "feature3Description": "Enjoy the satisfaction of crafting vibrant masterpieces in Merge World.",
+      "feature4Title": "Easy to Play",
+      "feature4Description": "Merge World is easy to play, with simple controls that let you focus on your creativity."
     },
     "HomeFAQs": {
       "title": "FAQs"

@@ -1,56 +1,58 @@
 {
   "merge-world": {
-    "title": "Merge World (Fusion du monde)",
-    "slogan": "Formez votre monde vibrant",
-    "description": "Merge World est un jeu de fusion génial qui vous permet de façonner un monde vibrant à votre guise. Combinez des matériaux pour créer des structures plus grandes et élargissez votre domaine avec des constructions imaginatives. Des fées amicales prêtent leur magie pour vous aider à concevoir et à développer votre propre paradis. Détendez-vous en stratégeant, en fusionnant et en regardant votre monde prendre vie, étape par étape.",
+    "title": "Fusion Monde",
+    "slogan": "Dévoilez votre créativité dans Fusion Monde",
+    "description": "Fusion Monde est un jeu créatif où vous mélangez habilement les couleurs pour donner vie à des objets 3D, transformant chacun en une œuvre d'art magnifique. Mettez au défi votre créativité et appréciez la satisfaction de créer des chefs-d'œuvre vibrants dans cette expérience immersive et artistique. (Merge World )",
     "Loading": {
-      "title": "Chargement de Merge World..."
+      "title": "Chargement de Fusion Monde..."
     },
     "Navbar": {
       "title": "Navigation"
     },
     "Common": {
-      "createAt": "Créer à",
+      "createAt": "Créé le",
       "guide": "Guide",
       "privacyPolicy": "Politique de confidentialité",
       "termsOfServices": "Conditions d'utilisation",
       "text": "Contenu",
       "help": "Aide",
-      "friendlyLinks": "Liens Amis"
+      "friendlyLinks": "Liens Amis",
+      "articleList": "Liste des articles",
+      "home": "Accueil"
     },
     "HomeIframe": {
-      "title": "Merge World - Le jeu de fusion ultime",
-      "description": "Plongez-vous dans Merge World, un jeu de fusion apaisant alimenté par HTML5, parfait pour un gameplay créatif et paisible. Jouez sans blocage et gratuitement sur n'importe quel navigateur moderne.",
+      "title": "Fusion Monde - Un jeu créatif de correspondance de couleurs",
+      "description": "Plongez-vous dans Fusion Monde, où vous pouvez libérer votre artiste intérieur en mélangeant les couleurs pour créer des œuvres d'art 3D époustouflantes. Vivez la joie de la créativité et la satisfaction de créer des chefs-d'œuvre vibrants. (Merge World )",
       "iframeTitle": "Aperçu du jeu",
       "fullscreenButton": "Plein écran",
       "shareButton": "Partager",
-      "urlCopied": "URL copiée dans le presse-papiers !",
+      "urlCopied": "URL copiée dans le presse-papier !",
       "downloadGame": "Télécharger le jeu",
       "playGame": "Jouer"
     },
     "HomeFeatures": {
-      "gameTitle": "Merge World (Fusion du monde)",
-      "whatIsTitle": "Qu'est-ce que Merge World ?",
-      "whatIsDescription": "Merge World est un jeu de fusion apaisant qui vous permet de façonner un monde vibrant à votre guise. Combinez des matériaux pour créer des structures plus grandes et élargissez votre domaine avec des constructions imaginatives.",
+      "gameTitle": "Fusion Monde",
+      "whatIsTitle": "Qu'est-ce que Fusion Monde ?",
+      "whatIsDescription": "Fusion Monde est un jeu innovant qui vous met au défi de mélanger habilement les couleurs, donnant vie à des objets 3D et les transformant en de superbes œuvres d'art.",
       "howToPlayTitle": "Comment jouer",
-      "howToPlayStep1": "Utilisez la souris pour sélectionner et fusionner les éléments.",
-      "howToPlayStep2": "Combinez des matériaux pour créer des structures plus grandes.",
-      "howToPlayStep3": "Développez votre domaine avec des constructions imaginatives et regardez votre monde prendre vie.",
-      "keyFeaturesTitle": "Fonctionnalités principales",
-      "feature1Title": "Gameplay créatif",
-      "feature1Description": "Libérez votre créativité en fusionnant des objets pour construire votre monde unique.",
-      "feature2Title": "Expérience apaisante",
-      "feature2Description": "Profitez d'un environnement de jeu paisible et relaxant.",
-      "feature3Title": "Fées amicales",
-      "feature3Description": "Obtenez une assistance magique de fées amicales pour améliorer vos constructions.",
-      "feature4Title": "Alimenté par HTML5",
-      "feature4Description": "Découvrez un gameplay rapide et fluide sur n'importe quel navigateur moderne."
+      "howToPlayStep1": "Cliquez et faites glisser le bouton gauche de la souris pour mélanger les couleurs.",
+      "howToPlayStep2": "Défiez votre créativité en expérimentant différentes combinaisons de couleurs.",
+      "howToPlayStep3": "Appréciez la satisfaction de créer des chefs-d'œuvre vibrants dans Fusion Monde.",
+      "keyFeaturesTitle": "Caractéristiques principales",
+      "feature1Title": "Correspondance de couleurs créative",
+      "feature1Description": "Libérez votre artiste intérieur en mélangeant des couleurs pour créer de superbes œuvres d'art 3D.",
+      "feature2Title": "Expérience immersive",
+      "feature2Description": "Plongez-vous dans une expérience immersive et artistique qui met au défi votre créativité.",
+      "feature3Title": "Chef-d'œuvre vibrants",
+      "feature3Description": "Appréciez la satisfaction de créer des chefs-d'œuvre vibrants dans Fusion Monde.",
+      "feature4Title": "Facile à jouer",
+      "feature4Description": "Fusion Monde est facile à jouer, avec des commandes simples qui vous permettent de vous concentrer sur votre créativité."
     },
     "HomeFAQs": {
       "title": "FAQ"
     },
     "HomeRelatedVideo": {
-      "title": "Vidéo du jeu"
+      "title": "Vidéo du Jeu"
     },
     "HomeRecommendation": {
       "title": "Recommandations"

@@ -1,10 +1,10 @@
 {
   "merge-world": {
-    "title": "Merge World(Merge World)",
-    "slogan": "활기찬 세상을 디자인하세요",
-    "description": "Merge World는 마음대로 활기찬 세상을 디자인할 수 있는 훌륭한 합체 게임입니다. 재료를 결합하여 더 큰 구조물을 만들고 상상력 넘치는 건축물로 영역을 확장하세요. 친절한 요정들이 마법을 빌려주어 자신의 낙원을 디자인하고 발전시키도록 도와줍니다. 전략을 세우고, 합체하고, 시간이 지남에 따라 자신만의 세상이 살아나는 것을 감상하며 편안함을 느껴보세요.",
+    "title": "Merge World (Merge World)",
+    "slogan": "Merge World에서 창의력을 발휘하세요",
+    "description": "Merge World는 3D 객체를 생생한 예술 작품으로 변환하는 데 능숙하게 색상을 혼합하는 창의적인 게임입니다. 이 몰입형 예술 체험에서 다채로운 걸작을 제작하며 창의력을 테스트하고 만족감을 느껴보세요.",
     "Loading": {
-      "title": "Merge World 로딩중..."
+      "title": "Merge World 로딩 중..."
     },
     "Navbar": {
       "title": "탐색"
@@ -12,39 +12,41 @@
     "Common": {
       "createAt": "생성일",
       "guide": "안내",
-      "privacyPolicy": "개인정보보호정책",
-      "termsOfServices": "서비스약관",
-      "text": "컨텐츠",
+      "privacyPolicy": "개인정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
       "help": "도움말",
-      "friendlyLinks": "친구 링크"
+      "friendlyLinks": "유용한 링크",
+      "articleList": "기사 목록",
+      "home": "홈"
     },
     "HomeIframe": {
-      "title": "Merge World - 최고의 합체 게임",
-      "description": "HTML5 기반의 편안한 합체 게임 Merge World에 뛰어들어 창의적이고 평화로운 게임 플레이를 경험해보세요. 모든 최신 브라우저에서 차단 없이 무료로 플레이하세요.",
+      "title": "Merge World - 창의적인 색상 매칭 게임",
+      "description": "Merge World에 뛰어들어 색상을 혼합하여 눈부신 3D 예술 작품을 제작함으로써 내면의 예술가를 발휘하십시오. 창의적인 즐거움과 활기찬 걸작을 제작하는 만족감을 경험해 보세요.",
       "iframeTitle": "게임 미리보기",
-      "fullscreenButton": "전체화면",
+      "fullscreenButton": "전체 화면",
       "shareButton": "공유",
       "urlCopied": "URL이 클립보드에 복사되었습니다!",
       "downloadGame": "게임 다운로드",
       "playGame": "게임 플레이"
     },
     "HomeFeatures": {
-      "gameTitle": "Merge World(Merge World)",
+      "gameTitle": "Merge World (Merge World)",
       "whatIsTitle": "Merge World는 무엇인가요?",
-      "whatIsDescription": "Merge World는 마음대로 활기찬 세상을 디자인할 수 있는 편안한 합체 게임입니다. 재료를 결합하여 더 큰 구조물을 만들고 상상력 넘치는 건축물로 영역을 확장하세요.",
+      "whatIsDescription": "Merge World는 3D 객체를 생생한 예술 작품으로 만드는 데 능숙하게 색상을 혼합하도록 도전하는 혁신적인 게임입니다.",
       "howToPlayTitle": "게임 방법",
-      "howToPlayStep1": "마우스를 사용하여 아이템을 선택하고 합체하세요.",
-      "howToPlayStep2": "재료를 결합하여 더 큰 구조물을 만드세요.",
-      "howToPlayStep3": "상상력 넘치는 건축물로 영역을 확장하고 세상이 살아나는 것을 지켜보세요.",
-      "keyFeaturesTitle": "주요 기능",
-      "feature1Title": "창의적인 게임 플레이",
-      "feature1Description": "아이템을 합체하여 독특한 세상을 만드는 창의력을 발휘하세요.",
-      "feature2Title": "편안한 경험",
-      "feature2Description": "평화롭고 편안한 게임 환경을 만끽하세요.",
-      "feature3Title": "친절한 요정",
-      "feature3Description": "친절한 요정으로부터 마법적인 도움을 받아 건축물을 향상시키세요.",
-      "feature4Title": "HTML5 기반",
-      "feature4Description": "모든 최신 브라우저에서 빠르고 부드러운 게임 플레이를 경험하세요."
+      "howToPlayStep1": "색상을 혼합하려면 마우스 왼쪽 버튼을 클릭하고 드래그하세요.",
+      "howToPlayStep2": "다양한 색상 조합으로 창의력을 시험해보세요.",
+      "howToPlayStep3": "Merge World에서 다채로운 걸작을 제작하는 만족감을 느껴보세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "창의적인 색상 매칭",
+      "feature1Description": "색상을 혼합하여 눈부신 3D 예술 작품을 제작함으로써 내면의 예술가를 발휘하세요.",
+      "feature2Title": "몰입형 체험",
+      "feature2Description": "창의력을 시험하는 몰입형 예술 체험에 뛰어들어보세요.",
+      "feature3Title": "활기찬 걸작",
+      "feature3Description": "Merge World에서 다채로운 걸작을 제작하는 만족감을 느껴보세요.",
+      "feature4Title": "쉽게 플레이",
+      "feature4Description": "Merge World는 간단한 컨트롤을 통해 창의력에 집중할 수 있도록 쉽게 플레이할 수 있습니다."
     },
     "HomeFAQs": {
       "title": "자주 묻는 질문"
@@ -53,7 +55,7 @@
       "title": "게임 영상"
     },
     "HomeRecommendation": {
-      "title": "추천 게임"
+      "title": "추천"
     },
     "HomeComments": {
       "title": "게임 댓글"
@@ -61,7 +63,7 @@
     "GamePage": {
       "title": "모든 게임",
       "description": "모든 게임",
-      "games": "게임들"
+      "games": "게임"
     }
   }
 }

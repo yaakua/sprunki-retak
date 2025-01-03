@@ -1,8 +1,8 @@
 {
   "merge-world": {
-    "title": "Merge World (Merge World)",
-    "slogan": "Gestalten Sie Ihre lebendige Welt (Merge World)",
-    "description": "Merge World ist ein fantastisches Verschmelzungsspiel, mit dem Sie eine lebendige Welt nach Ihren Vorstellungen gestalten können. Kombinieren Sie Materialien, um größere Strukturen zu erschaffen und Ihr Gebiet mit phantasievollen Konstruktionen zu erweitern. Freundliche Feen verleihen ihren Zauber, um Ihnen bei der Gestaltung und Entwicklung Ihrer eigenen Oase zu helfen. Entspannen Sie sich, während Sie strategisch planen, verschmelzen und zusehen, wie Ihre Welt Schritt für Schritt zum Leben erwacht.",
+    "title": "Merge World",
+    "slogan": "Entfesseln Sie Ihre Kreativität in Merge World",
+    "description": "Merge World ist ein kreatives Spiel, in dem Sie Farben gekonnt mischen, um 3D-Objekte zum Leben zu erwecken und sie in atemberaubende Kunstwerke zu verwandeln. Fordern Sie Ihre Kreativität heraus und genießen Sie die Befriedigung, in diesem immersiven und künstlerischen Erlebnis lebendige Meisterwerke zu erschaffen. (Merge World)",
     "Loading": {
       "title": "Merge World wird geladen..."
     },
@@ -11,40 +11,42 @@
     },
     "Common": {
       "createAt": "Erstellt am",
-      "guide": "Anleitung",
+      "guide": "Leitfaden",
       "privacyPolicy": "Datenschutzrichtlinie",
       "termsOfServices": "Nutzungsbedingungen",
       "text": "Inhalt",
       "help": "Hilfe",
-      "friendlyLinks": "Freundliche Links"
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite"
     },
     "HomeIframe": {
-      "title": "Merge World - Das ultimative Verschmelzungsspiel (Merge World)",
-      "description": "Tauchen Sie ein in Merge World, ein beruhigendes Verschmelzungsspiel, das von HTML5 angetrieben wird und sich perfekt für kreatives und friedliches Gameplay eignet. Spielen Sie unbeschränkt und kostenlos in jedem modernen Browser.",
-      "iframeTitle": "Spielvorschau",
+      "title": "Merge World - Ein kreatives Spiel zum Farbabgleich",
+      "description": "Tauchen Sie ein in Merge World und entfesseln Sie Ihren inneren Künstler, indem Sie Farben mischen, um atemberaubende 3D-Kunstwerke zu erschaffen. Erleben Sie die Freude an Kreativität und die Befriedigung, lebendige Meisterwerke zu erschaffen.",
+      "iframeTitle": "Vorschau des Spiels",
       "fullscreenButton": "Vollbild",
       "shareButton": "Teilen",
       "urlCopied": "URL in die Zwischenablage kopiert!",
       "downloadGame": "Spiel herunterladen",
-      "playGame": "Spiel spielen"
+      "playGame": "Spiel starten"
     },
     "HomeFeatures": {
-      "gameTitle": "Merge World (Merge World)",
+      "gameTitle": "Merge World",
       "whatIsTitle": "Was ist Merge World?",
-      "whatIsDescription": "Merge World ist ein beruhigendes Verschmelzungsspiel, mit dem Sie eine lebendige Welt nach Ihren Vorstellungen gestalten können. Kombinieren Sie Materialien, um größere Strukturen zu erschaffen und Ihr Gebiet mit phantasievollen Konstruktionen zu erweitern.",
+      "whatIsDescription": "Merge World ist ein innovatives Spiel, das Sie herausfordert, Farben gekonnt zu mischen, um 3D-Objekte zum Leben zu erwecken und sie in atemberaubende Kunstwerke zu verwandeln.",
       "howToPlayTitle": "So spielen Sie",
-      "howToPlayStep1": "Mit der Maus Items auswählen und verschmelzen.",
-      "howToPlayStep2": "Kombinieren Sie Materialien, um größere Strukturen zu erschaffen.",
-      "howToPlayStep3": "Erweitern Sie Ihr Gebiet mit phantasievollen Konstruktionen und beobachten Sie, wie Ihre Welt zum Leben erwacht.",
-      "keyFeaturesTitle": "Wichtige Merkmale",
-      "feature1Title": "Kreatives Gameplay",
-      "feature1Description": "Entfesseln Sie Ihre Kreativität, indem Sie Items verschmelzen, um Ihre einzigartige Welt zu erschaffen.",
-      "feature2Title": "Beruhigende Erfahrung",
-      "feature2Description": "Genießen Sie eine friedliche und entspannende Spielumgebung.",
-      "feature3Title": "Freundliche Feen",
-      "feature3Description": "Erhalten Sie magische Unterstützung von freundlichen Feen, um Ihre Konstruktionen zu verbessern.",
-      "feature4Title": "HTML5-basiert",
-      "feature4Description": "Erleben Sie schnelles und flüssiges Gameplay in jedem modernen Browser."
+      "howToPlayStep1": "Klicken und ziehen Sie mit der linken Maustaste, um die Farben zu mischen.",
+      "howToPlayStep2": "Fordern Sie Ihre Kreativität heraus, indem Sie mit verschiedenen Farbkombinationen experimentieren.",
+      "howToPlayStep3": "Genießen Sie die Befriedigung, in Merge World lebendige Meisterwerke zu erschaffen.",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Kreativer Farbabgleich",
+      "feature1Description": "Entfesseln Sie Ihren inneren Künstler, indem Sie Farben mischen, um atemberaubende 3D-Kunstwerke zu erschaffen.",
+      "feature2Title": "Immersives Erlebnis",
+      "feature2Description": "Tauchen Sie ein in ein immersives und künstlerisches Erlebnis, das Ihre Kreativität herausfordert.",
+      "feature3Title": "Lebendige Meisterwerke",
+      "feature3Description": "Genießen Sie die Befriedigung, in Merge World lebendige Meisterwerke zu erschaffen.",
+      "feature4Title": "Einfach zu spielen",
+      "feature4Description": "Merge World ist einfach zu spielen, mit einfachen Steuerelementen, die es Ihnen ermöglichen, sich auf Ihre Kreativität zu konzentrieren."
     },
     "HomeFAQs": {
       "title": "FAQ"

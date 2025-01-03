@@ -9,7 +9,7 @@
     "backgroundColor": null
   },
   "gameType": "iframe",
-  "gameIframeUrl": "https://games.crazygames.com/en_US/merge-world/index.html?v=1.316",
+  "gameIframeUrl": "https://www.crazygames.com/game/color-match-amg",
   "gameRedirectUrl": "",
   "bgType": "iframe",
   "bgImage": "",
@@ -17,94 +17,99 @@
   "gameDownload": {
     "showDownloadButton": true,
     "downloadUrls": {
-      "ios": "https://www.baidu.com",
-      "android": "https://www.baidu.com",
-      "pc": "https://www.baidu.com",
-      "steam": "https://www.baidu.com",
-      "mac": "https://www.baidu.com"
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
     }
   },
-  "isShowFAQs": false,
+  "isShowFAQs": true,
   "isShowVideo": false,
   "isShowGuide": true,
-  "videos": [],
-  "isShowComments": false,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
   "isShowTweets": false,
   "useRealTweets": false,
-  "tweets": [],
+  "tweets": [
+    ""
+  ],
   "comments": [
     {
       "author": "PixelPirate",
       "role": "player",
       "avatar": "https://api.multiavatar.com/PixelPirate.png",
-      "content": "Merge World is the chill vibe I needed! Combining stuff to build my own paradise? Yes, please! #RelaxingGameplay"
+      "content": "OMG, Color Match is like, the chillest game ever! Mixing colors feels so satisfying, it's like I'm Picasso or something. Totally addicted!"
     },
     {
-      "author": "GameGuru99",
+      "author": "RainbowRogue",
       "role": "player",
-      "avatar": "https://api.multiavatar.com/GameGuru99.png",
-      "content": "Just spent hours on Merge World and I'm not even mad. It's so addictive and peaceful at the same time. Love it!"
+      "avatar": "https://api.multiavatar.com/RainbowRogue.png",
+      "content": "Just spent 3 hours on Color Match and my brain is buzzing with colors! It's so creative and fun, definitely a must-try for art lovers."
     },
     {
-      "author": "QuestQueen",
+      "author": "VividVortex",
       "role": "player",
-      "avatar": "https://api.multiavatar.com/QuestQueen.png",
-      "content": "Merge World is my new obsession. The fairies are adorable and the gameplay is so satisfying. Can't stop playing!"
+      "avatar": "https://api.multiavatar.com/VividVortex.png",
+      "content": "Color Match is the bomb dot com! The way you can blend colors and see the 3D objects come to life is just mind-blowing. 10/10 would recommend."
     },
     {
-      "author": "StrategySage",
+      "author": "ChromaChampion",
       "role": "player",
-      "avatar": "https://api.multiavatar.com/StrategySage.png",
-      "content": "Finally, a merge game that's both strategic and relaxing. Merge World is a masterpiece. Highly recommend!"
+      "avatar": "https://api.multiavatar.com/ChromaChampion.png",
+      "content": "Yo, Color Match is straight fire! It's like being in a color mixing dojo, mastering the art of hues. So much fun, can't stop playing!"
     },
     {
-      "author": "FantasyFanatic",
+      "author": "HueHero",
       "role": "player",
-      "avatar": "https://api.multiavatar.com/FantasyFanatic.png",
-      "content": "Merge World is like a dream come true for fantasy lovers. Building and merging in a magical world? Absolutely enchanting!"
+      "avatar": "https://api.multiavatar.com/HueHero.png",
+      "content": "Color Match is legit the most relaxing game I've played in ages. It's like yoga for your brain, but with colors. Love it!"
     },
     {
-      "author": "CasualKing",
+      "author": "TintTitan",
       "role": "player",
-      "avatar": "https://api.multiavatar.com/CasualKing.png",
-      "content": "If you're into casual games, Merge World is a must-try. It's easy to get into but hard to put down. So much fun!"
+      "avatar": "https://api.multiavatar.com/TintTitan.png",
+      "content": "Dude, Color Match is epic! The satisfaction of nailing the perfect color combo is unreal. It's like a party for your eyes!"
     },
     {
-      "author": "CreativeCritic",
+      "author": "SpectraSage",
       "role": "player",
-      "avatar": "https://api.multiavatar.com/CreativeCritic.png",
-      "content": "Merge World sparks creativity like no other game. Designing my own world is so rewarding. A true gem!"
+      "avatar": "https://api.multiavatar.com/SpectraSage.png",
+      "content": "Color Match is a masterpiece! It's so immersive and the colors are so vibrant. Feels like I'm painting in a whole new dimension."
     },
     {
-      "author": "PeacefulPlayer",
+      "author": "PrismPioneer",
       "role": "player",
-      "avatar": "https://api.multiavatar.com/PeacefulPlayer.png",
-      "content": "Looking for a game to unwind? Merge World is it. The peaceful gameplay and beautiful visuals are just perfect."
+      "avatar": "https://api.multiavatar.com/PrismPioneer.png",
+      "content": "Just tried Color Match and wow, it's like a color explosion in the best way possible. So much fun experimenting with different shades!"
     },
     {
-      "author": "MergeMaster",
+      "author": "LumaLegend",
       "role": "player",
-      "avatar": "https://api.multiavatar.com/MergeMaster.png",
-      "content": "Merge World takes merging to the next level. The depth of gameplay and the joy of creating something big is unmatched."
+      "avatar": "https://api.multiavatar.com/LumaLegend.png",
+      "content": "Color Match is the ultimate creativity booster. It's like each level is a new canvas, and I'm the artist. Absolutely love it!"
     },
     {
-      "author": "HappyGamer",
+      "author": "ShadeSorcerer",
       "role": "player",
-      "avatar": "https://api.multiavatar.com/HappyGamer.png",
-      "content": "Merge World makes me so happy! It's the perfect blend of strategy, creativity, and relaxation. A must-play for everyone!"
+      "avatar": "https://api.multiavatar.com/ShadeSorcerer.png",
+      "content": "Color Match is seriously cool. The way you can mix and match colors to create something beautiful is just awesome. Can't get enough of it!"
     }
   ],
-  "isShowRecommendation": false,
+  "isShowRecommendation": true,
   "isShowRightGames": true,
-  "slogan": "",
-  "domain": "",
-  "icon": "",
-  "appleIcon": "",
-  "gaId": "",
-  "clarityId": "",
-  "plausible": "",
-  "friendLinks": [],
-  "adsenseClientId": "",
+  "screenshotUrl": "",
+  "page_path": "/games/merge-world",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
   "customizeFeatures": true,
-  "createdTime": "2024-12-30 18:19:10"
+  "is_sub_game": true,
+  "createdTime": "2025-01-03 17:22:54"
 }

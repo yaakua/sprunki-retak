@@ -1,8 +1,8 @@
 {
   "merge-world": {
-    "title": "Merge World (Merge World)",
-    "slogan": "Bentuk Dunia Hidup Anda (Merge World)",
-    "description": "Merge World adalah permainan gabungkan yang luar biasa yang memungkinkan Anda membentuk dunia yang hidup sesuai keinginan Anda. Gabungkan bahan untuk menciptakan struktur yang lebih besar dan perluas wilayah Anda dengan konstruksi yang imajinatif. Peri-peri ramah meminjamkan sihir mereka untuk membantu Anda merancang dan mengembangkan surga Anda sendiri. Bersantailah saat Anda berstrategi, menggabungkan, dan menyaksikan dunia Anda menjadi hidup, selangkah demi selangkah. (Merge World)",
+    "title": "Merge World",
+    "slogan": "Lepaskan Kreativitas Anda di Merge World",
+    "description": "Merge World adalah permainan kreatif di mana Anda mencampur warna dengan terampil untuk menghidupkan objek 3D, mengubahnya menjadi karya seni yang menakjubkan. Tantang kreativitas Anda dan nikmati kepuasan menciptakan mahakarya yang berwarna-warni dalam pengalaman yang mendalam dan artistik ini.(Merge World)",
     "Loading": {
       "title": "Memuat Merge World..."
     },
@@ -10,17 +10,19 @@
       "title": "Navigasi"
     },
     "Common": {
-      "createAt": "Buat Pada",
+      "createAt": "Dibuat Pada",
       "guide": "Panduan",
       "privacyPolicy": "Kebijakan Privasi",
       "termsOfServices": "Ketentuan Layanan",
       "text": "Konten",
       "help": "Bantuan",
-      "friendlyLinks": "Tautan Ramah"
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda"
     },
     "HomeIframe": {
-      "title": "Merge World - Permainan Gabungkan Terakhir",
-      "description": "Selami Merge World, permainan gabungkan yang menenangkan yang didukung HTML5, sempurna untuk gameplay kreatif dan damai. Mainkan tanpa blok dan gratis di browser modern apa pun.",
+      "title": "Merge World - Permainan Mencocokkan Warna Kreatif",
+      "description": "Selami Merge World, di mana Anda dapat melepaskan seniman batin Anda dengan mencampur warna untuk menciptakan karya seni 3D yang menakjubkan. Rasakan kegembiraan kreativitas dan kepuasan menciptakan mahakarya yang berwarna-warni.(Merge World)",
       "iframeTitle": "Pratinjau Game",
       "fullscreenButton": "Layar Penuh",
       "shareButton": "Bagikan",
@@ -31,23 +33,23 @@
     "HomeFeatures": {
       "gameTitle": "Merge World",
       "whatIsTitle": "Apa itu Merge World?",
-      "whatIsDescription": "Merge World adalah permainan gabungkan yang menenangkan yang memungkinkan Anda membentuk dunia yang hidup sesuai keinginan Anda. Gabungkan bahan untuk menciptakan struktur yang lebih besar dan perluas wilayah Anda dengan konstruksi yang imajinatif.",
+      "whatIsDescription": "Merge World adalah permainan inovatif yang menantang Anda untuk mencampur warna dengan terampil, menghidupkan objek 3D dan mengubahnya menjadi karya seni yang menakjubkan.",
       "howToPlayTitle": "Cara Bermain",
-      "howToPlayStep1": "Gunakan mouse untuk memilih dan menggabungkan item.",
-      "howToPlayStep2": "Gabungkan bahan untuk menciptakan struktur yang lebih besar.",
-      "howToPlayStep3": "Perluas wilayah Anda dengan konstruksi imajinatif dan saksikan dunia Anda menjadi hidup.",
+      "howToPlayStep1": "Klik dan seret tombol mouse kiri untuk mencampur warna.",
+      "howToPlayStep2": "Tantang kreativitas Anda dengan bereksperimen dengan berbagai kombinasi warna.",
+      "howToPlayStep3": "Nikmati kepuasan menciptakan mahakarya yang berwarna-warni di Merge World.",
       "keyFeaturesTitle": "Fitur Utama",
-      "feature1Title": "Gameplay Kreatif",
-      "feature1Description": "Lepaskan kreativitas Anda dengan menggabungkan item untuk membangun dunia unik Anda.",
-      "feature2Title": "Pengalaman Menenangkan",
-      "feature2Description": "Nikmati lingkungan permainan yang damai dan santai.",
-      "feature3Title": "Peri Ramah",
-      "feature3Description": "Dapatkan bantuan magis dari peri-peri ramah untuk meningkatkan konstruksi Anda.",
-      "feature4Title": "Didukung HTML5",
-      "feature4Description": "Rasakan gameplay yang cepat dan lancar di setiap browser modern."
+      "feature1Title": "Pencocokan Warna Kreatif",
+      "feature1Description": "Lepaskan seniman batin Anda dengan mencampur warna untuk menciptakan karya seni 3D yang menakjubkan.",
+      "feature2Title": "Pengalaman Mendalam",
+      "feature2Description": "Selami pengalaman yang mendalam dan artistik yang menantang kreativitas Anda.",
+      "feature3Title": "Mahakarya yang Berwarna-warni",
+      "feature3Description": "Nikmati kepuasan menciptakan mahakarya yang berwarna-warni di Merge World.",
+      "feature4Title": "Mudah Dimainkan",
+      "feature4Description": "Merge World mudah dimainkan, dengan kontrol sederhana yang memungkinkan Anda fokus pada kreativitas Anda."
     },
     "HomeFAQs": {
-      "title": "FAQ"
+      "title": "Pertanyaan Umum"
     },
     "HomeRelatedVideo": {
       "title": "Video Game"

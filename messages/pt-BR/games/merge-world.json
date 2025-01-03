@@ -1,8 +1,8 @@
 {
   "merge-world": {
-    "title": "Merge World(Merge World)",
-    "slogan": "Dê Forma ao Seu Mundo Vibrante",
-    "description": "Merge World é um incrível jogo de fusão que permite que você dê forma a um mundo vibrante do seu jeito. Combine materiais para criar estruturas maiores e expanda seu domínio com construções imaginativas. Fadas amigáveis emprestam sua magia para ajudar você a projetar e desenvolver seu próprio paraíso. Relaxe enquanto você estrategiza, funde e observa seu mundo ganhar vida, passo a passo.",
+    "title": "Merge World",
+    "slogan": "Desvende sua Criatividade em Merge World",
+    "description": "Merge World é um jogo criativo onde você mistura cores habilmente para dar vida a objetos 3D, transformando cada um em uma obra de arte deslumbrante. Desafie sua criatividade e aprecie a satisfação de criar obras-primas vibrantes nesta experiência imersiva e artística. (Merge World)",
     "Loading": {
       "title": "Carregando Merge World..."
     },
@@ -10,17 +10,19 @@
       "title": "Navegação"
     },
     "Common": {
-      "createAt": "Criado em",
+      "createAt": "Criar em",
       "guide": "Guia",
       "privacyPolicy": "Política de Privacidade",
       "termsOfServices": "Termos de Serviço",
       "text": "Conteúdo",
       "help": "Ajuda",
-      "friendlyLinks": "Links Amigáveis"
+      "friendlyLinks": "Links Úteis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial"
     },
     "HomeIframe": {
-      "title": "Merge World - O Jogo de Fusão Definitivo",
-      "description": "Mergulhe no Merge World, um jogo de fusão relaxante, impulsionado por HTML5, perfeito para um jogo criativo e pacífico. Jogue sem bloqueios e gratuitamente em qualquer navegador moderno.",
+      "title": "Merge World - Um Jogo Criativo de Combinação de Cores",
+      "description": "Mergulhe no Merge World, onde você pode liberar seu artista interior misturando cores para criar peças de arte 3D deslumbrantes. Experimente a alegria da criatividade e a satisfação de criar obras-primas vibrantes. (Merge World)",
       "iframeTitle": "Pré-visualização do Jogo",
       "fullscreenButton": "Tela Cheia",
       "shareButton": "Compartilhar",
@@ -29,22 +31,22 @@
       "playGame": "Jogar"
     },
     "HomeFeatures": {
-      "gameTitle": "Merge World(Merge World)",
+      "gameTitle": "Merge World",
       "whatIsTitle": "O que é Merge World?",
-      "whatIsDescription": "Merge World é um jogo de fusão relaxante que permite que você dê forma a um mundo vibrante do seu jeito. Combine materiais para criar estruturas maiores e expanda seu domínio com construções imaginativas.",
+      "whatIsDescription": "Merge World é um jogo inovador que desafia você a combinar cores habilmente, dando vida a objetos 3D e transformando-os em obras de arte deslumbrantes. (Merge World)",
       "howToPlayTitle": "Como Jogar",
-      "howToPlayStep1": "Use o mouse para selecionar e fundir itens.",
-      "howToPlayStep2": "Combine materiais para criar estruturas maiores.",
-      "howToPlayStep3": "Expanda seu domínio com construções imaginativas e assista seu mundo ganhar vida.",
+      "howToPlayStep1": "Clique e arraste o botão esquerdo do mouse para misturar as cores.",
+      "howToPlayStep2": "Desafie sua criatividade experimentando diferentes combinações de cores.",
+      "howToPlayStep3": "Aproveite a satisfação de criar obras-primas vibrantes em Merge World.",
       "keyFeaturesTitle": "Principais Características",
-      "feature1Title": "Jogabilidade Criativa",
-      "feature1Description": "Libere sua criatividade fundindo itens para construir seu mundo único.",
-      "feature2Title": "Experiência Relaxante",
-      "feature2Description": "Desfrute de um ambiente de jogo tranquilo e relaxante.",
-      "feature3Title": "Fadas Amigáveis",
-      "feature3Description": "Obtenha ajuda mágica de fadas amigáveis para aprimorar suas construções.",
-      "feature4Title": "Impulsionado por HTML5",
-      "feature4Description": "Experimente jogabilidade rápida e suave em qualquer navegador moderno."
+      "feature1Title": "Combinação Criativa de Cores",
+      "feature1Description": "Libere seu artista interior misturando cores para criar peças de arte 3D deslumbrantes.",
+      "feature2Title": "Experiência Imersiva",
+      "feature2Description": "Mergulhe em uma experiência imersiva e artística que desafia sua criatividade.",
+      "feature3Title": "Obras-Primas Vibrantes",
+      "feature3Description": "Aproveite a satisfação de criar obras-primas vibrantes em Merge World.",
+      "feature4Title": "Fácil de Jogar",
+      "feature4Description": "Merge World é fácil de jogar, com controles simples que permitem que você se concentre em sua criatividade."
     },
     "HomeFAQs": {
       "title": "Perguntas Frequentes"
