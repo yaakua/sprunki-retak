@@ -1,0 +1,69 @@
+{
+  "tracesoccer": {
+    "title": "Tracesoccer",
+    "slogan": "Un juego de estrategia de primera clase",
+    "description": "Tracesoccer es una adaptación moderna del clásico juego de estrategia de lápiz y papel, que combina la planificación estratégica con la emoción de la competencia en un formato por turnos. ¡Juega contra amigos, IA u oponentes online y supera a tu rival para marcar el gol ganador! (Tracesoccer)",
+    "Loading": {
+      "title": "Cargando Tracesoccer..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces amigables",
+      "articleList": "Lista de artículos",
+      "home": "Inicio"
+    },
+    "HomeIframe": {
+      "title": "Juega a Tracesoccer ahora",
+      "description": "Experimenta la emoción de Tracesoccer, un juego de estrategia de primera clase disponible en CrazyGames. Juega en tu navegador con tecnología HTML5.",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tracesoccer",
+      "whatIsTitle": "¿Qué es Tracesoccer?",
+      "whatIsDescription": "Tracesoccer es un juego de estrategia de primera clase que puedes jugar en CrazyGames desde tu navegador. Es una adaptación moderna del clásico juego de estrategia de lápiz y papel, ofreciendo una jugabilidad emocionante para jugadores casuales y estrategas competitivos.",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Utiliza el botón izquierdo del ratón para posicionar donde quieres que se mueva la pelota.",
+      "howToPlayStep2": "Utiliza las teclas QWEADZXC para mover la pelota en una dirección específica.",
+      "howToPlayStep3": "¡Supera a tu rival para marcar el gol ganador!",
+      "keyFeaturesTitle": "Características clave",
+      "feature1Title": "Planificación estratégica",
+      "feature1Description": "Planifica tus movimientos cuidadosamente para superar a tu oponente.",
+      "feature2Title": "Competición por turnos",
+      "feature2Description": "Disfruta de la emoción de la competencia en un formato por turnos.",
+      "feature3Title": "Modo multijugador",
+      "feature3Description": "Juega contra amigos, IA u oponentes online.",
+      "feature4Title": "Tecnología HTML5",
+      "feature4Description": "Juega a Tracesoccer en la mayoría de los navegadores con tecnología HTML5."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    }
+  }
+}

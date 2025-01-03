@@ -1,0 +1,69 @@
+{
+  "tracesoccer": {
+    "title": "Tracesoccer",
+    "slogan": "Ein erstklassiges Strategiespiel",
+    "description": "Tracesoccer ist eine moderne Adaption des klassischen Strategiespiels mit Stift und Papier, die strategische Planung mit dem Nervenkitzel des Wettbewerbs in einem rundenbasierten Format verbindet. Spielen Sie gegen Freunde, KI oder Online-Gegner und überlisten Sie Ihren Rivalen, um den Siegtreffer zu erzielen! (Tracesoccer)",
+    "Loading": {
+      "title": "Tracesoccer wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Leitfaden",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelübersicht",
+      "home": "Startseite"
+    },
+    "HomeIframe": {
+      "title": "Spielen Sie jetzt Tracesoccer",
+      "description": "Erleben Sie den Nervenkitzel von Tracesoccer, einem erstklassigen Strategiespiel auf CrazyGames. Spielen Sie in Ihrem Browser mit HTML5-Technologie. (Tracesoccer)",
+      "iframeTitle": "Vorschau des Spiels",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel starten"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tracesoccer",
+      "whatIsTitle": "Was ist Tracesoccer?",
+      "whatIsDescription": "Tracesoccer ist ein erstklassiges Strategiespiel, das Sie auf CrazyGames in Ihrem Browser spielen können. Es ist eine moderne Adaption des klassischen Strategiespiels mit Stift und Papier und bietet ein spannendes Gameplay sowohl für Gelegenheitsspieler als auch für wettbewerbsorientierte Strategen. (Tracesoccer)",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Positionieren Sie den Ball mit der linken Maustaste an der gewünschten Stelle.",
+      "howToPlayStep2": "Bewegen Sie den Ball mit den Tasten Q, W, E, A, D, Z, X, C in eine bestimmte Richtung.",
+      "howToPlayStep3": "Überlisten Sie Ihren Rivalen, um den Siegtreffer zu erzielen!",
+      "keyFeaturesTitle": "Wichtigste Merkmale",
+      "feature1Title": "Strategische Planung",
+      "feature1Description": "Planen Sie Ihre Züge sorgfältig, um Ihren Gegner zu überlisten.",
+      "feature2Title": "Rundenbasierter Wettbewerb",
+      "feature2Description": "Genießen Sie den Nervenkitzel des Wettbewerbs in einem rundenbasierten Format.",
+      "feature3Title": "Mehrspielermodus",
+      "feature3Description": "Spielen Sie gegen Freunde, KI oder Online-Gegner.",
+      "feature4Title": "HTML5-Technologie",
+      "feature4Description": "Spielen Sie Tracesoccer in den meisten Browsern mit HTML5-Technologie."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    }
+  }
+}

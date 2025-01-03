@@ -1,0 +1,69 @@
+{
+  "tracesoccer": {
+    "title": "Tracesoccer",
+    "slogan": "頂級策略遊戲",
+    "description": "Tracesoccer 是經典紙筆策略遊戲的現代化改編，將策略規劃與回合制競爭的刺激感完美融合。與朋友、AI 或線上對手對戰，巧妙運用策略，取得勝利！ (Tracesoccer)",
+    "Loading": {
+      "title": "正在載入Tracesoccer..."
+    },
+    "Navbar": {
+      "title": "導覽"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "幫助",
+      "friendlyLinks": "友情連結",
+      "articleList": "文章列表",
+      "home": "首頁"
+    },
+    "HomeIframe": {
+      "title": "現在就玩Tracesoccer",
+      "description": "體驗Tracesoccer 的刺激，一款頂級策略遊戲，在CrazyGames 上以網頁瀏覽器 HTML5 技術遊玩！",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "開始遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tracesoccer",
+      "whatIsTitle": "什麼是Tracesoccer？",
+      "whatIsDescription": "Tracesoccer 是一款頂級策略遊戲，您可以在 CrazyGames 的網頁瀏覽器中遊玩。它是經典紙筆策略遊戲的現代化改編，為休閒玩家和競爭策略家帶來精彩的遊戲體驗。(Tracesoccer)",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "使用滑鼠左鍵拖曳指定球體移動位置。",
+      "howToPlayStep2": "使用鍵盤 QWEADZXC 鍵控制球體方向。",
+      "howToPlayStep3": "巧妙運用策略，取得勝利！",
+      "keyFeaturesTitle": "主要特色",
+      "feature1Title": "策略規劃",
+      "feature1Description": "仔細規劃您的動作，智勝對手。",
+      "feature2Title": "回合制競爭",
+      "feature2Description": "享受回合制競爭的刺激感。",
+      "feature3Title": "多人模式",
+      "feature3Description": "與朋友、AI 或線上對手對戰。",
+      "feature4Title": "HTML5 技術",
+      "feature4Description": "使用 HTML5 技術可在大部分瀏覽器中遊玩 Tracesoccer。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦遊戲"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    }
+  }
+}

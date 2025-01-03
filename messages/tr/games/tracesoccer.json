@@ -1,0 +1,69 @@
+{
+  "tracesoccer": {
+    "title": "Tracesoccer",
+    "slogan": "Birinci Sınıf Strateji Oyunu",
+    "description": "Tracesoccer, klasik kalem-kağıt strateji oyununun modern bir uyarlamasıdır ve sıra tabanlı bir biçimde stratejik planlamayı rekabet heyecanıyla harmanlar. Arkadaşlarınıza, yapay zekaya veya çevrimiçi rakiplere karşı oynayın ve rakibinizi alt ederek galibiyet golünü atın! (Tracesoccer)",
+    "Loading": {
+      "title": "Tracesoccer Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinme"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa"
+    },
+    "HomeIframe": {
+      "title": "Şimdi Tracesoccer Oyna",
+      "description": "CrazyGames'te bulunan birinci sınıf strateji oyunu Tracesoccer'ın heyecanını yaşayın. HTML5 teknolojisiyle tarayıcınızda oynayın.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tracesoccer",
+      "whatIsTitle": "Tracesoccer Nedir?",
+      "whatIsDescription": "Tracesoccer, CrazyGames'te tarayıcınızda oynayabileceğiniz birinci sınıf bir strateji oyunudur. Klasik kalem-kağıt strateji oyununun modern bir uyarlamasıdır ve hem yeni başlayan oyunculara hem de rekabetçi stratejistlere heyecan verici bir oyun sunmaktadır.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Topun hareket edeceği yeri belirlemek için sol fare düğmesini kullanın.",
+      "howToPlayStep2": "Topu belirli bir yöne hareket ettirmek için Q, W, E, A, D, Z, X, C tuşlarını kullanın.",
+      "howToPlayStep3": "Rakibinizi alt ederek galibiyet golünü atın!",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Stratejik Planlama",
+      "feature1Description": "Rakibinizi alt etmek için hamlelerinizi dikkatlice planlayın.",
+      "feature2Title": "Sıra Tabanlı Rekabet",
+      "feature2Description": "Sıra tabanlı bir biçimde rekabet heyecanını yaşayın.",
+      "feature3Title": "Çok Oyunculu Mod",
+      "feature3Description": "Arkadaşlarınızla, yapay zekayla veya çevrimiçi rakiplerle oynayın.",
+      "feature4Title": "HTML5 Teknolojisi",
+      "feature4Description": "Tracesoccer'ı HTML5 teknolojisiyle çoğu tarayıcıda oynayın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    }
+  }
+}

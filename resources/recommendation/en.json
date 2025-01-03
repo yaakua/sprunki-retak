@@ -24,6 +24,14 @@
     "position": "all"
   },
   {
+    "title": "Tracesoccer",
+    "cover": "/games/tracesoccer/game_screenshot.webp",
+    "url": "/games/tracesoccer",
+    "category": "",
+    "visible": true,
+    "position": "all"
+  },
+  {
     "title": "Sprunki Infected",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",

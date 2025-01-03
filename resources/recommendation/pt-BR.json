@@ -1,6 +1,6 @@
 [
   {
-    "title": "Sprunki Retake",
+    "title": "Retomada de Sprunki",
     "cover": "/game_screenshot.webp",
     "url": "/",
     "category": "TOP",
@@ -21,14 +21,21 @@
     "visible": true
   },
   {
-    "title": "Sprunki Infected",
+    "title": "Tracesoccer",
+    "cover": "/games/tracesoccer/game_screenshot.webp",
+    "url": "/games/tracesoccer",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Sprunki Infectado",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
     "category": "TOP",
     "visible": true
   },
   {
-    "title": "Merge World ",
+    "title": "Merge World",
     "cover": "/games/merge-world/game_screenshot.webp",
     "url": "/games/merge-world",
     "category": "",

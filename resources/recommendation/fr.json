@@ -1,41 +1,48 @@
 [
   {
-    "title": "Sprunki Retake (Sprunki Retake)",
+    "title": "Reprise Sprunki",
     "cover": "/game_screenshot.webp",
     "url": "/",
     "category": "TOP",
     "visible": true
   },
   {
-    "title": "Sprunki: Skibidi Toilet 2.0 (Sprunki: Skibidi Toilet 2.0)",
+    "title": "Sprunki : Skibidi Toilet 2.0",
     "cover": "/games/sprunki-skibidi-toilet-2-0/game_screenshot.webp",
     "url": "/games/sprunki-skibidi-toilet-2-0",
     "category": "",
     "visible": true
   },
   {
-    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "title": "Sprunki Remastered",
     "cover": "/games/sprunki-remastered/game_screenshot.webp",
     "url": "/games/sprunki-remastered",
     "category": "",
     "visible": true
   },
   {
-    "title": "Sprunki Infected (Sprunki Infected)",
+    "title": "Tracesoccer",
+    "cover": "/games/tracesoccer/game_screenshot.webp",
+    "url": "/games/tracesoccer",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Sprunki Infecté",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
     "category": "TOP",
     "visible": true
   },
   {
-    "title": "Merge World (Merge World)",
+    "title": "Fusion du Monde",
     "cover": "/games/merge-world/game_screenshot.webp",
     "url": "/games/merge-world",
     "category": "",
     "visible": true
   },
   {
-    "title": "Sprunked 2.0 (Sprunked 2.0)",
+    "title": "Sprunked 2.0",
     "cover": "/games/sprunked-2-0/game_screenshot.webp",
     "url": "/games/sprunked-2-0",
     "category": "",

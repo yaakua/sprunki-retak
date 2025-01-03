@@ -1,0 +1,69 @@
+{
+  "tracesoccer": {
+    "title": "Tracesoccer",
+    "slogan": "Permainan Strategi Kelas Satu",
+    "description": "Tracesoccer adalah adaptasi modern dari permainan strategi klasik kertas dan pena, menggabungkan perencanaan strategis dengan sensasi persaingan dalam format giliran. Mainkan melawan teman, AI, atau lawan online dan manuver lawan Anda untuk mencetak gol kemenangan!",
+    "Loading": {
+      "title": "Memuat Tracesoccer..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda"
+    },
+    "HomeIframe": {
+      "title": "Mainkan Tracesoccer Sekarang",
+      "description": "Rasakan sensasi Tracesoccer, permainan strategi kelas satu yang tersedia di CrazyGames. Mainkan di browser Anda dengan teknologi HTML5.",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Tracesoccer",
+      "whatIsTitle": "Apa itu Tracesoccer?",
+      "whatIsDescription": "Tracesoccer adalah permainan strategi kelas satu yang dapat Anda mainkan di CrazyGames di browser Anda. Ini adalah adaptasi modern dari permainan strategi klasik kertas dan pena, menawarkan gameplay yang menarik untuk pemain kasual dan ahli strategi kompetitif.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Gunakan tombol mouse kiri untuk menentukan posisi bola yang ingin Anda pindahkan.",
+      "howToPlayStep2": "Gunakan tombol QWEADZXC untuk memindahkan bola ke arah tertentu.",
+      "howToPlayStep3": "Manuver lawan Anda untuk mencetak gol kemenangan!",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Perencanaan Strategis",
+      "feature1Description": "Rencanakan langkah-langkah Anda dengan cermat untuk mengalahkan lawan Anda.",
+      "feature2Title": "Persaingan Berbasis Giliran",
+      "feature2Description": "Rasakan sensasi persaingan dalam format giliran.",
+      "feature3Title": "Mode Multiplayer",
+      "feature3Description": "Mainkan melawan teman, AI, atau lawan online.",
+      "feature4Title": "Teknologi HTML5",
+      "feature4Description": "Mainkan Tracesoccer di sebagian besar browser dengan teknologi HTML5."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Gameplay"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Game"
+    }
+  }
+}
