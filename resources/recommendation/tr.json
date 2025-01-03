@@ -3,7 +3,7 @@
     "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "ENÜSTÜ",
+    "category": "EN ÜST",
     "visible": true
   },
   {
@@ -24,7 +24,14 @@
     "title": "Sprunki Infected (Sprunki Infected)",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
-    "category": "ENÜSTÜ",
+    "category": "EN ÜST",
+    "visible": true
+  },
+  {
+    "title": "Merge World (Merge World )",
+    "cover": "/games/merge-world/game_screenshot.webp",
+    "url": "/games/merge-world",
+    "category": "",
     "visible": true
   },
   {

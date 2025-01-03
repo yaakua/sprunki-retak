@@ -1,0 +1,67 @@
+{
+  "merge-world": {
+    "title": "Merge World (Merge World)",
+    "slogan": "Gestalten Sie Ihre lebendige Welt (Merge World)",
+    "description": "Merge World ist ein fantastisches Verschmelzungsspiel, mit dem Sie eine lebendige Welt nach Ihren Vorstellungen gestalten können. Kombinieren Sie Materialien, um größere Strukturen zu erschaffen und Ihr Gebiet mit phantasievollen Konstruktionen zu erweitern. Freundliche Feen verleihen ihren Zauber, um Ihnen bei der Gestaltung und Entwicklung Ihrer eigenen Oase zu helfen. Entspannen Sie sich, während Sie strategisch planen, verschmelzen und zusehen, wie Ihre Welt Schritt für Schritt zum Leben erwacht.",
+    "Loading": {
+      "title": "Merge World wird geladen..."
+    },
+    "Navbar": {
+      "title": "Navigation"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links"
+    },
+    "HomeIframe": {
+      "title": "Merge World - Das ultimative Verschmelzungsspiel (Merge World)",
+      "description": "Tauchen Sie ein in Merge World, ein beruhigendes Verschmelzungsspiel, das von HTML5 angetrieben wird und sich perfekt für kreatives und friedliches Gameplay eignet. Spielen Sie unbeschränkt und kostenlos in jedem modernen Browser.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Merge World (Merge World)",
+      "whatIsTitle": "Was ist Merge World?",
+      "whatIsDescription": "Merge World ist ein beruhigendes Verschmelzungsspiel, mit dem Sie eine lebendige Welt nach Ihren Vorstellungen gestalten können. Kombinieren Sie Materialien, um größere Strukturen zu erschaffen und Ihr Gebiet mit phantasievollen Konstruktionen zu erweitern.",
+      "howToPlayTitle": "So spielen Sie",
+      "howToPlayStep1": "Mit der Maus Items auswählen und verschmelzen.",
+      "howToPlayStep2": "Kombinieren Sie Materialien, um größere Strukturen zu erschaffen.",
+      "howToPlayStep3": "Erweitern Sie Ihr Gebiet mit phantasievollen Konstruktionen und beobachten Sie, wie Ihre Welt zum Leben erwacht.",
+      "keyFeaturesTitle": "Wichtige Merkmale",
+      "feature1Title": "Kreatives Gameplay",
+      "feature1Description": "Entfesseln Sie Ihre Kreativität, indem Sie Items verschmelzen, um Ihre einzigartige Welt zu erschaffen.",
+      "feature2Title": "Beruhigende Erfahrung",
+      "feature2Description": "Genießen Sie eine friedliche und entspannende Spielumgebung.",
+      "feature3Title": "Freundliche Feen",
+      "feature3Description": "Erhalten Sie magische Unterstützung von freundlichen Feen, um Ihre Konstruktionen zu verbessern.",
+      "feature4Title": "HTML5-basiert",
+      "feature4Description": "Erleben Sie schnelles und flüssiges Gameplay in jedem modernen Browser."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    }
+  }
+}

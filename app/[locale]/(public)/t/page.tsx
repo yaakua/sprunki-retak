@@ -1,57 +1,33 @@
-import { locales } from '@/lib/i18n/locales';
+import { alternatesLanguage, defaultLocale, locales } from '@/lib/i18n/locales';
 import { Link } from '@/lib/i18n/navigation';
-import fs from 'fs';
-import matter from 'gray-matter';
-import { getTranslations } from 'next-intl/server';
+import { getArticlesData } from '@/lib/utils/blogs';
+import { Metadata } from 'next';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
-import path from 'path';
+import {siteConfig} from '@/lib/config/site';
+import { SiteConfig} from '@/lib/types';
+type Props = {
+  params: Promise<{ locale: string }>;
+};
 
-// 定义文章元数据接口
-interface ArticleMetadata {
-  title: string;
-  image?: string;
-  createdAt?: string;
-  slug: string;
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { locale = defaultLocale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations({ locale });
+  return {
+    title: `${t('Common.articleList')} | ${siteConfig.name}`,
+    description: t('description'),
+    alternates: {
+      languages: alternatesLanguage('/t'),
+    },
+    icons: {
+      icon: siteConfig.icon,
+      apple: siteConfig.appleIcon,
+    },
+  };
 }
 
-// 获取所有子目录的文章数据
-async function getArticlesData(locale: string): Promise<ArticleMetadata[]> {
-  const currentDir = path.join(process.cwd(), 'app', '[locale]', '(public)', 't');
-  const directories = fs.readdirSync(currentDir, { withFileTypes: true })
-    .filter(dirent => dirent.isDirectory())
-    .map(dirent => dirent.name);
-
-  const articles: ArticleMetadata[] = [];
-
-  for (const dir of directories) {
-    try {
-      const filePath = path.join(currentDir, dir, `${locale}.mdx`);
-      // 如果当前语言的文件不存在，尝试读取英文版
-      const fallbackPath = path.join(currentDir, dir, 'en.mdx');
-      
-      let content;
-      if (fs.existsSync(filePath)) {
-        content = fs.readFileSync(filePath, 'utf-8');
-      } else if (fs.existsSync(fallbackPath)) {
-        content = fs.readFileSync(fallbackPath, 'utf-8');
-      } else {
-        continue;
-      }
-
-      const { data: frontMatter } = matter(content);
-      articles.push({
-        title: frontMatter.title,
-        image: frontMatter.image,
-        createdAt: frontMatter.createdAt,
-        slug: dir
-      });
-    } catch (error) {
-      console.error(`Error reading directory ${dir}:`, error);
-    }
-  }
-
-  return articles;
-}
+ 
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
@@ -60,7 +36,7 @@ export function generateStaticParams() {
 export default async function Page({params}: {params: Promise<{locale: string}>}) {
   try {
     const {locale} = await params;
-    const articles = await getArticlesData(locale);
+    const articles = await getArticlesData()[locale] || [];
     const t = await getTranslations({ locale });
     return (
       <div className="max-w-6xl mx-auto py-10 px-4 min-h-[65vh]">
@@ -82,8 +58,13 @@ export default async function Page({params}: {params: Promise<{locale: string}>}
                 )}
                 <div>
                   <h2 className="text-xl font-semibold">{article.title}</h2>
+                  {article.description && (
+                    <p className="text-gray-600 mt-2 text-sm line-clamp-2">
+                      {article.description}
+                    </p>
+                  )}
                   {article.createdAt && (
-                    <p className="text-gray-500 text-sm">
+                    <p className="text-gray-500 text-sm mt-1">
                       {t('Common.createAt')}: {new Date(article.createdAt).toLocaleDateString()}
                     </p>
                   )}
@@ -95,6 +76,7 @@ export default async function Page({params}: {params: Promise<{locale: string}>}
       </div>
     );
   } catch (error) {
+    console.log(`article list page render error`,error);
     notFound();
   }
 }

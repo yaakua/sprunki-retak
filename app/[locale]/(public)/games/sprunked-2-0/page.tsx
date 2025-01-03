@@ -73,9 +73,7 @@ export default async function Page({ params }: Props) {
           </div>
           
           {/* 右侧推荐卡片 - 移动端隐藏 */}
-          <div className="hidden lg:block w-full lg:w-80">
-            <GameRecommendationCard locale={locale} />
-          </div>
+          <GameRecommendationCard locale={locale} />
         </div>
       </div>
     </div>

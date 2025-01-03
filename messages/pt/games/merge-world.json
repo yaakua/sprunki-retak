@@ -1,0 +1,67 @@
+{
+  "merge-world": {
+    "title": "Merge World (Merge World)",
+    "slogan": "Forme Seu Mundo Vibrante",
+    "description": "Merge World é um incrível jogo de fusão que permite que você crie um mundo vibrante ao seu gosto. Combine materiais para criar estruturas maiores e expandir seu domínio com construções imaginativas. Fadas amigáveis emprestam sua magia para ajudá-lo a projetar e desenvolver seu próprio paraíso. Relaxe enquanto estrategiza, funde e observa seu mundo ganhar vida, passo a passo.",
+    "Loading": {
+      "title": "Carregando Merge World..."
+    },
+    "Navbar": {
+      "title": "Navegação"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis"
+    },
+    "HomeIframe": {
+      "title": "Merge World - O Jogo de Fusão Definitivo",
+      "description": "Mergulhe em Merge World, um jogo de fusão relaxante baseado em HTML5, perfeito para um jogo criativo e tranquilo. Jogue sem bloqueios e gratuitamente em qualquer navegador moderno.",
+      "iframeTitle": "Pré-visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Merge World",
+      "whatIsTitle": "O que é Merge World?",
+      "whatIsDescription": "Merge World é um jogo de fusão relaxante que permite que você crie um mundo vibrante ao seu gosto. Combine materiais para criar estruturas maiores e expandir seu domínio com construções imaginativas.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Use o mouse para selecionar e fundir itens.",
+      "howToPlayStep2": "Combine materiais para criar estruturas maiores.",
+      "howToPlayStep3": "Expanda seu domínio com construções imaginativas e observe seu mundo ganhar vida.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Jogabilidade Criativa",
+      "feature1Description": "Libere sua criatividade fundindo itens para construir seu mundo único.",
+      "feature2Title": "Experiência Relaxante",
+      "feature2Description": "Aproveite um ambiente de jogo pacífico e relaxante.",
+      "feature3Title": "Fadas Amigáveis",
+      "feature3Description": "Obtenha assistência mágica de fadas amigáveis para aprimorar suas construções.",
+      "feature4Title": "Tecnologia HTML5",
+      "feature4Description": "Experimente uma jogabilidade rápida e suave em qualquer navegador moderno."
+    },
+    "HomeFAQs": {
+      "title": "Perguntas Frequentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    }
+  }
+}

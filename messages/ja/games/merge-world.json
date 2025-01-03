@@ -1,0 +1,67 @@
+{
+  "merge-world": {
+    "title": "Merge World(Merge World)",
+    "slogan": "あなただけの活気あふれる世界を創造する(Shape Your Vibrant World)",
+    "description": "Merge Worldは、あなたの好みに合わせて活気あふれる世界を形作ることができる素晴らしいマージゲームです。素材を組み合わせてより大きな構造物を作り、想像力を駆使して領土を広げましょう。友好的な妖精たちが、あなたの独自の楽園を設計し発展させるのを手伝ってくれます。戦略を立て、マージし、一歩ずつあなたの世界が蘇るのを見守ってください。(Merge World is an awesome merge game that lets you shape a vibrant world to your liking. Combine materials to create larger structures and expand your domain with imaginative constructions. Friendly fairies lend their magic to help you design and develop your very own paradise. Relax as you strategize, merge, and watch your world come to life, one step at a time.)",
+    "Loading": {
+      "title": "Merge Worldを読み込み中..."
+    },
+    "Navbar": {
+      "title": "ナビゲーション"
+    },
+    "Common": {
+      "createAt": "作成日時",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "友好リンク"
+    },
+    "HomeIframe": {
+      "title": "Merge World -究極のマージゲーム(Merge World - The Ultimate Merge Game)",
+      "description": "HTML5で駆動される、創造的で平和なゲームプレイに最適な、癒しのマージゲームMerge Worldに没頭してください。どの現代ブラウザでもブロックされずに無料でプレイできます。(Dive into Merge World, a soothing merge game powered by HTML5, perfect for creative and peaceful gameplay. Play unblocked and for free on any modern browser.)",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "全画面表示",
+      "shareButton": "共有",
+      "urlCopied": "URLがクリップボードにコピーされました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Merge World",
+      "whatIsTitle": "Merge Worldとは？",
+      "whatIsDescription": "Merge Worldは、あなたの好みに合わせて活気あふれる世界を形作ることができる、癒しのマージゲームです。素材を組み合わせてより大きな構造を作り、想像力を駆使して領土を広げましょう。(Merge World is a soothing merge game that lets you shape a vibrant world to your liking. Combine materials to create larger structures and expand your domain with imaginative constructions.)",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "マウスを使ってアイテムを選択し、マージします。",
+      "howToPlayStep2": "素材を組み合わせて、より大きな構造物を作ります。",
+      "howToPlayStep3": "想像力を駆使して領土を広げ、あなたの世界が蘇るのを見守ります。",
+      "keyFeaturesTitle": "主な機能",
+      "feature1Title": "創造的なゲームプレイ",
+      "feature1Description": "アイテムをマージして独自のワールドを構築することで、あなたの創造性を発揮しましょう。",
+      "feature2Title": "心地よい体験",
+      "feature2Description": "平和でリラックスできるゲーム環境をお楽しみください。",
+      "feature3Title": "友好的な妖精",
+      "feature3Description": "友好的な妖精たちからの魔法の助けを借りて、あなたの構造物を強化しましょう。",
+      "feature4Title": "HTML5駆動",
+      "feature4Description": "どの現代ブラウザでも高速でスムーズなゲームプレイをお楽しみください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    }
+  }
+}

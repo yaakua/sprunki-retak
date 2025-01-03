@@ -1,0 +1,67 @@
+{
+  "merge-world": {
+    "title": "Merge World (Merge World)",
+    "slogan": "Định hình thế giới rực rỡ của bạn (Shape Your Vibrant World)",
+    "description": "Merge World là một trò chơi hợp nhất tuyệt vời cho phép bạn định hình một thế giới rực rỡ theo sở thích của riêng mình. Kết hợp các vật liệu để tạo ra các cấu trúc lớn hơn và mở rộng lãnh thổ của bạn với những công trình sáng tạo. Những nàng tiên hiền lành cho phép những phép thuật giúp bạn thiết kế và phát triển thiên đường riêng của mình. Hãy thư giãn khi bạn lập kế hoạch, hợp nhất và xem thế giới của bạn trỗi dậy từng bước một. (Merge World is an awesome merge game that lets you shape a vibrant world to your liking. Combine materials to create larger structures and expand your domain with imaginative constructions. Friendly fairies lend their magic to help you design and develop your very own paradise. Relax as you strategize, merge, and watch your world come to life, one step at a time.)",
+    "Loading": {
+      "title": "Đang tải Merge World..."
+    },
+    "Navbar": {
+      "title": "Định vị"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích"
+    },
+    "HomeIframe": {
+      "title": "Merge World - Trò chơi hợp nhất hoàn hảo",
+      "description": "Khám phá Merge World, một trò chơi hợp nhất thư giãn được hỗ trợ bởi HTML5, hoàn hảo cho lối chơi sáng tạo và yên bình. Chơi không bị chặn và miễn phí trên bất kỳ trình duyệt hiện đại nào.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào khay nhớ tạm!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Merge World",
+      "whatIsTitle": "Merge World là gì?",
+      "whatIsDescription": "Merge World là một trò chơi hợp nhất thư giãn cho phép bạn định hình một thế giới rực rỡ theo sở thích của riêng mình. Kết hợp các vật liệu để tạo ra các cấu trúc lớn hơn và mở rộng lãnh thổ của bạn với những công trình sáng tạo.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Nhấp chuột để chọn và hợp nhất các vật phẩm.",
+      "howToPlayStep2": "Kết hợp các vật liệu để tạo ra các cấu trúc lớn hơn.",
+      "howToPlayStep3": "Mở rộng lãnh thổ của bạn với những công trình sáng tạo và xem thế giới của bạn trỗi dậy.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Gameplay sáng tạo",
+      "feature1Description": "Thỏa sức sáng tạo bằng cách hợp nhất các vật phẩm để xây dựng thế giới độc đáo của bạn.",
+      "feature2Title": "Trải nghiệm thư giãn",
+      "feature2Description": "Tận hưởng một môi trường chơi game yên bình và thư thái.",
+      "feature3Title": "Những nàng tiên hiền lành",
+      "feature3Description": "Nhận sự trợ giúp ma thuật từ những nàng tiên hiền lành để nâng cao các công trình của bạn.",
+      "feature4Title": "Được hỗ trợ bởi HTML5",
+      "feature4Description": "Trải nghiệm lối chơi nhanh và mượt trên bất kỳ trình duyệt hiện đại nào."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả các trò chơi",
+      "description": "Tất cả các trò chơi",
+      "games": "Các trò chơi"
+    }
+  }
+}

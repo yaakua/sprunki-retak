@@ -1,0 +1,67 @@
+{
+  "merge-world": {
+    "title": "Merge World",
+    "slogan": "Shape Your Vibrant World",
+    "description": "Merge World is an awesome merge game that lets you shape a vibrant world to your liking. Combine materials to create larger structures and expand your domain with imaginative constructions. Friendly fairies lend their magic to help you design and develop your very own paradise. Relax as you strategize, merge, and watch your world come to life, one step at a time.",
+    "Loading": {
+      "title": "Loading Merge World..."
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links"
+    },
+    "HomeIframe": {
+      "title": "Merge World - The Ultimate Merge Game",
+      "description": "Dive into Merge World, a soothing merge game powered by HTML5, perfect for creative and peaceful gameplay. Play unblocked and for free on any modern browser.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Merge World",
+      "whatIsTitle": "What is Merge World?",
+      "whatIsDescription": "Merge World is a soothing merge game that lets you shape a vibrant world to your liking. Combine materials to create larger structures and expand your domain with imaginative constructions.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use the mouse to select and merge items.",
+      "howToPlayStep2": "Combine materials to create larger structures.",
+      "howToPlayStep3": "Expand your domain with imaginative constructions and watch your world come to life.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Creative Gameplay",
+      "feature1Description": "Unleash your creativity by merging items to build your unique world.",
+      "feature2Title": "Soothing Experience",
+      "feature2Description": "Enjoy a peaceful and relaxing game environment.",
+      "feature3Title": "Friendly Fairies",
+      "feature3Description": "Get magical assistance from friendly fairies to enhance your constructions.",
+      "feature4Title": "HTML5 Powered",
+      "feature4Description": "Experience fast and smooth gameplay on any modern browser."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    }
+  }
+}

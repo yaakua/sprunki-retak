@@ -1,0 +1,67 @@
+{
+  "merge-world": {
+    "title": "汇聚世界",
+    "slogan": "塑造你的活力世界",
+    "description": "汇聚世界是一款精彩的合并游戏，让你根据喜好塑造一个充满活力的世界。组合材料，建造更大的结构，用充满想象力的建筑扩展你的领域。友好的仙女会施魔法帮助你设计和发展你自己的乐园。放松身心，策略性地合并，看着你的世界一步步鲜活起来。 (Merge World )",
+    "Loading": {
+      "title": "正在加载汇聚世界..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接"
+    },
+    "HomeIframe": {
+      "title": "汇聚世界——终极合并游戏",
+      "description": "沉浸在汇聚世界中，这款由HTML5驱动的轻松合并游戏，非常适合创意和宁静的游戏体验。在任何现代浏览器上免费玩，无需任何限制。 (Merge World )",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "玩游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "汇聚世界",
+      "whatIsTitle": "汇聚世界是什么？",
+      "whatIsDescription": "汇聚世界是一款轻松的合并游戏，让你根据喜好塑造一个充满活力的世界。组合材料，建造更大的结构，用充满想象力的建筑扩展你的领域。 (Merge World )",
+      "howToPlayTitle": "如何玩",
+      "howToPlayStep1": "使用鼠标选择和合并物品。",
+      "howToPlayStep2": "组合材料建造更大的建筑。",
+      "howToPlayStep3": "用充满想象力的建筑扩展你的领域，看着你的世界鲜活起来。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "创意游戏玩法",
+      "feature1Description": "通过合并物品来释放你的创造力，建造你独特的世界。",
+      "feature2Title": "轻松体验",
+      "feature2Description": "享受宁静而轻松的游戏环境。",
+      "feature3Title": "友好的仙女",
+      "feature3Description": "获得友善仙女的魔法帮助，来增强你的建筑。",
+      "feature4Title": "HTML5驱动",
+      "feature4Description": "在任何现代浏览器上体验快速流畅的游戏体验。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题解答"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    }
+  }
+}

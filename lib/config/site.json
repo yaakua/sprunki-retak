@@ -113,5 +113,7 @@
   ],
   "isShowRightGames": false,
   "enablePromotion": false,
-  "customizeFeatures": true
+  "customizeFeatures": true,
+  "adsenseClientId": "",
+  "adsTxtContent": ""
 }

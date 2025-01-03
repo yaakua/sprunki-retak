@@ -16,7 +16,8 @@
     "text": "콘텐츠",
     "help": "도움말",
     "friendlyLinks": "유용한 링크",
-    "articleList": "Article List"
+    "articleList": "Article List",
+    "home": "Home"
   },
   "HomeIframe": {
     "title": "스프런키 리테이크 발견하기",

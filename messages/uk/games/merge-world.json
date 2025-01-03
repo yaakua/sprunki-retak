@@ -1,0 +1,67 @@
+{
+  "merge-world": {
+    "title": "Merge World (Merge World)",
+    "slogan": "Сформуйте свій яскравий світ (Shape Your Vibrant World)",
+    "description": "Merge World - це чудова гра з об'єднанням, яка дозволяє вам сформувати яскравий світ на свій смак. Комбінуйте матеріали, щоб створювати більші структури та розширювати свою територію уявними спорудами. Привітні феї нададуть свою магію, щоб допомогти вам спроектувати та розробити свій власний рай. Розслабтеся, стратегізуйте, об'єднуйте та спостерігайте, як ваш світ оживає, крок за кроком. (Merge World is an awesome merge game that lets you shape a vibrant world to your liking. Combine materials to create larger structures and expand your domain with imaginative constructions. Friendly fairies lend their magic to help you design and develop your very own paradise. Relax as you strategize, merge, and watch your world come to life, one step at a time.)",
+    "Loading": {
+      "title": "Завантаження Merge World..."
+    },
+    "Navbar": {
+      "title": "Навігація"
+    },
+    "Common": {
+      "createAt": "Створено",
+      "guide": "Посібник",
+      "privacyPolicy": "Політика конфіденційності",
+      "termsOfServices": "Умови надання послуг",
+      "text": "Контент",
+      "help": "Допомога",
+      "friendlyLinks": "Дружні посилання"
+    },
+    "HomeIframe": {
+      "title": "Merge World - Ідеальна гра з об'єднанням",
+      "description": "Зануртеся в Merge World, заспокійливу гру з об'єднанням, що працює на HTML5, ідеально підходящу для творчої та мирної гри. Грай без обмежень і безкоштовно в будь-якому сучасному браузері.",
+      "iframeTitle": "Попередній перегляд гри",
+      "fullscreenButton": "Повноекранний режим",
+      "shareButton": "Поділитися",
+      "urlCopied": "Посилання скопійовано у буфер обміну!",
+      "downloadGame": "Завантажити гру",
+      "playGame": "Грати"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Merge World",
+      "whatIsTitle": "Що таке Merge World?",
+      "whatIsDescription": "Merge World - це заспокійлива гра з об'єднанням, яка дозволяє вам сформувати яскравий світ на свій смак. Комбінуйте матеріали, щоб створювати більші структури та розширювати свою територію уявними спорудами.",
+      "howToPlayTitle": "Як грати",
+      "howToPlayStep1": "Використовуйте мишу, щоб вибрати та об'єднати предмети.",
+      "howToPlayStep2": "Комбінуйте матеріали, щоб створювати більші структури.",
+      "howToPlayStep3": "Розширюйте свою територію уявними спорудами та спостерігайте, як оживає ваш світ.",
+      "keyFeaturesTitle": "Ключові особливості",
+      "feature1Title": "Творча гра",
+      "feature1Description": "Вивільните свою творчість, об'єднуючи предмети, щоб створити свій унікальний світ.",
+      "feature2Title": "Заспокійливе враження",
+      "feature2Description": "Насолоджуйтеся мирною та заспокійливою атмосферою гри.",
+      "feature3Title": "Привітні феї",
+      "feature3Description": "Отримаєте чарівну допомогу від привітних фей, щоб покращити ваші споруди.",
+      "feature4Title": "Технологія HTML5",
+      "feature4Description": "Досвід швидкої та плавної гри в будь-якому сучасному браузері."
+    },
+    "HomeFAQs": {
+      "title": "Часті запитання"
+    },
+    "HomeRelatedVideo": {
+      "title": "Відео гри"
+    },
+    "HomeRecommendation": {
+      "title": "Рекомендації"
+    },
+    "HomeComments": {
+      "title": "Коментарі до гри"
+    },
+    "GamePage": {
+      "title": "Усі ігри",
+      "description": "Усі ігри",
+      "games": "Ігри"
+    }
+  }
+}

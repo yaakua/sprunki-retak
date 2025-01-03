@@ -1,34 +1,41 @@
 [
   {
-    "title": "Sprunki Retake (Sprunki Retake)",
+    "title": "Повернення Спрункі",
     "cover": "/game_screenshot.webp",
     "url": "/",
     "category": "ТОП",
     "visible": true
   },
   {
-    "title": "Sprunki: Skibidi Toilet 2.0 (Sprunki: Skibidi Toilet 2.0)",
+    "title": "Спрункі: туалет Скібіді 2.0",
     "cover": "/games/sprunki-skibidi-toilet-2-0/game_screenshot.webp",
     "url": "/games/sprunki-skibidi-toilet-2-0",
     "category": "",
     "visible": true
   },
   {
-    "title": "Sprunki Remastered (Sprunki Remastered)",
+    "title": "Спрункі: Перевиданий",
     "cover": "/games/sprunki-remastered/game_screenshot.webp",
     "url": "/games/sprunki-remastered",
     "category": "",
     "visible": true
   },
   {
-    "title": "Sprunki Infected (Sprunki Infected)",
+    "title": "Заражені Спрункі",
     "cover": "/games/sprunki-infected/game_screenshot.webp",
     "url": "/games/sprunki-infected",
     "category": "ТОП",
     "visible": true
   },
   {
-    "title": "Sprunked 2.0 (Sprunked 2.0)",
+    "title": "Об'єднаний світ",
+    "cover": "/games/merge-world/game_screenshot.webp",
+    "url": "/games/merge-world",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Спрункі 2.0",
     "cover": "/games/sprunked-2-0/game_screenshot.webp",
     "url": "/games/sprunked-2-0",
     "category": "",

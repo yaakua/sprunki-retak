@@ -10,14 +10,14 @@
     "title": "Sprunki: Skibidi Toilet 2.0",
     "cover": "/games/sprunki-skibidi-toilet-2-0/game_screenshot.webp",
     "url": "/games/sprunki-skibidi-toilet-2-0",
-    "category": "Sprunki: Skibidi Toilet 2.0",
+    "category": "",
     "visible": true
   },
   {
     "title": "Sprunki Remastered",
     "cover": "/games/sprunki-remastered/game_screenshot.webp",
     "url": "/games/sprunki-remastered",
-    "category": "Sprunki Remastered",
+    "category": "",
     "visible": true
   },
   {
@@ -28,10 +28,17 @@
     "visible": true
   },
   {
+    "title": "Merge World ",
+    "cover": "/games/merge-world/game_screenshot.webp",
+    "url": "/games/merge-world",
+    "category": "",
+    "visible": true
+  },
+  {
     "title": "Sprunked 2.0",
     "cover": "/games/sprunked-2-0/game_screenshot.webp",
     "url": "/games/sprunked-2-0",
-    "category": "Sprunked 2.0",
+    "category": "",
     "visible": true
   }
 ]

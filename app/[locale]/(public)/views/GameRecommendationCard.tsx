@@ -38,7 +38,7 @@ export default async function GameRecommendationCard({ locale }: { locale: strin
   }
   
   return (
-    <div className="w-80">
+    <div className="hidden lg:block w-full lg:w-80 px-4">
       <div className="bg-gray-900/50 rounded-lg p-3">
         <div className="grid grid-cols-2 auto-rows-auto gap-2">
         <GameCard groupedGames={groupedGames} />

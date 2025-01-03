@@ -1,0 +1,67 @@
+{
+  "merge-world": {
+    "title": "Merge World (Merge World)",
+    "slogan": "Bentuk Dunia Hidup Anda (Merge World)",
+    "description": "Merge World adalah permainan gabungkan yang luar biasa yang memungkinkan Anda membentuk dunia yang hidup sesuai keinginan Anda. Gabungkan bahan untuk menciptakan struktur yang lebih besar dan perluas wilayah Anda dengan konstruksi yang imajinatif. Peri-peri ramah meminjamkan sihir mereka untuk membantu Anda merancang dan mengembangkan surga Anda sendiri. Bersantailah saat Anda berstrategi, menggabungkan, dan menyaksikan dunia Anda menjadi hidup, selangkah demi selangkah. (Merge World)",
+    "Loading": {
+      "title": "Memuat Merge World..."
+    },
+    "Navbar": {
+      "title": "Navigasi"
+    },
+    "Common": {
+      "createAt": "Buat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Ramah"
+    },
+    "HomeIframe": {
+      "title": "Merge World - Permainan Gabungkan Terakhir",
+      "description": "Selami Merge World, permainan gabungkan yang menenangkan yang didukung HTML5, sempurna untuk gameplay kreatif dan damai. Mainkan tanpa blok dan gratis di browser modern apa pun.",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Merge World",
+      "whatIsTitle": "Apa itu Merge World?",
+      "whatIsDescription": "Merge World adalah permainan gabungkan yang menenangkan yang memungkinkan Anda membentuk dunia yang hidup sesuai keinginan Anda. Gabungkan bahan untuk menciptakan struktur yang lebih besar dan perluas wilayah Anda dengan konstruksi yang imajinatif.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Gunakan mouse untuk memilih dan menggabungkan item.",
+      "howToPlayStep2": "Gabungkan bahan untuk menciptakan struktur yang lebih besar.",
+      "howToPlayStep3": "Perluas wilayah Anda dengan konstruksi imajinatif dan saksikan dunia Anda menjadi hidup.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Gameplay Kreatif",
+      "feature1Description": "Lepaskan kreativitas Anda dengan menggabungkan item untuk membangun dunia unik Anda.",
+      "feature2Title": "Pengalaman Menenangkan",
+      "feature2Description": "Nikmati lingkungan permainan yang damai dan santai.",
+      "feature3Title": "Peri Ramah",
+      "feature3Description": "Dapatkan bantuan magis dari peri-peri ramah untuk meningkatkan konstruksi Anda.",
+      "feature4Title": "Didukung HTML5",
+      "feature4Description": "Rasakan gameplay yang cepat dan lancar di setiap browser modern."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Game"
+    }
+  }
+}

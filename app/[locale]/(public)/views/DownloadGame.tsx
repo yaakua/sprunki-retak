@@ -25,6 +25,7 @@ export default  function DownloadGame({pageName,siteConfig}:{pageName:string|nul
     downloadUrls.android && { key: 'android', Icon: FaAndroid, url: downloadUrls.android, label: 'Android' },
     downloadUrls.pc && { key: 'pc', Icon: FaWindows, url: downloadUrls.pc, label: 'Windows' },
     downloadUrls.steam && { key: 'steam', Icon: FaSteam, url: downloadUrls.steam, label: 'Steam' },
+    downloadUrls.mac && { key: 'mac', Icon: FaApple, url: downloadUrls.mac, label: 'macOS' },
   ].filter(Boolean) as Array<{
     key: string;
     Icon: React.ComponentType<{ className?: string }>;

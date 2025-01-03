@@ -1,0 +1,67 @@
+{
+  "merge-world": {
+    "title": "Merge World",
+    "slogan": "Dale forma a tu mundo vibrante",
+    "description": "Merge World es un asombroso juego de fusión que te permite dar forma a un mundo vibrante a tu gusto. Combina materiales para crear estructuras más grandes y expande tu dominio con construcciones imaginativas. Las hadas amigables prestan su magia para ayudarte a diseñar y desarrollar tu propio paraíso. Relájate mientras estrategias, fusionas y ves cómo tu mundo cobra vida, paso a paso.(Merge World )",
+    "Loading": {
+      "title": "Cargando Merge World..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear en",
+      "guide": "Guía",
+      "privacyPolicy": "Política de privacidad",
+      "termsOfServices": "Términos de servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces útiles"
+    },
+    "HomeIframe": {
+      "title": "Merge World: El juego de fusión definitivo",
+      "description": "Sumérgete en Merge World, un juego de fusión relajante impulsado por HTML5, perfecto para un juego creativo y pacífico. Juega sin restricciones y gratis en cualquier navegador moderno.(Merge World )",
+      "iframeTitle": "Vista previa del juego",
+      "fullscreenButton": "Pantalla completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Merge World",
+      "whatIsTitle": "¿Qué es Merge World?",
+      "whatIsDescription": "Merge World es un juego de fusión relajante que te permite dar forma a un mundo vibrante a tu gusto. Combina materiales para crear estructuras más grandes y expande tu dominio con construcciones imaginativas.(Merge World )",
+      "howToPlayTitle": "Cómo jugar",
+      "howToPlayStep1": "Usa el ratón para seleccionar y fusionar elementos.",
+      "howToPlayStep2": "Combina materiales para crear estructuras más grandes.",
+      "howToPlayStep3": "Expande tu dominio con construcciones imaginativas y observa cómo tu mundo cobra vida.",
+      "keyFeaturesTitle": "Características principales",
+      "feature1Title": "Jugabilidad creativa",
+      "feature1Description": "Desata tu creatividad fusionando elementos para construir tu mundo único.",
+      "feature2Title": "Experiencia relajante",
+      "feature2Description": "Disfruta de un ambiente de juego tranquilo y relajante.",
+      "feature3Title": "Hadas amigables",
+      "feature3Description": "Obtén asistencia mágica de hadas amigables para mejorar tus construcciones.",
+      "feature4Title": "Impulsado por HTML5",
+      "feature4Description": "Experimenta una jugabilidad rápida y fluida en cualquier navegador moderno."
+    },
+    "HomeFAQs": {
+      "title": "Preguntas frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del juego"
+    },
+    "GamePage": {
+      "title": "Todos los juegos",
+      "description": "Todos los juegos",
+      "games": "Juegos"
+    }
+  }
+}

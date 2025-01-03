@@ -8,7 +8,7 @@
     "fontColor": null,
     "backgroundColor": null
   },
-  "gameType": "iframe",
+  "gameType": "download",
   "gameIframeUrl": "https://iframegame.com/embed/sprunki-remastered-2/index.html",
   "gameRedirectUrl": "",
   "bgType": "iframe",
@@ -17,11 +17,11 @@
   "gameDownload": {
     "showDownloadButton": true,
     "downloadUrls": {
-      "ios": "",
-      "android": "",
-      "pc": "",
-      "steam": "",
-      "mac": ""
+      "ios": "1",
+      "android": "1",
+      "pc": "1",
+      "steam": "1",
+      "mac": "1"
     }
   },
   "isShowFAQs": true,
@@ -116,5 +116,6 @@
       "url": "https://spunkygame.online"
     }
   ],
-  "adsenseClientId": null
+  "adsenseClientId": "",
+  "customizeFeatures": false
 }

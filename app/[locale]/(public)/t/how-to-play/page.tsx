@@ -6,6 +6,8 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import fs from 'fs';
 import path from 'path';
+import { Link } from '@/lib/i18n/navigation';
+import { getTranslations } from 'next-intl/server';
 const components: any = {
   img: ({src, alt}: { src: string, alt: string }) => {
       return <img src={src} alt={alt} className="object-cover"/>
@@ -59,15 +61,44 @@ export default async function Page({params}: {params: Promise<{locale: string}>}
     // 直接导入 MDX 文件的原始内容
     let Content;
     try {
+     
       Content = (await import(`!!raw-loader!./${locale}.mdx`)).default;
     } catch (error) {
-      Content = (await import(`!!raw-loader!./en.mdx`)).default;
+      try{
+        Content = (await import(`!!raw-loader!./en.mdx`)).default;
+      }catch (error) {
+        console.log(error);
+      }
     }
-    const {content } = matter(Content);
-    
+    const {content, data: frontMatter } = matter(Content);
+    const t = await getTranslations({ locale });
     return <>
+      <div className="max-w-3xl mx-auto py-10 px-4 min-h-[65vh]">
+            {/* 添加面包屑导航 */}
+            <nav className="text-sm mb-8" aria-label="Breadcrumb">
+                <ol className="flex space-x-2">
+                  <li>
+                    <Link href="/" className="text-gray-500 hover:text-gray-700">
+                      {t('Common.home')}
+                    </Link>
+                  </li>
+                  <li>/</li>
+                  <li>
+                    <Link href="/t" className="text-gray-500 hover:text-gray-700">
+                      {t('Common.articleList')}
+                    </Link>
+                  </li>
+                  <li>/</li>
+                  <li className="text-gray-700" aria-current="page">
+                    {frontMatter.title}
+                  </li>
+                </ol>
+              </nav>
+
+      </div>
         <article
-          className="prose prose-sm md:prose-base lg:prose-lg  rounded-2xl max-w-4xl mx-auto py-10 px-4">
+          className="prose prose-sm md:prose-base lg:prose-lg  rounded-2xl max-w-3xl mx-auto py-10 px-4">
+          
           <MdxArticle components={components} source={content} className="max-w-full"/>
         </article>
     </>

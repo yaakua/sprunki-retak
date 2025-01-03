@@ -1,0 +1,67 @@
+{
+  "merge-world": {
+    "title": "Merge World (Merge World)",
+    "slogan": "Canlı Dünyanızı Şekillendirin",
+    "description": "Merge World, zevkinize göre canlı bir dünya şekillendirmenize olanak tanıyan harika bir birleştirme oyunudur. Malzemeleri birleştirerek daha büyük yapılar oluşturun ve hayal gücünüzle sınırlarınızı genişletin. Dost canlısı periler, kendi cennetinizi tasarlamanıza ve geliştirinize yardımcı olmak için büyülerini kullanır. Strateji kurarken, birleştirirken ve dünyanızın adım adım canlanırken rahatlayın.",
+    "Loading": {
+      "title": "Merge World Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar"
+    },
+    "HomeIframe": {
+      "title": "Merge World - En İyi Birleştirme Oyunu",
+      "description": "HTML5 teknolojisiyle desteklenen, yaratıcı ve huzur verici oyun deneyimi için Merge World'e dalın. Herhangi bir modern tarayıcıda engellemeden ve ücretsiz olarak oynayın.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Merge World (Merge World)",
+      "whatIsTitle": "Merge World Nedir?",
+      "whatIsDescription": "Merge World, zevkinize göre canlı bir dünya şekillendirmenize olanak tanıyan huzur verici bir birleştirme oyunudur. Malzemeleri birleştirerek daha büyük yapılar oluşturun ve hayal gücünüzle sınırlarınızı genişletin.",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Öğeleri seçmek ve birleştirmek için farenizi kullanın.",
+      "howToPlayStep2": "Daha büyük yapılar oluşturmak için malzemeleri birleştirin.",
+      "howToPlayStep3": "Hayal gücünüzle sınırlarınızı genişletin ve dünyanızın canlanmasını izleyin.",
+      "keyFeaturesTitle": "Ana Özellikler",
+      "feature1Title": "Yaratıcı Oyun",
+      "feature1Description": "Eşsiz dünyanızı oluşturmak için öğeleri birleştirerek yaratıcılığınızı serbest bırakın.",
+      "feature2Title": "Rahatlatıcı Deneyim",
+      "feature2Description": "Huzurlu ve rahatlatıcı bir oyun ortamından zevk alın.",
+      "feature3Title": "Dost Canlı Periler",
+      "feature3Description": "Yapılarınızı geliştirmek için dost canlısı perilerden sihirli yardım alın.",
+      "feature4Title": "HTML5 Destekli",
+      "feature4Description": "Herhangi bir modern tarayıcıda hızlı ve sorunsuz bir oyun deneyimi yaşayın."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiye Eder"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Merge World ",
+  "pagePath": "/games/merge-world",
+  "pageName": "merge-world",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://games.crazygames.com/en_US/merge-world/index.html?v=1.316",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "https://www.baidu.com",
+      "android": "https://www.baidu.com",
+      "pc": "https://www.baidu.com",
+      "steam": "https://www.baidu.com",
+      "mac": "https://www.baidu.com"
+    }
+  },
+  "isShowFAQs": false,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [],
+  "isShowComments": false,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [],
+  "comments": [
+    {
+      "author": "PixelPirate",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/PixelPirate.png",
+      "content": "Merge World is the chill vibe I needed! Combining stuff to build my own paradise? Yes, please! #RelaxingGameplay"
+    },
+    {
+      "author": "GameGuru99",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/GameGuru99.png",
+      "content": "Just spent hours on Merge World and I'm not even mad. It's so addictive and peaceful at the same time. Love it!"
+    },
+    {
+      "author": "QuestQueen",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/QuestQueen.png",
+      "content": "Merge World is my new obsession. The fairies are adorable and the gameplay is so satisfying. Can't stop playing!"
+    },
+    {
+      "author": "StrategySage",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/StrategySage.png",
+      "content": "Finally, a merge game that's both strategic and relaxing. Merge World is a masterpiece. Highly recommend!"
+    },
+    {
+      "author": "FantasyFanatic",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/FantasyFanatic.png",
+      "content": "Merge World is like a dream come true for fantasy lovers. Building and merging in a magical world? Absolutely enchanting!"
+    },
+    {
+      "author": "CasualKing",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/CasualKing.png",
+      "content": "If you're into casual games, Merge World is a must-try. It's easy to get into but hard to put down. So much fun!"
+    },
+    {
+      "author": "CreativeCritic",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/CreativeCritic.png",
+      "content": "Merge World sparks creativity like no other game. Designing my own world is so rewarding. A true gem!"
+    },
+    {
+      "author": "PeacefulPlayer",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/PeacefulPlayer.png",
+      "content": "Looking for a game to unwind? Merge World is it. The peaceful gameplay and beautiful visuals are just perfect."
+    },
+    {
+      "author": "MergeMaster",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/MergeMaster.png",
+      "content": "Merge World takes merging to the next level. The depth of gameplay and the joy of creating something big is unmatched."
+    },
+    {
+      "author": "HappyGamer",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/HappyGamer.png",
+      "content": "Merge World makes me so happy! It's the perfect blend of strategy, creativity, and relaxation. A must-play for everyone!"
+    }
+  ],
+  "isShowRecommendation": false,
+  "isShowRightGames": true,
+  "slogan": "",
+  "domain": "",
+  "icon": "",
+  "appleIcon": "",
+  "gaId": "",
+  "clarityId": "",
+  "plausible": "",
+  "friendLinks": [],
+  "adsenseClientId": "",
+  "customizeFeatures": true,
+  "createdTime": "2024-12-30 18:19:10"
+}

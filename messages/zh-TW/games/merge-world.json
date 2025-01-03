@@ -1,0 +1,67 @@
+{
+  "merge-world": {
+    "title": "合併世界(Merge World)",
+    "slogan": "打造您充滿活力的世界",
+    "description": "合併世界是一款很棒的合併遊戲，讓您可以根據自己的喜好塑造一個充滿活力的世界。結合材料創造更大的結構，並透過想像力的建築來擴展您的領域。友善的小精靈會施予魔法，幫助您設計和開發您自己的天堂。放鬆身心，策略性地合併，並逐步觀看您的世界活過來。",
+    "Loading": {
+      "title": "正在載入合併世界..."
+    },
+    "Navbar": {
+      "title": "導航"
+    },
+    "Common": {
+      "createAt": "建立於",
+      "guide": "指南",
+      "privacyPolicy": "隱私權政策",
+      "termsOfServices": "服務條款",
+      "text": "內容",
+      "help": "說明",
+      "friendlyLinks": "友情連結"
+    },
+    "HomeIframe": {
+      "title": "合併世界 – 終極合併遊戲",
+      "description": "沉浸在合併世界中，這款令人放鬆的HTML5合併遊戲，非常適合創意且和平的遊戲體驗。在任何現代瀏覽器上暢玩，不受限制且免費。",
+      "iframeTitle": "遊戲預覽",
+      "fullscreenButton": "全螢幕",
+      "shareButton": "分享",
+      "urlCopied": "網址已複製到剪貼簿！",
+      "downloadGame": "下載遊戲",
+      "playGame": "玩遊戲"
+    },
+    "HomeFeatures": {
+      "gameTitle": "合併世界(Merge World)",
+      "whatIsTitle": "什麼是合併世界？",
+      "whatIsDescription": "合併世界是一款令人放鬆的合併遊戲，讓您可以根據自己的喜好塑造一個充滿活力的世界。結合材料來創造更大的結構，並透過想像力的建築來擴展您的領域。",
+      "howToPlayTitle": "如何遊玩",
+      "howToPlayStep1": "使用滑鼠選取並合併項目。",
+      "howToPlayStep2": "結合材料打造更大的結構。",
+      "howToPlayStep3": "透過想像力的建造擴展您的領域，並觀看您的世界活過來。",
+      "keyFeaturesTitle": "主要特徵",
+      "feature1Title": "創意遊戲玩法",
+      "feature1Description": "透過合併物品來發揮您的創造力，建立您獨特的遊戲世界。",
+      "feature2Title": "令人放鬆的體驗",
+      "feature2Description": "享受寧靜且放鬆的遊戲環境。",
+      "feature3Title": "友善的小精靈",
+      "feature3Description": "從友善的小精靈那裡獲得魔法協助來強化您的建築。",
+      "feature4Title": "HTML5 動力",
+      "feature4Description": "在任何現代瀏覽器上體驗快速且流暢的遊戲玩法。"
+    },
+    "HomeFAQs": {
+      "title": "常見問題"
+    },
+    "HomeRelatedVideo": {
+      "title": "遊戲影片"
+    },
+    "HomeRecommendation": {
+      "title": "推薦"
+    },
+    "HomeComments": {
+      "title": "遊戲評論"
+    },
+    "GamePage": {
+      "title": "所有遊戲",
+      "description": "所有遊戲",
+      "games": "遊戲"
+    }
+  }
+}

@@ -15,7 +15,9 @@
     "termsOfServices": "Terms of Services",
     "text": "Content",
     "help": "Help",
-    "friendlyLinks": "Friendly Links"
+    "friendlyLinks": "Friendly Links",
+    "articleList": "Article List",
+    "home": "Home"
   },
   "HomeIframe": {
     "title": "",

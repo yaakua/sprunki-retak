@@ -9,14 +9,16 @@ export default function LazyIframe({
   pageName,
   description,
   gameImage,
-  playGameButtonText
+  playGameButtonText,
+  type = 'iframe'
 }: { 
   gameIframeUrl: string, 
   title: string,
   pageName: string|null,
   description?: string,
   gameImage?: string,
-  playGameButtonText?: string
+  playGameButtonText?: string,
+  type?: 'iframe' | 'download'
 }) {
   const [isLoaded, setIsLoaded] = useState(false);
 
@@ -71,7 +73,14 @@ export default function LazyIframe({
               )}
 
               <button
-                onClick={() => setIsLoaded(true)}
+                onClick={() => {
+                  if (type === 'download') {
+                    // 处理下载逻辑
+                    window.location.href = "#download-game" ;
+                  } else {
+                    setIsLoaded(true);
+                  }
+                }}
                 className="group relative flex items-center gap-2 md:gap-3 bg-yellow-500 hover:bg-yellow-400 text-black px-6 md:px-8 py-3 md:py-4 rounded-full font-bold text-base md:text-lg transition-all duration-300 transform hover:scale-105 hover:shadow-[0_0_40px_rgba(234,179,8,0.4)] mx-auto md:mx-0"
               >
                 <div className="absolute inset-0 rounded-full bg-gradient-to-r from-yellow-400 to-yellow-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
@@ -88,11 +97,16 @@ export default function LazyIframe({
                       strokeLinecap="round" 
                       strokeLinejoin="round" 
                       strokeWidth={2} 
-                      d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" 
+                      d={type === 'download' ? 
+                        "M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" : // 下载图标
+                        "M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" // 播放图标
+                      } 
                     />
                   </svg>
                 </span>
-                <span className="relative uppercase tracking-wider text-sm md:text-base">{playGameButtonText || 'Play Game'}</span>
+                <span className="relative uppercase tracking-wider text-sm md:text-base">
+                  {playGameButtonText || (type === 'download' ? 'Download' : 'Play Game')}
+                </span>
               </button>
             </div>
 
@@ -129,13 +143,13 @@ export default function LazyIframe({
   return (
     <div className={containerClassName}>
       <iframe
-        title={title}
-        src={gameIframeUrl}
-        allow="accelerometer; gyroscope; autoplay; payment; fullscreen; microphone; clipboard-read; clipboard-write"
-        sandbox="allow-forms allow-modals allow-orientation-lock allow-pointer-lock allow-popups allow-presentation allow-scripts allow-same-origin allow-downloads allow-popups-to-escape-sandbox"
-        className="w-full h-full"
-        allowFullScreen
-      />
+          title={title}
+          src={gameIframeUrl}
+          allow="accelerometer; gyroscope; autoplay; payment; fullscreen; microphone; clipboard-read; clipboard-write"
+          sandbox="allow-forms allow-modals allow-orientation-lock allow-pointer-lock allow-popups allow-presentation allow-scripts allow-same-origin allow-downloads allow-popups-to-escape-sandbox"
+          className="w-full h-full"
+          allowFullScreen
+        />
       <IframeActions pageName={pageName} />
     </div>
   );

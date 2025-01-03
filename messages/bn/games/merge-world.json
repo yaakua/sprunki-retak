@@ -1,0 +1,67 @@
+{
+  "merge-world": {
+    "title": "মার্জ ওয়ার্ল্ড (Merge World)",
+    "slogan": "আপনার উজ্জ্বল বিশ্ব গঠন করুন (Shape Your Vibrant World)",
+    "description": "মার্জ ওয়ার্ল্ড একটি অসাধারণ মার্জ গেম যা আপনাকে আপনার পছন্দ অনুযায়ী একটি উজ্জ্বল বিশ্ব গঠন করতে দেয়। বৃহত্তর কাঠামো তৈরি করতে উপাদানগুলো একত্রিত করুন এবং কল্পনাপ্রসূত নির্মাণের মাধ্যমে আপনার রাজ্য প্রসারিত করুন। বন্ধুত্বপূর্ণ পরীরাই আপনাকে আপনার নিজস্ব স্বর্গ তৈরি ও বিকাশ করতে সাহায্য করতে তাদের জাদু ব্যবহার করবে। ধৈর্য ধরুন, কৌশল অবলম্বন করুন, মার্জ করুন এবং এক ধাপে এক ধাপে আপনার বিশ্বের জীবন খেলা দেখুন।(Merge World)",
+    "Loading": {
+      "title": "লোডিং মার্জ ওয়ার্ল্ড... (Loading Merge World...)"
+    },
+    "Navbar": {
+      "title": "নেভিগেশন (Nav)"
+    },
+    "Common": {
+      "createAt": "তৈরি করুন (Create At)",
+      "guide": "নির্দেশিকা (Guide)",
+      "privacyPolicy": "গোপনীয়তা নীতি (Privacy Policy)",
+      "termsOfServices": "সেবা শর্তাবলী (Terms of Services)",
+      "text": "বিষয়বস্তু (Content)",
+      "help": "সাহায্য (Help)",
+      "friendlyLinks": "বন্ধুত্বপূর্ণ লিঙ্ক (Friendly Links)"
+    },
+    "HomeIframe": {
+      "title": "মার্জ ওয়ার্ল্ড - চূড়ান্ত মার্জ গেম (Merge World - The Ultimate Merge Game)",
+      "description": "এইচটিএমএল৫ দ্বারা চালিত একটি শান্ত মার্জ গেম, মার্জ ওয়ার্ল্ডে নিমজ্জিত হন, যা সৃজনশীল এবং শান্তিপূর্ণ গেমপ্লেয়ের জন্য নিখুঁত। যেকোনো আধুনিক ব্রাউজারে অবরুদ্ধ ছাড়াই এবং বিনামূল্যে খেলুন। (Merge World)",
+      "iframeTitle": "খেলা প্রিভিউ (Game Preview)",
+      "fullscreenButton": "ফুলস্ক্রিন (Fullscreen)",
+      "shareButton": "শেয়ার করুন (Share)",
+      "urlCopied": "ইউআরএল ক্ল্যিপবোর্ডে কপি করা হয়েছে! (URL copied to clipboard!)",
+      "downloadGame": "ডাউনলোড গেম (Download Game)",
+      "playGame": "খেলুন (Play Game)"
+    },
+    "HomeFeatures": {
+      "gameTitle": "মার্জ ওয়ার্ল্ড (Merge World)",
+      "whatIsTitle": "মার্জ ওয়ার্ল্ড কি? (What is Merge World?)",
+      "whatIsDescription": "মার্জ ওয়ার্ল্ড হলো একটি শান্ত মার্জ গেম যা আপনাকে আপনার পছন্দ অনুযায়ী একটি উজ্জ্বল বিশ্ব গঠন করতে দেয়। বৃহত্তর কাঠামো তৈরি করতে উপাদান একত্রিত করুন এবং কল্পনাপ্রসূত নির্মাণের মাধ্যমে আপনার রাজ্য প্রসারিত করুন। (Merge World)",
+      "howToPlayTitle": "কিভাবে খেলবেন (How to Play)",
+      "howToPlayStep1": "আইটেম নির্বাচন এবং মার্জ করার জন্য মাউস ব্যবহার করুন।",
+      "howToPlayStep2": "বড় কাঠামো তৈরি করতে উপাদান একত্রিত করুন।",
+      "howToPlayStep3": "আপনার কল্পনাশক্তি ব্যবহার করে আপনার রাজ্য প্রসারিত করুন এবং আপনার বিশ্বের জীবন খেলা দেখুন।",
+      "keyFeaturesTitle": "মূল বৈশিষ্ট্য (Key Features)",
+      "feature1Title": "সৃজনশীল গেমপ্লে (Creative Gameplay)",
+      "feature1Description": "আপনার অনন্য বিশ্ব তৈরি করার জন্য আইটেম মার্জ করে আপনার সৃজনশীলতা প্রকাশ করুন।",
+      "feature2Title": "শান্তিপূর্ণ অভিজ্ঞতা (Soothing Experience)",
+      "feature2Description": "একটি শান্ত ও আরামদায়ক গেম পরিবেশ উপভোগ করুন।",
+      "feature3Title": "বন্ধুত্বপূর্ণ পরী (Friendly Fairies)",
+      "feature3Description": "আপনার নির্মাণ উন্নত করার জন্য বন্ধুত্বপূর্ণ পরীদের কাছ থেকে জাদুী সাহায্য পান।",
+      "feature4Title": "এইচটিএমএল৫ চালিত (HTML5 Powered)",
+      "feature4Description": "যেকোনো আধুনিক ব্রাউজারে দ্রুত এবং মসৃণ গেমপ্লে অনুভব করুন।"
+    },
+    "HomeFAQs": {
+      "title": "প্রায়শ জিজ্ঞাস্য প্রশ্ন (FAQs)"
+    },
+    "HomeRelatedVideo": {
+      "title": "গেম ভিডিও (Game Video)"
+    },
+    "HomeRecommendation": {
+      "title": "প্রস্তাবিত (Recommends)"
+    },
+    "HomeComments": {
+      "title": "খেলার মন্তব্য (Play Comments)"
+    },
+    "GamePage": {
+      "title": "সকল গেম (All Games)",
+      "description": "সকল গেম (All Games)",
+      "games": "গেম (Games)"
+    }
+  }
+}
