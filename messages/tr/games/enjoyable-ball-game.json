@@ -1,0 +1,69 @@
+{
+  "enjoyable-ball-game": {
+    "title": "Eğlenceli Top Oyunu",
+    "slogan": "Eğlenceli Top Oyunu ile eğlenceye dalın!",
+    "description": "Bu, CrazyGames'de ücretsiz olarak oynayabileceğiniz eğlenceli bir top oyunudur. Eğlenceli Top Oyunu engellenmemiş durumda. Bu sayfada başlamanıza yardımcı olacak detaylı bir kontroller bölümü yer almaktadır. Böylece Eğlenceli Top Oyunu'nu nasıl oynanacağını görmek kolay olacaktır. Oyun, çoğu tarayıcıda çalışmak üzere HTML5 kullanmaktadır. Bu oyunu beğendiyseniz, diğer top oyunlarımızı veya <a href='https://www.crazygames.com/game/mini-golf-club' target='_blank'>Mini Golf Kulübü</a> ve <a href='https://www.crazygames.com/game/soccer-legends-2021' target='_blank'>Futbol Efsaneleri 2021</a> oyunlarımızı da oynayabilirsiniz.",
+    "Loading": {
+      "title": "Eğlenceli Top Oyunu Yükleniyor..."
+    },
+    "Navbar": {
+      "title": "Gezinti Çubuğu"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Yönerge",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Ana Sayfa"
+    },
+    "HomeIframe": {
+      "title": "Eğlenceli Top Oyunu",
+      "description": "Şimdi Eğlenceli Top Oyunu oyna!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Eğlenceli Top Oyunu",
+      "whatIsTitle": "Eğlenceli Top Oyunu Nedir?",
+      "whatIsDescription": "Eğlenceli Top Oyunu, çeşitli zorluklardan geçerek bir topu kontrol ettiğiniz heyecan verici ve eğlenceli bir oyundur. Eğlenceli ve ilgi çekici bir deneyim arayan oyuncular için mükemmeldir.(enjoyable ball game)",
+      "howToPlayTitle": "Nasıl Oynanır?",
+      "howToPlayStep1": "Topu hareket ettirmek için yön tuşlarını kullanın.",
+      "howToPlayStep2": "Engellerden kaçının ve puan toplayın.",
+      "howToPlayStep3": "Her seviyenin sonuna ulaşarak ilerleyin.",
+      "keyFeaturesTitle": "Önemli Özellikler",
+      "feature1Title": "Cazibeli Oyun",
+      "feature1Description": "Eğlenceli Top Oyunu, etkileşimli ve zorlu oyun tarzı ile saatlerce eğlence sunar.",
+      "feature2Title": "Çoklu Seviyeler",
+      "feature2Description": "Çoklu seviyeleriyle, Eğlenceli Top Oyunu saatlerce size eğlence sunar.",
+      "feature3Title": "Kolay Kontroller",
+      "feature3Description": "Basit ve sezgisel kontroller, Eğlenceli Top Oyunu'nu herkes için kolaylaştırır.",
+      "feature4Title": "Yüksek Kaliteli Grafikler",
+      "feature4Description": "Eğlenceli Top Oyunu, oyun deneyiminizi artıran yüksek kaliteli grafiklere sahiptir."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Tavsiyeler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    }
+  }
+}

@@ -5,9 +5,10 @@ import { getTranslations } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { Metadata } from 'next';
 import { siteConfig } from '@/lib/config/site';
+import Image from 'next/image';
 const components: any = {
   img: ({ src, alt }: { src: string; alt: string }) => {
-    return <img src={src} alt={alt} className="object-cover" />;
+    return <Image src={src} alt={alt} className="object-cover" />;
   },
 };
 

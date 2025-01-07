@@ -6,7 +6,7 @@ import fs from 'fs';
 import path from 'path';
 import Link from 'next/link';
 import { getPathnameWithLocale } from '@/lib/i18n/navigation';
-
+import Image from 'next/image';
 type Props = {
   params: Promise<{ locale: string }>;
 };
@@ -15,6 +15,8 @@ type GameInfo = {
   name: string;
   pagePath: string;
   directory: string;
+  screenshotUrl: string;
+  createdTime: string;
 };
 
 export function generateStaticParams() {
@@ -69,7 +71,9 @@ async function getGames(locale: string) {
           games.push({
             name: gameName,
             pagePath: config.pagePath,
-            directory: entry.name
+            directory: entry.name,
+            screenshotUrl: config.screenshotUrl || `/games/${entry.name}/game_screenshot.webp`,
+            createdTime: config.createdTime || new Date().toISOString(),
           });
         }
       } catch (error) {
@@ -77,6 +81,13 @@ async function getGames(locale: string) {
       }
     }
   }
+  
+  // 按创建时间倒序排序
+  games.sort((a, b) => {
+    const dateA = new Date(a.createdTime).getTime();
+    const dateB = new Date(b.createdTime).getTime();
+    return dateB - dateA;
+  });
   
   return games;
 }
@@ -107,8 +118,8 @@ export default async function GamesPage({ params }: Props) {
               className="group block bg-gray-900 rounded-lg overflow-hidden hover:ring-2 hover:ring-primary transition-all duration-300"
             >
               <div className="aspect-video relative">
-                <img
-                  src={`/games/${game.directory}/game_screenshot.webp`}
+                <Image
+                  src={game.screenshotUrl}
                   alt={game.name}
                   className="w-full h-full object-cover absolute inset-0"
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"

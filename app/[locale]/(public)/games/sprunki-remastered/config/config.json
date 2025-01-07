@@ -11,8 +11,8 @@
   "gameType": "download",
   "gameIframeUrl": "https://iframegame.com/embed/sprunki-remastered-2/index.html",
   "gameRedirectUrl": "",
-  "bgType": "iframe",
-  "bgImage": "",
+  "bgType": "image",
+  "bgImage": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-01-07/images/1736235010690-eapfly.webp",
   "bgVideo": "",
   "gameDownload": {
     "showDownloadButton": true,
@@ -117,5 +117,770 @@
     }
   ],
   "adsenseClientId": "",
-  "customizeFeatures": false
+  "customizeFeatures": false,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-01-07/images/1736234827168-l03ang.png",
+  "page_path": "/games/sprunki-remastered",
+  "override_page_path": false,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "faqs": {
+    "tr": [
+      {
+        "question": "Sprunki Remastered'in orijinal oyunundan neyle farklıdır?",
+        "answer": "Sprunki Remastered baştan yeniden yapılmıştır. Sadece ona özel kristal berrak 32 - bit ses, retro artırılmış görüntüler, 8K tanımlı klasik sesler, sıfır gecikmeli cevap süresi gibi özellikleri vardır. Ayrıca modernize edilmiş klasik bir arayüzü, modern hızla orijinal iş akışını, HD'de kalıtsal önayarları ve modern dayanıklılığı vardır, aynı zamanda orijinalin otantik hissini koruyor."
+      },
+      {
+        "question": "Sprunki Remastered yeni başlayanlar için uygun mudur?",
+        "answer": "Evet, Sprunki Remastered yeni başlayanlara uygundur. Daha önceye göre daha kolay giriş yapabiliyor, ancak oyuncuların orijinal oyundan hatırladığı tüm derinliği koruyor. Yeni oyuncular birçok zorlukla karşılaşmadan oyunun tadını çıkarabilirler ve ilerledikçe daha karmaşık yönlerini keşfetme fırsatına da sahipler."
+      },
+      {
+        "question": "Orijinal Sprunki'deki önceki ilerleme Sprunki Remastered'e aktarılacak mı?",
+        "answer": "Oyun açıklaması ilerlemenin aktarılmasıyla ilgili olarak özel olarak belirtmemektedir. Ancak, Sprunki Remastered'in eski projelerinizi sevdiğini belirtiyor. Yani, ilerlemenin transferi konusunda emin olamadığımız halde, orijinal Sprunki içindeki eski yaratımlarınızın veya çalışmalarınızın Sprunki Remastered ile bazı şekilde uyumlu olacağına dair görünmektedir."
+      },
+      {
+        "question": "Sprunki Remastered'in sistem gereksinimleri nelerdir?",
+        "answer": "Oyun açıklaması spesifik sistem gereksinimlerini sağlamıyor. Ancak 32 - bit ses, 8K ses tanımı ve artırılmış görüntüler gibi özellikleri göz önüne alındığında, oyunun özelliklerinde tarif edilen gibi GPU'nun zorlanmadan, sorunsuz çalışması için yeterli RAM'e, iyi bir işlemciye ve nispeten modern bir bilgisayara ihtiyacı olasıdır."
+      },
+      {
+        "question": "Sprunki Remastered'de hala eski kontrolleri kullanabilir miyim?",
+        "answer": "Sprunki Remastered orijinal iş akışını koruduğu için, eski kontrollerin hala kullanılabilir veya en azından benzer bir düzenine sahip olması muhtemeldir. Ancak, spesifik bilgi olmamasından ötürü, yüzde yüz emin olamadık. Ancak otantik hissi korumayı amaçladığına göre, eski kontrol şemaları bazı biçimlerde dahil edilmiş olabilir."
+      },
+      {
+        "question": "Sprunki Remastered'de topluluk ne rolü oynar?",
+        "answer": "Sprunki Remastered topluluğu ilk gün enerjisini geri getiriyor. Eski oyuncular ve yeni oyuncular karışılıyor. Hepsi sevdiği klasik araçları kullanarak harika şeyler yaratıyorlar, bu da oyunun ruhunu canlandırmaya ve devam eden popülaritesine ve gelişimine katkıda bulunuyor."
+      },
+      {
+        "question": "Sprunki Remastered için 'Köklerine Dön, Ama Bunu EFSANE YAP' sloganının anlamı ne?",
+        "answer": "Bu, Sprunki Remastered'in oyunun orijinal kavramına ve hissine dönmesi anlamına gelir. Orijinali özel kılan klasik motor, sesler ve arayüz gibi öğeleri alıyor. Ama daha sonra daha iyi grafikler, daha yüksek kaliteli ses ve gelişmiş dayanıklılık gibi modern teknolojiyle onları artırıyor, böylece daha muhteşem ve efsane bir oyun deneyimi yaratıyor."
+      },
+      {
+        "question": "Görsel ve ses artırımlarının yanı sıra Sprunki Remastered'de başka yeni özellikler var mı?",
+        "answer": "Oyun, modernize edilmiş arayüz, modern hızla orijinal iş akışı ve HD'de kalıtsal önayarları yeni özelliklerinin parçası olarak belirtiyor. Ayrıca, orijinaline kıyasla yeni bir eklenti olarak düşünülebilir olan sıfır gecikmeli cevap süresi vardır. Bu özellikler sadece estetiği değil, genel oyun oynama deneyimini de iyileştiriyor."
+      },
+      {
+        "question": "Sprunki Remastered'i bir konsolda oynayabilir miyim?",
+        "answer": "Oyun açıklaması konsol uyumluluğunu belirtmemektedir. Yüksek kaliteli ses ve görüntüler gibi özelliklerdeki odaklanma, daha çok PC oyunculuğuyla ilişkili olduğundan, Sprunki Remastered'in şu anda sadece PC oyununun olasıdır. Ancak resmi bir onay olmamasından ötürü, emin olamadık."
+      },
+      {
+        "question": "Eski bir oyuncuysam Sprunki Remastered'den en iyi şekilde nasıl yararlanabilirim?",
+        "answer": "Eski bir oyuncuysanız, klasik iş akışına güvenebilir ve o efsane kombinasyonları yeniden keşfedebilirsiniz. Basit ve temiz tutun, çünkü bazen eski yollar Sprunki Remastered'de en iyi yollardır. Orijinal oyunla ilgili öncedenki deneyiminizi kullanarak, hızlıca remastered versiyona uyum sağlayabilir ve harika şeyler yaratabilirsiniz."
+      }
+    ],
+    "bn": [
+      {
+        "question": "এরাই করে স্প্রাঙ্কি রিমাস্টারড (Sprunki Remastered) আসল গেমের থেকে আলাদা?",
+        "answer": "স্প্রাঙ্কি রিমাস্টারড নতুন করে নির্মিত হয়েছে। এটিতে স্বতন্ত্র ক্রিস্টাল-স্পষ্ট 32-বিট অডিও, রেট্রো-বাড়ানো ভিজ্যুয়াল, 8K সংজ্ঞায় ক্লাসিক সাউন্ড, শূন্য-লেটেন্সি প্রতিক্রিয়া সময় ইত্যাদি বৈশিষ্ট্য রয়েছে। এটিতে একটি আধুনিকায়িত ক্লাসিক ইন্টারফেস, আধুনিক গতিতে আসল কাজপ্রণালী, HD-তে লেগেসি প্রিসেট এবং আধুনিক স্থিতিশীলতাও রয়েছে এবং এখনও আসলের সত্যিকারের অনুভূতি বজায় রাখে।"
+      },
+      {
+        "question": "স্প্রাঙ্কি রিমাস্টারড নবীদের জন্য উপযোগী?",
+        "answer": "হ্যাঁ, স্প্রাঙ্কি রিমাস্টারড নবীদের জন্য বানানো হয়েছে। এটিতে আগের কোনো ক্ষেত্রেই সহজে ঢুকতে পাওয়া যায় কিন্তু এখনও সেই সমস্ত গভীরতা রয়েছে যা খেলোয়াড়রা আসলে মনে করে থাকেন। সুতরাং নতুন খেলোয়াড় অত্যন্ত কठিনতা ছাড়াই গেমটি উপভোগ করতে শুরু করতে পারে এবং সেইসাথে তারা অগ্রগতির সাথে সাথে আরো জটিল ক্ষেত্রগুলো অন্বেষণ করার সুযোগও পাবে।"
+      },
+      {
+        "question": "আমার আগের স্প্রাঙ্কি (Sprunki) এর অগ্রগতি স্প্রাঙ্কি রিমাস্টারডে নিয়ে যাবে?",
+        "answer": "গেমের বর্ণনায় বিশেষভাবে অগ্রগতি নিয়ে যাওয়ার কথা উল্লেখ করা হয়নি। তবে এটি বলে যে স্প্রাঙ্কি রিমাস্টারড আপনার সকল পুরাতন প্রকল্পকে ভালোবাসে। সুতরাং যদিও আমরা নিশ্চিত হতে পারি না অগ্রগতি স্থানান্তরের বিষয়ে, তবে এটি বলে মনে হয় আপনার পুরাতন স্প্রাঙ্কিতে সৃষ্টি বা কাজ কোনো না কোনো উপায়ে স্প্রাঙ্কি রিমাস্টারডের সাথে সামঞ্জস্যপূর্ণ হবে।"
+      },
+      {
+        "question": "স্প্রাঙ্কি রিমাস্টারডের জন্য সিস্টেমের কি প্রয়োজন?",
+        "answer": "গেমের বর্ণনায় নিশ্চিত সিস্টেমের প্রয়োজনীয়তা নেই। কিন্তু 32-বিট অডিও, 8K সাউন্ড সংজ্ঞা এবং বাড়ানো ভিজ্যুয়ালের মতো বৈশিষ্ট্যগুলো বিবেচনা করে এটি সম্ভবত একটি বেশি আধুনিক কম্পিউটারের প্রয়োজন হবে যার একটি ভালো GPU, পর্যাপ্ত RAM এবং একটি ভালো প্রসেসর থাকে যাতে স্প্রাঙ্কি রিমাস্টারড সুগমভাবে চলে যা গেমের বৈশিষ্ট্যের বর্ণনা অনুযায়ী GPU কে 'প্রস্রাব' না করে।"
+      },
+      {
+        "question": "আমি কি এখনও স্প্রাঙ্কি রিমাস্টারডে পুরাতন নিয়ন্ত্রণ ব্যবহার করতে পারব?",
+        "answer": "যেহেতু স্প্রাঙ্কি রিমাস্টারড আসল কাজপ্রণালী বজায় রাখে, এটি সম্ভবত পুরাতন নিয়ন্ত্রণ এখনও উপলব্ধ বা অন্তত্র একটি অনুরূপ বিন্যাস আছে। তবে নিশ্চিত তথ্য ছাড়া আমরা ১০০% নিশ্চিত হতে পারি না। কিন্তু এটি আসলের অনুভূতি বজায় রাখার লক্ষ্যে বিবেচনা করে পুরাতন নিয়ন্ত্রণ স্কিমগুলো কোনো না কোনো আকারে অন্তর্ভুক্ত থাকতে পারে।"
+      },
+      {
+        "question": "কিভাবে স্প্রাঙ্কি রিমাস্টারডে সম্প্রদায় ভূমিকা পালন করে?",
+        "answer": "স্প্রাঙ্কি রিমাস্টারডের সম্প্রদায় প্রথম দিনের শক্তি ফিরিয়ে আনছে। পুরাতন-স্কুলের বেতারান এবং নতুন খেলোয়াড় একত্র হয়ে যাচ্ছে। তারা সেই ক্লাসিক টুল ব্যবহার করে দুর্দান্ত কিছু সৃষ্টি করছে যা সকলের ভালোবাসা, যা গেমের চেতনাকে পুনরুত্থিত করে এবং এর চলমান জনপ্রিয়তা এবং উন্নয়নে অবদান রাখে।"
+      },
+      {
+        "question": "স্প্রাঙ্কি রিমাস্টারডের জন্য 'বেইক টু দ্য রুটস, বাট মেক ইট লেজেন্ডারি' (Back to the Roots, But Make it LEGENDARY) স্লোগানের কি অর্থ?",
+        "answer": "এর অর্থ হল স্প্রাঙ্কি রিমাস্টারড গেমের আসল ধারণা এবং অনুভূতিতে ফিরে যায়। এটি সেই উপাদানগুলো নেয় যা আসলকে বিশেষ করে তৈরি করেছিল, যেমন ক্লাসিক ইঞ্জিন, সাউন্ড এবং ইন্টারফেস। কিন্তু তারপর এটি আধুনিক প্রযুক্তি যেমন ভালো গ্রাফিক্স, উচ্চ-মানের অডিও এবং উন্নত স্থিতিশীলতা দিয়ে তাদের উন্নত করে আরও আশ্চর্যজনক এবং লেজেন্ডারি গেমিং অভিজ্ঞতা সৃষ্টি করে।"
+      },
+      {
+        "question": "ভিজ্যুয়াল এবং অডিও বাড়ানোর বাইরে স্প্রাঙ্কি রিমাস্টারডে কি কোনো নতুন বৈশিষ্ট্য আছে?",
+        "answer": "গেমে আধুনিকায়িত ইন্টারফেস, আধুনিক গতিতে আসল কাজপ্রণালী এবং HD-তে লেগেসি প্রিসেটের কথা নতুন বৈশিষ্ট্য হিসেবে উল্লেখ করা হয়েছে। এছাড়াও এটিতে শূন্য-লেটেন্সি প্রতিক্রিয়া সময় রয়েছে যা আসলের সংখ্যাতন্ত্রে নতুন যোগের বিবেচনা করা যেতে পারে। এই বৈশিষ্ট্যগুলো কেবল সৌন্দর্যের ক্ষেত্রেই নয় বরং সামগ্রিক গেমপ্লে অভিজ্ঞতাও উন্নত করে।"
+      },
+      {
+        "question": "আমি কি স্প্রাঙ্কি রিমাস্টারড কনসোলে খেলতে পারব?",
+        "answer": "গেমের বর্ণনায় কনসোলের সামঞ্জস্যের কথা উল্লেখ করা হয়নি। উচ্চ-মানের অডিও এবং ভিজ্যুয়ালের মতো বৈশিষ্ট্যের উপর যে মনোযোগ দেওয়া হয়েছে যা সাধারণত PC গেমিং এর সাথে জড়িত, এটি সম্ভবত এখনো PC-এর জন্যে নিশ্চিত গেম। কিন্তু আনুষ্ঠানিক নিশ্চিতকরণ ছাড়া আমরা নিশ্চিত হতে পারি না।"
+      },
+      {
+        "question": "যদি আমি পুরাতন-কালের খেলোয়াড় হয় তবে স্প্রাঙ্কি রিমাস্টারড থেকে কিভাবে সেরা করে নিতে পারব?",
+        "answer": "একজন পুরাতন-কালের খেলোয়াড় হিসেবে আপনি ক্লাসিক কাজপ্রণালীকে বিশ্বাস করতে পারেন এবং সেই কলক্যুলেটেড কম্বো আবিষ্কার করতে পারেন। এটিকে সহজ এবং পরিষ্কার রাখুন কারণ কখনও কখনও পুরাতন পদ্ধতিগুলো স্প্রাঙ্কি রিমাস্টারডে সেরা পদ্ধতি। আপনার আসল গেমের পূর্বের অভিজ্ঞতা ব্যবহার করে আপনি দ্রুত রিমাস্টারড সংস্করণের সাথে সামঞ্জস্য করতে পারেন এবং দুর্দান্ত কিছু সৃষ্টি করতে পারেন।"
+      }
+    ],
+    "ja": [
+      {
+        "question": "元のゲームと比べて、Sprunki Remasteredの違いは何ですか？",
+        "answer": "Sprunki Remasteredはゼロから作り直されています。それには、それだけにあるクリスタルクリアな32ビットオーディオ、レトロな視覚を強化したもの、8K解像度のクラシックな音、ゼロラテンシーの応答時間などの機能があります。また、現代化されたクラシックなインターフェイス、現代的なスピードを持つ元のワークフロー、HDのレガシープリセット、そして現代的な安定性を持ちながらも、元の本格的な感じを保っています。"
+      },
+      {
+        "question": "Sprunki Remasteredは初心者に適していますか？",
+        "answer": "はい、Sprunki Remasteredは初心者に優しいです。これまでよりも簡単に始めることができますが、元のゲームをプレイした人が覚えているような奥深さもそのまま残っています。だから新しいプレイヤーは大きな困難なくゲームを楽しみ始めることができ、進むにつれてより複雑な要素を探求する機会も持つことができます。"
+      },
+      {
+        "question": "元のSprunkiでの以前の進行状況がSprunki Remasteredに引き継がれますか？",
+        "answer": "ゲームの説明では特に進行状況の引き継ぎについて言及していません。しかし、Sprunki Remasteredが皆さんの古いプロジェクトを愛していると述べています。だから、進行状況の移行について確信はできませんが、元のSprunki内での古い作品や作業が何らかの形でSprunki Remasteredと互換性があるようです。"
+      },
+      {
+        "question": "Sprunki Remasteredのシステム要件は何ですか？",
+        "answer": "ゲームの説明では具体的なシステム要件を提供していません。しかし、32ビットオーディオ、8Kの音声解像度、強化された視覚などの機能を考えると、比較的新しいコンピュータで、適切なGPU、十分なRAM、良いプロセッサを持ち、ゲームの機能で述べられているようにGPUを「汗かかせる」ことなくスムーズに動作するようなものが必要である可能性が高いです。"
+      },
+      {
+        "question": "Sprunki Remasteredで古いコントロールを使えますか？",
+        "answer": "Sprunki Remasteredが元のワークフローを維持しているので、古いコントロールが使える可能性が高いです。少なくとも似たようなレイアウトがあるでしょう。しかし、具体的な情報がないので、100%確信できません。しかし、本格的な感じを保つことを目指していることを考えると、古いコントロール方式が何らかの形で組み込まれている可能性があります。"
+      },
+      {
+        "question": "コミュニティはSprunki Remasteredでどのような役割を果たしますか？",
+        "answer": "Sprunki Remasteredのコミュニティは最初の日のエネルギーを取り戻しています。昔のベテランプレイヤーと新しいプレイヤーが混ざり合っています。皆が愛するクラシックなツールを使って素晴らしいものを作り出しており、これがゲームの精神を蘇らせ、その継続的な人気と開発に貢献しています。"
+      },
+      {
+        "question": "「ルーツに戻るが、それを伝説的に」というスローガンがSprunki Remasteredにとって何を意味しますか？",
+        "answer": "それはSprunki Remasteredがゲームの元の概念と感じに戻ることを意味します。元を特別なものにした要素、例えばクラシックなエンジン、音、インターフェイスを取り入れます。そしてそれらをより良いグラフィックス、高品質のオーディオ、改良された安定性などの現代技術で強化し、さらに素晴らしく伝説的なゲーム体験を作り出すのです。"
+      },
+      {
+        "question": "視覚とオーディオの強化以外に、Sprunki Remasteredに新しい機能はありますか？",
+        "answer": "ゲームでは現代化されたインターフェイス、現代的なスピードを持つ元のワークフロー、HDのレガシープリセットが新機能の一部として言及されています。また、ゼロラテンシーの応答時間も元と比べて新しい追加要素と考えられます。これらの機能は美観だけでなく、全体的なゲームプレイ体験も向上させます。"
+      },
+      {
+        "question": "コンソールでSprunki Remasteredをプレイできますか？",
+        "answer": "ゲームの説明ではコンソールの互換性について言及していません。高品質のオーディオや視覚など、PCゲームとより関連性が高い機能に焦点が当てられていることを考えると、Sprunki Remasteredは現時点でPC専用ゲームである可能性が高いです。しかし、公式の確認がないので、確信できません。"
+      },
+      {
+        "question": "昔からのプレイヤーである場合、Sprunki Remasteredから最善を引き出すにはどうすればよいですか？",
+        "answer": "昔からのプレイヤーであるなら、クラシックなワークフローを信頼し、伝説的なコンボを再発見できます。シンプルでクリーンに保ちましょう。なぜなら、Sprunki Remasteredでは時に古いやり方が最良のやり方です。元のゲームでの経験を活用することで、リマスター版に迅速に適応し、素晴らしいものを作り出すことができます。"
+      }
+    ],
+    "de": [
+      {
+        "question": "Was unterscheidet Sprunki Remastered vom Originalspiel?",
+        "answer": "Sprunki Remastered wurde von Grund auf neu aufgebaut. Es hat einzigartige Merkmale wie kristallklares 32 - Bit - Audio, nostalgisch aufgewertete Grafiken, klassische Klänge in 8K - Qualität, eine Null - Latenz - Reaktionszeit. Außerdem hat es eine modernisierte klassische Benutzeroberfläche, den ursprünglichen Arbeitsablauf mit moderner Geschwindigkeit, alte Voreinstellungen in HD und moderne Stabilität, während es den authentischen Charakter des Originals beibehält."
+      },
+      {
+        "question": "Ist Sprunki Remastered für Anfänger geeignet?",
+        "answer": "Ja, Sprunki Remastered ist anfängerfreundlich. Es ist leichter als je zuvor, es zu beginnen, hat aber immer noch die Tiefe, die die Spieler vom Original kennen. So können neue Spieler das Spiel ohne große Schwierigkeiten genießen und haben auch die Möglichkeit, komplexere Aspekte während ihrer Entwicklung zu erkunden."
+      },
+      {
+        "question": "Werden meine bisherigen Fortschritte im ursprünglichen Sprunki auf Sprunki Remastered übertragen?",
+        "answer": "Die Spielbeschreibung erwähnt nicht speziell die Fortschrittsübertragung. Sie sagt jedoch, dass Sprunki Remastered all Ihre alten Projekte liebt. Während wir uns also nicht sicher sein können, ob der Fortschritt übertragen wird, scheint es wahrscheinlich, dass Ihre alten Kreationen oder Arbeiten im ursprünglichen Sprunki auf irgendeine Weise mit Sprunki Remastered kompatibel sein werden."
+      },
+      {
+        "question": "Was sind die Systemanforderungen für Sprunki Remastered?",
+        "answer": "Die Spielbeschreibung gibt keine spezifischen Systemanforderungen an. Angesichts der Merkmale wie 32 - Bit - Audio, 8K - Klangqualität und aufgewertete Grafiken, wird wahrscheinlich ein relativ modernes Computer mit einer guten Grafikkarte, ausreichend Arbeitsspeicher und einem guten Prozessor benötigt, um einen reibungslosen Betrieb zu gewährleisten, ohne dass die Grafikkarte überlastet wird, wie in den Spielmerkmalen beschrieben."
+      },
+      {
+        "question": "Kann ich immer noch die alten Steuerungen in Sprunki Remastered verwenden?",
+        "answer": "Da Sprunki Remastered den ursprünglichen Arbeitsablauf beibehält, ist es wahrscheinlich, dass die alten Steuerungen immer noch verfügbar sind oder zumindest eine ähnliche Anordnung haben. Ohne spezifische Informationen können wir uns aber nicht 100% sicher sein. Wenn man jedoch bedenkt, dass es darauf abzielt, den authentischen Charakter zu behalten, könnten die alten Steuerungsschemata in irgendeiner Form integriert sein."
+      },
+      {
+        "question": "Welche Rolle spielt die Community in Sprunki Remastered?",
+        "answer": "Die Sprunki Remastered - Community bringt die ursprüngliche Energie zurück. Alte Veteranen und neue Spieler vermischen sich. Sie schaffen tolle Dinge mit den beliebten klassischen Werkzeugen, was dazu beiträgt, den Geist des Spiels wiederzubeleben und zu seiner anhaltenden Popularität und Entwicklung beizutragen."
+      },
+      {
+        "question": "Was bedeutet das Motto 'Zurück zu den Wurzeln, aber legendär machen' für Sprunki Remastered?",
+        "answer": "Es bedeutet, dass Sprunki Remastered auf das ursprüngliche Konzept und den ursprünglichen Charakter des Spiels zurückkehrt. Es nimmt die Elemente, die das Original besonders machten, wie den klassischen Motor, die Klänge und die Benutzeroberfläche. Dann verbessert es sie jedoch mit moderner Technologie wie besseren Grafiken, höherwertigem Audio und verbesserter Stabilität, um ein noch erstaunlicheres und legendäres Gaming - Erlebnis zu schaffen."
+      },
+      {
+        "question": "Gibt es außer den visuellen und akustischen Verbesserungen in Sprunki Remastered noch neue Merkmale?",
+        "answer": "Das Spiel nennt die modernisierte Benutzeroberfläche, den ursprünglichen Arbeitsablauf mit moderner Geschwindigkeit und die alten Voreinstellungen in HD als Teil seiner neuen Merkmale. Außerdem hat es eine Null - Latenz - Reaktionszeit, die im Vergleich zum Original als neuer Zusatz betrachtet werden könnte. Diese Merkmale verbessern nicht nur das Ästhetische, sondern auch die gesamte Spielerfahrung."
+      },
+      {
+        "question": "Kann ich Sprunki Remastered auf einer Konsole spielen?",
+        "answer": "Die Spielbeschreibung erwähnt die Konsolenkompatibilität nicht. Angesichts der Schwerpunktsetzung auf Merkmale wie hochwertiges Audio und Visuals, die eher mit PC - Spielen verbunden sind, ist es wahrscheinlich, dass Sprunki Remastered derzeit nur ein PC - Spiel ist. Ohne offizielle Bestätigung können wir uns aber nicht sicher sein."
+      },
+      {
+        "question": "Wie kann ich das Beste aus Sprunki Remastered herausholen, wenn ich ein langjähriger Spieler bin?",
+        "answer": "Als langjähriger Spieler kannst du dem klassischen Arbeitsablauf vertrauen und diese legendären Kombinationen wiederentdecken. Halte es einfach und klar, denn manchmal sind die alten Wege in Sprunki Remastered die besten. Indem du deine vorherige Erfahrung mit dem Originalspiel nutzt, kannst du dich schnell an die Remaster - Version anpassen und tolle Dinge schaffen."
+      }
+    ],
+    "ru": [
+      {
+        "question": "Что отличает Sprunki Remastered от оригинальной игры?",
+        "answer": "Sprunki Remastered полностью переработана с нуля. Она имеет такие особенности, как исключительно кристально - чистое 32 - битное аудио, ретро - улучшенный визуал, классические звуки в 8K - разрешении, время отклика без задержки. Также у нее есть модернизированный классический интерфейс, оригинальный рабочий процесс с современной скоростью, стартовые настройки в высоком разрешении и современная стабильность, при этом сохраняется аутентичное ощущение оригинальной игры."
+      },
+      {
+        "question": "Подходит ли Sprunki Remastered для новичков?",
+        "answer": "Да, Sprunki Remastered дружелюбен к новичкам. Теперь проще, чем никогда, начать играть, но при этом она сохраняет всю глубину, которую игроки помнят из оригинальной игры. Таким образом, новые игроки могут начать наслаждаться игрой без особых затруднений, а также иметь возможность изучать более сложные аспекты по мере продвижения в игре."
+      },
+      {
+        "question": "Перенесутся ли мои предыдущие достижения в оригинальной Sprunki в Sprunki Remastered?",
+        "answer": "В описании игры не упоминается конкретно о переносе прогресса. Однако, оно говорит, что Sprunki Remastered любит все ваши старые проекты. Таким образом, хотя мы не можем быть уверены в переносе прогресса, похоже, что ваши старые творения или работа в оригинальной Sprunki будут в некотором смысле совместимы с Sprunki Remastered."
+      },
+      {
+        "question": "Какие системные требования есть для Sprunki Remastered?",
+        "answer": "В описании игры не приводятся конкретные системные требования. Но учитывая особенности, такие как 32 - битное аудио, 8K - определение звука и улучшенный визуал, вероятно, что для обеспечения плавной работы потребуется относительно современный компьютер с хорошей графической картой, достаточным объёмом оперативной памяти и мощным процессором, чтобы не заставлять графическую карту «потеть», как описано в особенностях игры."
+      },
+      {
+        "question": "Могу ли я по - прежнему использовать старые управления в Sprunki Remastered?",
+        "answer": "Поскольку Sprunki Remastered сохраняет оригинальный рабочий процесс, вероятно, что старые схемы управления по - прежнему доступны или, по крайней мере, имеют похожий макет. Однако, без конкретной информации, мы не можем быть уверены на 100%. Но учитывая, что игра стремится сохранить аутентичное ощущение, старые схемы управления могут быть включены в какой - то форме."
+      },
+      {
+        "question": "Как сообщество играет роль в Sprunki Remastered?",
+        "answer": "Сообщество Sprunki Remastered возвращает энергию первого дня. Старички и новые игроки смешиваются. Они создают прекрасные вещи, используя классические инструменты, которые все любят, что помогает оживить дух игры и способствует ее постоянной популярности и развитию."
+      },
+      {
+        "question": "Что означает лозунг «Вернемся к корням, но сделаем это ЛЕГЕНДАРНО» для Sprunki Remastered?",
+        "answer": "Это означает, что Sprunki Remastered возвращается к оригинальному концепту и ощущению игры. Она берет элементы, которые делали оригинальную игру особенной, такие как классический движок, звуки и интерфейс. Затем улучшает их с помощью современной технологии, например, лучше графики, более высококачественного аудио и повышенной стабильности, чтобы создать еще более удивительный и легендарный игровой опыт."
+      },
+      {
+        "question": "Есть ли в Sprunki Remastered какие - то новые особенности помимо улучшения визуала и аудио?",
+        "answer": "В игре упоминаются модернизированный интерфейс, оригинальный рабочий процесс с современной скоростью и стартовые настройки в высоком разрешении в качестве ее новых особенностей. Также у нее есть время отклика без задержки, которое можно считать новым дополнением по сравнению с оригиналом. Эти особенности улучшают не только эстетику, но и общий игровой процесс."
+      },
+      {
+        "question": "Могу ли я играть в Sprunki Remastered на консоли?",
+        "answer": "В описании игры не упоминается совместимость с консолью. Учитывая акцент на особенностях, таких как высококачественное аудио и визуал, которые чаще связаны с ПК - геймингом, вероятно, что Sprunki Remastered на данный момент - игра только для ПК. Но без официальной подтверждения мы не можем быть уверены."
+      },
+      {
+        "question": "Как я могу получить максимум удовольствия из Sprunki Remastered, если я - старый игрок?",
+        "answer": "В качестве старого игрока, вы можете доверять классическому рабочему процессу и вновь открыть для себя легендарные комбинации. Будьте простыми и чистыми, потому что иногда старые способы - лучшие в Sprunki Remastered. Используя свое предыдущее опыта с оригинальной игрой, вы можете быстро адаптироваться к переработанной версии и создавать прекрасные вещи."
+      }
+    ],
+    "uk": [
+      {
+        "question": "Що робить Sprunki Remastered відмінним від оригінальної гри?",
+        "answer": "Sprunki Remastered було перебудовано з нуля. Він має функції, такі як кришталево чисте 32 - бітове аудіо, яке є унікальним для нього, ретро - покращені зображення, класичні звуки у 8K роздільній здатності, час реакції без затримки. Він також має модернізований класичний інтерфейс, оригінальний робочий процес з сучасною швидкістю, старовинні пресети у HD та сучасну стабільність, при цьому зберігаючи справжній почуття оригіналу."
+      },
+      {
+        "question": "Чи підходить Sprunki Remastered для початківців?",
+        "answer": "Так, Sprunki Remastered є привітливим для початківців. Тепер легше, ніж коли - б то не було, увійти в нього, але він все ще має всю глибину, яку гравці пам'ятають з оригінальної. Так нових гравців може почати насолоджуватися грою без особливих труднощів, причому вони також мають можливість досліджувати більш складні аспекти по мірі розвитку."
+      },
+      {
+        "question": "Чи буде перенесено мій попередній прогрес в оригінальній Sprunki до Sprunki Remastered?",
+        "answer": "Опис гри не спеціально говорить про перенесення прогресу. Однак, він говорить, що Sprunki Remastered любить всі ваші старі проекти. Так що, хоча ми не можемо бути впевнені про перенесення прогресу, здається, що ваші старі творіння або роботи в оригінальній Sprunki будуть сумісними по - якомусь способу з Sprunki Remastered."
+      },
+      {
+        "question": "Які системні вимоги для Sprunki Remastered?",
+        "answer": "Опис гри не надає конкретних системних вимог. Але, беручи до уваги функції, такі як 32 - бітове аудіо, 8K роздільна здатність звука та покращені зображення, ймовірно, він вимагатиме відносно сучасного комп'ютера з придатним GPU, достатньою кількістю RAM і хорошим процесором, щоб забезпечити плавну роботу, не роблячи GPU 'потаємного' як описано в функціях гри."
+      },
+      {
+        "question": "Чи я можу все ще використовувати старі керування в Sprunki Remastered?",
+        "answer": "Оскільки Sprunki Remastered зберігає оригінальний робочий процес, ймовірно, що старі методи керування все ще доступні або принаймні мають схожий макет. Однак, без конкретної інформації, ми не можемо бути на 100% впевнені. Але, враховуючи, що він прагне зберегти справжній почуття, старі схеми керування можуть бути включені у якийсь формат."
+      },
+      {
+        "question": "Як роль спільноти відіграє в Sprunki Remastered?",
+        "answer": "Спільнота Sprunki Remastered повертає енергію першого дня. Старожилі і нови гравці змішуються. Вони створюють чудове, використовуючи класичні інструменти, які всі люблять, що допомагає оживити дух гри і внести свій вклад в її тривалий популяризацію та розвиток."
+      },
+      {
+        "question": "Що означає слоган 'Назад до коріння, але зробити це ЛЕГЕНДАРНО' для Sprunki Remastered?",
+        "answer": "Це означає, що Sprunki Remastered повертається до оригінальної концепції і почуття гри. Він бере елементи, які зробили оригінал особливим, такі як класичний двигун, звуки та інтерфейс. Але потім він покращує їх з допомогою сучасної технології, як наприклад кращі графіки, якісніше аудіо та покращена стабільність, щоб створити ще більш дивовижний і легендарний геймінговий досвід."
+      },
+      {
+        "question": "Чи є якісь нові функції в Sprunki Remastered окрім покращень зображення та аудіо?",
+        "answer": "Гра називає модернізований інтерфейс, оригінальний робочий процес з сучасною швидкістю і старовинні пресети у HD як частини своїх нових функцій. Також, він має час реакції без затримки, який можна розглядати як новину порівняно з оригіналом. Ці функції не тільки покращують естетику, але й весь геймінговий досвід."
+      },
+      {
+        "question": "Чи я можу грати в Sprunki Remastered на консолі?",
+        "answer": "Опис гри не говорить про сумісність з консолями. Враховуючи акцент на функції, такі як якісне аудіо та зображення, які більше асоціюються з геймінгом на ПК, ймовірно, що Sprunki Remastered наразі є лише для ПК. Але без офіційної підтвердження, ми не можемо бути впевнені."
+      },
+      {
+        "question": "Як я можу отримати максимум від Sprunki Remastered, якщо я старий гравець?",
+        "answer": "Як старий гравець, ви можете довіряти класичному робочому процесу і знову відкрити ці легендарні комбінації. Тримайте все просто і чисто, оскільки іноді старі способи є найкращими в Sprunki Remastered. Використовуючи ваше попереднє досвіді з оригінальної гри, ви можете швидко адаптуватися до переробленої версії і створювати чудове."
+      }
+    ],
+    "zh-CN": [
+      {
+        "question": "Sprunki重制版与原版游戏有何不同？",
+        "answer": "Sprunki重制版是彻底重新打造的。它拥有独有的诸如清晰的32位音频等特性、复古增强型视觉效果、8K清晰度的经典音效、零延迟响应时间。它还拥有现代化的经典界面、兼具现代速度的原版工作流程、高清的旧版预设，并且在保持原版真实感的同时具备现代稳定性。"
+      },
+      {
+        "question": "Sprunki重制版适合初学者吗？",
+        "answer": "是的，Sprunki重制版对初学者很友好。它比以往任何时候都更容易上手，但仍然保留着玩家记忆中原版的所有深度。所以新玩家可以毫无困难地开始享受游戏，并且随着游戏进程的推进有机会探索更复杂的方面。"
+      },
+      {
+        "question": "我在原版Sprunki中的进度能否转移到Sprunki重制版中？",
+        "answer": "游戏说明未具体提及进度转移。然而，它确实提到Sprunki重制版喜爱您所有的旧项目。所以虽然我们不能确定进度是否可转移，但您在原版Sprunki中的旧创作或工作成果似乎很可能会以某种方式与Sprunki重制版兼容。"
+      },
+      {
+        "question": "Sprunki重制版的系统要求是什么？",
+        "answer": "游戏说明未提供具体的系统要求。但考虑到诸如32位音频、8K音效清晰度和增强视觉效果等特性，很可能需要一台相对现代的计算机，具备不错的图形处理器（GPU）、足够的内存（RAM）和良好的处理器，以确保流畅运行，而不会出现游戏特性中描述的让GPU‘吃力’的情况。"
+      },
+      {
+        "question": "我在Sprunki重制版中还能使用旧的操作控制吗？",
+        "answer": "由于Sprunki重制版保持了原版的工作流程，旧的操作控制很可能仍然可用，或者至少有相似的布局。然而，由于没有具体信息，我们不能百分之百确定。但考虑到它旨在保持原汁原味，旧的操作方案可能会以某种形式被纳入。"
+      },
+      {
+        "question": "社区在Sprunki重制版中扮演什么角色？",
+        "answer": "Sprunki重制版社区正在重拾首日的活力。老玩家和新玩家混在一起。他们正在使用大家喜爱的经典工具创造很棒的东西，这有助于重振游戏的精神，并对游戏的持续流行和发展做出贡献。"
+      },
+      {
+        "question": "‘回归根源，但铸就传奇’这一标语对Sprunki重制版意味着什么？",
+        "answer": "这意味着Sprunki重制版回归到游戏的原始概念和感觉。它采用了使原版变得特别的元素，如经典的引擎、音效和界面。但随后它利用现代技术（如更好的图形、更高质量的音频和更高的稳定性）对这些元素进行增强，以创造出更加令人惊叹和传奇的游戏体验。"
+      },
+      {
+        "question": "除了视觉和音频增强之外，Sprunki重制版还有其他新特性吗？",
+        "answer": "游戏提到现代化的界面、兼具现代速度的原版工作流程以及高清的旧版预设是其新特性的一部分。此外，它具有零延迟响应时间，与原版相比这可被视为一个新增特性。这些特性不仅提升了美感，也提升了整体游戏体验。"
+      },
+      {
+        "question": "我能在游戏机上玩Sprunki重制版吗？",
+        "answer": "游戏说明未提及游戏机兼容性。鉴于重点强调的是诸如高质量音频和视觉效果等更常与电脑游戏相关的特性，目前Sprunki重制版很可能是一款仅支持电脑的游戏。但未经官方确认，我们不能确定。"
+      },
+      {
+        "question": "如果我是老玩家，如何在Sprunki重制版中获得最佳体验？",
+        "answer": "作为老玩家，您可以信赖经典的工作流程并重新发现那些传奇的组合。保持简单和纯粹，因为在Sprunki重制版中有时候旧方法就是最好的方法。通过利用您在原版游戏中的先前经验，您可以快速适应重制版并创造很棒的东西。"
+      }
+    ],
+    "pt": [
+      {
+        "question": "O que torna o Sprunki Remastered diferente do jogo original?",
+        "answer": "O Sprunki Remastered foi reconstruído do zero. Ele possui recursos exclusivos, como áudio de 32 bits cristalino, visuais retro - melhorados, sons clássicos em definição 8K, tempo de resposta de zero latência. Ele também tem uma interface clássica modernizada, fluxo de trabalho original com velocidade moderna, presets legados em HD e estabilidade moderna, enquanto ainda mantém a sensação autêntica do original."
+      },
+      {
+        "question": "O Sprunki Remastered é adequado para iniciantes?",
+        "answer": "Sim, o Sprunki Remastered é amigável para iniciantes. É mais fácil do que nunca entrar nele, mas ainda tem toda a profundidade que os jogadores se lembram do original. Assim, novos jogadores podem começar a se divertir com o jogo sem muita dificuldade e, ao mesmo tempo, ter a oportunidade de explorar aspectos mais complexos à medida que progredem."
+      },
+      {
+        "question": "Minhas conquistas anteriores no Sprunki original serão transferidas para o Sprunki Remastered?",
+        "answer": "A descrição do jogo não menciona especificamente a transferência de progresso. No entanto, afirma que o Sprunki Remastered ama todos os seus antigos projetos. Portanto, enquanto não podemos ter certeza sobre a transferência de progresso, parece provável que suas antigas criações ou trabalhos no Sprunki original sejam compatíveis de alguma forma com o Sprunki Remastered."
+      },
+      {
+        "question": "Quais são os requisitos do sistema para o Sprunki Remastered?",
+        "answer": "A descrição do jogo não fornece requisitos do sistema específicos. Mas, dado os recursos como áudio de 32 bits, definição sonora 8K e visuais melhorados, é provável que seja necessário um computador relativamente moderno com uma GPU decente, memória RAM suficiente e um bom processador para garantir um funcionamento suave, sem fazer a GPU 'suar', conforme descrito nos recursos do jogo."
+      },
+      {
+        "question": "Posso ainda usar os antigos controles no Sprunki Remastered?",
+        "answer": "Como o Sprunki Remastered mantém o fluxo de trabalho original, é provável que os antigos controles ainda estejam disponíveis ou, pelo menos, tenham um layout semelhante. No entanto, sem informações específicas, não podemos ter 100% de certeza. Mas, considerando que visa manter a sensação autêntica, os esquemas de controle antigos podem ser incorporados de alguma forma."
+      },
+      {
+        "question": "Como a comunidade influencia no Sprunki Remastered?",
+        "answer": "A comunidade do Sprunki Remastered está trazendo de volta a energia do primeiro dia. Veteranos da escola antiga e novos jogadores estão se misturando. Eles estão criando coisas ótimas usando as ferramentas clássicas que todo mundo ama, o que ajuda a reviver o espírito do jogo e contribuir para sua popularidade e desenvolvimento contínuos."
+      },
+      {
+        "question": "O que significa o slogan 'Volte às raízes, mas faça - o lendário' para o Sprunki Remastered?",
+        "answer": "Significa que o Sprunki Remastered volta ao conceito e à sensação originais do jogo. Ele pega os elementos que tornaram o original especial, como o motor clássico, os sons e a interface. Mas depois os melhora com tecnologia moderna, como gráficos melhores, áudio de alta qualidade e estabilidade melhorada, para criar uma experiência de jogo ainda mais incrível e lendária."
+      },
+      {
+        "question": "Há alguma nova funcionalidade no Sprunki Remastered além das melhorias visuais e sonoras?",
+        "answer": "O jogo menciona a interface modernizada, o fluxo de trabalho original com velocidade moderna e presets legados em HD como parte de suas novas funcionalidades. Além disso, tem tempo de resposta de zero latência, o que pode ser considerado uma adição nova em comparação com o original. Essas funcionalidades não apenas melhoram a estética, mas também a experiência geral de jogabilidade."
+      },
+      {
+        "question": "Posso jogar o Sprunki Remastered em um console?",
+        "answer": "A descrição do jogo não menciona a compatibilidade com consoles. Dado o foco em recursos como áudio e visuais de alta qualidade, mais comumente associados ao jogo em PC, é provável que o Sprunki Remastered seja um jogo apenas para PC por enquanto. Mas, sem confirmação oficial, não podemos ter certeza."
+      },
+      {
+        "question": "Como posso aproveitar ao máximo o Sprunki Remastered se sou um jogador antigo?",
+        "answer": "Como um jogador antigo, você pode confiar no fluxo de trabalho clássico e redescobrir aquelas combinações lendárias. Mantenha - se simples e limpo, pois às vezes as formas antigas são as melhores no Sprunki Remastered. Ao aproveitar sua experiência anterior com o jogo original, você pode se adaptar rapidamente à versão remasterizada e criar coisas ótimas."
+      }
+    ],
+    "en": [
+      {
+        "question": "What makes Sprunki Remastered different from the original game?",
+        "answer": "Sprunki Remastered is rebuilt from the ground up. It has features like crystal - clear 32 - bit audio exclusive to it, retro - enhanced visuals, classic sounds in 8K definition, zero - latency response time. It also has a modernized classic interface, original workflow with modern speed, legacy presets in HD, and modern stability while still maintaining the authentic feel of the original."
+      },
+      {
+        "question": "Is Sprunki Remastered suitable for beginners?",
+        "answer": "Yes, Sprunki Remastered is beginner - friendly. It is easier than ever before to get into, but still has all the depth that players remember from the original. So new players can start enjoying the game without much difficulty while also having the opportunity to explore more complex aspects as they progress."
+      },
+      {
+        "question": "Will my previous progress in the original Sprunki carry over to Sprunki Remastered?",
+        "answer": "The game description doesn't specifically mention progress carry - over. However, it does state that Sprunki Remastered loves all your old projects. So while we can't be certain about progress transfer, it seems likely that your old creations or work within the original Sprunki will be compatible in some way with Sprunki Remastered."
+      },
+      {
+        "question": "What are the system requirements for Sprunki Remastered?",
+        "answer": "The game description doesn't provide specific system requirements. But given the features like 32 - bit audio, 8K sound definition and enhanced visuals, it's likely to require a relatively modern computer with a decent GPU, sufficient RAM and a good processor to ensure smooth running without making the GPU 'sweat' as described in the game's features."
+      },
+      {
+        "question": "Can I still use the old controls in Sprunki Remastered?",
+        "answer": "Since Sprunki Remastered maintains the original workflow, it's likely that the old controls are still available or at least have a similar layout. However, without specific information, we can't be 100% sure. But considering it aims to keep the authentic feel, old control schemes may be incorporated in some form."
+      },
+      {
+        "question": "How does the community play a role in Sprunki Remastered?",
+        "answer": "The Sprunki Remastered community is bringing back the day - one energy. Old - school veterans and new players are mixing it up. They are creating great things using the classic tools that everyone loves, which helps revive the game's spirit and contribute to its ongoing popularity and development."
+      },
+      {
+        "question": "What does the 'Back to the Roots, But Make it LEGENDARY' slogan mean for Sprunki Remastered?",
+        "answer": "It means that Sprunki Remastered goes back to the original concept and feel of the game. It takes the elements that made the original special, such as the classic engine, sounds, and interface. But then it enhances them with modern technology like better graphics, higher - quality audio, and improved stability to create an even more amazing and legendary gaming experience."
+      },
+      {
+        "question": "Are there any new features in Sprunki Remastered apart from the visual and audio enhancements?",
+        "answer": "The game mentions modernized interface, original workflow with modern speed, and legacy presets in HD as part of its new features. Also, it has zero - latency response time which could be considered a new addition compared to the original. These features not only improve the aesthetics but also the overall gameplay experience."
+      },
+      {
+        "question": "Can I play Sprunki Remastered on a console?",
+        "answer": "The game description doesn't mention console compatibility. Given the focus on features like high - quality audio and visuals that are more commonly associated with PC gaming, it's likely that Sprunki Remastered is a PC - only game for now. But without official confirmation, we can't be certain."
+      },
+      {
+        "question": "How can I get the best out of Sprunki Remastered if I'm an old - time player?",
+        "answer": "As an old - time player, you can trust the classic workflow and rediscover those legendary combos. Keep it simple and clean as sometimes the old ways are the best ways in Sprunki Remastered. By leveraging your prior experience with the original game, you can quickly adapt to the remastered version and create great things."
+      }
+    ],
+    "it": [
+      {
+        "question": "Che cosa rende Sprunki Remastered diverso dal gioco originale?",
+        "answer": "Sprunki Remastered è stato ricostruito completamente. Ha caratteristiche come l'audio a 32 bit cristallino, esclusivo per questo gioco, grafica retro - migliorata, suoni classici in definizione 8K, tempo di risposta a zero latenza. Ha anche un'interfaccia classica modernizzata, un flusso di lavoro originale con velocità moderna, preimpostazioni legacy in HD e stabilità moderna, mantenendo comunque la sensazione autentica del gioco originale."
+      },
+      {
+        "question": "Sprunki Remastered è adatto ai principianti?",
+        "answer": "Sì, Sprunki Remastered è amichevole per i principianti. È più facile che mai avvicinarsi a questo gioco, ma ha comunque tutta la profondità che i giocatori ricordano dal gioco originale. Così i nuovi giocatori possono iniziare a godersi il gioco senza molte difficoltà e hanno anche la possibilità di esplorare aspetti più complessi man mano che progrediscono."
+      },
+      {
+        "question": "Il mio progresso precedente nel gioco originale Sprunki sarà trasferito in Sprunki Remastered?",
+        "answer": "La descrizione del gioco non menziona specificamente il trasferimento del progresso. Tuttavia, dice che Sprunki Remastered ama tutti i tuoi vecchi progetti. Quindi, mentre non possiamo essere certi sul trasferimento del progresso, sembra probabile che le tue vecchie creazioni o lavori nel gioco originale Sprunki saranno compatibili in qualche modo con Sprunki Remastered."
+      },
+      {
+        "question": "Quali sono i requisiti di sistema per Sprunki Remastered?",
+        "answer": "La descrizione del gioco non fornisce i requisiti di sistema specifici. Ma data la presenza di caratteristiche come l'audio a 32 bit, la definizione sonora 8K e la grafica migliorata, è probabile che richieda un computer relativamente moderno con una GPU decente, una quantità sufficiente di RAM e un bravo processore per garantire un'esecuzione fluida senza far 'sudare' la GPU, come descritto nelle caratteristiche del gioco."
+      },
+      {
+        "question": "Posso ancora usare i vecchi controlli in Sprunki Remastered?",
+        "answer": "Poiché Sprunki Remastered mantiene il flusso di lavoro originale, è probabile che i vecchi controlli siano ancora disponibili o almeno abbiano una disposizione simile. Tuttavia, senza informazioni specifiche, non possiamo essere al 100% sicuri. Ma considerando che mira a mantenere la sensazione autentica, i vecchi schemi di controllo potrebbero essere incorporati in qualche forma."
+      },
+      {
+        "question": "Come la comunità gioca un ruolo in Sprunki Remastered?",
+        "answer": "La comunità di Sprunki Remastered riporta l'energia del primo giorno. I veterani dello stile vecchio scuola e i nuovi giocatori si mescolano. Stanno creando cose meravigliose usando gli strumenti classici che tutti amano, il che aiuta a rinnovare lo spirito del gioco e a contribuire alla sua attuale popolarità e sviluppo."
+      },
+      {
+        "question": "Cosa significa lo slogan 'Torna alle Radici, ma Rendielo LEGENDARIO' per Sprunki Remastered?",
+        "answer": "Significa che Sprunki Remastered ritorna al concetto e alla sensazione originale del gioco. Prende gli elementi che hanno reso il gioco originale speciale, come il motore classico, i suoni e l'interfaccia. Ma poi li migliora con la tecnologia moderna come una grafica migliore, un audio di alta qualità e una stabilità migliorata per creare un'esperienza di gioco ancora più straordinaria e leggendaria."
+      },
+      {
+        "question": "Ci sono nuove caratteristiche in Sprunki Remastered oltre ai miglioramenti grafici e audio?",
+        "answer": "Il gioco menziona l'interfaccia modernizzata, il flusso di lavoro originale con velocità moderna e le preimpostazioni legacy in HD come parte delle sue nuove caratteristiche. Inoltre, ha un tempo di risposta a zero latenza che potrebbe essere considerato un'aggiunta nuova rispetto al gioco originale. Queste caratteristiche migliorano non solo l'estetica ma anche l'esperienza di gioco generale."
+      },
+      {
+        "question": "Posso giocare a Sprunki Remastered su una console?",
+        "answer": "La descrizione del gioco non menziona la compatibilità con le console. Data l'attenzione alle caratteristiche come l'audio e la grafica di alta qualità, più comunemente associate al gioco su PC, è probabile che Sprunki Remastered sia per ora un gioco solo per PC. Ma senza conferma ufficiale, non possiamo essere certi."
+      },
+      {
+        "question": "Come posso ottenere il massimo da Sprunki Remastered se sono un giocatore di lunga data?",
+        "answer": "Come giocatore di lunga data, puoi fidarti del flusso di lavoro classico e riscoprire quelle combinazioni leggendarie. Mantieni le cose semplici e pulite perché a volte i vecchi metodi sono i migliori in Sprunki Remastered. Sfruttando la tua esperienza precedente con il gioco originale, puoi adattarti rapidamente alla versione rimasterizzata e creare cose meravigliose."
+      }
+    ],
+    "fr": [
+      {
+        "question": "Qu'est - ce qui différencie Sprunki Remastered du jeu original?",
+        "answer": "Sprunki Remastered a été reconstruit à partir de zéro. Il a des caractéristiques telles qu'un son 32 - bits cristal - clair, exclusive à lui, des visuels rétro - améliorés, des sons classiques en définition 8K, un temps de réponse à latence nulle. Il a également une interface classique modernisée, un flux de travail original avec une vitesse moderne, des présélections héritées en HD et une stabilité moderne tout en conservant la sensation authentique du jeu original."
+      },
+      {
+        "question": "Sprunki Remastered est - il adapté aux débutants?",
+        "answer": "Oui, Sprunki Remastered est adapté aux débutants. Il est plus facile que jamais d'y accéder, mais il a toujours toute la profondeur que les joueurs se souviennent du jeu original. Ainsi, les nouveaux joueurs peuvent commencer à jouir du jeu sans trop de difficulté tout en ayant également la possibilité d'explorer des aspects plus complexes au fur et à mesure de leur progression."
+      },
+      {
+        "question": "Ma progression antérieure dans le Sprunki original sera - t - elle transférée à Sprunki Remastered?",
+        "answer": "La description du jeu ne mentionne pas spécifiquement le transfert de progression. Cependant, elle indique que Sprunki Remastered aime tous vos anciens projets. Donc, bien que nous ne puissions pas être certains du transfert de progression, il semble probable que vos anciennes créations ou travaux dans le Sprunki original seront compatibles d'une certaine manière avec Sprunki Remastered."
+      },
+      {
+        "question": "Quelles sont les exigences système pour Sprunki Remastered?",
+        "answer": "La description du jeu ne fournit pas d'exigences système spécifiques. Mais étant donné les caractéristiques telles que le son 32 - bits, la définition sonore 8K et des visuels améliorés, il est probable qu'il nécessite un ordinateur relativement moderne avec une carte graphique correcte, une quantité suffisante de RAM et un bon processeur pour garantir un fonctionnement fluide sans « surchauffer » la carte graphique, comme décrit dans les caractéristiques du jeu."
+      },
+      {
+        "question": "Puis - je toujours utiliser les anciens contrôles dans Sprunki Remastered?",
+        "answer": "Comme Sprunki Remastered conserve le flux de travail original, il est probable que les anciens contrôles soient toujours disponibles ou ont au moins une disposition similaire. Cependant, sans informations spécifiques, nous ne pouvons pas être 100% sûrs. Mais étant donné qu'il vise à conserver la sensation authentique, les anciens schémas de contrôle peuvent être intégrés sous une forme ou une autre."
+      },
+      {
+        "question": "Quel rôle la communauté joue - t - elle dans Sprunki Remastered?",
+        "answer": "La communauté de Sprunki Remastered redonne l'énergie du premier jour. Les vétérans de l'ancienne école et les nouveaux joueurs se mélangent. Ils créent de grandes choses en utilisant les outils classiques que tout le monde aime, ce qui aide à ranimer l'esprit du jeu et contribue à sa popularité et son développement continus."
+      },
+      {
+        "question": "Que signifie le slogan « Retour aux racines, mais en faire quelque chose de légendaire » pour Sprunki Remastered?",
+        "answer": "Cela signifie que Sprunki Remastered revient au concept et à la sensation originaux du jeu. Il prend les éléments qui rendaient le jeu original spécial, tels que le moteur classique, les sons et l'interface. Mais puis il les améliore avec la technologie moderne, telle que de meilleurs graphismes, un son de meilleure qualité et une stabilité améliorée, pour créer une expérience de jeu encore plus incroyable et légendaire."
+      },
+      {
+        "question": "Y a - t - il des nouvelles caractéristiques dans Sprunki Remastered en dehors des améliorations visuelles et sonores?",
+        "answer": "Le jeu mentionne une interface modernisée, un flux de travail original avec une vitesse moderne et des présélections héritées en HD parmi ses nouvelles caractéristiques. De plus, il a un temps de réponse à latence nulle, ce qui pourrait être considéré comme un ajout nouveau par rapport au jeu original. Ces caractéristiques améliorent non seulement l'esthétique mais aussi l'expérience de jeu globale."
+      },
+      {
+        "question": "Puis - je jouer à Sprunki Remastered sur une console?",
+        "answer": "La description du jeu ne mentionne pas la compatibilité avec les consoles. Étant donné l'accent mis sur les caractéristiques telles que le son et les visuels de haute qualité, plus communément associés au jeu sur PC, il est probable que Sprunki Remastered soit actuellement un jeu uniquement pour PC. Mais sans confirmation officielle, nous ne pouvons pas être certains."
+      },
+      {
+        "question": "Comment puis - je tirer le meilleur parti de Sprunki Remastered si je suis un joueur de longue date?",
+        "answer": "En tant que joueur de longue date, vous pouvez avoir confiance dans le flux de travail classique et redécouvrir ces combinaisons légendaires. Gardez - le simple et propre car parfois les anciennes méthodes sont les meilleures dans Sprunki Remastered. En utilisant votre expérience antérieure avec le jeu original, vous pouvez rapidement vous adapter à la version remasterisée et créer de grandes choses."
+      }
+    ],
+    "pt-BR": [
+      {
+        "question": "O que torna o Sprunki Remastered diferente do jogo original?",
+        "answer": "O Sprunki Remastered foi reconstruído do zero. Ele possui recursos exclusivos, como áudio de 32 bits cristalino, visuais melhorados no estilo retrô, sons clássicos em definição 8K, tempo de resposta com zero latência. Também possui uma interface clássica modernizada, fluxo de trabalho original com velocidade moderna, configurações antigas em HD e estabilidade moderna, enquanto ainda mantém a sensação autêntica do original."
+      },
+      {
+        "question": "O Sprunki Remastered é adequado para iniciantes?",
+        "answer": "Sim, o Sprunki Remastered é amigável para iniciantes. É mais fácil do que nunca entrar nele, mas ainda possui toda a profundidade que os jogadores se lembram do original. Assim, novos jogadores podem começar a curtir o jogo sem muita dificuldade e também têm a oportunidade de explorar aspectos mais complexos à medida que progredem."
+      },
+      {
+        "question": "Minhas conquistas anteriores no Sprunki original serão transferidas para o Sprunki Remastered?",
+        "answer": "A descrição do jogo não menciona especificamente a transferência de progresso. No entanto, ela afirma que o Sprunki Remastered ama todos os seus projetos antigos. Portanto, enquanto não podemos ter certeza sobre a transferência de progresso, é provável que suas criações ou trabalhos antigos no Sprunki original sejam compatíveis de alguma forma com o Sprunki Remastered."
+      },
+      {
+        "question": "Quais são os requisitos de sistema para o Sprunki Remastered?",
+        "answer": "A descrição do jogo não fornece requisitos de sistema específicos. Mas, dado os recursos como áudio de 32 bits, definição sonora 8K e visuais melhorados, é provável que seja necessário um computador relativamente moderno, com uma GPU decente, memória RAM suficiente e um bom processador para garantir o funcionamento suave, sem sobrecarregar a GPU, conforme descrito nos recursos do jogo."
+      },
+      {
+        "question": "Posso ainda usar os controles antigos no Sprunki Remastered?",
+        "answer": "Como o Sprunki Remastered mantém o fluxo de trabalho original, é provável que os controles antigos ainda estejam disponíveis ou, pelo menos, tenham um layout semelhante. No entanto, sem informações específicas, não podemos ter 100% de certeza. Mas, considerando que o objetivo é manter a sensação autêntica, os esquemas de controle antigos podem ser incorporados de alguma forma."
+      },
+      {
+        "question": "Como a comunidade desempenha um papel no Sprunki Remastered?",
+        "answer": "A comunidade do Sprunki Remastered está trazendo de volta a energia do primeiro dia. Os veteranos da velha escola e os novos jogadores estão se misturando. Eles estão criando coisas ótimas usando as ferramentas clássicas que todo mundo ama, o que ajuda a ressuscitar o espírito do jogo e contribuir para sua popularidade e desenvolvimento contínuos."
+      },
+      {
+        "question": "O que significa o slogan 'Voltar às raízes, mas torná - lo LENDÁRIO' para o Sprunki Remastered?",
+        "answer": "Significa que o Sprunki Remastered volta ao conceito e à sensação originais do jogo. Ele pega os elementos que tornaram o original especial, como o motor clássico, os sons e a interface. Mas, em seguida, os melhora com tecnologia moderna, como gráficos melhores, áudio de alta qualidade e estabilidade melhorada, para criar uma experiência de jogo ainda mais incrível e lendária."
+      },
+      {
+        "question": "Há alguma nova funcionalidade no Sprunki Remastered, além das melhorias visuais e sonoras?",
+        "answer": "O jogo menciona interface modernizada, fluxo de trabalho original com velocidade moderna e configurações antigas em HD como parte de suas novas funcionalidades. Além disso, possui tempo de resposta com zero latência, o que pode ser considerado uma adição nova em comparação com o original. Essas funcionalidades não só melhoram a estética, mas também a experiência geral de jogabilidade."
+      },
+      {
+        "question": "Posso jogar o Sprunki Remastered em uma console?",
+        "answer": "A descrição do jogo não menciona a compatibilidade com consoles. Dado o foco em recursos como áudio e visuais de alta qualidade, mais comumente associados ao jogo em PC, é provável que o Sprunki Remastered seja um jogo apenas para PC por enquanto. Mas, sem confirmação oficial, não podemos ter certeza."
+      },
+      {
+        "question": "Como posso aproveitar ao máximo o Sprunki Remastered se sou um jogador veterano?",
+        "answer": "Como um jogador veterano, você pode confiar no fluxo de trabalho clássico e redescobrir aquelas combinações lendárias. Mantenha - o simples e limpo, pois às vezes as formas antigas são as melhores no Sprunki Remastered. Alavancando sua experiência prévia com o jogo original, você pode se adaptar rapidamente à versão remastered e criar coisas ótimas."
+      }
+    ],
+    "ko": [
+      {
+        "question": "Sprunki 리마스터링 버전이 원래 게임과 어떻게 다른가요?",
+        "answer": "Sprunki 리마스터링 버전은 기초부터 재구성되었습니다. 이 버전은 고유의 cristal - clear 32 - bit 오디오, 개선된 레트로 시각 효과, 8K 정의의 클래식 사운드, 제로 - 레이턴시 응답 시간과 같은 기능을 가지고 있습니다. 또한 현대화된 클래식 인터페이스, 현대적인 속도를 가진 원래의 워크플로우, HD의 레거시 프리셋, 그리고 현대적인 안정성을 가지면서도 원래 게임의 진정한 느낌을 유지합니다."
+      },
+      {
+        "question": "Sprunki 리마스터링 버전은 초보자를 위한 것이合适한가요?",
+        "answer": "예, Sprunki 리마스터링 버전은 초보자에게 친화적입니다. 이전보다 더 쉽게 접근할 수 있지만, 원래 게임에서 플레이어들이 기억하는 모든 깊이를 여전히 가지고 있습니다. 따라서 신규 플레이어들은 큰 어려움 없이 게임을 즐기기 시작할 수 있고, 진행하면서 더 복잡한 측면을 탐험할 기회도 있습니다."
+      },
+      {
+        "question": "원래 Sprunki에서의 이전 진행 상황이 Sprunki 리마스터링 버전으로 이어질까요?",
+        "answer": "게임 설명에서 진행 상황 이어짐을 특별히 언급하지 않습니다. 그러나 Sprunki 리마스터링 버전이 당신의 모든 이전 프로젝트를 사랑한다고 말합니다. 따라서 진행 상황 전달에 대해 확정할 수는 없지만, 원래 Sprunki에서의 이전 작품이나 작업이 Sprunki 리마스터링 버전과 어떤 방식으로든 호환될 가능성이 있습니다."
+      },
+      {
+        "question": "Sprunki 리마스터링 버전의 시스템 요구 사항은 무엇인가요?",
+        "answer": "게임 설명에서 특정 시스템 요구 사항을 제공하지 않습니다. 그러나 32 - bit 오디오, 8K 사운드 정의 및 개선된 시각 효과와 같은 기능들을 감안할 때, GPU가 '땀'을 흘리지 않고 원활하게 실행되도록 적절한 GPU, 충분한 RAM과 좋은 프로세서를 가진 비교적 최신 컴퓨터가 필요할 가능성이 높습니다."
+      },
+      {
+        "question": "Sprunki 리마스터링 버전에서 여전히 이전 컨트롤을 사용할 수 있나요?",
+        "answer": "Sprunki 리마스터링 버전이 원래 워크플로우를 유지하기 때문에 이전 컨트롤이 여전히 사용 가능하거나 적어도 비슷한 레이아웃을 가지고 있을 가능성이 있습니다. 그러나 구체적인 정보가 없으므로 100% 확정할 수는 없습니다. 그러나 진정한 느낌을 유지하기 위해 노력한다는 점을 감안할 때, 이전 컨트롤 방식이 어떤 형태로든 포함될 수 있습니다."
+      },
+      {
+        "question": "커뮤니티가 Sprunki 리마스터링 버전에서 어떤 역할을 하나요?",
+        "answer": "Sprunki 리마스터링 버전의 커뮤니티는 처음의 에너지를 되찾고 있습니다. 오래된 veteren 플레이어와 신규 플레이어가 혼합되고 있습니다. 모두가 사랑하는 클래식 도구를 사용하여 멋진 것을 만들고 있습니다. 이것은 게임의 정신을 되살리고, 게임의 지속적인 인기와 개발에 기여합니다."
+      },
+      {
+        "question": "Sprunki 리마스터링 버전의 'Back to the Roots, But Make it LEGENDARY' 슬로건은 무슨 의미인가요?",
+        "answer": "이것은 Sprunki 리마스터링 버전이 게임의 원래 개념과 느낌으로 돌아간다는 것을 의미합니다. 원래 게임을 특별하게 만든 클래식 엔진, 사운드, 인터페이스와 같은 요소를 취합니다. 그리고 더 나은 그래픽, 더 높은 품질의 오디오, 개선된 안정성과 같은 현대 기술로 이들을 향상시켜 더욱 놀라운 그리고 전설적인 게임 경험을 만들어냅니다."
+      },
+      {
+        "question": "Sprunki 리마스터링 버전에는 시각 및 오디오 향상 외에도 새로운 기능이 있나요?",
+        "answer": "게임에서 현대화된 인터페이스, 현대적인 속도를 가진 원래의 워크플로우, HD의 레거시 프리셋을 새로운 기능의 일부로 언급합니다. 또한, 이 버전은 제로 - 레이턴시 응답 시간을 가지고 있습니다. 이것은 원래 게임과 비교할 때 새로운 추가 사항으로 간주될 수 있습니다. 이러한 기능들은 외관뿐만 아니라 전체 게임 플레이 경험을 향상시킵니다."
+      },
+      {
+        "question": "Sprunki 리마스터링 버전을 콘솔에서 플레이할 수 있나요?",
+        "answer": "게임 설명에서 콘솔 호환성을 언급하지 않습니다. 높은 품질의 오디오와 시각 효과와 같은 PC 게임과 더 연관된 기능에 초점을 두고 있기 때문에, Sprunki 리마스터링 버전은 현재 PC 전용 게임일 가능성이 높습니다. 그러나 공식 확인 없이는 확정할 수 없습니다."
+      },
+      {
+        "question": "오래된 플레이어라면 Sprunki 리마스터링 버전에서 어떻게 최선을 발휘할 수 있나요?",
+        "answer": "오래된 플레이어로서, 당신은 클래식 워크플로우를 믿고 그 전설적인 콤보를 재발견할 수 있습니다. 때때로 Sprunki 리마스터링 버전에서 옛날 방식이 최선의 방식이기 때문에 간단하고 깨끗하게 유지하세요. 원래 게임과의 이전 경험을 활용함으로써, 당신은 리마스터링 버전에 빠르게 적응하고 멋진 것을 만들 수 있습니다."
+      }
+    ],
+    "zh-TW": [
+      {
+        "question": "Sprunki Remastered與原版遊戲有何不同？",
+        "answer": "Sprunki Remastered是從頭重新打造的。它擁有諸如獨有的晶瑩剔透的32位元音訊、復古增強的視覺效果、8K清晰度的經典音效、零延遲的反應時間等特色。它還具有現代化的經典介面、保留原始流程但有現代速度、高清晰度的傳統預設，以及在保持原版真實感的同時具備現代的穩定性。"
+      },
+      {
+        "question": "Sprunki Remastered適合初學者嗎？",
+        "answer": "是的，Sprunki Remastered對初學者很友好。它比以往更容易上手，但仍然保有玩家對原版記憶中的所有深度。所以新玩家可以毫無困難地開始享受遊戲，同時也有機會在遊玩過程中探索更複雜的方面。"
+      },
+      {
+        "question": "我在原版Sprunki中的進度能轉移到Sprunki Remastered嗎？",
+        "answer": "遊戲說明沒有具體提到進度的轉移。然而，它確實提到Sprunki Remastered喜愛你所有的舊項目。所以雖然我們不能確定進度的轉移，但看起來你在原版Sprunki中的舊創作或工作在某種程度上可能與Sprunki Remastered相容。"
+      },
+      {
+        "question": "Sprunki Remastered的系統需求是什麼？",
+        "answer": "遊戲說明沒有提供具體的系統需求。但考慮到諸如32位元音訊、8K音效清晰度和增強的視覺效果等特色，它可能需要一台相對現代的電腦，有不錯的顯示卡、足夠的記憶體和良好的處理器，以確保流暢運行，而不會像遊戲特色中描述的那樣讓顯示卡「吃力」。"
+      },
+      {
+        "question": "我還能在Sprunki Remastered中使用舊的控制方式嗎？",
+        "answer": "由於Sprunki Remastered保留了原始的流程，舊的控制方式很可能仍然可用，或者至少有相似的布局。然而，沒有具體的資訊，我們不能百分之百確定。但考慮到它旨在保持真實感，舊的控制方案可能會以某種形式被納入。"
+      },
+      {
+        "question": "社群在Sprunki Remastered中扮演什麼角色？",
+        "answer": "Sprunki Remastered的社群正在重拾首日的活力。老玩家和新玩家相互交流。他們正在使用大家喜愛的經典工具創造很棒的事物，這有助於重振遊戲的精神，並對其持續的流行和發展做出貢獻。"
+      },
+      {
+        "question": "「回歸根源，但要造就傳奇」這一標語對Sprunki Remastered意味著什麼？",
+        "answer": "這意味著Sprunki Remastered回歸到遊戲的原始概念和感覺。它採用了使原版遊戲特別的元素，如經典的引擎、音效和介面。但然後它用現代技術，如更好的圖形、更高品質的音訊和改進的穩定性來增強它們，以創造更令人驚歎和傳奇的遊戲體驗。"
+      },
+      {
+        "question": "除了視覺和音訊增強之外，Sprunki Remastered還有任何新功能嗎？",
+        "answer": "遊戲提到現代化的介面、具有現代速度的原始流程，以及高清晰度的傳統預設是其新功能的一部分。此外，它有零延遲的反應時間，與原版相比，這可以被視為新增的功能。這些功能不但改善了美觀性，也改善了整體的遊玩體驗。"
+      },
+      {
+        "question": "我能在遊戲主機上玩Sprunki Remastered嗎？",
+        "answer": "遊戲說明沒有提到主機相容性。考慮到它注重高品質音訊和視覺效果等更常與電腦遊戲相關的特色，目前Sprunki Remastered很可能是一款僅限電腦的遊戲。但沒有官方確認，我們不能確定。"
+      },
+      {
+        "question": "如果我是老玩家，如何在Sprunki Remastered中發揮最佳水平？",
+        "answer": "作為老玩家，你可以信賴經典的流程，重新發掘那些傳奇的組合。保持簡單和乾淨，因為在Sprunki Remastered中，有時舊的方法就是最好的方法。透過利用你之前玩原版遊戲的經驗，你可以迅速適應重製版本並創造出很棒的事物。"
+      }
+    ],
+    "vi": [
+      {
+        "question": "Điều gì khiến Sprunki Remastered khác biệt so với trò chơi gốc?",
+        "answer": "Sprunki Remastered được xây dựng lại từ đầu. Nó có các tính năng như âm thanh 32 - bit trong suốt chỉ dành riêng cho nó, đồ họa được nâng cấp theo kiểu cổ điển, âm thanh cổ điển ở độ phân giải 8K, thời gian phản hồi không có độ trễ. Nó cũng có giao diện cổ điển được hiện đại hóa, quy trình làm việc ban đầu với tốc độ hiện đại, các cài đặt mặc định cũ ở chất lượng HD và sự ổn định hiện đại trong khi vẫn duy trì cảm giác đích thực của bản gốc."
+      },
+      {
+        "question": "Sprunki Remastered có phù hợp cho người mới bắt đầu không?",
+        "answer": "Có, Sprunki Remastered thân thiện với người mới bắt đầu. Nó dễ tiếp cận hơn bao giờ hết, nhưng vẫn có tất cả những phần sâu sắc mà người chơi nhớ từ bản gốc. Vì vậy, người chơi mới có thể bắt đầu thưởng thức trò chơi mà không gặp nhiều khó khăn đồng thời cũng có cơ hội khám phá những khía cạnh phức tạp hơn khi họ tiến bộ."
+      },
+      {
+        "question": "Tiến trình trò chơi trước của tôi trong Sprunki gốc có được chuyển sang Sprunki Remastered không?",
+        "answer": "Mô tả trò chơi không đề cập cụ thể về việc chuyển tiến trình. Tuy nhiên, nó có nói rằng Sprunki Remastered quý trọng tất cả các dự án cũ của bạn. Vì vậy, mặc dù chúng ta không thể chắc chắn về việc chuyển tiến trình, nhưng có vẻ như các tác phẩm hoặc công việc cũ của bạn trong Sprunki gốc sẽ tương thích theo một cách nào đó với Sprunki Remastered."
+      },
+      {
+        "question": "Các yêu cầu hệ thống cho Sprunki Remastered là gì?",
+        "answer": "Mô tả trò chơi không cung cấp các yêu cầu hệ thống cụ thể. Nhưng xét thấy các tính năng như âm thanh 32 - bit, độ phân giải âm thanh 8K và đồ họa được nâng cấp, có thể cần một máy tính tương đối hiện đại với GPU tốt, RAM đủ và một bộ xử lý tốt để đảm bảo chạy mượt mà mà không làm GPU 'bận rộn' như được mô tả trong các tính năng của trò chơi."
+      },
+      {
+        "question": "Tôi có thể vẫn sử dụng các phím điều khiển cũ trong Sprunki Remastered không?",
+        "answer": "Vì Sprunki Remastered duy trì quy trình làm việc ban đầu, có thể các phím điều khiển cũ vẫn có sẵn hoặc ít nhất có bố cục tương tự. Tuy nhiên, không có thông tin cụ thể, chúng ta không thể chắc chắn 100%. Nhưng xét thấy nó nhằm duy trì cảm giác đích thực, các phương thức điều khiển cũ có thể được kết hợp theo một hình thức nào đó."
+      },
+      {
+        "question": "Cộng đồng đóng vai trò như thế nào trong Sprunki Remastered?",
+        "answer": "Cộng đồng Sprunki Remastered đang mang lại năng lượng ban đầu. Những người chơi lâu năm và người mới đang hòa nhập với nhau. Họ đang tạo ra những thứ tuyệt vời bằng cách sử dụng các công cụ cổ điển mà mọi người yêu thích, điều này giúp hồi sinh tinh thần của trò chơi và góp phần vào sự phổ biến và phát triển liên tục của nó."
+      },
+      {
+        "question": "Cụm từ 'Quay trở lại gốc, nhưng làm cho nó trở thành LEGENDARY' có nghĩa gì đối với Sprunki Remastered?",
+        "answer": "Nó có nghĩa là Sprunki Remastered quay trở lại khái niệm và cảm giác ban đầu của trò chơi. Nó lấy các yếu tố đã làm nên sự đặc biệt của bản gốc, chẳng hạn như động cơ cổ điển, âm thanh và giao diện. Nhưng sau đó nó nâng cấp chúng bằng công nghệ hiện đại như đồ họa tốt hơn, âm thanh chất lượng cao hơn và sự ổn định được cải thiện để tạo ra trải nghiệm chơi game thú vị hơn và mang tính huyền thoại hơn."
+      },
+      {
+        "question": "Có bất kỳ tính năng mới nào trong Sprunki Remastered ngoài việc nâng cấp đồ họa và âm thanh không?",
+        "answer": "Trò chơi đề cập giao diện hiện đại hóa, quy trình làm việc ban đầu với tốc độ hiện đại và các cài đặt mặc định cũ ở chất lượng HD là một phần của các tính năng mới của nó. Ngoài ra, nó có thời gian phản hồi không có độ trễ, điều này có thể được coi là một bổ sung mới so với bản gốc. Các tính năng này không chỉ cải thiện vẻ đẹp mà còn trải nghiệm chơi game tổng thể."
+      },
+      {
+        "question": "Tôi có thể chơi Sprunki Remastered trên console không?",
+        "answer": "Mô tả trò chơi không đề cập về tính tương thích với console. Xét thấy sự tập trung vào các tính năng như âm thanh và đồ họa chất lượng cao thường được liên kết với trò chơi trên PC hơn, có thể Sprunki Remastered chỉ là trò chơi dành cho PC cho đến hiện tại. Nhưng không có xác nhận chính thức, chúng ta không thể chắc chắn."
+      },
+      {
+        "question": "Làm thế nào để tôi tận dụng tối đa Sprunki Remastered nếu tôi là một người chơi lâu năm?",
+        "answer": "Là một người chơi lâu năm, bạn có thể tin tưởng vào quy trình làm việc cổ điển và khám phá lại những bộ kết hợp huyền thoại. Giữ nó đơn giản và gọn gàng vì đôi khi cách cũ là cách tốt nhất trong Sprunki Remastered. Bằng cách tận dụng kinh nghiệm trước của bạn với trò chơi gốc, bạn có thể nhanh chóng thích nghi với phiên bản được cải tiến và tạo ra những thứ tuyệt vời."
+      }
+    ],
+    "id": [
+      {
+        "question": "Apa yang membuat Sprunki Remastered berbeda dari game aslinya?",
+        "answer": "Sprunki Remastered dibangun ulang dari awal. Ini memiliki fitur seperti audio 32 - bit yang sangat jernih hanya untuk game ini, tampilan yang diperbaiki secara retro, suara klasik dengan definisi 8K, waktu respon tanpa latency. Game ini juga memiliki antarmuka klasik yang dimodernisasi, alur kerja asli dengan kecepatan modern, preset lama dalam HD, dan stabilitas modern sambil tetap mempertahankan nuansa asli dari game asli."
+      },
+      {
+        "question": "Apakah Sprunki Remastered cocok untuk pemula?",
+        "answer": "Ya, Sprunki Remastered ramah untuk pemula. Lebih mudah daripada sebelumnya untuk dimainkan, tetapi masih memiliki semua kedalaman yang dikenang oleh pemain dari game asli. Jadi pemain baru dapat mulai menikmati game tanpa banyak kesulitan sambil juga memiliki kesempatan untuk mengeksplorasi aspek yang lebih kompleks seiring perkembangan mereka."
+      },
+      {
+        "question": "Apakah kemajuan saya sebelumnya dalam Sprunki asli akan diteruskan ke Sprunki Remastered?",
+        "answer": "Deskripsi game tidak secara spesifik menyebutkan penyelesaian kemajuan. Namun, disebutkan bahwa Sprunki Remastered menyukai semua proyek lama Anda. Jadi sementara kita tidak bisa yakin tentang transfer kemajuan, tampaknya kemungkinan besar bahwa karya atau pekerjaan lama Anda dalam Sprunki asli akan kompatibel dengan Sprunki Remastered dalam beberapa cara."
+      },
+      {
+        "question": "Apa persyaratan sistem untuk Sprunki Remastered?",
+        "answer": "Deskripsi game tidak memberikan persyaratan sistem spesifik. Namun, mengingat fitur - fitur seperti audio 32 - bit, definisi suara 8K dan tampilan yang diperbaiki, kemungkinan besar membutuhkan komputer yang relatif modern dengan GPU yang baik, RAM yang cukup dan prosesor yang baik untuk memastikan berjalan lancar tanpa membuat GPU bekerja keras seperti yang dijelaskan dalam fitur - fitur game."
+      },
+      {
+        "question": "Bisakah saya masih menggunakan kontrol lama dalam Sprunki Remastered?",
+        "answer": "Karena Sprunki Remastered mempertahankan alur kerja asli, kemungkinan besar kontrol lama masih tersedia atau setidaknya memiliki tata letak yang serupa. Namun, tanpa informasi spesifik, kita tidak bisa 100% yakin. Namun mengingat tujuan untuk mempertahankan nuansa asli, skema kontrol lama mungkin dimasukkan dalam beberapa bentuk."
+      },
+      {
+        "question": "Bagaimana komunitas berperan dalam Sprunki Remastered?",
+        "answer": "Komunitas Sprunki Remastered membawa kembali semangat pertama kali. Veteran lama dan pemain baru bergabung. Mereka menciptakan hal - hal hebat menggunakan alat - alat klasik yang disukai semua orang, yang membantu menghidupkan kembali semangat game dan berkontribusi pada popularitas dan pengembangan game yang terus berlangsung."
+      },
+      {
+        "question": "Apa arti slogan 'Kembali ke Akar, Tetapi Jadikan itu LEGENDARY' untuk Sprunki Remastered?",
+        "answer": "Ini berarti bahwa Sprunki Remastered kembali ke konsep dan nuansa asli game. Mengambil elemen - elemen yang membuat game asli spesial, seperti mesin klasik, suara, dan antarmuka. Namun kemudian meningkatkan mereka dengan teknologi modern seperti grafik yang lebih baik, audio berkualitas tinggi, dan stabilitas yang ditingkatkan untuk menciptakan pengalaman bermain game yang lebih luar biasa dan legendaris."
+      },
+      {
+        "question": "Apakah ada fitur - fitur baru dalam Sprunki Remastered selain perbaikan visual dan audio?",
+        "answer": "Game tersebut menyebutkan antarmuka yang dimodernisasi, alur kerja asli dengan kecepatan modern, dan preset lama dalam HD sebagai bagian dari fitur - fitur baru. Selain itu, memiliki waktu respon tanpa latency yang bisa dianggap sebagai penambahan baru dibandingkan dengan game asli. Fitur - fitur ini tidak hanya meningkatkan estetika tetapi juga pengalaman bermain keseluruhan."
+      },
+      {
+        "question": "Bisakah saya bermain Sprunki Remastered di konsol?",
+        "answer": "Deskripsi game tidak menyebutkan kompatibilitas konsol. Mengingat fokus pada fitur - fitur seperti audio dan visual berkualitas tinggi yang lebih sering dikaitkan dengan gaming PC, kemungkinan besar Sprunki Remastered adalah game hanya untuk PC saat ini. Namun tanpa konfirmasi resmi, kita tidak bisa yakin."
+      },
+      {
+        "question": "Bagaimana saya bisa mendapatkan yang terbaik dari Sprunki Remastered jika saya adalah pemain lama?",
+        "answer": "Sebagai pemain lama, Anda dapat mempercayai alur kerja klasik dan menemukan kembali kombinasi - kombinasi legendaris. Tetap sederhana dan bersih karena terkadang cara lama adalah cara terbaik dalam Sprunki Remastered. Dengan memanfaatkan pengalaman sebelumnya Anda dengan game asli, Anda dapat dengan cepat beradaptasi dengan versi yang diremaster dan menciptakan hal - hal hebat."
+      }
+    ],
+    "th": [
+      {
+        "question": "Sprunki Remastered มีความแตกต่างจากเกมเดิมอย่างไร",
+        "answer": "Sprunki Remastered ถูกสร้างขึ้นใหม่จากที่ต้นตอไป. มันมีลักษณะเช่นเสียง 32 - bit ที่สวยใสชัดเจนเป็นเอกลักษณะเฉพาะของมัน, ภาพที่ปรับปรุงแบบรีโทร, เสียงคลาสสิกในค่าความละเอียด 8K, เวลาในการตอบสนองแบบศูนย์ลาเทนซ์. มันยังมีอินเทอร์เฟซคลาสสิกที่ทันสมัย, การทำงานเดิมด้วยความเร็วสมัยใหม่, ค่าตั้งค่าเดิมในความละเอียด HD และความเสถียรในสมัยใหม่ samt ในขณะเดียวกันยังคงรักษาความเป็นจริงของเกมเดิม."
+      },
+      {
+        "question": "Sprunki Remastered เหมาะสำหรับผู้เริ่มต้นหรือไม่",
+        "answer": "ใช่, Sprunki Remastered เป็นที่นิยมสำหรับผู้เริ่มต้น. มันง่ายกว่าเดิมในการเข้าไปเล่น, แต่ยังคงมีความลึกทั้งหมดที่ผู้เล่นจำได้จากเกมเดิม. ดังนั้นผู้เล่นใหม่สามารถเริ่มสนุกกับเกมโดยไม่ยากมากและยังมีโอกาสที่จะสำรวจด้านที่ซับซ้อนมากขึ้นเมื่อพวกเขาเดินหน้าไปในเกม."
+      },
+      {
+        "question": "ความก้าวหน้าที่เคยทำใน Sprunki เดิม จะถูกนำมาใช้ใน Sprunki Remastered หรือไม่",
+        "answer": "คำอธิบายเกมไม่ได้กล่าวถึงการนำความก้าวหน้ามาใช้โดยเฉพาะ. อย่างไรก็ตาม, มันระบุว่า Sprunki Remastered รักโครงการเก่าทั้งหมดของคุณ. ดังนั้นในขณะที่เราไม่สามารถแน่ใจได้ว่าความก้าวหน้าจะถูกโอนหรือไม่, แต่มันดูเหมือนว่าความสร้างสรรค์หรืองานเก่าของคุณใน Sprunki เดิม จะเข้ากันได้ในบางแบบกับ Sprunki Remastered."
+      },
+      {
+        "question": "Sprunki Remastered ต้องการความต้องการของระบบอะไร",
+        "answer": "คำอธิบายเกมไม่ได้ระบุความต้องการของระบบโดยเฉพาะ. แต่จากลักษณะเช่นเสียง 32 - bit, ค่าความละเอียดเสียง 8K และภาพที่ปรับปรุง, มันมีแนวโน้มที่จะต้องการคอมพิวเตอร์สมัยใหม่ที่ค่อนข้างทันสมัยที่มี GPU ที่ดี, RAM ที่เพียงพอและโปรเซสเซอร์ที่ดีเพื่อให้แน่ใจว่าเกมทำงานราบรื่นโดยไม่ทำให้ GPU 'เหงื่อ' ตามที่อธิบายในลักษณะของเกม."
+      },
+      {
+        "question": "ฉันยังสามารถใช้การควบคุมเดิมใน Sprunki Remastered หรือไม่",
+        "answer": "เนื่องจาก Sprunki Remastered รักษาการทำงานเดิม, มันมีแนวโน้มที่การควบคุมเดิมยังคงมีอยู่หรืออย่างน้อยมีโครงสร้างที่คล้ายคลึง. อย่างไรก็ตาม, โดยไม่มีข้อมูลเฉพาะ, เราไม่สามารถแน่ใจได้ 100%. แต่พิจารณาจากที่มันมีเป้าหมายที่จะรักษาความเป็นจริงเดิม, โครงสร้างการควบคุมเดิมอาจถูกรวมอยู่ในบางรูปแบบ."
+      },
+      {
+        "question": "ชุมชนมีบทบาทอย่างไรใน Sprunki Remastered",
+        "answer": "ชุมชน Sprunki Remastered ส่งกลับพลังงานในวันแรก. ผู้เล่นที่มีประสบการณ์แบบเก่าและผู้เล่นใหม่กำลังเข้าครัวเข้าฝาน. พวกเขากำลังสร้างสิ่งดีๆ โดยใช้เครื่องมือคลาสสิกที่ทุกคนรัก, ซึ่งช่วยฟื้นฟูจิตสำนึกของเกมและมีส่วนช่วยในการมีความนิยมและการพัฒนาเป็นไปอย่างต่อเนื่อง."
+      },
+      {
+        "question": "คำสโลแกน 'กลับไปที่ราก, แต่ทำให้มันเป็น LEGENDARY' หมายถึงอะไรสำหรับ Sprunki Remastered",
+        "answer": "มันหมายความว่า Sprunki Remastered กลับไปที่แนวคิดและความรู้สึกเดิมของเกม. มันเอาเอเลเมนต์ที่ทำให้เกมเดิมเป็นพิเศษ เช่นเครื่องยนต์คลาสสิก, เสียง และอินเทอร์เฟซ. แต่จากนั้นมันปรับปรุงพวกมันด้วยเทคโนโลยีสมัยใหม่เช่นกราฟิกที่ดีขึ้น, เสียงที่มีคุณภาพสูงและความเสถียรที่ดีขึ้นเพื่อสร้างประสบการณ์เล่นเกมที่ยิ่งใหญ่และเป็นที่นิยมมากขึ้น."
+      },
+      {
+        "question": "มีลักษณะใหม่ใน Sprunki Remastered นอกเหนือจากการปรับปรุงภาพและเสียงหรือไม่",
+        "answer": "เกมกล่าวถึงอินเทอร์เฟซที่ทันสมัย, การทำงานเดิมด้วยความเร็วสมัยใหม่ และค่าตั้งค่าเดิมในความละเอียด HD เป็นส่วนหนึ่งของลักษณะใหม่ของมัน. นอกจากนี้, มันมีเวลาในการตอบสนองแบบศูนย์ลาเทนซ์ ซึ่งอาจถูกพิจารณาเป็นสิ่งที่เพิ่มใหม่เมื่อเทียบกับเกมเดิม. ลักษณะเหล่านี้ไม่เพียงแต่ปรับปรุงด้านศิลปะแต่ยังเป็นประสบการณ์การเล่นเกมโดยรวมด้วย."
+      },
+      {
+        "question": "ฉันสามารถเล่น Sprunki Remastered บนคอนโซลหรือไม่",
+        "answer": "คำอธิบายเกมไม่ได้กล่าวถึงความเข้ากันได้กับคอนโซล. เมื่อพิจารณาจากความสนใจในลักษณะเช่นเสียงและภาพที่มีคุณภาพสูงซึ่งมีความเกี่ยวข้องกับเกมบน PC มากกว่า, มันมีแนวโน้มที่ Sprunki Remastered เป็นเกมสำหรับ PC เท่านั้นในขณะนี้. แต่โดยไม่มีการยืนยันจากทางอัตโนมัติ, เราไม่สามารถแน่ใจได้."
+      },
+      {
+        "question": "ฉันเป็นผู้เล่นเก่าครั้งแรก จะทำอย่างไรเพื่อให้ได้ประโยชน์สูงสุดจาก Sprunki Remastered",
+        "answer": "ในฐานะผู้เล่นเก่าครั้งแรก, คุณสามารถไว้วางใจในการทำงานแบบคลาสสิกและค้นพบคำสั่งคอมโบที่เป็นที่นิยมอีกครั้ง. ให้มันเป็นเรื่องง่ายและสะอาดเพราะบางครั้งวิธีเก่าเป็นวิธีที่ดีที่สุดใน Sprunki Remastered. โดยใช้ประโยชน์จากประสบการณ์เดิมของคุณกับเกมเดิม, คุณสามารถปรับตัวไปยังเวอร์ชัน remastered ได้อย่างรวดเร็วและสร้างสิ่งดีๆ."
+      }
+    ],
+    "es": [
+      {
+        "question": "¿Qué hace que Sprunki Remastered sea diferente del juego original?",
+        "answer": "Sprunki Remastered se ha reconstruido desde cero. Tiene características exclusivas como un audio de 32 bits cristalino, una estética retro mejorada, sonidos clásicos en definición 8K, un tiempo de respuesta sin latencia. También tiene una interfaz clásica modernizada, un flujo de trabajo original con la velocidad moderna, presets antiguos en HD y una estabilidad moderna, manteniendo al mismo tiempo la sensación auténtica del original."
+      },
+      {
+        "question": "¿Es Sprunki Remastered adecuado para principiantes?",
+        "answer": "Sí, Sprunki Remastered es amigable para principiantes. Es más fácil que nunca empezar a jugarlo, pero todavía tiene toda la profundidad que los jugadores recuerdan del original. Así, los nuevos jugadores pueden empezar a disfrutar del juego sin muchas dificultades y, a la vez, tienen la oportunidad de explorar aspectos más complejos a medida que avanzan."
+      },
+      {
+        "question": "¿Se transferirán mis progresos anteriores en el original Sprunki al Sprunki Remastered?",
+        "answer": "La descripción del juego no menciona específicamente la transferencia de progresos. Sin embargo, dice que Sprunki Remastered ama todos tus proyectos antiguos. Así que, aunque no podemos estar seguros de la transferencia de progresos, es probable que tus creaciones o trabajos antiguos en el original Sprunki sean compatibles de alguna manera con Sprunki Remastered."
+      },
+      {
+        "question": "¿Cuáles son los requisitos del sistema para Sprunki Remastered?",
+        "answer": "La descripción del juego no proporciona requisitos del sistema específicos. Pero dado que tiene características como audio de 32 bits, definición sonora 8K y una estética mejorada, es probable que se requiera una computadora relativamente moderna con una GPU decente, suficiente memoria RAM y un buen procesador para asegurar un funcionamiento fluido sin hacer que la GPU 'sude' como se describe en las características del juego."
+      },
+      {
+        "question": "¿Todavía puedo usar los controles antiguos en Sprunki Remastered?",
+        "answer": "Como Sprunki Remastered mantiene el flujo de trabajo original, es probable que los controles antiguos todavía estén disponibles o, al menos, tengan un diseño similar. Sin embargo, sin información específica, no podemos estar 100% seguros. Pero teniendo en cuenta que pretende mantener la sensación auténtica, es posible que los esquemas de control antiguos se incorporen de alguna forma."
+      },
+      {
+        "question": "¿Qué papel juega la comunidad en Sprunki Remastered?",
+        "answer": "La comunidad de Sprunki Remastered está devolviendo la energía inicial. Los veteranos del antiguo estilo y los nuevos jugadores se están mezclando. Están creando grandes cosas utilizando las herramientas clásicas que a todos les gustan, lo que ayuda a revivir el espíritu del juego y contribuye a su popularidad y desarrollo continuos."
+      },
+      {
+        "question": "¿Qué significa el eslogan 'Volver a las raíces, pero hacerlo LEGENDARIO' para Sprunki Remastered?",
+        "answer": "Significa que Sprunki Remastered vuelve al concepto y la sensación originales del juego. Toma los elementos que hicieron especial al original, como el motor clásico, los sonidos y la interfaz. Pero luego los mejora con tecnología moderna como gráficos mejores, audio de mayor calidad y una estabilidad mejorada para crear una experiencia de juego aún más increíble y legendaria."
+      },
+      {
+        "question": "¿Hay alguna nueva característica en Sprunki Remastered aparte de las mejoras visuales y auditivas?",
+        "answer": "El juego menciona una interfaz modernizada, un flujo de trabajo original con la velocidad moderna y presets antiguos en HD como parte de sus nuevas características. Además, tiene un tiempo de respuesta sin latencia, lo que podría considerarse una nueva adición en comparación con el original. Estas características no solo mejoran la estética sino también la experiencia general de juego."
+      },
+      {
+        "question": "¿Puedo jugar Sprunki Remastered en una consola?",
+        "answer": "La descripción del juego no menciona la compatibilidad con consolas. Dado el enfoque en características como el audio y la estética de alta calidad que se asocian más comúnmente con el juego en PC, es probable que Sprunki Remastered sea un juego solo para PC por ahora. Pero sin confirmación oficial, no podemos estar seguros."
+      },
+      {
+        "question": "¿Cómo puedo sacar el máximo provecho de Sprunki Remastered si soy un jugador veterano?",
+        "answer": "Como jugador veterano, puedes confiar en el flujo de trabajo clásico y redescubrir esas combinaciones legendarias. Mantente simple y limpio, ya que a veces las viejas formas son las mejores en Sprunki Remastered. Al aprovechar tu experiencia previa con el juego original, puedes adaptarte rápidamente a la versión remasterizada y crear grandes cosas."
+      }
+    ]
+  },
+  "userInputText": "\nGame Name: Sprunki Remastered\nGame Description: sprunki remastered Introduction\nWelcome to SPRUNKI REMASTERED - Back to the Roots, But Make it LEGENDARY! 🌟\n\nYo fam, hold onto your headphones because SPRUNKI REMASTERED just dropped and it's hitting different! We're taking it back to where it all began, but with that crispy, ultra-HD, next-level polish you've been dreaming of!\n\nThe Return to Greatness SPRUNKI REMASTERED isn't just a throwback - it's the OG experience rebuilt from the ground up with love, respect, and enough processing power to make your GPU sweat! Every pixel, every sound, every vibe has been carefully crafted to perfection in SPRUNKI REMASTERED.\n\nWhy SPRUNKI REMASTERED Hits Different\n\nClassic Engine, Modern Power\n\nCrystal-clear 32-bit audio (SPRUNKI REMASTERED exclusive!)\nRetro-enhanced visuals\nClassic sounds in 8K definition\nZero-latency response time\nOld School Meets New Cool\n\nModernized classic interface\nOriginal workflow, modern speed\nLegacy presets in HD\nAuthentic feel, modern stability\nBack to Basics (But Better) SPRUNKI REMASTERED knows what made the original special - and makes it PERFECT! Whether you're an OG or a newcomer, SPRUNKI REMASTERED feels like coming home to a place you never knew you missed!\n\nCommunity Revival The SPRUNKI REMASTERED squad is bringing back that day-one energy! Old-school veterans and fresh faces mixing it up, creating pure gold with those classic tools we all fell in love with!\n\nJump Back In\n\nExperience the classics in HD\nRediscover the magic\nJoin the revival movement\nCreate timeless bangers\nFAQ (From The Archives)\n\nWhy SPRUNKI REMASTERED? Because perfection deserves a victory lap!\nIs it just nostalgia? Nah fam - this is nostalgia with superpowers!\nBetter than the original? Same soul, better body - MUCH better body!\nWill my old projects work? SPRUNKI REMASTERED loves all your old heat!\nIs it beginner-friendly? Easier than ever, but with all the depth you remember!\nVintage Pro Tips\n\nTrust the classic workflow\nRediscover those legendary combos\nKeep it simple, keep it clean\nSometimes the old ways ARE the best ways\nThe Perfect Blend SPRUNKI REMASTERED isn't trying to reinvent the wheel - it's just making it roll smoother than ever! Ready to experience perfection, remastered?\n\nSee you in the studio, legends! 🎵🎚️\n\nWARNING: Side effects of SPRUNKI REMASTERED may include:\n\nUncontrollable head nodding\nSudden urges to dig through your old projects\nExcessive use of the phrase \"they don't make 'em like this anymore\"\nAnd creating absolute TIMELESS BANGERS! 🎧✨\nRemember: Some things are classics for a reason - SPRUNKI REMASTERED is one of them! 🏆🌟\n",
+  "createdTime": "2024-12-14 16:17:34"
 }

@@ -80,7 +80,7 @@ function Ad() {
     const sizeObj = parseSize(size);
     const ratioObj = parseRatio(ratio);
     const isMobile = window.innerWidth <= 768;
-    const maxWidth = isMobile ? window.innerWidth : Math.min(window.innerWidth * 0.4, 600);
+    const maxWidth = isMobile ? window.innerWidth * 0.5 : Math.min(window.innerWidth * 0.25, 300);
     
     if (!sizeObj && !ratioObj) {
       return { 

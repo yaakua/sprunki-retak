@@ -2,7 +2,7 @@ import { siteConfig } from '@/lib/config/site';
 import { PropsWithLocale, RecommendationItem } from '@/lib/types';
 import { getTranslations } from 'next-intl/server';
 import Link from 'next/link';
-
+import Image from 'next/image';
 // 游戏推荐组件(使用全局配置)
 export default async function Recommendation({ locale }: PropsWithLocale) {
   const t = await getTranslations('HomeRecommendation');
@@ -39,11 +39,13 @@ export default async function Recommendation({ locale }: PropsWithLocale) {
             transition-all duration-300 hover:shadow-lg" 
           >
             <div className="aspect-[4/3] md:aspect-[16/9] relative">
-              <img
+              <Image
                 src={game.cover}
                 alt={game.title}
                 loading="lazy"
                 decoding="async"
+                width={100}
+                height={100}
                 className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
               />
               

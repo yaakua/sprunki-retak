@@ -8,6 +8,14 @@
     "position": "bottom"
   },
   {
+    "title": "enjoyable ball game",
+    "cover": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-01-07/images/1736252724407-f6bjdh.png",
+    "url": "/games/enjoyable-ball-game",
+    "category": "",
+    "visible": true,
+    "position": "all"
+  },
+  {
     "title": "Sprunki: Skibidi Toilet 2.0",
     "cover": "/games/sprunki-skibidi-toilet-2-0/game_screenshot.webp",
     "url": "/games/sprunki-skibidi-toilet-2-0",
@@ -17,7 +25,7 @@
   },
   {
     "title": "Sprunki Remastered",
-    "cover": "/games/sprunki-remastered/game_screenshot.webp",
+    "cover": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-01-07/images/1736234827168-l03ang.png",
     "url": "/games/sprunki-remastered",
     "category": "",
     "visible": true,
@@ -25,23 +33,15 @@
   },
   {
     "title": "Sprunki Infected",
-    "cover": "/games/sprunki-infected/game_screenshot.webp",
+    "cover": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-01-07/images/1736252447476-xxuii9.webp",
     "url": "/games/sprunki-infected",
     "category": "TOP",
     "visible": true,
     "position": "all"
   },
   {
-    "title": "Merge World ",
-    "cover": "/games/merge-world/game_screenshot.webp",
-    "url": "/games/merge-world",
-    "category": "",
-    "visible": true,
-    "position": "all"
-  },
-  {
     "title": "Sprunked 2.0",
-    "cover": "/games/sprunked-2-0/game_screenshot.webp",
+    "cover": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-01-07/images/1736236887728-e2pqwi.webp",
     "url": "/games/sprunked-2-0",
     "category": "",
     "visible": true,

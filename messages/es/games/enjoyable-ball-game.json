@@ -1,0 +1,69 @@
+{
+  "enjoyable-ball-game": {
+    "title": "Divertido Juego de Pelota",
+    "slogan": "¡Sumérgete en la diversión con Divertido Juego de Pelota!",
+    "description": "Este es un divertido juego de pelota que puedes jugar aquí en CrazyGames, gratis. Divertido Juego de Pelota no está bloqueado. Esta página incluye una sección de controles detallada para que puedas comenzar. De esa manera, es fácil ver cómo jugar Divertido Juego de Pelota. El juego utiliza HTML5 para funcionar en la mayoría de los navegadores. Si te gustó este juego, también juega a nuestros otros juegos de pelota o <a href='https://www.crazygames.com/game/mini-golf-club' target='_blank'>Mini Golf Club</a> y <a href='https://www.crazygames.com/game/soccer-legends-2021' target='_blank'>Soccer Legends 2021</a>.(enjoyable ball game)",
+    "Loading": {
+      "title": "Cargando Divertido Juego de Pelota..."
+    },
+    "Navbar": {
+      "title": "Navegación"
+    },
+    "Common": {
+      "createAt": "Crear En",
+      "guide": "Guía",
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfServices": "Condiciones de Servicio",
+      "text": "Contenido",
+      "help": "Ayuda",
+      "friendlyLinks": "Enlaces Amistosos",
+      "articleList": "Lista de Artículos",
+      "home": "Inicio"
+    },
+    "HomeIframe": {
+      "title": "Divertido Juego de Pelota",
+      "description": "¡Juega a Divertido Juego de Pelota ahora!",
+      "iframeTitle": "Vista Previa del Juego",
+      "fullscreenButton": "Pantalla Completa",
+      "shareButton": "Compartir",
+      "urlCopied": "¡URL copiada al portapapeles!",
+      "downloadGame": "Descargar Juego",
+      "playGame": "Jugar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Divertido Juego de Pelota",
+      "whatIsTitle": "¿Qué es Divertido Juego de Pelota?",
+      "whatIsDescription": "Divertido Juego de Pelota es un juego emocionante y lleno de diversión donde controlas una pelota a través de varios desafíos. Perfecto para jugadores que buscan una experiencia divertida e interesante.(enjoyable ball game)",
+      "howToPlayTitle": "Cómo Jugar",
+      "howToPlayStep1": "Usa las flechas para mover la pelota.",
+      "howToPlayStep2": "Evita los obstáculos y recolecta puntos.",
+      "howToPlayStep3": "Alcanza el final de cada nivel para avanzar.",
+      "keyFeaturesTitle": "Características Clave",
+      "feature1Title": "Jugabilidad Atractiva",
+      "feature1Description": "Divertido Juego de Pelota ofrece horas de diversión con su jugabilidad atractiva y desafiante.(enjoyable ball game)",
+      "feature2Title": "Múltiples Niveles",
+      "feature2Description": "Con múltiples niveles, Divertido Juego de Pelota te mantiene entretenido durante horas.(enjoyable ball game)",
+      "feature3Title": "Controles Fáciles",
+      "feature3Description": "Controles simples e intuitivos hacen que Divertido Juego de Pelota sea fácil de jugar para todos.(enjoyable ball game)",
+      "feature4Title": "Gráficos de Alta Calidad",
+      "feature4Description": "Divertido Juego de Pelota presenta gráficos de alta calidad que mejoran tu experiencia de juego.(enjoyable ball game)"
+    },
+    "HomeFAQs": {
+      "title": "Preguntas Frecuentes"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo del Juego"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendaciones"
+    },
+    "HomeComments": {
+      "title": "Comentarios del Juego"
+    },
+    "GamePage": {
+      "title": "Todos los Juegos",
+      "description": "Todos los Juegos",
+      "games": "Juegos"
+    }
+  }
+}

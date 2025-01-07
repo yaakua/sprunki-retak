@@ -1,27 +1,7 @@
 [
   {
-    "title": "সকল গেমস",
-    "href": "/games",
-    "visible": true
-  },
-  {
-    "title": "স্প্রুঙ্কি সংক্রমিত",
-    "href": "/games/sprunki-infected",
-    "visible": true
-  },
-  {
-    "title": "স্প্রুঙ্কি পুনর্নির্মাণ",
-    "href": "/games/sprunki-remastered",
-    "visible": true
-  },
-  {
     "title": "স্প্রঙ্কড ২.০",
     "href": "/games/sprunked-2-0",
-    "visible": true
-  },
-  {
-    "title": "স্প্রুঙ্কি: স্কিবিডি টয়লেট ২.০",
-    "href": "/games/sprunki-skibidi-toilet-2-0",
     "visible": true
   }
 ]

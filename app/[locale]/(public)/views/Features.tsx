@@ -18,7 +18,7 @@ export default async function Features({pageName}:{pageName:string|null}) {
         <div className="flex-shrink-0 w-1/3">
           <div className="bg-gray-800/50 rounded-2xl p-1">
             <div className="h-[150px] md:h-[250px] overflow-hidden rounded-xl">
-              <img
+              <Image
                 src={game_screenshot_path}
                 alt="Game screenshot"
                 className="w-full h-full object-cover object-top rounded-xl"

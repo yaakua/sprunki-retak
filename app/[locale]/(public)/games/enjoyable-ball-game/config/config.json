@@ -1,0 +1,115 @@
+{
+  "name": "enjoyable ball game",
+  "pagePath": "/games/enjoyable-ball-game",
+  "pageName": "enjoyable-ball-game",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://games.crazygames.com/en_US/stack-fall-xsv/index.html?v=1.316",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "GamerProX",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/GamerProX.png",
+      "content": "Stack Fall is absolutely addictive! Can't stop playing, it's so much fun. The controls are super easy to get the hang of. 10/10 would recommend!"
+    },
+    {
+      "author": "PixelPirate",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/PixelPirate.png",
+      "content": "OMG, Stack Fall is the bomb! The graphics are simple yet so satisfying. I've been playing non-stop. CrazyGames always has the best games!"
+    },
+    {
+      "author": "RetroRacer",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/RetroRacer.png",
+      "content": "Just tried Stack Fall and it's epic! The challenge level is just right, not too easy, not too hard. Perfect for killing time!"
+    },
+    {
+      "author": "ShadowStriker",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/ShadowStriker.png",
+      "content": "Stack Fall is lit! The way the balls stack and fall is so satisfying. I'm hooked! Definitely checking out Mini Golf Club next."
+    },
+    {
+      "author": "NeonNinja",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/NeonNinja.png",
+      "content": "This game is a gem! Stack Fall has such a simple concept but it's incredibly engaging. Love the HTML5 smoothness. Great job, devs!"
+    },
+    {
+      "author": "CyberSamurai",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/CyberSamurai.png",
+      "content": "Stack Fall is awesome! The gameplay is so smooth and the controls are intuitive. It's the perfect game to play when you need a quick break."
+    },
+    {
+      "author": "MysticMage",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/MysticMage.png",
+      "content": "I'm in love with Stack Fall! The simplicity of the game is its strength. It's easy to play but hard to master. Totally addictive!"
+    },
+    {
+      "author": "FrostFang",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/FrostFang.png",
+      "content": "Stack Fall is a blast! The game mechanics are so clever and fun. I can't get enough of it. CrazyGames, you've done it again!"
+    },
+    {
+      "author": "BlazeBrawler",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/BlazeBrawler.png",
+      "content": "Just discovered Stack Fall and it's amazing! The game is so simple yet so challenging. I'm definitely sharing this with my friends."
+    },
+    {
+      "author": "ThunderThief",
+      "role": "player",
+      "avatar": "https://api.multiavatar.com/ThunderThief.png",
+      "content": "Stack Fall is incredible! The gameplay is smooth and the concept is unique. I've been playing for hours and I'm not bored yet. Highly recommend!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "screenshotUrl": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-01-07/images/1736252724407-f6bjdh.png",
+  "page_path": "/games/enjoyable-ball-game",
+  "override_page_path": true,
+  "auto_deploy": true,
+  "enablePromotion": false,
+  "templateId": "features_1",
+  "customizeFeatures": true,
+  "is_sub_game": true,
+  "createdTime": "2025-01-07 20:25:31"
+}

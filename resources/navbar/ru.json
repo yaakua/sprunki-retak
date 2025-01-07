@@ -1,27 +1,7 @@
 [
   {
-    "title": "Все игры",
-    "href": "/games",
-    "visible": true
-  },
-  {
-    "title": "Зараженные Спрунки",
-    "href": "/games/sprunki-infected",
-    "visible": true
-  },
-  {
-    "title": "Спрунки: Переосмысленные",
-    "href": "/games/sprunki-remastered",
-    "visible": true
-  },
-  {
-    "title": "Спрунки 2.0",
+    "title": "Sprunked 2.0",
     "href": "/games/sprunked-2-0",
-    "visible": true
-  },
-  {
-    "title": "Спрунки: Туалет Скибиди 2.0",
-    "href": "/games/sprunki-skibidi-toilet-2-0",
     "visible": true
   }
 ]

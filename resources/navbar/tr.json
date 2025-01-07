@@ -1,27 +1,7 @@
 [
   {
-    "title": "Tüm Oyunlar",
-    "href": "/games",
-    "visible": true
-  },
-  {
-    "title": "Sprunki Enfekte",
-    "href": "/games/sprunki-infected",
-    "visible": true
-  },
-  {
-    "title": "Sprunki Yeniden Masterlenmiş",
-    "href": "/games/sprunki-remastered",
-    "visible": true
-  },
-  {
     "title": "Sprunked 2.0",
     "href": "/games/sprunked-2-0",
-    "visible": true
-  },
-  {
-    "title": "Sprunki: Skibidi Tuvalet 2.0",
-    "href": "/games/sprunki-skibidi-toilet-2-0",
     "visible": true
   }
 ]

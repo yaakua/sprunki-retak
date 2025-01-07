@@ -2,7 +2,6 @@ import { getPathnameWithLocale } from '@/lib/i18n/navigation';
 import { getLocale, getTranslations } from 'next-intl/server';
 import { loadSiteConfig } from '@/lib/utils/resource';
 import PopupWindows from './PopupWindows';
-import { SiteConfig } from '@/lib/types';
 import Ad from './Ad';
 import LazyIframe from './LazyIframe';
 

@@ -1,0 +1,69 @@
+{
+  "enjoyable-ball-game": {
+    "title": "有趣的球类游戏",
+    "slogan": "尽情享受有趣的球类游戏带来的乐趣！",
+    "description": "这是一款您可以在CrazyGames免费游玩，并且无需解锁的有趣的球类游戏。本页面包含详细的操作说明，方便您快速上手。该游戏使用HTML5技术，可在大多数浏览器中运行。如果您喜欢这款游戏，也请尝试我们的其他球类游戏或者《迷你高尔夫俱乐部》(Mini Golf Club)和《足球传奇2021》(Soccer Legends 2021)。",
+    "Loading": {
+      "title": "正在加载有趣的球类游戏..."
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建时间",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页"
+    },
+    "HomeIframe": {
+      "title": "有趣的球类游戏",
+      "description": "立即开始游玩有趣的球类游戏！",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "URL已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "有趣的球类游戏",
+      "whatIsTitle": "什么是有趣的球类游戏？",
+      "whatIsDescription": "有趣的球类游戏是一款充满刺激和乐趣的游戏，您可以在其中控制一个球，克服各种挑战。非常适合那些寻求愉悦和引人入胜游戏体验的玩家。(enjoyable ball game)",
+      "howToPlayTitle": "如何玩耍",
+      "howToPlayStep1": "使用方向键移动球。(enjoyable ball game)",
+      "howToPlayStep2": "躲避障碍物并收集积分。(enjoyable ball game)",
+      "howToPlayStep3": "到达每个关卡的终点以继续前进。(enjoyable ball game)",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "引人入胜的游戏体验",
+      "feature1Description": "有趣的球类游戏通过引人入胜且充满挑战的游戏体验，为您带来数小时的乐趣。(enjoyable ball game)",
+      "feature2Title": "多个关卡",
+      "feature2Description": "通过多个关卡，有趣的球类游戏将为您带来数小时的娱乐体验。(enjoyable ball game)",
+      "feature3Title": "简单易操作",
+      "feature3Description": "简单直观的控制使任何人都可以轻松游玩有趣的球类游戏。(enjoyable ball game)",
+      "feature4Title": "高质量的图形",
+      "feature4Description": "有趣的球类游戏拥有高质量的图形，增强了您的游戏体验。(enjoyable ball game)"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "游戏评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏列表"
+    }
+  }
+}
