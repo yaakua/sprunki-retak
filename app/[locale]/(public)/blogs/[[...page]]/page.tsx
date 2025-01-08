@@ -69,11 +69,6 @@ export default async function Page({ params }: PageProps) {
     const startIndex = (currentPage - 1) * pageSize;
     const endIndex = startIndex + pageSize;
     const currentArticles = articles.slice(startIndex, endIndex);
-
-    if (currentPage > totalPages) {
-      permanentRedirect(`${alternatesCanonical(locale, '/blogs')}`);
-    }
-
     // 生成分页链接
     const paginationLinks = [];
     for (let i = 1; i <= totalPages; i++) {
