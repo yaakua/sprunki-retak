@@ -17,7 +17,9 @@
     "help": "Yardım",
     "friendlyLinks": "Arkadaşlık Bağlantıları",
     "articleList": "Article List",
-    "home": "Home"
+    "home": "Home",
+    "next": "Sonraki",
+    "previous": "Önceki"
   },
   "HomeIframe": {
     "title": "Sprunki Retake'ı Keşfedin",

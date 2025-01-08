@@ -17,7 +17,9 @@
     "help": "Trợ giúp",
     "friendlyLinks": "Các liên kết thân thiện",
     "articleList": "Article List",
-    "home": "Home"
+    "home": "Home",
+    "next": "Tiếp theo",
+    "previous": "Trước đó"
   },
   "HomeIframe": {
     "title": "Khám phá Sprunki Retake",

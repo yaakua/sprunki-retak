@@ -17,7 +17,9 @@
     "help": "Ajuda",
     "friendlyLinks": "Links Amigáveis",
     "articleList": "Article List",
-    "home": "Home"
+    "home": "Home",
+    "next": "Próximo",
+    "previous": "Anterior"
   },
   "HomeIframe": {
     "title": "Descubra Sprunki Retake",

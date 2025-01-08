@@ -17,7 +17,9 @@
     "help": "帮助",
     "friendlyLinks": "友情链接",
     "articleList": "Article List",
-    "home": "Home"
+    "home": "Home",
+    "next": "下一页",
+    "previous": "上一页"
   },
   "HomeIframe": {
     "title": "探索《Sprunki Retake》",

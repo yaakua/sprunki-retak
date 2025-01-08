@@ -85,7 +85,7 @@ export default async function Page({params}: {params: Promise<{locale: string}>}
                   </li>
                   <li>/</li>
                   <li>
-                    <Link href="/t" className="text-gray-500 hover:text-gray-700">
+                    <Link href="/blogs" className="text-gray-500 hover:text-gray-700">
                       {t('Common.articleList')}
                     </Link>
                   </li>

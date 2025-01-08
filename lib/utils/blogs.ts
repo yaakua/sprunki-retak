@@ -58,13 +58,13 @@ export const getArticlesData = (): Record<string, ArticleMetadata[]> => {
                     
                     // 处理内容，获取前100个字符作为描述
                     const plainContent = stripMarkdown(content);
-                    const description = plainContent.slice(0, 100) + (plainContent.length > 100 ? '...' : '');
+                    const description = plainContent.slice(0, 300) + (plainContent.length > 300 ? '...' : '');
 
                     articlesByLocale[locale].push({
                         title: frontMatter.title,
                         image: frontMatter.image,
                         createdAt: frontMatter.createdAt,
-                        description: description,
+                        description: frontMatter.description||description,
                         content: content,
                         slug: dir
                     });

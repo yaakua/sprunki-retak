@@ -1,14 +1,11 @@
-import { alternatesLanguage, defaultLocale, locales } from '@/lib/i18n/locales';
+import { alternatesCanonical, alternatesLanguage, defaultLocale, locales } from '@/lib/i18n/locales';
 import { Link } from '@/lib/i18n/navigation';
 import { ArticleMetadata, getArticlesData } from '@/lib/utils/blogs';
 import { Metadata } from 'next';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import {siteConfig} from '@/lib/config/site';
-import Image from 'next/image';
-import { redirect } from 'next/navigation';
-
-export const dynamic = 'force-static'
+import { permanentRedirect } from 'next/navigation'
 type Props = {
   params: Promise<{ locale: string}>;
 };
@@ -27,6 +24,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       icon: siteConfig.icon,
       apple: siteConfig.appleIcon,
     },
+    robots: {
+      index: false,
+      follow: false,
+      nocache: true,
+      googleBot: {
+        index: false,
+        follow: false,
+      },
+    },
   };
 }
 
@@ -38,23 +44,12 @@ export function generateStaticParams() {
 type PageProps = {
   params: Promise<{
     locale: string;
-    slug: string;
   }>;
 };
 
 export default async function Page({ params }: PageProps) {
-  try {
-    const { locale,slug } = await params;
+    const { locale } = await params;
     setRequestLocale(locale);
-    const articles = getArticlesData()[locale] || [];
     const t = await getTranslations({ locale });
-    redirect(`/${locale}/blogs/1`);
-    return (
-      <>
-      </> 
-    )
-  } catch (error) {
-    console.log(`article list page render error`, error);
-    notFound();
-  }
+    permanentRedirect(`${alternatesCanonical(locale, '/blogs')}`);
 }

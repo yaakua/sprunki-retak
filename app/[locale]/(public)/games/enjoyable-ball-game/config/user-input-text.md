@@ -1,2 +1,0 @@
-
-This is an enjoyable ball game that you can play here on CrazyGames, for free. Stack Fall is unblocked. This page includes a detailed controls section to get you started. That way, it is easy to see how to play Stack Fall. The game uses HTML5 to work in most browsers. If you liked this game, also play our other ball games or <a href='https://www.crazygames.com/game/mini-golf-club' target='\_blank'>Mini Golf Club</a> and <a href='https://www.crazygames.com/game/soccer-legends-2021' target='\_blank'>Soccer Legends 2021</a>.

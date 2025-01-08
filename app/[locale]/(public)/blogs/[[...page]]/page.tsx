@@ -1,27 +1,31 @@
-import { alternatesLanguage, defaultLocale, locales } from '@/lib/i18n/locales';
+import { alternatesCanonical, alternatesLanguage, defaultLocale, locales } from '@/lib/i18n/locales';
 import { Link } from '@/lib/i18n/navigation';
 import { ArticleMetadata, getArticlesData } from '@/lib/utils/blogs';
 import { Metadata } from 'next';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import {siteConfig} from '@/lib/config/site';
 import Image from 'next/image';
-
-export const dynamic = 'force-static'
+import dayjs from 'dayjs';
 
 type Props = {
   params: Promise<{ locale: string; page: string }>;
 };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { locale = defaultLocale } = await params;
+  const { locale = defaultLocale ,page} = await params;
   setRequestLocale(locale);
+  const currentPage = page ? Number(page[0]) || 1 : 1;
   const t = await getTranslations({ locale });
+  let url = "/blogs"
+  if(currentPage!=1){
+      url = `/blogs/${currentPage}`
+  }
   return {
     title: `${t('Common.articleList')} | ${siteConfig.name}`,
     description: t('description'),
     alternates: {
-      languages: alternatesLanguage('/blogs'),
+      languages: alternatesLanguage(url),
     },
     icons: {
       icon: siteConfig.icon,
@@ -36,8 +40,10 @@ export async function generateStaticParams() {
     const articles = getArticlesData()[locale] || [];
     const totalPages = Math.ceil(articles.length / 20);
     
+    // 为所有语言生成对应的路径
+    allParams.push({ locale, page: [] });
     for (let page = 1; page <= totalPages; page++) {
-      allParams.push({ locale, page: page.toString() });
+      allParams.push({ locale, page: [page.toString()] });
     }
   }
   return allParams;
@@ -46,7 +52,7 @@ export async function generateStaticParams() {
 type PageProps = {
   params: Promise<{
     locale: string;
-    page: string;
+    page?: string[];
   }>;
 };
 
@@ -57,7 +63,7 @@ export default async function Page({ params }: PageProps) {
     const articles = getArticlesData()[locale] || [];
     const t = await getTranslations({ locale });
 
-    const currentPage = Number(page) || 1;
+    const currentPage = page ? Number(page[0]) || 1 : 1;
     const pageSize = 20;
     const totalPages = Math.ceil(articles.length / pageSize);
     const startIndex = (currentPage - 1) * pageSize;
@@ -65,7 +71,7 @@ export default async function Page({ params }: PageProps) {
     const currentArticles = articles.slice(startIndex, endIndex);
 
     if (currentPage > totalPages) {
-      notFound();
+      permanentRedirect(`${alternatesCanonical(locale, '/blogs')}`);
     }
 
     // 生成分页链接
@@ -84,18 +90,24 @@ export default async function Page({ params }: PageProps) {
         <div className="grid gap-6 mb-6">
           {currentArticles.map((article) => (
             <Link 
-              href={`/blogs/${article.slug}`} 
+              href={`/t/${article.slug}`} 
               key={article.slug}
               className="block p-4 border rounded-lg hover:bg-gray-50"
             >
               <div className="flex items-center gap-4">
+                <div className='aspect-[4/3] md:aspect-[16/9] relative'>
                 {article.image && (
-                  <Image 
+                    <Image
                     src={article.image} 
                     alt={article.title} 
-                    className="w-24 h-24 object-cover rounded"
+                    loading="lazy"
+                    decoding="async"
+                    width={240}
+                    height={240}
+                    className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
                   />
                 )}
+                   </div>
                 <div>
                   <h2 className="text-xl font-semibold">{article.title}</h2>
                   {article.description && (
@@ -105,7 +117,7 @@ export default async function Page({ params }: PageProps) {
                   )}
                   {article.createdAt && (
                     <p className="text-gray-500 text-sm mt-1">
-                      {t('Common.createAt')}: {new Date(article.createdAt).toLocaleDateString()}
+                      {t('Common.createAt')}: {dayjs(article.createdAt).format('YYYY-MM-DD HH:mm:ss')}
                     </p>
                   )}
                 </div>
@@ -128,11 +140,7 @@ export default async function Page({ params }: PageProps) {
               <Link
                 key={page}
                 href={href}
-                className={`px-4 py-2 border rounded ${
-                  isCurrent
-                    ? 'bg-primary text-white'
-                    : 'hover:bg-gray-50'
-                }`}
+                className={`px-4 py-2 border rounded ${isCurrent ? 'bg-emerald-800 text-white' : 'hover:bg-emerald-900 hover:text-white'}`}
                 aria-current={isCurrent ? 'page' : undefined}
               >
                 {page}

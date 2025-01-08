@@ -148,7 +148,7 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
                 console.error('Image load failed:', e);
               }}
             />
-            <span className="inline-flex items-end text-lg font-leckerli bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent transition-all duration-300 truncate max-w-[150px] sm:max-w-none">
+            <span className="inline-flex items-end text-lg  bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent transition-all duration-300 truncate max-w-[150px] sm:max-w-none">
               {t(siteConfig.slogan as any)}
             </span>
           </Link>

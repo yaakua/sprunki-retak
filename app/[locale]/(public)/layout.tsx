@@ -2,7 +2,7 @@ import '@/app/globals.css';
 import { defaultLocale } from '@/lib/i18n/locales';
 import { NextUIProvider } from '@nextui-org/system';
 import { NextIntlClientProvider } from 'next-intl';
-import { getMessages } from 'next-intl/server';
+import { getMessages, setRequestLocale } from 'next-intl/server';
 import type { ReactNode } from 'react';
 
 import { Footer, Navbar } from '@/lib/components';
@@ -18,6 +18,7 @@ type Props = {
 
 export default async function LocaleLayout({ children, params }: Props) {
   const { locale = defaultLocale } = await params;
+  setRequestLocale(locale);
   const isDev = process.env.NODE_ENV === 'development';
   const messages = await getMessages();
   let navbars: NavbarItem[];

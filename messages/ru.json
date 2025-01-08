@@ -17,7 +17,9 @@
     "help": "Помощь",
     "friendlyLinks": "Дружественные ссылки",
     "articleList": "Article List",
-    "home": "Home"
+    "home": "Home",
+    "next": "Следующий",
+    "previous": "Предыдущий"
   },
   "HomeIframe": {
     "title": "Откройте Sprunki Retake",

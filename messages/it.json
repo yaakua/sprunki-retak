@@ -17,7 +17,9 @@
     "help": "Aiuto",
     "friendlyLinks": "Collegamenti utili",
     "articleList": "Article List",
-    "home": "Home"
+    "home": "Home",
+    "next": "Successivo",
+    "previous": "Precedente"
   },
   "HomeIframe": {
     "title": "Scopri Sprunki Retake",
