@@ -42,7 +42,11 @@ export async function loadFaqs(locale:string,pageName:string|null){
 export default async function FAQs({ locale,pageName }: PropsWithLocale<{pageName:string|null}>) {
   const prefix = pageName ? pageName + '.' : '';
   const t = await getTranslations(`${prefix}HomeFAQs`);
-  const faqItems = await loadFaqs(locale,pageName);
+  const faqItems = await loadFaqs(locale, pageName);
+  if (!Array.isArray(faqItems)) {
+    console.error(`Invalid FAQs data for ${locale},pageName:${pageName}: expected an array`);
+    return null;
+  }
   return (
     <section className="w-full  mx-auto py-12 px-4">
       <h2 className="text-3xl font-bold text-center mb-8">{t('title')}</h2>

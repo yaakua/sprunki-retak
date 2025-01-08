@@ -17,6 +17,10 @@ export default  function RelatedVideo({pageName,siteConfig}:{pageName:string|nul
   }
   try {
     const videos = siteConfig.videos;
+    if (!Array.isArray(videos)) {
+      console.error(`Invalid video data for ${pageName}: expected an array`);
+      return null;
+    }
     return (
       <div className="w-full px-4 py-6">
         <h2 className="text-2xl font-bold mb-4">{t('title')}</h2>

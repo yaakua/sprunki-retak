@@ -17,6 +17,10 @@ export default async function Recommendation({ locale }: PropsWithLocale) {
         games = (await import('@/resources/recommendation/en.json')).default;
       }
     }
+    if (!Array.isArray(games)) {
+      console.error(`Invalid recommendation data for ${locale}: expected an array`);
+      return null;
+    }
     // 过滤掉不可见和以及右边位置的游戏
     games = games.filter(game => {
       return game?.visible !== false && game?.position !== 'right';

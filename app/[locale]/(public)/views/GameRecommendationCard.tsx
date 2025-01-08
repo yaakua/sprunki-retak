@@ -13,6 +13,10 @@ export default async function GameRecommendationCard({ locale }: { locale: strin
     } catch {
       games = (await import(`@/resources/recommendation/en.json`)).default;
     }
+    if (!Array.isArray(games)) {
+      console.error(`Invalid recommendation data for ${locale}: expected an array`);
+      return null;
+    }
   } catch {
     console.error('Failed to load recommendation games');
   }
