@@ -1,11 +1,9 @@
 import { alternatesCanonical, alternatesLanguage, defaultLocale, locales } from '@/lib/i18n/locales';
-import { Link } from '@/lib/i18n/navigation';
-import { ArticleMetadata, getArticlesData } from '@/lib/utils/blogs';
 import { Metadata } from 'next';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
-import { notFound } from 'next/navigation';
 import {siteConfig} from '@/lib/config/site';
 import { permanentRedirect } from 'next/navigation'
+export const dynamic = 'force-static'
 type Props = {
   params: Promise<{ locale: string}>;
 };

@@ -6,6 +6,7 @@ import { notFound } from 'next/navigation';
 import { siteConfig } from '@/lib/config/site';
 import { Metadata } from 'next';
 import Image from 'next/image';
+export const dynamic = 'force-static'
 const components: any = {
   img: ({ src, alt }: { src: string; alt: string }) => {
     return <Image src={src} alt={alt} className="object-cover" />;

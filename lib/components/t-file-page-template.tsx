@@ -9,6 +9,7 @@ import path from 'path';
 import { Link } from '@/lib/i18n/navigation';
 import { getTranslations } from 'next-intl/server';
 import Image from 'next/image';
+export const dynamic = 'force-static'
 const components: any = {
   img: ({src, alt}: { src: string, alt: string }) => {
       return <Image src={src} alt={alt} className="object-cover"/>

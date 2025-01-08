@@ -7,6 +7,7 @@ import path from 'path';
 import Link from 'next/link';
 import { getPathnameWithLocale } from '@/lib/i18n/navigation';
 import Image from 'next/image';
+export const dynamic = 'force-static'
 type Props = {
   params: Promise<{ locale: string }>;
 };

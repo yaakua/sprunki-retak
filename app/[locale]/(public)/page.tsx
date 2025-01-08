@@ -14,6 +14,7 @@ import { SiteConfig} from '@/lib/types';
 import GameRecommendationCard from '@/app/[locale]/(public)/views/GameRecommendationCard';
 import CustomizeFeatures from './views/CustomizeFeatures';
 import matter from 'gray-matter';
+export const dynamic = 'force-static'
 type Props = {
   params: Promise<{ locale: string }>;
 };
