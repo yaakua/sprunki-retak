@@ -1,6 +1,5 @@
 import { cn } from '@/lib/utils/commons';
 import { MDXRemote } from 'next-mdx-remote/rsc';
-import Image from 'next/image';
 import Link from "next/link";
 import React from "react";
 import remarkGfm from "remark-gfm";
@@ -8,19 +7,19 @@ import { highlight } from "sugar-high";
 
 function Table({data}: { data: any }) {
     const headers = data.headers.map((header: any, index: number) => (
-        <th key={index}>{header}</th>
+        <th key={index} className="text-table-header bg-table-header-bg border-table-border">{header}</th>
     ))
     const rows = data.rows.map((row: any, index: number) => (
-        <tr key={index}>
+        <tr key={index} className="hover:bg-table-row-hover">
             {row.map((cell: any, cellIndex: number) => (
-                <td key={cellIndex}>{cell}</td>
+                <td key={cellIndex} className="text-table-cell border-table-border">{cell}</td>
             ))}
         </tr>
     ))
 
     return (
-        <table>
-            <thead>
+        <table className="border-collapse border border-table-border bg-table-bg">
+            <thead className="bg-table-header-bg">
             <tr>{headers}</tr>
             </thead>
             <tbody>{rows}</tbody>
@@ -33,26 +32,26 @@ function CustomLink(props: any) {
 
     if (href.startsWith("/")) {
         return (
-            <Link href={href} {...props}>
+            <Link href={href} {...props} className="text-link hover:text-link-hover">
                 {props.children}
             </Link>
         )
     }
 
     if (href.startsWith("#")) {
-        return <a {...props} />
+        return <a {...props} className="text-link hover:text-link-hover" />
     }
 
-    return <a rel="noopener noreferrer" {...props} />
+    return <a rel="noopener noreferrer" {...props} className="text-link hover:text-link-hover" />
 }
 
 function RoundedImage(props: any) {
-    return <Image alt={props.alt} className="rounded-lg" {...props} />
+    return <img alt={props.alt} className="rounded-lg border border-image-border" {...props} />
 }
 
 function Code({children, ...props}: { children: any }) {
     const codeHTML = highlight(children)
-    return <code dangerouslySetInnerHTML={{__html: codeHTML}} {...props} />
+    return <code className="bg-code-bg text-code font-mono p-1 rounded" dangerouslySetInnerHTML={{__html: codeHTML}} {...props} />
 }
 
 function slugify(str: string) {
@@ -73,12 +72,15 @@ function createHeading(level: number) {
         const slug = slugify(children)
         return React.createElement(
             `h${level}`,
-            {id: slug},
+            {
+                id: slug,
+                className: "text-heading"
+            },
             [
                 React.createElement("a", {
                     href: `#${slug}`,
                     key: `link-${slug}`,
-                    className: "anchor",
+                    className: "anchor text-heading-link hover:text-heading-link-hover",
                 }),
             ],
             children,
@@ -100,7 +102,6 @@ const overrideComponents: any = {
     Image: RoundedImage,
     a: CustomLink,
     code: Code,
-    table:Table,
 }
 
 
@@ -115,7 +116,15 @@ export default function MdxArticle({source, className, components = {}}: MdxArti
     try {
         return <article
             className={cn(
-                "prose prose-sm md:prose-base lg:prose-lg w-full max-w-full",
+                "prose prose-sm md:prose-base lg:prose-lg w-full max-w-full prose-mdx",
+                "prose-headings:text-heading",
+                "prose-p:text-content",
+                "prose-strong:text-strong",
+                "prose-em:text-emphasis",
+                "prose-blockquote:text-quote prose-blockquote:border-l-quote-border prose-blockquote:bg-quote-bg",
+                "prose-ul:text-content",
+                "prose-ol:text-content",
+                "prose-li:text-content",
                 className,
             )}
         >
@@ -131,7 +140,7 @@ export default function MdxArticle({source, className, components = {}}: MdxArti
         </article>
     } catch (error) {
         console.error("MDX 解析错误:", error)
-        return <div>Content loading failed. Please try again later.</div>
+        return <div className="text-error">Content loading failed. Please try again later.</div>
     }
 
 }

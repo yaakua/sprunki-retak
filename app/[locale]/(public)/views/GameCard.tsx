@@ -11,7 +11,7 @@ export default function GameCard({ groupedGames }: { groupedGames: GroupedGames 
     return <>
         {Object.entries(groupedGames).map(([category, categoryGames]) => (
             <React.Fragment key={category}>
-                <h3 className="text-sm font-bold text-white/80 col-span-2 mt-2 first:mt-0">
+                <h3 className="text-sm font-bold text-game-card-title col-span-2 mt-2 first:mt-0">
                     {category}
                 </h3>
                 {categoryGames.map((game, index) => (
@@ -20,9 +20,9 @@ export default function GameCard({ groupedGames }: { groupedGames: GroupedGames 
                         key={index}
                         target={game.url.startsWith('http') ? "_blank" : "_self"}
                         rel={game.url.startsWith('http') ? "noopener noreferrer" : undefined}
-                        className="group block relative rounded-lg overflow-hidden bg-gray-800/50
-                    hover:ring-1 hover:ring-primary/50
-                    transition-all duration-300"
+                        className="group block relative rounded-lg overflow-hidden bg-game-card
+                        hover:bg-game-card-hover hover:ring-2 hover:ring-primary/20
+                        transition-all duration-300"
                     >
                         <div className="aspect-[4/3] relative">
                             <motion.img
@@ -45,12 +45,12 @@ export default function GameCard({ groupedGames }: { groupedGames: GroupedGames 
 
                             {/* 标题悬停效果 */}
                             <motion.div
-                                className="absolute inset-0 bg-black/60 flex items-center justify-center"
+                                className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-white/30 backdrop-blur-[2px] flex items-center justify-center opacity-0 group-hover:opacity-100 transition-all duration-300"
                                 initial={{ opacity: 0 }}
                                 whileHover={{ opacity: 1 }}
                                 transition={{ duration: 0.2 }}
                             >
-                                <h4 className="text-xs font-medium text-white px-2 text-center">
+                                <h4 className="text-xs font-medium text-game-card-hover-text px-2 text-center">
                                     {game.title}
                                 </h4>
                             </motion.div>

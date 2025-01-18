@@ -65,5 +65,11 @@
     "title": "All Games",
     "description": "All Games",
     "games": "Games"
+  },
+  "CategoryPage": {
+    "categories": "Категорії",
+    "noCategories": "Категорії не знайдено",
+    "viewMore": "Переглянути більше",
+    "page": "Сторінка"
   }
 }

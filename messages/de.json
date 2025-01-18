@@ -65,5 +65,11 @@
     "title": "Alle Spiele",
     "description": "Alle Spiele",
     "games": "Spiele"
+  },
+  "CategoryPage": {
+    "categories": "Kategorien",
+    "noCategories": "Keine Kategorien gefunden",
+    "viewMore": "Mehr anzeigen",
+    "page": "Seite"
   }
 }

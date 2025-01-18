@@ -46,7 +46,6 @@ const nextConfig: NextConfig = {
         ],
     },
     // output: 'standalone',
-    productionBrowserSourceMaps: true,
     pageExtensions: ['js', 'jsx', 'md', 'mdx', 'ts', 'tsx'],
     transpilePackages: ["next-mdx-remote"],
     trailingSlash: false,

@@ -60,7 +60,7 @@ type IconProps = {
 const TwitterIcon = ({ href, target = '_blank', className, size = 'md', share }: IconProps) => {
   const shareUrl = share ? generateShareUrl.twitter(share.url, share.text) : href;
   return (
-    <Link href={shareUrl || '#'} target={target} className={cn('text-gray-400 hover:text-primary-200', className)}>
+    <Link href={shareUrl || '#'} target={target} className={cn('text-secondary hover:text-accent', className)}>
       <svg
         className={cn('w-6 h-6', size === 'sm' ? 'w-4 h-4' : size === 'lg' ? 'w-8 h-8' : '')}
         fill="currentColor"
@@ -76,7 +76,7 @@ const TwitterIcon = ({ href, target = '_blank', className, size = 'md', share }:
 
 const GithubIcon = ({ href = '#', target = '_blank', className, size = 'md' }: IconProps) => {
   return (
-    <Link href={href} target={target} className={cn('text-gray-400 hover:text-primary-200', className)}>
+    <Link href={href} target={target} className={cn('text-secondary hover:text-accent', className)}>
       <svg
         className={cn('w-6 h-6', size === 'sm' ? 'w-4 h-4' : size === 'lg' ? 'w-8 h-8' : '')}
         fill="currentColor"
@@ -93,7 +93,7 @@ const GithubIcon = ({ href = '#', target = '_blank', className, size = 'md' }: I
 const YoutubeIcon = ({ href = '#', target = '_blank', className, size = 'md', share }: IconProps) => {
   const shareUrl = share ? generateShareUrl.youtube(share.url) : href;
   return (
-    <Link href={shareUrl || '#'} target={target} className={cn('text-gray-400 hover:text-primary-200', className)}>
+    <Link href={shareUrl || '#'} target={target} className={cn('text-secondary hover:text-accent', className)}>
       <svg
         className={cn('w-6 h-6', size === 'sm' ? 'w-4 h-4' : size === 'lg' ? 'w-8 h-8' : '')}
         fill="currentColor"
@@ -110,7 +110,7 @@ const YoutubeIcon = ({ href = '#', target = '_blank', className, size = 'md', sh
 const DiscordIcon = ({ href = '#', target = '_blank', className, size = 'md', share }: IconProps) => {
   const shareUrl = share ? generateShareUrl.discord(share.url) : href;
   return (
-    <Link href={shareUrl} target={target} className={cn('text-gray-400 hover:text-primary-200', className)}>
+    <Link href={shareUrl} target={target} className={cn('text-secondary hover:text-accent', className)}>
       <svg
         className={cn('w-6 h-6', size === 'sm' ? 'w-4 h-4' : size === 'lg' ? 'w-8 h-8' : '')}
         fill="currentColor"
@@ -127,7 +127,7 @@ const DiscordIcon = ({ href = '#', target = '_blank', className, size = 'md', sh
 const InstagramIcon = ({ href = '#', target = '_blank', className, size = 'md', share }: IconProps) => {
   const shareUrl = share ? generateShareUrl.instagram(share.url) : href;
   return (
-    <Link href={shareUrl || '#'} target={target} className={cn('text-gray-400 hover:text-primary-200', className)}>
+    <Link href={shareUrl || '#'} target={target} className={cn('text-secondary hover:text-accent', className)}>
       <svg
         className={cn('w-6 h-6', size === 'sm' ? 'w-4 h-4' : size === 'lg' ? 'w-8 h-8' : '')}
         fill="currentColor"
@@ -144,7 +144,7 @@ const InstagramIcon = ({ href = '#', target = '_blank', className, size = 'md', 
 const FacebookIcon = ({ href = '#', target = '_blank', className, size = 'md', share }: IconProps) => {
   const shareUrl = share ? generateShareUrl.facebook(share.url) : href;
   return (
-    <Link href={shareUrl || '#'} target={target} className={cn('text-gray-400 hover:text-primary-200', className)}>
+    <Link href={shareUrl || '#'} target={target} className={cn('text-secondary hover:text-accent', className)}>
       <svg
         className={cn('w-6 h-6', size === 'sm' ? 'w-4 h-4' : size === 'lg' ? 'w-8 h-8' : '')}
         fill="currentColor"

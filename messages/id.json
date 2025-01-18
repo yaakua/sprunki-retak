@@ -65,5 +65,11 @@
     "title": "Semua Permainan",
     "description": "Semua Permainan",
     "games": "Permainan"
+  },
+  "CategoryPage": {
+    "categories": "Kategori",
+    "noCategories": "Tidak ada kategori ditemukan",
+    "viewMore": "Lihat Lebih Banyak",
+    "page": "Halaman"
   }
 }

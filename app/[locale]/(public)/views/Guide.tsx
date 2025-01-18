@@ -33,9 +33,9 @@ export default async function Guide() {
   ];
 
   return (
-    <Card className="w-full bg-gray-800">
+    <Card className="w-full bg-card">
       <CardHeader>
-        <CardTitle className="text-2xl md:text-3xl font-semibold text-yellow-300 font-leckerli">
+        <CardTitle className="text-2xl md:text-3xl font-semibold text-warning font-leckerli">
           {t('Guide.controlsTitle')}
         </CardTitle>
       </CardHeader>
@@ -43,9 +43,9 @@ export default async function Guide() {
         <Accordion type="single" collapsible className="w-full">
           {controlSections.map((section) => (
             <AccordionItem key={section.id} value={section.id}>
-              <AccordionTrigger className="text-2xl text-purple-400 font-leckerli">{section.title}</AccordionTrigger>
+              <AccordionTrigger className="text-2xl text-secondary font-leckerli">{section.title}</AccordionTrigger>
               <AccordionContent>
-                <ul className="list-disc pl-6 space-y-2 text-gray-300">
+                <ul className="list-disc pl-6 space-y-2 text-foreground/80">
                   {section.controls.map((control) => (
                     <li key={control}>{t(control)}</li>
                   ))}

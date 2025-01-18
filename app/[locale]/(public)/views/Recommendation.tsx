@@ -1,8 +1,6 @@
-import { siteConfig } from '@/lib/config/site';
 import { PropsWithLocale, RecommendationItem } from '@/lib/types';
 import { getTranslations } from 'next-intl/server';
 import Link from 'next/link';
-import Image from 'next/image';
 // 游戏推荐组件(使用全局配置)
 export default async function Recommendation({ locale }: PropsWithLocale) {
   const t = await getTranslations('HomeRecommendation');
@@ -30,7 +28,7 @@ export default async function Recommendation({ locale }: PropsWithLocale) {
     }
     return (
       <div className="container mx-auto py-8 px-4 md:px-8">
-       <h2 className="text-3xl font-bold mb-8 text-white text-center">{t('title')}</h2>
+       <h2 className="text-3xl font-bold mb-8 text-foreground text-center">{t('title')}</h2>
         <div className="grid grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3 md:gap-6">
           {games.map((game, index) => (
             <Link 
@@ -38,12 +36,12 @@ export default async function Recommendation({ locale }: PropsWithLocale) {
             key={index} 
             target={game.url.startsWith('http') ? "_blank" : "_self"}
             rel={game.url.startsWith('http') ? "noopener noreferrer" : undefined}
-            className="group block overflow-hidden rounded-lg bg-gray-900/40
-            hover:ring-2 hover:ring-primary hover:bg-gray-900/60 
+            className="group block overflow-hidden rounded-lg bg-card/40
+            hover:ring-2 hover:ring-primary hover:bg-card/60 
             transition-all duration-300 hover:shadow-lg" 
           >
-            <div className="aspect-[4/3] md:aspect-[16/9] relative">
-              <Image
+            <div className="relative aspect-[4/3] md:aspect-[16/9]">
+              <img
                 src={game.cover}
                 alt={game.title}
                 loading="lazy"
@@ -52,13 +50,11 @@ export default async function Recommendation({ locale }: PropsWithLocale) {
                 height={100}
                 className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
               />
-              
-              <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/90 via-black/60 to-transparent">
-                <div className="px-3 py-2 md:px-4 md:py-3">
-                  <h4 className="text-sm md:text-base font-semibold text-white group-hover:text-primary transition-colors line-clamp-1">
-                    {game.title}
-                  </h4>
-                </div>
+              {/* 标题悬停效果 */}
+              <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-white/30 backdrop-blur-[2px] opacity-0 group-hover:opacity-100 transition-all duration-300 flex items-center justify-center">
+                <h3 className="text-base md:text-lg font-bold text-game-card-hover-text px-4 text-center">
+                  {game.title}
+                </h3>
               </div>
             </div>
           </Link>

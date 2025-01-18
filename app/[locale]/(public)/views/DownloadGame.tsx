@@ -38,18 +38,18 @@ export default  function DownloadGame({pageName,siteConfig}:{pageName:string|nul
   }
 
   return (
-    <div id="download-game" className="relative w-full min-h-[300px] mt-10 bg-emerald-800 bg-opacity-35 rounded-lg overflow-hidden">
+    <div id="download-game" className="relative w-full min-h-[300px] mt-10 bg-success/35 rounded-lg overflow-hidden">
       <div className="absolute inset-0 flex flex-col items-center justify-center p-8">
         <motion.div
           initial={{ opacity: 0, y: -20 }}
           animate={{ opacity: 1, y: 0 }}
           className="relative mb-12"
         >
-          <h2 className="text-4xl font-bold text-yellow-300 text-center relative z-10 px-12 py-6">
+          <h2 className="text-4xl font-bold text-warning text-center relative z-10 px-12 py-6">
             {t('downloadGame')}
           </h2>
-          <div className="absolute inset-0 bg-gradient-to-r from-transparent via-emerald-600/20 to-transparent backdrop-blur-sm rounded-lg -skew-y-1" />
-          <div className="absolute inset-0 bg-yellow-300/5 rounded-lg skew-y-1" />
+          <div className="absolute inset-0 bg-gradient-to-r from-transparent via-success/20 to-transparent backdrop-blur-sm rounded-lg -skew-y-1" />
+          <div className="absolute inset-0 bg-warning/5 rounded-lg skew-y-1" />
         </motion.div>
 
         <motion.div 
@@ -68,7 +68,7 @@ export default  function DownloadGame({pageName,siteConfig}:{pageName:string|nul
               <Button 
                 color="primary" 
                 size="lg" 
-                className="w-full gap-3 bg-emerald-700/30 hover:bg-emerald-600/40 backdrop-blur-sm transition-all duration-300 border border-yellow-300/20 text-yellow-300"
+                className="w-full gap-3 bg-success/30 hover:bg-success/40 backdrop-blur-sm transition-all duration-300 border border-warning/20 text-warning"
               >
                 <Icon className="w-6 h-6" />
                 {label}
@@ -78,8 +78,8 @@ export default  function DownloadGame({pageName,siteConfig}:{pageName:string|nul
         </motion.div>
       </div>
       
-      <div className="absolute -top-24 -right-24 w-64 h-64 bg-emerald-600/20 rounded-full blur-3xl" />
-      <div className="absolute -bottom-24 -left-24 w-64 h-64 bg-yellow-400/10 rounded-full blur-3xl" />
+      <div className="absolute -top-24 -right-24 w-64 h-64 bg-success/20 rounded-full blur-3xl" />
+      <div className="absolute -bottom-24 -left-24 w-64 h-64 bg-warning/10 rounded-full blur-3xl" />
     </div>
   );
 }

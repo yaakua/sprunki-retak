@@ -65,5 +65,11 @@
     "title": "All Games",
     "description": "All Games",
     "games": "Games"
+  },
+  "CategoryPage": {
+    "categories": "Kategori",
+    "noCategories": "Kategori bulunamadı",
+    "viewMore": "Daha Fazla Görüntüle",
+    "page": "Sayfa"
   }
 }

@@ -4,7 +4,9 @@
   "domain": "https://sprunkiretake.fun",
   "icon": "/favicon.ico",
   "appleIcon": "/apple-touch-icon.png",
+  "templateType": "single-game",
   "theme": {
+    "name": "dark",
     "headFont": null,
     "primaryColor": null,
     "fontColor": null,
@@ -13,20 +15,6 @@
   "gaId": "",
   "clarityId": "",
   "plausible": "https://appview.fafafa.ai/js/script.js",
-  "navbarItems": [
-    {
-      "title": "home",
-      "href": "/"
-    },
-    {
-      "title": "guide",
-      "href": "/guide"
-    },
-    {
-      "title": "information",
-      "href": "/t"
-    }
-  ],
   "gameType": "iframe",
   "gameIframeUrl": "https://iframegame.com/embed/sprunki-retake/index.html",
   "gameRedirectUrl": "",
@@ -45,7 +33,6 @@
   },
   "isShowFAQs": true,
   "isShowVideo": true,
-  "isShowGuide": true,
   "videos": [
     {
       "title": "Incredibox Sprunki Retake - Sprunki Mods",
@@ -105,6 +92,23 @@
     }
   ],
   "isShowRecommendation": false,
+  "enablePromotion": true,
+  "customizeFeatures": true,
+  "navbarItems": [
+    {
+      "title": "home",
+      "href": "/"
+    },
+    {
+      "title": "guide",
+      "href": "/guide"
+    },
+    {
+      "title": "information",
+      "href": "/t"
+    }
+  ],
+  "isShowGuide": true,
   "friendLinks": [
     {
       "title": "spunky game",
@@ -112,8 +116,16 @@
     }
   ],
   "isShowRightGames": false,
-  "enablePromotion": false,
-  "customizeFeatures": true,
   "adsenseClientId": "",
-  "adsTxtContent": ""
+  "adsTxtContent": "",
+  "override_page_path": false,
+  "auto_deploy": true,
+  "selectedMaterial": {
+    "type": "image",
+    "ratio": "2.44:1",
+    "size": "1080x443",
+    "materialUrl": "https://cloud.heartvoicegifts.com/intro-3d-figurines-1.avif",
+    "clickUrl": "https://www.heartvoicegifts.com?utm_campaign=AF-FaFaFa-2855&utm_medium=FaFaFa",
+    "title": "Customize Your Own 3D Figurines"
+  }
 }

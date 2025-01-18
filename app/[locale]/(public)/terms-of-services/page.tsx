@@ -1,15 +1,14 @@
 import MdxArticle from '@/lib/components/mdx-article';
 import { host, locales } from '@/lib/i18n/locales';
 import matter from 'gray-matter';
-import { getTranslations } from 'next-intl/server';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { siteConfig } from '@/lib/config/site';
 import { Metadata } from 'next';
-import Image from 'next/image';
 export const dynamic = 'force-static'
 const components: any = {
   img: ({ src, alt }: { src: string; alt: string }) => {
-    return <Image src={src} alt={alt} className="object-cover" />;
+    return <img src={src} alt={alt} className="object-cover" />;
   },
 };
 
@@ -20,6 +19,7 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const t = await getTranslations();
   const { locale } = await params;
+  setRequestLocale(locale);
     // 直接导入 MDX 文件的原始内容
     let Content;
     try {
@@ -49,6 +49,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
   try {
     const { locale } = await params;
+    setRequestLocale(locale);
     // 直接导入 MDX 文件的原始内容
     let Content;
     try {

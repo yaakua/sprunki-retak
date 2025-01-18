@@ -108,18 +108,18 @@ export default async function GamesPage({ params }: Props) {
   const gridColumns = getGridCols(games.length);
 
   return (
-    <div className="bg-black min-h-screen pt-5 pb-5">
+    <div className="bg-background min-h-screen pt-5 pb-5">
       <div className="container mx-auto px-4">
-        <h1 className="text-4xl font-bold text-white mb-8 text-center">{t('title')}</h1>
+        <h1 className="text-4xl font-bold text-foreground mb-8 text-center">{t('title')}</h1>
         <div className={`grid grid-cols-1 md:grid-cols-2 ${gridColumns} gap-6`}>
           {games.map((game) => (
             <Link
               href={getPathnameWithLocale(`/games/${game.directory}`, locale)}
               key={game.directory}
-              className="group block bg-gray-900 rounded-lg overflow-hidden hover:ring-2 hover:ring-primary transition-all duration-300"
+              className="group block bg-card rounded-lg overflow-hidden hover:ring-2 hover:ring-accent transition-all duration-300"
             >
               <div className="aspect-video relative">
-                <Image
+                <img
                   src={game.screenshotUrl}
                   alt={game.name}
                   className="w-full h-full object-cover absolute inset-0"
@@ -127,7 +127,7 @@ export default async function GamesPage({ params }: Props) {
                 />
               </div>
               <div className="p-4">
-                <h2 className="font-semibold text-white group-hover:text-primary transition-colors">
+                <h2 className="font-semibold text-foreground group-hover:text-accent transition-colors">
                   {game.name}
                 </h2>
               </div>

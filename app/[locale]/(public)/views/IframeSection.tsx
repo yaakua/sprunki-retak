@@ -19,9 +19,10 @@ export default async function IframeSection({pageName}:{pageName:string|null}) {
   const isIframe = siteConfig.gameType === 'iframe';
   const isPopup = siteConfig.gameType === 'popup';
   const screenshot_prefix = pageName ? '/games/' + pageName : '';
-  const game_screenshot_path = `${screenshot_prefix}/game_screenshot.webp`;
+  const game_screenshot_path = siteConfig.screenshotUrl || `${screenshot_prefix}/game_screenshot.webp`;
+
   return (
-    <section className="bg-black text-white flex flex-col items-center justify-center p-4 pt-0 relative mb-6 min-h-[calc(40vh-6rem)] md:min-h-[400px] lg:min-h-[600px]">
+    <section className=" text-iframe-foreground flex flex-col items-center justify-center p-4 pt-0 relative mb-6 min-h-[calc(40vh-6rem)] md:min-h-[400px] lg:min-h-[600px]">
       {/* 背景图片处理 */}
       {siteConfig.bgType === 'image' && siteConfig.bgImage && (
         <div 
@@ -33,7 +34,7 @@ export default async function IframeSection({pageName}:{pageName:string|null}) {
             backgroundRepeat: 'no-repeat',
           }}
         >
-          <div className="absolute inset-0 bg-black/50" />
+          <div className="absolute inset-0 bg-iframe-overlay backdrop-blur-sm" />
         </div>
       )}
       
@@ -48,7 +49,7 @@ export default async function IframeSection({pageName}:{pageName:string|null}) {
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
               />
-              <div className="absolute inset-0 bg-black/50 pointer-events-none" />
+              <div className="absolute inset-0 bg-iframe-overlay backdrop-blur-sm pointer-events-none" />
             </>
           ) : (
             <>
@@ -61,14 +62,14 @@ export default async function IframeSection({pageName}:{pageName:string|null}) {
               >
                 <source src={siteConfig.bgVideo} type="video/mp4" />
               </video>
-              <div className="absolute inset-0 bg-black/50 pointer-events-none" />
+              <div className="absolute inset-0 bg-iframe-overlay backdrop-blur-sm pointer-events-none" />
             </>
           )}
         </div>
       )}
 
       {/* iframe 容器 - 调整高度和宽度 */}
-      <div className="relative z-10 rounded w-full max-w-[95vw] md:max-w-6xl">
+      <div className="relative z-10 rounded w-full">
         {isIframe && <LazyIframe gameIframeUrl={siteConfig.gameIframeUrl} title={t('title')}  gameImage={game_screenshot_path}
           description={t('description')} playGameButtonText={t('playGame')}
           pageName={pageName} />}

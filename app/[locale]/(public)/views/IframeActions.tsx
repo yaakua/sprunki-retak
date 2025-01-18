@@ -50,7 +50,7 @@ export default function IframeButton({pageName}:{pageName:string|null}) {
     <div className="mt-4 flex justify-center space-x-4">
       <Button
         onClick={handleFullscreen}
-        className="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-6 rounded-full shadow-md transition duration-300 ease-in-out hover:shadow-lg"
+        className="bg-secondary hover:bg-secondary-hover text-foreground font-bold py-2 px-6 rounded-full shadow-md transition duration-300 ease-in-out hover:shadow-lg"
       >
         {t('fullscreenButton')}
       </Button>
@@ -61,7 +61,7 @@ export default function IframeButton({pageName}:{pageName:string|null}) {
             alert(t('urlCopied'));
           });
         }}
-        className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-6 rounded-full shadow-md transition duration-300 ease-in-out hover:shadow-lg"
+        className="bg-primary hover:bg-primary-hover text-foreground font-bold py-2 px-6 rounded-full shadow-md transition duration-300 ease-in-out hover:shadow-lg"
       >
         {t('shareButton')}
       </Button>

@@ -28,9 +28,9 @@ export interface RecommendationItem {
   title: string;
   cover: string;
   url: string;
-  category: string;
+  category?: string;
   visible?: boolean;
-  position?: string;
+  position?: string | number;
 }
 
 export interface FriendLinkItem {
@@ -39,10 +39,11 @@ export interface FriendLinkItem {
 }
 
 export interface Theme {
-  headFont: string | null;
-  primaryColor: string | null;
-  fontColor: string | null;
-  backgroundColor: string | null;
+  name?: string;
+  headFont?: string | null;
+  primaryColor?: string | null;
+  fontColor?: string | null;
+  backgroundColor?: string | null;
 }
 
 export interface MaterialItem {
@@ -59,7 +60,7 @@ export interface SiteConfig {
   name: string;
   // 网站标语
   slogan: string;
-   // 网站域名
+  // 网站域名
   domain: string
   // 网站图标
   icon: string;
@@ -124,4 +125,28 @@ export interface SiteConfig {
   adsTxtContent?: string | null;
   // 是否自定义特色内容
   customizeFeatures?: boolean;
+  // 游戏截图
+  screenshotUrl?: string | null;
+  // 创建时间
+  createdTime?: string | null;
+  // 更新时间
+  updatedTime?: string | null;
+  // 标签
+  tags?:string[]
 }
+
+export interface GameCategory {
+  name: string;
+  path: string;
+  pageSize: number;
+  backgroundColor?: string;
+  displayStyle: 'horizontal'|'vertical';
+  icon?: string;
+  description?: string;
+  games?: RecommendationItem[]
+}
+
+export interface GameBoxSettings{
+  recommended: RecommendationItem[]
+  categories: GameCategory[]
+} 

@@ -65,5 +65,11 @@
     "title": "すべてのゲーム",
     "description": "すべてのゲーム",
     "games": "ゲーム"
+  },
+  "CategoryPage": {
+    "categories": "カテゴリ",
+    "noCategories": "カテゴリが見つかりません",
+    "viewMore": "さらに表示",
+    "page": "ページ"
   }
 }

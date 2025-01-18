@@ -65,5 +65,11 @@
     "title": "All Games",
     "description": "All Games",
     "games": "Games"
+  },
+  "CategoryPage": {
+    "categories": "Danh mục",
+    "noCategories": "Không tìm thấy danh mục nào",
+    "viewMore": "Xem thêm",
+    "page": "Trang"
   }
 }

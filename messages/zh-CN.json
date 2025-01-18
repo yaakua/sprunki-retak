@@ -65,5 +65,11 @@
     "title": "All Games",
     "description": "All Games",
     "games": "Games"
+  },
+  "CategoryPage": {
+    "categories": "类别",
+    "noCategories": "未找到类别",
+    "viewMore": "查看更多",
+    "page": "页"
   }
 }

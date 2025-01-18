@@ -5,14 +5,16 @@ import { LayoutGrid } from 'lucide-react';
 import { useTranslations } from 'next-intl';
 import { omit } from "radash";
 
-
 type RouteBreadcrumbsProps = { locale: string } & Omit<BreadcrumbsProps, "children">
-
 
 export function ChineseNamesBreadcrumbs(props: RouteBreadcrumbsProps & { name: string }) {
     const t = useTranslations("ChineseNamesGenerator")
     const {name, locale} = props
-    return <Breadcrumbs underline="hover" {...omit(props, ["locale", "name"])}>
+    return <Breadcrumbs underline="hover" classNames={{
+        list: "gap-2",
+        // item: ["text-foreground/60", "data-[current=true]:text-foreground"],
+        separator: "text-foreground/40"
+    }} {...omit(props, ["locale", "name"])}>
         <BreadcrumbItem href={"/"}>
             <LayoutGrid className="size-4"/>
         </BreadcrumbItem>
@@ -28,7 +30,11 @@ export function ChineseNamesBreadcrumbs(props: RouteBreadcrumbsProps & { name: s
 export function ExploreBreadcrumbs(props: RouteBreadcrumbsProps) {
     const t = useTranslations("ChineseNamesGenerator")
     const {locale} = props
-    return <Breadcrumbs underline="hover" {...omit(props, ["locale"])}>
+    return <Breadcrumbs underline="hover" classNames={{
+        list: "gap-2",
+        // item: ["text-foreground/60", "data-[current=true]:text-foreground"],
+        separator: "text-foreground/40"
+    }} {...omit(props, ["locale"])}>
         <BreadcrumbItem href={"/"}>
             <LayoutGrid className="size-4"/>
         </BreadcrumbItem>
@@ -41,11 +47,14 @@ export function ExploreBreadcrumbs(props: RouteBreadcrumbsProps) {
     </Breadcrumbs>
 }
 
-
 export function ExploreItemBreadcrumbs(props: RouteBreadcrumbsProps & { slug: string, value: string }) {
     const {slug, value, locale} = props
     const t = useTranslations("ChineseNamesGenerator")
-    return <Breadcrumbs underline="hover" {...omit(props, ["locale", "slug", "value"])}>
+    return <Breadcrumbs underline="hover" classNames={{
+        list: "gap-2",
+        // item: ["text-foreground/60", "data-[current=true]:text-foreground"],
+        separator: "text-foreground/40"
+    }} {...omit(props, ["locale", "slug", "value"])}>
         <BreadcrumbItem href={"/"}>
             <LayoutGrid className="size-4"/>
         </BreadcrumbItem>
@@ -61,10 +70,13 @@ export function ExploreItemBreadcrumbs(props: RouteBreadcrumbsProps & { slug: st
     </Breadcrumbs>
 }
 
-
 export function ContentBreadcrumbs(props: RouteBreadcrumbsProps) {
     const t = useTranslations("ChineseNamesGenerator")
-    return <Breadcrumbs underline="hover" {...omit(props, ["locale"])}>
+    return <Breadcrumbs underline="hover" classNames={{
+        list: "gap-2",
+        // item: ["text-foreground/60", "data-[current=true]:text-foreground"],
+        separator: "text-foreground/40"
+    }} {...omit(props, ["locale"])}>
         <BreadcrumbItem href={"/"}>
             <LayoutGrid className="size-4"/>
         </BreadcrumbItem>
@@ -77,7 +89,11 @@ export function ContentBreadcrumbs(props: RouteBreadcrumbsProps) {
 export function ContentArticleBreadcrumbs(props: RouteBreadcrumbsProps & { title: string }) {
     const {locale, title} = props
     const t = useTranslations("ChineseNamesGenerator")
-    return <Breadcrumbs underline="hover" {...omit(props, ["locale"])}>
+    return <Breadcrumbs underline="hover" classNames={{
+        list: "gap-2",
+        // item: ["text-foreground/60", "data-[current=true]:text-foreground"],
+        separator: "text-foreground/40"
+    }} {...omit(props, ["locale"])}>
         <BreadcrumbItem href={"/"}>
             <LayoutGrid className="size-4"/>
         </BreadcrumbItem>
@@ -90,11 +106,14 @@ export function ContentArticleBreadcrumbs(props: RouteBreadcrumbsProps & { title
     </Breadcrumbs>
 }
 
-
 export function ChineseNamesContentIndexBreadcrumbs(props: RouteBreadcrumbsProps) {
     const t = useTranslations("ChineseNamesGenerator")
     const {locale} = props
-    return <Breadcrumbs underline="hover" {...omit(props, ["locale"])}>
+    return <Breadcrumbs underline="hover" classNames={{
+        list: "gap-2",
+        // item: ["text-foreground/60", "data-[current=true]:text-foreground"],
+        separator: "text-foreground/40"
+    }} {...omit(props, ["locale"])}>
         <BreadcrumbItem href={"/"}>
             <LayoutGrid className="size-4"/>
         </BreadcrumbItem>
@@ -107,11 +126,14 @@ export function ChineseNamesContentIndexBreadcrumbs(props: RouteBreadcrumbsProps
     </Breadcrumbs>
 }
 
-
 export function ChineseNamesContentQuestionBreadcrumbs(props: RouteBreadcrumbsProps) {
     const t = useTranslations("ChineseNamesGenerator")
     const {locale} = props
-    return <Breadcrumbs underline="hover" {...omit(props, ["locale"])}>
+    return <Breadcrumbs underline="hover" classNames={{
+        list: "gap-2",
+        // item: ["text-foreground/60", "data-[current=true]:text-foreground"],
+        separator: "text-foreground/40"
+    }} {...omit(props, ["locale"])}>
         <BreadcrumbItem href={"/"}>
             <LayoutGrid className="size-4"/>
         </BreadcrumbItem>

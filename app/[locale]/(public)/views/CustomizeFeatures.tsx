@@ -1,9 +1,8 @@
 import React from 'react';
 import MdxArticle from '@/lib/components/mdx-article';
-import Image from 'next/image';
 const components: any = {
   img: ({ src, alt }: { src: string, alt: string }) => {
-    return <Image src={src} alt={alt} className="object-cover" />
+    return <img src={src} alt={alt} className="object-cover" />
   }
 }
 export default async function CustomizeFeatures({ content }: { content: string|null }) {

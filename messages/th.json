@@ -65,5 +65,11 @@
     "title": "ทุกเกม",
     "description": "ทุกเกม",
     "games": "เกม"
+  },
+  "CategoryPage": {
+    "categories": "หมวดหมู่",
+    "noCategories": "ไม่พบหมวดหมู่",
+    "viewMore": "ดูเพิ่มเติม",
+    "page": "หน้า"
   }
 }

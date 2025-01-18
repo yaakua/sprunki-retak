@@ -65,5 +65,11 @@
     "title": "সমস্ত গেম",
     "description": "সমস্ত গেম",
     "games": "গেম"
+  },
+  "CategoryPage": {
+    "categories": "শ্রেণী",
+    "noCategories": "কোনো শ্রেণী পাওয়া যায়নি",
+    "viewMore": "আরও দেখুন",
+    "page": "পাতা"
   }
 }

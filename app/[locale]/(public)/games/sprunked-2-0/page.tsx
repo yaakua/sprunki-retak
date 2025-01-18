@@ -30,7 +30,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const pageName = siteConfig.pageName;
   const pagePath = siteConfig.pagePath;
   return {
-    title: `${t(`${pageName}.title`)} | ${t(`${pageName}.slogan`)}`,
+    title: `${t(`${pageName}.title`)} | ${siteConfig.name}`,
     description: t(`${pageName}.description`),
     alternates: {
       languages: alternatesLanguage(pagePath),
@@ -44,16 +44,18 @@ export default async function Page({ params }: Props) {
   const siteConfig2 = siteConfig as unknown as SiteConfig
   const pageName = siteConfig.pageName;
   let features2ContentResult = null;
-  try {
-    const Content = (await import(`!!raw-loader!./config/features/${locale}.mdx`)).default;
-    const { content } = matter(Content);
-    features2ContentResult = content;
-  } catch (error) {
-    console.log(`features2 section can not find ${locale}.mdx`, error);
+  if(siteConfig2.customizeFeatures){
+    try {
+      const Content = (await import(`!!raw-loader!./config/features/${locale}.mdx`)).default;
+      const { content } = matter(Content);
+      features2ContentResult = content;
+    } catch (error) {
+      // console.warn(`features2 section can not find ${locale}.mdx`, error);
+    }
   }
   
   return (
-    <div className="bg-black pt-5 pb-5">
+    <div className="bg-background pt-5 pb-5">
       <div className="container mx-auto">
         <div className="flex flex-col lg:flex-row">
           {/* 左侧主要内容区域 */}

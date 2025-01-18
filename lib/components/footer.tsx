@@ -16,27 +16,27 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
   const buildLocaleLinks = (key: string, name: string) => {
     if (key === 'en') {
       return (
-        <NextLink className="text-gray-500 hover:text-primary-200" href={cleanPathname}>
+        <NextLink className="text-footer-foreground/80 hover:text-footer-foreground transition-colors" href={cleanPathname}>
           {name}
         </NextLink>
       );
     }
     return (
-      <Link className="text-gray-500 hover:text-primary-200" href={cleanPathname} locale={key}>
+      <Link className="text-footer-foreground/80 hover:text-footer-foreground transition-colors" href={cleanPathname} locale={key}>
         {name}
       </Link>
     );
   };
 
   return (
-    <footer className="bg-black px-4 md:px-8 py-12 text-white">
-      <div className="w-full max-w-[1480px] mx-auto">
+    <footer className="bg-footer border-t border-border">
+      <div className="w-full max-w-[1480px] mx-auto py-12 px-4">
         {/* 主要内容区域 - 三列布局 */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           {/* 第一列 - Liars Bar */}
           <div className="flex flex-col gap-4">
-            <h2 className="text-2xl font-leckerli">{t('title')}</h2>
-            <p className="text-gray-400">{t(siteConfig.slogan as any)}</p>
+            <h2 className="text-2xl noto-sans-hk-bold text-footer-foreground">{t('title')}</h2>
+            <p className="text-footer-foreground/80">{t(siteConfig.slogan as any)}</p>
             {/* 社交媒体图标 */}
             <div className="flex gap-4 mt-2">
               <SocialIcons
@@ -63,16 +63,17 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
 
           {/* 第二列 - 帮助链接 */}
           <div className="flex flex-col gap-4">
-            <h2 className="text-xl font-semibold mb-2">{t('Common.help')}</h2>
+            <h2 className="text-xl font-semibold mb-2 text-footer-foreground">{t('Common.help')}</h2>
             <div className="flex flex-col gap-2">
               {items
                 .flatMap((it: any) => it?.children ?? [it])
+                .slice(-10)  // 只取最后10条记录
                 .map((it, index) => (
                   <Link
                     key={`${it.title}-${index}`}
                     href={it.href}
                     locale={locale === 'en' ? undefined : locale}
-                    className="text-gray-400 hover:text-primary-200"
+                    className="text-footer-foreground/80 hover:text-footer-foreground transition-colors"
                   >
                     {it.title}
                   </Link>
@@ -82,12 +83,12 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
 
           {/* 第三列 - 语言选择 */}
           <div className="flex flex-col gap-4">
-            <h2 className="text-xl font-semibold mb-2">Languages</h2>
+            <h2 className="text-xl font-semibold mb-2 text-footer-foreground">Languages</h2>
             <div className="grid grid-cols-2 gap-2">
               {Object.entries(localeNames).map(([key, name]) => (
                 <div key={key}>
                   {locale === key ? (
-                    <span className="text-primary-200 cursor-default">{name}</span>
+                    <span className="text-footer-foreground cursor-default">{name}</span>
                   ) : (
                     buildLocaleLinks(key, name)
                   )}
@@ -98,24 +99,29 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
         </div>
 
         {/* 底部版权信息 */}
-        <div className="pt-8 border-t border-gray-800">
+        <div className="pt-8 border-t border-footer-foreground/10">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-gray-400"> 2024 {siteConfig.name} All rights reserved.</p>
+            <div className="flex flex-col md:flex-row items-center gap-2">
+              <p className="text-footer-foreground/80">{new Date().getFullYear()} {siteConfig.name} All rights reserved.</p>
+              <div className="text-footer-foreground/80">
+                Powered by <Link href="https://fafafa.ai" className="text-footer-foreground/80 hover:text-footer-foreground transition-colors">fafafa.ai</Link>
+              </div>
+            </div>
             <div className="flex flex-wrap gap-4">
               {siteConfig.friendLinks.map((link: any) => (
-                <Link key={link.title} href={link.url} className="text-gray-400 hover:text-primary-200">
+                <Link key={link.title} href={link.url} className="text-footer-foreground/80 hover:text-footer-foreground transition-colors">
                   {link.title}
                 </Link>
               ))}
             </div>
             <ul className="flex flex-wrap items-center gap-6">
               <li>
-                <Link href="/privacy-policy" className="text-gray-400 hover:text-primary-200">
+                <Link href="/privacy-policy" className="text-footer-foreground/80 hover:text-footer-foreground transition-colors">
                   {t('Common.privacyPolicy')}
                 </Link>
               </li>
               <li>
-                <Link href="/terms-of-services" className="text-gray-400 hover:text-primary-200">
+                <Link href="/terms-of-services" className="text-footer-foreground/80 hover:text-footer-foreground transition-colors">
                   {t('Common.termsOfServices')}
                 </Link>
               </li>

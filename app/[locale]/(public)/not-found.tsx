@@ -9,12 +9,12 @@ export default function NotFoundPage() {
           <Image alt="404-Error-amico" src="/404-amico.webp" loading="lazy"  width={400} height={400}/>
         </div>
         <div className="mt-12 flex-1 max-w-lg space-y-3 md:mt-0">
-          <h3 className="text-indigo-600 font-semibold">404 Error</h3>
-          <p className="text-gray-800 text-4xl font-semibold sm:text-5xl">Page Not Found</p>
-          <p className="text-gray-600">Sorry, the page you are looking for could not be found or has been removed.</p>
+          <h3 className="text-primary font-semibold">404 Error</h3>
+          <p className="text-foreground text-4xl font-semibold sm:text-5xl">Page Not Found</p>
+          <p className="text-secondary">Sorry, the page you are looking for could not be found or has been removed.</p>
           <Link
             href="/"
-            className="text-indigo-600 duration-150 hover:text-indigo-400 font-medium inline-flex items-center gap-x-1"
+            className="text-primary duration-150 hover:text-primary-hover font-medium inline-flex items-center gap-x-1"
           >
             <div className="flex items-center gap-x-1">
               Go Back Home

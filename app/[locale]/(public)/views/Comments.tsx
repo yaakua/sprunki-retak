@@ -21,7 +21,7 @@ export default async function Comments({pageName,siteConfig}:{pageName:string|nu
     });
   } else {
     comments = siteConfig.comments.map((it:CommentItem, index:number) => (
-      <Card key={index} className="h-full bg-gray-800 border-none">
+      <Card key={index} className="h-full bg-card border-none">
         <CardHeader className="md:p-6 p-4">
           <div className="flex items-center gap-2 md:gap-4">
             <Avatar className="w-8 h-8 md:w-10 md:h-10">
@@ -35,7 +35,7 @@ export default async function Comments({pageName,siteConfig}:{pageName:string|nu
           </div>
         </CardHeader>
         <CardContent className="md:p-6 p-4">
-          <p className="text-gray-600 text-sm md:text-base">{it.content}</p>
+          <p className="text-muted text-sm md:text-base">{it.content}</p>
         </CardContent>
       </Card>
     ));

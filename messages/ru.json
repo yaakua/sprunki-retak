@@ -65,5 +65,11 @@
     "title": "Все игры",
     "description": "Все игры",
     "games": "Игры"
+  },
+  "CategoryPage": {
+    "categories": "Категории",
+    "noCategories": "Категории не найдены",
+    "viewMore": "Посмотреть больше",
+    "page": "Страница"
   }
 }

@@ -27,6 +27,7 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
   const [openItems, setOpenItems] = React.useState<string[]>([]);
   const pathname = usePathname();
+  const locale = useLocale();
 
   const isActive = (href: string) => pathname === href;
 
@@ -39,25 +40,29 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
   };
   const logoUrl = siteConfig.logoUrl ? siteConfig.logoUrl : '/logo.svg'
 
+  const handleLocaleChange = (value: string) => {
+    // implement locale change logic here
+  };
+
+  const localeNames = {
+    // implement locale names here
+  };
+
   return (
-    <header className="sticky top-0 z-50 w-full border-b border-gray-700 bg-[rgb(27,44,65)] shadow-lg shadow-black/20">
+    <header className="sticky top-0 z-50 w-full border-b border-border bg-navbar backdrop-blur supports-[backdrop-filter]:bg-navbar/95">
       <div className="container flex h-16 items-center px-4">
         <Sheet open={isMenuOpen} onOpenChange={setIsMenuOpen}>
           <SheetTrigger asChild className="md:hidden">
-            <Button variant="ghost" size="icon" className="text-white">
+            <Button variant="ghost" className="text-navbar-foreground">
               <Menu className="h-6 w-6" />
             </Button>
           </SheetTrigger>
           <SheetContent 
             side="left" 
-            className="w-[300px] sm:w-[400px] bg-[rgb(27,44,65)] border-gray-700 [&_button>svg]:text-white"
-            onCloseAutoFocus={(e) => {
-              e.preventDefault();
-              setIsMenuOpen(false);
-            }}
+            className="w-[300px] sm:w-[400px] bg-navbar/95 backdrop-blur supports-[backdrop-filter]:bg-navbar/60"
           >
             <SheetHeader>
-              <SheetTitle className="text-white">{nt('title')}</SheetTitle>
+              <SheetTitle className="text-navbar-foreground">{nt('title')}</SheetTitle>
             </SheetHeader>
             <div className="flex flex-col gap-4 py-4">
               {items.map((item) => (
@@ -71,7 +76,7 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
                           toggleSubmenu(item.title);
                         }}
                         type="button"
-                        className="flex items-center justify-between px-4 py-2 text-sm font-medium text-white hover:bg-[rgb(37,54,75)] hover:text-yellow-300 rounded-md transition-colors"
+                        className="flex items-center justify-between px-4 py-2 text-sm font-medium text-navbar-foreground/80 hover:text-navbar-foreground transition-colors"
                       >
                         <span>{item.title}</span>
                         <ChevronDown
@@ -94,12 +99,11 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
                             target={child.href.startsWith('http') ? "_blank" : "_self"}
                             rel={child.href.startsWith('http') ? "noopener noreferrer" : undefined}
                             className={cn(
-                              'flex items-center gap-2 px-4 py-2 text-sm font-medium rounded-md text-white',
-                              'hover:bg-[rgb(37,54,75)] hover:text-yellow-300 transition-all duration-200',
-                              isActive(child.href) && 'bg-[rgb(37,54,75)] text-yellow-300'
+                              'flex items-center gap-2 px-4 py-2 text-sm font-medium rounded-md text-navbar-foreground/80',
+                              'hover:bg-navbar-foreground/10 hover:text-navbar-foreground transition-colors',
+                              isActive(child.href) && 'bg-navbar-foreground/10 text-navbar-foreground'
                             )}
                             onClick={(e) => {
-                              e.stopPropagation();
                               setIsMenuOpen(false);
                             }}
                           >
@@ -114,11 +118,13 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
                       target={item.href.startsWith('http') ? "_blank" : "_self"}
                       rel={item.href.startsWith('http') ? "noopener noreferrer" : undefined}
                       className={cn(
-                        'flex items-center gap-2 px-4 py-2 text-sm font-medium rounded-md text-white',
-                        'hover:bg-[rgb(37,54,75)] hover:text-yellow-300 transition-all duration-200',
-                        isActive(item.href) && 'bg-[rgb(37,54,75)] text-yellow-300'
+                        'flex items-center gap-2 px-4 py-2 text-sm font-medium rounded-md text-navbar-foreground/80',
+                        'hover:bg-navbar-foreground/10 hover:text-navbar-foreground transition-colors',
+                        isActive(item.href) && 'bg-navbar-foreground/10 text-navbar-foreground'
                       )}
-                      onClick={() => setIsMenuOpen(false)}
+                      onClick={(e) => {
+                        setIsMenuOpen(false);
+                      }}
                     >
                       {item.title}
                     </Link>
@@ -126,7 +132,7 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
                 </div>
               ))}
               <div className="px-4 py-2">
-                <LocaleDropdown type="link" />
+                <LocaleDropdown />
               </div>
             </div>
           </SheetContent>
@@ -137,7 +143,7 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
             href="/"
             className="flex items-center space-x-2 group"
           >
-            <Image
+            <img
               src={logoUrl}
               className="h-14 w-auto rounded-xl"
               alt={`${t('title')} logo`}
@@ -148,9 +154,12 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
                 console.error('Image load failed:', e);
               }}
             />
-            <span className="inline-flex items-end text-lg  bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent transition-all duration-300 truncate max-w-[150px] sm:max-w-none">
+            <div className="hidden lg:block">
+            <p className="text-navbar-foreground/80 hover:text-navbar-foreground transition-colors">
               {t(siteConfig.slogan as any)}
-            </span>
+            </p>
+          </div>
+           
           </Link>
         </div>
 
@@ -162,7 +171,7 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
                   {item.children ? (
                     <>
                       <NavigationMenu.Trigger 
-                        className="group inline-flex h-10 w-max items-center justify-center rounded-md px-4 py-2 text-sm font-medium text-white hover:bg-[rgb(37,54,75)] hover:text-yellow-300 transition-colors"
+                        className="group inline-flex h-10 w-max items-center justify-center rounded-md px-4 py-2 text-sm font-medium text-navbar-foreground/80 hover:text-navbar-foreground hover:bg-navbar-foreground/10 transition-colors"
                       >
                         {item.title}
                         <ChevronDown
@@ -171,11 +180,11 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
                         />
                       </NavigationMenu.Trigger>
                       <NavigationMenu.Content className={cn(
-                        "absolute top-full left-0 mt-2 w-48 origin-top-left rounded-md bg-[rgb(27,44,65)] p-2 shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none",
+                        "absolute top-full left-0 mt-2 w-48 origin-top-left rounded-md bg-navbar/95 backdrop-blur-sm p-2 shadow-lg ring-1 ring-border ring-opacity-5 focus:outline-none",
                         "data-[motion=from-start]:animate-enterFromLeft",
                         "data-[motion=from-end]:animate-enterFromRight",
                         "data-[motion=to-start]:animate-exitToLeft",
-                        "data-[motion=to-end]:animate-exitToRight",
+                        "data-[motion=to-end]:animate-exitToRight"
                       )}>
                         {item.children.map((child) => (
                           <Link
@@ -184,9 +193,9 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
                             target={child.href.startsWith('http') ? "_blank" : "_self"}
                             rel={child.href.startsWith('http') ? "noopener noreferrer" : undefined}
                             className={cn(
-                              'block px-4 py-2 text-sm text-white rounded-md',
-                              'hover:bg-[rgb(37,54,75)] hover:text-yellow-300 transition-all duration-200',
-                              isActive(child.href) && 'bg-[rgb(37,54,75)] text-yellow-300'
+                              'block px-4 py-2 text-sm rounded-md text-navbar-foreground/80',
+                              'hover:bg-navbar-foreground/10 hover:text-navbar-foreground transition-colors',
+                              isActive(child.href) && 'bg-navbar-foreground/10 text-navbar-foreground'
                             )}
                           >
                             {child.title}
@@ -197,11 +206,13 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
                   ) : (
                     <Link
                       href={item.href}
+                      target={item.href.startsWith('http') ? "_blank" : "_self"}
+                      rel={item.href.startsWith('http') ? "noopener noreferrer" : undefined}
                       className={cn(
-                        "group inline-flex h-10 w-max items-center justify-center rounded-md px-4 py-2",
-                        "text-sm font-medium text-white transition-colors",
-                        "hover:bg-[rgb(37,54,75)] hover:text-yellow-300",
-                        isActive(item.href) && 'bg-[rgb(37,54,75)] text-yellow-300'
+                        'group inline-flex h-10 w-max items-center justify-center rounded-md px-4 py-2',
+                        'text-sm font-medium text-navbar-foreground/80 transition-colors',
+                        'hover:bg-navbar-foreground/10 hover:text-navbar-foreground',
+                        isActive(item.href) && 'bg-navbar-foreground/10 text-navbar-foreground'
                       )}
                     >
                       {item.title}
@@ -217,6 +228,7 @@ export default function AppNavbar({ items }: { items: NavbarItem[] }) {
           <div className="transform hover:scale-105 transition-transform duration-200">
             <LocaleDropdown />
           </div>
+          
         </div>
       </div>
     </header>

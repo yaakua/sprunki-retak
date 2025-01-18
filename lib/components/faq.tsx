@@ -13,16 +13,16 @@ const FAQ: FC<FAQProps> = ({className, items}) => {
     const t = useTranslations("FAQs")
     return (
         <section className={cn("my-10 px-4 max-w-screen-xl mx-auto", className)}>
-            <h2 className="text-3xl font-semibold mb-8 text-center">
+            <h2 className="text-3xl font-semibold mb-8 text-center text-faq-title">
                 {t("title")}
             </h2>
             <div className="space-y-6">
                 {items.map((item, index) => (
-                    <div key={index} className="border-b border-gray-200 pb-4">
-                        <h3 className="text-lg font-semibold mb-2">
+                    <div key={index} className="border-b border-faq-divider pb-4 bg-faq-content">
+                        <h3 className="text-lg font-semibold mb-2 text-faq-title">
                             {`${index < 9 ? '0' : ''}${index + 1}. ${item.question}`}
                         </h3>
-                        <p className="text-gray-600">{item.answer}</p>
+                        <p className="text-faq-text">{item.answer}</p>
                     </div>
                 ))}
             </div>

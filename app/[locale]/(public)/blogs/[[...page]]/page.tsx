@@ -5,7 +5,6 @@ import { Metadata } from 'next';
 import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { notFound, permanentRedirect } from 'next/navigation';
 import {siteConfig} from '@/lib/config/site';
-import Image from 'next/image';
 import dayjs from 'dayjs';
 export const dynamic = 'force-static'
 type Props = {
@@ -62,7 +61,7 @@ export default async function Page({ params }: PageProps) {
     setRequestLocale(locale);
     const articles = getArticlesData()[locale] || [];
     const t = await getTranslations({ locale });
-    console.log("###articles#####",articles);
+    // console.log("###articles#####",articles);
     const currentPage = page ? Number(page[0]) || 1 : 1;
     const pageSize = 20;
     const totalPages = Math.ceil(articles.length / pageSize);
@@ -80,6 +79,7 @@ export default async function Page({ params }: PageProps) {
     }
 
     return (
+      <div className="bg-background text-foreground">
       <div className="max-w-6xl mx-auto py-10 px-4 min-h-[65vh]">
         <h1 className="text-2xl font-bold mb-6">{t('Common.articleList')}</h1>
         <div className="grid gap-6 mb-6">
@@ -87,12 +87,12 @@ export default async function Page({ params }: PageProps) {
             <Link 
               href={`/t/${article.slug}`} 
               key={article.slug}
-              className="block p-4 border rounded-lg hover:bg-gray-50"
+              className="block p-4 border rounded-lg hover:bg-card"
             >
               <div className="flex items-center gap-4">
                 <div className='aspect-[4/3] md:aspect-[16/9] relative'>
                 {article.image && (
-                    <Image
+                    <img
                     src={article.image} 
                     alt={article.title} 
                     loading="lazy"
@@ -106,12 +106,12 @@ export default async function Page({ params }: PageProps) {
                 <div>
                   <h2 className="text-xl font-semibold">{article.title}</h2>
                   {article.description && (
-                    <p className="text-gray-600 mt-2 text-sm line-clamp-2">
+                    <p className="text-foreground/60 mt-2 text-sm line-clamp-2">
                       {article.description}
                     </p>
                   )}
                   {article.createdAt && (
-                    <p className="text-gray-500 text-sm mt-1">
+                    <p className="text-foreground/50 text-sm mt-1">
                       {t('Common.createAt')}: {dayjs(article.createdAt).format('YYYY-MM-DD HH:mm:ss')}
                     </p>
                   )}
@@ -125,7 +125,7 @@ export default async function Page({ params }: PageProps) {
             {currentPage > 1 && (
               <Link
                 href={`/blogs/${currentPage - 1}`}
-                className="px-4 py-2 border rounded hover:bg-gray-50"
+                className="px-4 py-2 border rounded hover:bg-card"
                 aria-label="Previous page"
               >
                 {t('Common.previous')}
@@ -135,7 +135,7 @@ export default async function Page({ params }: PageProps) {
               <Link
                 key={page}
                 href={href}
-                className={`px-4 py-2 border rounded ${isCurrent ? 'bg-emerald-800 text-white' : 'hover:bg-emerald-900 hover:text-white'}`}
+                className={`px-4 py-2 border rounded ${isCurrent ? 'bg-success text-background' : 'hover:bg-success-hover hover:text-background'}`}
                 aria-current={isCurrent ? 'page' : undefined}
               >
                 {page}
@@ -144,7 +144,7 @@ export default async function Page({ params }: PageProps) {
             {currentPage < totalPages && (
               <Link
                 href={`/blogs/${currentPage + 1}`}
-                className="px-4 py-2 border rounded hover:bg-gray-50"
+                className="px-4 py-2 border rounded hover:bg-card"
                 aria-label="Next page"
               >
                 {t('Common.next')}
@@ -152,6 +152,7 @@ export default async function Page({ params }: PageProps) {
             )}
           </nav>
         )}
+      </div>
       </div>
     );
   } catch (error) {
