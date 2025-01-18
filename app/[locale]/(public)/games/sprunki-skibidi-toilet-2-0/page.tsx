@@ -14,6 +14,7 @@ import siteConfig from './config/config.json';
 import { SiteConfig} from '@/lib/types';
 import GameRecommendationCard from '@/app/[locale]/(public)/views/GameRecommendationCard';
 import matter from 'gray-matter';
+import { getFeaturedContent } from '@/lib/utils/blogs';
 export const dynamic = 'force-static'
 type Props = {
   params: Promise<{ locale: string }>;
@@ -45,13 +46,8 @@ export default async function Page({ params }: Props) {
   const pageName = siteConfig.pageName;
   let features2ContentResult = null;
   if(siteConfig2.customizeFeatures){
-    try {
-      const Content = (await import(`!!raw-loader!./config/features/${locale}.mdx`)).default;
-      const { content } = matter(Content);
-      features2ContentResult = content;
-    } catch (error) {
-      // console.warn(`features2 section can not find ${locale}.mdx`, error);
-    }
+    const { content } = getFeaturedContent(process.cwd(),locale);
+    features2ContentResult = content;
   }
   
   return (
@@ -64,7 +60,7 @@ export default async function Page({ params }: Props) {
            
             <div className="px-4">
               <SectionWrapper className="max-full">
-                {siteConfig2.customizeFeatures ? <CustomizeFeatures content={features2ContentResult} /> : <Features pageName={pageName} />}
+                {siteConfig2.customizeFeatures && features2ContentResult? <CustomizeFeatures content={features2ContentResult} /> : <Features pageName={pageName} />}
                 <FAQs locale={locale} pageName={pageName} />
                 <RelatedVideo pageName={pageName} siteConfig={siteConfig2} />
                 <Comments pageName={pageName} siteConfig={siteConfig2} />

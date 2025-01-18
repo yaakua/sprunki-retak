@@ -88,3 +88,21 @@ export const getArticlesData = (): Record<string, ArticleMetadata[]> => {
 
     return articlesByLocale;
 }
+
+
+export const getFeaturedContent = (basePath: string,locale:string) => {
+   const filePath = path.join(basePath,'config','features',`${locale}.mdx`)
+   if (fs.existsSync(filePath)) {
+    try {
+        const mdxContent = fs.readFileSync(filePath, 'utf-8')
+        const { data: frontMatter, content } = matter(mdxContent)
+        return {
+            frontMatter,
+            content
+        }
+    } catch (error) {
+        console.error(`Error reading directory ${filePath}:`, error);
+    }
+   }
+   return {frontMatter:null,content:null}
+}

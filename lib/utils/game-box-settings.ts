@@ -37,7 +37,7 @@ export const getHomeSettings = async (locale: string) => {
       
       try {
         // 读取游戏配置
-        const siteConfigPath = path.join(gamePath, 'config', 'site.json');
+        const siteConfigPath = path.join(gamePath, 'config', 'config.json');
         const siteConfig = JSON.parse(fs.readFileSync(siteConfigPath, 'utf-8'));
         
         // 读取游戏多语言配置
