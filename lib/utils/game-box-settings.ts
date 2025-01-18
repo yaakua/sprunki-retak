@@ -1,3 +1,5 @@
+import path from "path";
+import fs from "fs";
 import { GameBoxSettings, RecommendationItem } from "../types";
 
 /**
@@ -19,12 +21,11 @@ export const getHomeSettings = async (locale: string) => {
     }
 
     // 2. 读取games目录下的所有游戏配置
-    const fs = require('fs').promises;
-    const path = require('path');
     const gamesDir = path.join(process.cwd(), 'app', '[locale]', '(public)', 'games');
     
-    const gameDirs = await fs.readdir(gamesDir);
-    
+    const gameDirs = fs.readdirSync(gamesDir, { withFileTypes: true })
+    .filter(dirent => dirent.isDirectory())
+    .map(dirent => dirent.name);
     // 收集所有游戏信息，用于后续排序
     const allGames: Array<{
       config: any,
@@ -33,20 +34,17 @@ export const getHomeSettings = async (locale: string) => {
     
     for (const gameDir of gameDirs) {
       const gamePath = path.join(gamesDir, gameDir);
-      const stat = await fs.stat(gamePath);
-      
-      if (!stat.isDirectory()) continue;
       
       try {
         // 读取游戏配置
         const siteConfigPath = path.join(gamePath, 'config', 'site.json');
-        const siteConfig = JSON.parse(await fs.readFile(siteConfigPath, 'utf8'));
+        const siteConfig = JSON.parse(fs.readFileSync(siteConfigPath, 'utf-8'));
         
         // 读取游戏多语言配置
         const messagesPath = path.join(process.cwd(), 'messages', locale, 'games', `${siteConfig.pageName}.json`);
         let gameTitle;
         try {
-          const messages = JSON.parse(await fs.readFile(messagesPath, 'utf8'));
+          const messages = JSON.parse(fs.readFileSync(messagesPath, 'utf-8'));
           gameTitle = messages[siteConfig.pageName]?.title;
         } catch {
           // 如果找不到对应语言的配置，使用pageName作为标题
