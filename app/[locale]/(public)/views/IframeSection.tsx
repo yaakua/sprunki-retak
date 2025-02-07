@@ -15,7 +15,7 @@ export default async function IframeSection({pageName}:{pageName:string|null}) {
   const locale = await getLocale();
   const prefix = pageName ? pageName + '.' : '';
   const t = await getTranslations(`${prefix}HomeIframe`);
-  const t2 = await getTranslations(`${prefix}`);
+  const t2 = await getTranslations(`${prefix}Loading`);
   const siteConfig = await loadSiteConfig(pageName);
   const isIframe = siteConfig.gameType === 'iframe';
   const isPopup = siteConfig.gameType === 'popup';
@@ -72,7 +72,7 @@ export default async function IframeSection({pageName}:{pageName:string|null}) {
       {/* iframe 容器 - 调整高度和宽度 */}
       <div className="relative z-10 rounded w-full">
         {isIframe && <LazyIframe gameIframeUrl={siteConfig.gameIframeUrl} title={t('title')}  gameImage={game_screenshot_path}
-          description={t('description')} playGameButtonText={t('playGame')} loadingTitle={t2('Loading.title')}
+          description={t('description')} playGameButtonText={t('playGame')} loadingTitle={t2('title')}
           pageName={pageName} />}
         {siteConfig.gameType === 'download' && siteConfig.gameDownload?.showDownloadButton && (
           <LazyIframe 
@@ -83,7 +83,7 @@ export default async function IframeSection({pageName}:{pageName:string|null}) {
             playGameButtonText={t('downloadGame')}
             type="download"
             pageName={pageName}
-            loadingTitle={t('Loading.title')}
+            loadingTitle={t2('title')}
           />
         )}
         {isPopup && (
