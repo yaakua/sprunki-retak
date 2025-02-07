@@ -107,7 +107,7 @@
   "adsenseClientId": "",
   "createdTime": "2024-12-14 15:58:59",
   "customizeFeatures": true,
-  "screenshotUrl": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-01-07/images/1736236887728-e2pqwi.webp",
+  "screenshotUrl": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-02-07/images/1738909504406-c9xwjw.png",
   "page_path": "/games/sprunked-2-0",
   "override_page_path": false,
   "auto_deploy": true,
@@ -870,5 +870,36 @@
       }
     ]
   },
-  "userInputText": ""
+  "userInputText": "",
+  "color_scheme_id": "default",
+  "categories": [],
+  "availableCategories": [
+    {
+      "name": "Featured Games",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "We have selected the best games for you!"
+    },
+    {
+      "name": "Action Games",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "vertical",
+      "icon": "",
+      "description": "Exciting action games!"
+    },
+    {
+      "name": "Sports Games",
+      "path": "/c/sports",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Exciting sports games!"
+    }
+  ]
 }

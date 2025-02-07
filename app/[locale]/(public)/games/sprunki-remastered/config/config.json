@@ -8,11 +8,11 @@
     "fontColor": null,
     "backgroundColor": null
   },
-  "gameType": "download",
+  "gameType": "iframe",
   "gameIframeUrl": "https://iframegame.com/embed/sprunki-remastered-2/index.html",
   "gameRedirectUrl": "",
-  "bgType": "image",
-  "bgImage": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-01-07/images/1736235010690-eapfly.webp",
+  "bgType": "iframe",
+  "bgImage": "",
   "bgVideo": "",
   "gameDownload": {
     "showDownloadButton": true,
@@ -118,7 +118,7 @@
   ],
   "adsenseClientId": "",
   "customizeFeatures": false,
-  "screenshotUrl": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-01-07/images/1736234827168-l03ang.png",
+  "screenshotUrl": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-02-07/images/1738909404185-v2zzpn.avif",
   "page_path": "/games/sprunki-remastered",
   "override_page_path": false,
   "auto_deploy": true,
@@ -882,5 +882,36 @@
     ]
   },
   "userInputText": "\nGame Name: Sprunki Remastered\nGame Description: sprunki remastered Introduction\nWelcome to SPRUNKI REMASTERED - Back to the Roots, But Make it LEGENDARY! 🌟\n\nYo fam, hold onto your headphones because SPRUNKI REMASTERED just dropped and it's hitting different! We're taking it back to where it all began, but with that crispy, ultra-HD, next-level polish you've been dreaming of!\n\nThe Return to Greatness SPRUNKI REMASTERED isn't just a throwback - it's the OG experience rebuilt from the ground up with love, respect, and enough processing power to make your GPU sweat! Every pixel, every sound, every vibe has been carefully crafted to perfection in SPRUNKI REMASTERED.\n\nWhy SPRUNKI REMASTERED Hits Different\n\nClassic Engine, Modern Power\n\nCrystal-clear 32-bit audio (SPRUNKI REMASTERED exclusive!)\nRetro-enhanced visuals\nClassic sounds in 8K definition\nZero-latency response time\nOld School Meets New Cool\n\nModernized classic interface\nOriginal workflow, modern speed\nLegacy presets in HD\nAuthentic feel, modern stability\nBack to Basics (But Better) SPRUNKI REMASTERED knows what made the original special - and makes it PERFECT! Whether you're an OG or a newcomer, SPRUNKI REMASTERED feels like coming home to a place you never knew you missed!\n\nCommunity Revival The SPRUNKI REMASTERED squad is bringing back that day-one energy! Old-school veterans and fresh faces mixing it up, creating pure gold with those classic tools we all fell in love with!\n\nJump Back In\n\nExperience the classics in HD\nRediscover the magic\nJoin the revival movement\nCreate timeless bangers\nFAQ (From The Archives)\n\nWhy SPRUNKI REMASTERED? Because perfection deserves a victory lap!\nIs it just nostalgia? Nah fam - this is nostalgia with superpowers!\nBetter than the original? Same soul, better body - MUCH better body!\nWill my old projects work? SPRUNKI REMASTERED loves all your old heat!\nIs it beginner-friendly? Easier than ever, but with all the depth you remember!\nVintage Pro Tips\n\nTrust the classic workflow\nRediscover those legendary combos\nKeep it simple, keep it clean\nSometimes the old ways ARE the best ways\nThe Perfect Blend SPRUNKI REMASTERED isn't trying to reinvent the wheel - it's just making it roll smoother than ever! Ready to experience perfection, remastered?\n\nSee you in the studio, legends! 🎵🎚️\n\nWARNING: Side effects of SPRUNKI REMASTERED may include:\n\nUncontrollable head nodding\nSudden urges to dig through your old projects\nExcessive use of the phrase \"they don't make 'em like this anymore\"\nAnd creating absolute TIMELESS BANGERS! 🎧✨\nRemember: Some things are classics for a reason - SPRUNKI REMASTERED is one of them! 🏆🌟\n",
-  "createdTime": "2024-12-14 16:17:34"
+  "createdTime": "2024-12-14 16:17:34",
+  "color_scheme_id": "default",
+  "categories": [],
+  "availableCategories": [
+    {
+      "name": "Featured Games",
+      "path": "/c/featured",
+      "pageSize": 15,
+      "backgroundColor": "#ffdde1",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "We have selected the best games for you!"
+    },
+    {
+      "name": "Action Games",
+      "path": "/c/action",
+      "pageSize": 15,
+      "backgroundColor": "#c1f8cf",
+      "displayStyle": "vertical",
+      "icon": "",
+      "description": "Exciting action games!"
+    },
+    {
+      "name": "Sports Games",
+      "path": "/c/sports",
+      "pageSize": 15,
+      "backgroundColor": "#d2e7ff",
+      "displayStyle": "horizontal",
+      "icon": "",
+      "description": "Exciting sports games!"
+    }
+  ]
 }
