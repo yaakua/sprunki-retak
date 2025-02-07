@@ -71,7 +71,7 @@ export default async function IframeSection({pageName}:{pageName:string|null}) {
       {/* iframe 容器 - 调整高度和宽度 */}
       <div className="relative z-10 rounded w-full">
         {isIframe && <LazyIframe gameIframeUrl={siteConfig.gameIframeUrl} title={t('title')}  gameImage={game_screenshot_path}
-          description={t('description')} playGameButtonText={t('playGame')}
+          description={t('description')} playGameButtonText={t('playGame')} loadingTitle={t('Loading.title')}
           pageName={pageName} />}
         {siteConfig.gameType === 'download' && siteConfig.gameDownload?.showDownloadButton && (
           <LazyIframe 
@@ -82,6 +82,7 @@ export default async function IframeSection({pageName}:{pageName:string|null}) {
             playGameButtonText={t('downloadGame')}
             type="download"
             pageName={pageName}
+            loadingTitle={t('Loading.title')}
           />
         )}
         {isPopup && (

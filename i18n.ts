@@ -52,14 +52,23 @@ export default getRequestConfig(async ({ requestLocale }) => {
     console.error(`无法加载 ${locale} 的翻译文件，将使用默认语言 ${defaultLocale}`);
     messages = messagesMap[defaultLocale];
   }
+
+  // 创建一个新的消息对象，过滤掉所有的 null 值
+  let cleanMessages = JSON.parse(JSON.stringify(messages), (key, value) => 
+    value === null ? '' : value
+  );
+
   try {
-    // 遍历加载所有新游戏翻译文件
     for(const gamePath of gameMessages[locale as keyof typeof gameMessages] || []){
       try {
         const gameTranslations = (await import(`./messages/${locale}${gamePath}`)).default;
-        messages = {
-          ...messages,
-          ...gameTranslations
+        // 同样清理游戏翻译中的 null 值
+        const cleanGameTranslations = JSON.parse(JSON.stringify(gameTranslations), (key, value) => 
+          value === null ? '' : value
+        );
+        cleanMessages = {
+          ...cleanMessages,
+          ...cleanGameTranslations
         };
       } catch (importError) {
         console.error(`can not load game messages ${gamePath}:`, importError);
@@ -68,12 +77,13 @@ export default getRequestConfig(async ({ requestLocale }) => {
   } catch (error) {
     console.error(`can not load game messages ${locale}:`, error);
   }
-  // console.log("###messages#####",messages);
+
   return {
+    locale: locale as string, // 确保 locale 是 string 类型
     onError(error: any) {
       console.error('load internationalization content error:');
       console.error(error);
     },
-    messages,
+    messages: cleanMessages,
   };
 });

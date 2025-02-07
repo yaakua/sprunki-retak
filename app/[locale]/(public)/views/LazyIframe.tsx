@@ -11,6 +11,7 @@ export default function LazyIframe({
   description,
   gameImage,
   playGameButtonText,
+  loadingTitle,
   type = 'iframe'
 }: { 
   gameIframeUrl: string, 
@@ -19,12 +20,13 @@ export default function LazyIframe({
   description?: string,
   gameImage?: string,
   playGameButtonText?: string,
+  loadingTitle?:string,
   type?: 'iframe' | 'download'
 }) {
   const [iframeLoaded, setIframeLoaded] = useState(false);
   const [showIframeOnly, setShowIframeOnly] = useState(false);
   const t = useTranslations();
-
+  const loadingTitleText = loadingTitle || t('loadingTitle');
   useEffect(() => {
     // 页面加载后3秒自动加载iframe
     const timer = setTimeout(() => {
@@ -130,7 +132,7 @@ export default function LazyIframe({
         <div className="w-full h-full flex items-center justify-center bg-lazy-iframe-background/90 backdrop-blur-md">
           <div className="text-center">
             <div className="animate-spin rounded-full h-16 w-16 border-t-2 border-b-2 border-lazy-iframe-loading mx-auto mb-4"></div>
-            <p className="text-lazy-iframe-loading text-lg">{t('Loading.title')}</p>
+            <p className="text-lazy-iframe-loading text-lg">{loadingTitleText}</p>
           </div>
         </div>
       )}
