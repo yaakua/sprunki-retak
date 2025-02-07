@@ -36,7 +36,7 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
           {/* 第一列 - Liars Bar */}
           <div className="flex flex-col gap-4">
             <h2 className="text-2xl noto-sans-hk-bold text-footer-foreground">{t('title')}</h2>
-            <p className="text-footer-foreground/80">{t(siteConfig.slogan as any)}</p>
+            <p className="text-footer-foreground">{t(siteConfig.slogan as any)}</p>
             {/* 社交媒体图标 */}
             <div className="flex gap-4 mt-2">
               <SocialIcons

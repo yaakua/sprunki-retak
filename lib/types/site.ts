@@ -76,8 +76,6 @@ export interface SiteConfig {
   clarityId: string;
   // 网站分析
   plausible: string;
-  // 导航栏
-  navbarItems: NavbarItem[];
   // 游戏 iframe url
   gameIframeUrl: string;
   // 游戏重定向地址
@@ -96,8 +94,6 @@ export interface SiteConfig {
       mac: string;
     };
   };
-  // 指南
-  isShowGuide: boolean;
   // 常见问题
   isShowFAQs: boolean;
   //

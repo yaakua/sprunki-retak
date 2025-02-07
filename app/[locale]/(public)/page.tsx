@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   setRequestLocale(locale);
   const t = await getTranslations({ locale });
   return {
-    title: `${t('title')} | ${siteConfig.name}`,
+    title: `${t('title')}`,
     description: t('description'),
     alternates: {
       languages: alternatesLanguage(''),

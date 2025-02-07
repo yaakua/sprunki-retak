@@ -16,6 +16,8 @@ import GameRecommendationCard from '@/app/[locale]/(public)/views/GameRecommenda
 import matter from 'gray-matter';
 import { getFeaturedContent } from '@/lib/utils/blogs';
 export const dynamic = 'force-static'
+import path from 'path';
+import { fileURLToPath } from 'url';
 type Props = {
   params: Promise<{ locale: string }>;
 };
@@ -31,7 +33,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const pageName = siteConfig.pageName;
   const pagePath = siteConfig.pagePath;
   return {
-    title: `${t(`${pageName}.title`)} | ${siteConfig.name}`,
+    title: `${t(`${pageName}.title`)}`,
     description: t(`${pageName}.description`),
     alternates: {
       languages: alternatesLanguage(pagePath),
@@ -46,10 +48,10 @@ export default async function Page({ params }: Props) {
   const pageName = siteConfig.pageName;
   let features2ContentResult = null;
   if(siteConfig2.customizeFeatures){
-    const { content } = getFeaturedContent(process.cwd(),locale);
+    const currentDir = path.dirname(fileURLToPath(import.meta.url));
+    const { content } = getFeaturedContent(currentDir, locale);
     features2ContentResult = content;
   }
-  
   return (
     <div className="bg-background pt-5 pb-5">
       <div className="container mx-auto">
