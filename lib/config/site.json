@@ -6,11 +6,7 @@
   "appleIcon": "/apple-touch-icon.png",
   "templateType": "single-game",
   "theme": {
-    "name": "dark",
-    "headFont": null,
-    "primaryColor": null,
-    "fontColor": null,
-    "backgroundColor": null
+    "name": "dark"
   },
   "gaId": "",
   "clarityId": "",
