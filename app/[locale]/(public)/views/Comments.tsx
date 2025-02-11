@@ -10,6 +10,14 @@ export default async function Comments({pageName,siteConfig}:{pageName:string|nu
   }
   const prefix = pageName ? pageName + '.' : '';
   const t = await getTranslations(`${prefix}HomeComments`);
+
+  siteConfig.comments.map((it:CommentItem) => {
+    if(it.avatar.startsWith('https://api.multiavatar.com')) {
+      it.avatar = it.avatar.replace('https://api.multiavatar.com', 'https://api.randomx.ai/avatar');
+    }
+    return it;
+  });
+  
   let comments: any = undefined;
   if (siteConfig.isShowTweets) {
     comments = siteConfig.tweets.map((it:string) => {
