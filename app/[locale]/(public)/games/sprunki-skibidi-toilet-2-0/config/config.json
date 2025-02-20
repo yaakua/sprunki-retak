@@ -869,5 +869,7 @@
       "icon": "",
       "description": "Exciting sports games!"
     }
-  ]
+  ],
+  "is_sub_game": false,
+  "include_available_games": true
 }
