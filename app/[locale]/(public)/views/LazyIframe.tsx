@@ -16,7 +16,7 @@ export default function LazyIframe({
 }: { 
   gameIframeUrl: string, 
   title: string,
-  pageName: string|null,
+  pageName: string|null|undefined,
   description?: string,
   gameImage?: string,
   playGameButtonText?: string,

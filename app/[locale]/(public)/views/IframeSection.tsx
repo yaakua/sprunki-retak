@@ -11,7 +11,7 @@ function getYoutubeVideoId(url: string): string {
   return (match && match[2].length === 11) ? match[2] : '';
 }
 
-export default async function IframeSection({pageName}:{pageName:string|null}) {
+export default async function IframeSection({pageName}:{pageName:string|null|undefined}) {
   const locale = await getLocale();
   const prefix = pageName ? pageName + '.' : '';
   const t = await getTranslations(`${prefix}HomeIframe`);

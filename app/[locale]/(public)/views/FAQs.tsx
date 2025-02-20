@@ -3,7 +3,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/
 import { loadSiteConfig } from '@/lib/utils/resource';
 import { getTranslations } from 'next-intl/server';
 
-export async function loadFaqs(locale:string,pageName:string|null){
+export async function loadFaqs(locale:string,pageName:string|null|undefined){
   try {
     let faqItems: FAQsItem[] = [];
     if (pageName && pageName!=="") {
@@ -39,7 +39,7 @@ export async function loadFaqs(locale:string,pageName:string|null){
 
 }
 
-export default async function FAQs({ locale,pageName }: PropsWithLocale<{pageName:string|null}>) {
+export default async function FAQs({ locale,pageName }: PropsWithLocale<{pageName:string|null|undefined}>) {
   const prefix = pageName ? pageName + '.' : '';
   const t = await getTranslations(`${prefix}HomeFAQs`);
   const faqItems = await loadFaqs(locale, pageName);
