@@ -4,9 +4,8 @@ import { defaultLocale, locales, alternatesLanguage } from '@/lib/i18n/locales';
 import { siteConfig } from '@/lib/config/site';
 import fs from 'fs';
 import path from 'path';
-import Link from 'next/link';
+import {Link} from '@/lib/i18n/navigation'
 import { getPathnameWithLocale } from '@/lib/i18n/navigation';
-import Image from 'next/image';
 export const dynamic = 'force-static'
 type Props = {
   params: Promise<{ locale: string }>;

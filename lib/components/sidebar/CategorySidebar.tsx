@@ -1,6 +1,6 @@
 'use client';
 import { GameCategory } from '@/lib/types';
-import Link from 'next/link';
+import {Link} from '@/lib/i18n/navigation'
 import { ScrollShadow } from '@nextui-org/scroll-shadow';
 import { IconHome, IconClock, IconStar, IconFlame, IconRefresh, IconDeviceGamepad2,IconCategory, IconChevronLeft } from '@tabler/icons-react';
 import { useState } from 'react';
