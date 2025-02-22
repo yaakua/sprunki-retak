@@ -112,7 +112,7 @@
     }
   ],
   "isShowRightGames": false,
-  "adsenseClientId": "",
+  "adsenseClientId": "ca-pub-4588747915346334",
   "adsTxtContent": "google.com, pub-4588747915346334, DIRECT, f08c47fec0942fa0",
   "override_page_path": false,
   "auto_deploy": true,
@@ -161,5 +161,6 @@
   "pagePath": "",
   "pageName": "",
   "createdTime": "2024-12-14 15:58:59",
-  "is_sub_game": false
+  "is_sub_game": false,
+  "include_available_games": true
 }
