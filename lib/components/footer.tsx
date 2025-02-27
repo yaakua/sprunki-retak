@@ -31,7 +31,7 @@ export default function Footer({ items }: { items: NavbarItem[] }) {
   };
 
   return (
-    <footer className={`bg-footer border-t border-border ${isExpanded ? 'ml-[240px]' : isGameBox ? 'ml-[72px]' : 'ml-0'}`}>
+    <footer className={`bg-footer border-t border-border ${isExpanded ? 'ml-[240px]' : isGameBox ? 'ml-0 md:ml-[72px]' : 'ml-0'}`}>
       <div className="w-full max-w-[1480px] mx-auto py-12 px-4">
         {/* 主要内容区域 - 三列布局 */}
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">

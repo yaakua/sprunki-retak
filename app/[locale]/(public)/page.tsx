@@ -65,7 +65,7 @@ export default async function Page({ params }: Props) {
           <div className="flex-1 min-w-0">
             <IframeSection pageName={pageName} />
            
-            <div className="px-4">
+            <div>
               <SectionWrapper className="max-full">
                 {siteConfig2.customizeFeatures && features2ContentResult? <CustomizeFeatures content={features2ContentResult} /> : <Features pageName={pageName} />}
                 <FAQs locale={locale} pageName={pageName} />

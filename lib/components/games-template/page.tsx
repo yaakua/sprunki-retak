@@ -30,16 +30,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   setRequestLocale(locale);
   const t = await getTranslations({ locale });
   const siteConfig2 = siteConfig as unknown as SiteConfig
+  const pageName = siteConfig2.pageName;
+  const pagePath = siteConfig2.pagePath||"";
   return {
-    title: `${t('title')}`,
-    description: t('description'),
+    title: `${t(`${pageName}.title`)}`,
+    description: t(`${pageName}.description`),
     alternates: {
-      languages: alternatesLanguage(''),
-    },
-    icons: {
-      icon: siteConfig2.icon,
-      apple: siteConfig2.appleIcon,
-    },
+      languages: alternatesLanguage(pagePath),
+    }
   };
 }
 
@@ -67,7 +65,7 @@ export default async function Page({ params }: Props) {
           <div className="flex-1 min-w-0">
             <IframeSection pageName={pageName} />
            
-            <div className="px-4">
+            <div className="">
               <SectionWrapper className="max-full">
                 {siteConfig2.customizeFeatures && features2ContentResult? <CustomizeFeatures content={features2ContentResult} /> : <Features pageName={pageName} />}
                 <FAQs locale={locale} pageName={pageName} />

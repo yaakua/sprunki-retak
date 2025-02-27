@@ -48,14 +48,14 @@ export default async function FAQs({ locale,pageName }: PropsWithLocale<{pageNam
     return null;
   }
   return (
-    <section className="w-full  mx-auto py-12 px-4">
-      <h2 className="text-3xl font-bold text-center mb-8">{t('title')}</h2>
+    <section className="w-full  mx-auto py-12">
+      <h2 className="text-xl md:text-3xl font-bold text-center mb-8">{t('title')}</h2>
       <Accordion type="single" collapsible className="space-y-4">
         {faqItems.map((item, index) => (
-          <AccordionItem key={index} value={`item-${index}`} className="border-none rounded-lg px-4 bg-card">
-            <AccordionTrigger className="py-4 font-medium text-faq-title">{item.question}</AccordionTrigger>
+          <AccordionItem key={index} value={`item-${index}`} className="border-none rounded-lg px-1 md:px-4 bg-card">
+            <AccordionTrigger className="py-4 font-medium text-faq-title  text-sm md:text-base">{item.question}</AccordionTrigger>
             <AccordionContent className="pb-4">
-              <p className="text-faq-text">{item.answer}</p>
+              <p className="text-faq-text text-sm md:text-base">{item.answer}</p>
             </AccordionContent>
           </AccordionItem>
         ))}

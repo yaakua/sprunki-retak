@@ -12,7 +12,7 @@ export const getHomeSettings = async (locale: string) => {
     allGames: []
   };
   const defaultLoclae = 'en';
-
+  const enSettings = (await import(`@/resources/game-box/${defaultLoclae}.json`)).default as unknown as GameBoxSettings;
   try {
     // 1. 加载基础配置
     try {
@@ -90,7 +90,9 @@ export const getHomeSettings = async (locale: string) => {
       // 将游戏添加到对应的分类中
       if (Array.isArray(game.config.categories)) {
         for (const tag of game.config.categories) {
-          const category = settings.categories.find(c => c.name === tag);
+          // 根据名字从英文设置当中找到对应的分类，获得分类的path与当前多语言分类的path比较
+          const enCategory = enSettings.categories.find(c => c.name === tag);
+          const category = settings.categories.find(c => c.path === enCategory?.path);
           if (category) {
             if (!category.games) {
               category.games = [];
