@@ -1,0 +1,77 @@
+{
+  "enemania": {
+    "title": "Enemania - Bu Eğlenceli Kule Savunma Oyununda Hazineni Koru",
+    "slogan": "Tuhaf Düşmanlarla Stratejik Kule Savunması",
+    "description": "Enemania, iskeletler, orklar ve mumyalar gibi tuhaf düşman dalgalarından hazineni koruduğun eğlenceli ve stratejik bir kule savunma oyunudur. İstilacıları uzak tutmak için topları, mancınıkları ve bombaları yerleştir ve yükselt. Her seviye yeni zorluklar getirdiğinden, akıllı planlama ve hızlı kararlar önde kalmana ve kazanmana yardımcı olacaktır!",
+    "Loading": {
+      "title": "Enemania Yükleniyor... Lütfen bekleyin!"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Rehber",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Anasayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Enemania",
+      "description": "Tuhaf düşmanları ve zorlu seviyeleri olan stratejik bir kule savunma oyunu Enemania'da hazineni koru.",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Enemania",
+      "whatIsTitle": "Enemania Nedir?",
+      "whatIsDescription": "Enemania, iskeletler, orklar ve mumyalar gibi tuhaf düşman dalgalarından hazineni koruduğun eğlenceli ve stratejik bir kule savunma oyunudur.",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "İstilacıları uzak tutmak için topları, mancınıkları ve bombaları yerleştir ve yükselt.",
+      "howToPlayStep2": "Her seviye yeni zorluklar getirdiğinden, akıllı planlama ve hızlı kararlar önde kalmana yardımcı olacaktır.",
+      "howToPlayStep3": "Tüm düşman dalgalarından hazineni koruyarak kazan.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Stratejik Oyun",
+      "feature1Description": "Hazineni etkili bir şekilde savunmak için stratejiler planla ve uygula.",
+      "feature2Title": "Tuhaf Düşmanlar",
+      "feature2Description": "İskeletler, orklar ve mumyalar gibi benzersiz düşman dalgalarıyla yüzleş.",
+      "feature3Title": "Yükseltilebilir Savunmalar",
+      "feature3Description": "Savunmanı geliştirmek için topları, mancınıkları ve bombaları yükselt.",
+      "feature4Title": "Zorlu Seviyeler",
+      "feature4Description": "Her seviye seni meşgul edecek yeni zorluklar sunar."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Öneriler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategori bulunamadı",
+      "viewMore": "Daha Fazla Gör",
+      "page": "Sayfa"
+    }
+  }
+}

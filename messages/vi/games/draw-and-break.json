@@ -1,0 +1,77 @@
+{
+  "draw-and-break": {
+    "title": "Vẽ và Phá vỡ - Một trò chơi giải đố thú vị và mang tính chiến lược",
+    "slogan": "Vẽ, Lên chiến lược và Phá vỡ để giành chiến thắng!",
+    "description": "Vẽ và Phá vỡ là một trò chơi giải đố thông thường, nơi bạn đưa tư duy chiến lược của mình vào thử thách! Mục tiêu của bạn rất đơn giản: vẽ các đường để dẫn bóng nảy và đánh vào những chiếc bánh rán ngon lành! Lập kế hoạch cẩn thận cho các bước di chuyển của bạn, tạo ra con đường hoàn hảo và xem những quả bóng nảy theo cách của chúng để giành chiến thắng.",
+    "Loading": {
+      "title": "Đang tải Vẽ và Phá vỡ... Vui lòng đợi!"
+    },
+    "Navbar": {
+      "title": "Điều hướng"
+    },
+    "Common": {
+      "createAt": "Tạo lúc",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết thân thiện",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước"
+    },
+    "HomeIframe": {
+      "title": "Vẽ và Phá vỡ",
+      "description": "Trải nghiệm cảm giác hồi hộp của Vẽ và Phá vỡ, một trò chơi giải đố thách thức tư duy chiến lược của bạn. Vẽ các đường để dẫn bóng nảy và đánh vào những chiếc bánh rán!",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải xuống trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Vẽ và Phá vỡ",
+      "whatIsTitle": "Vẽ và Phá vỡ là gì?",
+      "whatIsDescription": "Vẽ và Phá vỡ là một trò chơi giải đố thông thường, nơi bạn đưa tư duy chiến lược của mình vào thử thách! Mục tiêu của bạn rất đơn giản: vẽ các đường để dẫn bóng nảy và đánh vào những chiếc bánh rán ngon lành!",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Sử dụng nút chuột trái để vẽ đường.",
+      "howToPlayStep2": "Dẫn bóng nảy để đánh vào những chiếc bánh rán.",
+      "howToPlayStep3": "Lập kế hoạch cẩn thận cho các bước di chuyển của bạn để tạo ra con đường hoàn hảo.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Lối chơi chiến lược",
+      "feature1Description": "Thử thách tư duy chiến lược của bạn với mọi bước di chuyển.",
+      "feature2Title": "Điều khiển đơn giản",
+      "feature2Description": "Sử dụng nút chuột trái để vẽ và tương tác với giao diện người dùng trong trò chơi.",
+      "feature3Title": "Vui nhộn và gây nghiện",
+      "feature3Description": "Tận hưởng hàng giờ vui vẻ với trò chơi giải đố gây nghiện này.",
+      "feature4Title": "Bánh rán ngon lành",
+      "feature4Description": "Nhắm vào những chiếc bánh rán và xem những quả bóng nảy theo cách của chúng để giành chiến thắng."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Thể loại",
+      "noCategories": "Không tìm thấy thể loại nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

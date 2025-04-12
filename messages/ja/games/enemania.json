@@ -1,0 +1,77 @@
+{
+  "enemania": {
+    "title": "Enemania - この楽しいタワーディフェンスゲームであなたの宝物を守りましょう",
+    "slogan": "一風変わった敵が登場する戦略的なタワーディフェンス",
+    "description": "Enemaniaは、スケルトン、オーク、ミイラなど、一風変わった敵の波からあなたの宝物を守る、楽しく戦略的なタワーディフェンスゲームです。大砲、カタパルト、爆弾を配置してアップグレードし、侵略者を阻止しましょう。各レベルで新たな挑戦が導入されるため、賢い計画と迅速な判断が、優位を保ち、勝利に繋がるでしょう！",
+    "Loading": {
+      "title": "Enemaniaをロード中... しばらくお待ちください！"
+    },
+    "Navbar": {
+      "title": "ナビ"
+    },
+    "Common": {
+      "createAt": "作成日",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "関連リンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "Enemania",
+      "description": "Enemaniaであなたの宝物を守りましょう。一風変わった敵と挑戦的なレベルが登場する、戦略的なタワーディフェンスゲームです。",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "シェア",
+      "urlCopied": "URLをクリップボードにコピーしました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Enemania",
+      "whatIsTitle": "Enemaniaとは？",
+      "whatIsDescription": "Enemaniaは、スケルトン、オーク、ミイラなど、一風変わった敵の波からあなたの宝物を守る、楽しく戦略的なタワーディフェンスゲームです。",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "大砲、カタパルト、爆弾を配置してアップグレードし、侵略者を阻止しましょう。",
+      "howToPlayStep2": "各レベルで新たな挑戦が導入されるため、賢い計画と迅速な判断が、優位を保つために役立ちます。",
+      "howToPlayStep3": "すべての敵の波からあなたの宝物を守り抜いて勝利しましょう。",
+      "keyFeaturesTitle": "主な機能",
+      "feature1Title": "戦略的なゲームプレイ",
+      "feature1Description": "効果的に宝物を守るための戦略を計画し、実行しましょう。",
+      "feature2Title": "一風変わった敵",
+      "feature2Description": "スケルトン、オーク、ミイラなど、ユニークな敵の波に立ち向かいましょう。",
+      "feature3Title": "アップグレード可能な防御",
+      "feature3Description": "大砲、カタパルト、爆弾をアップグレードして、防御を強化しましょう。",
+      "feature4Title": "挑戦的なレベル",
+      "feature4Description": "各レベルで新たな挑戦が導入され、プレイヤーを飽きさせません。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲーム動画"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

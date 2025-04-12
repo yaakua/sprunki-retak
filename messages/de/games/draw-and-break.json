@@ -1,0 +1,77 @@
+{
+  "draw-and-break": {
+    "title": "Draw and Break – Ein unterhaltsames und strategisches Puzzlespiel",
+    "slogan": "Zeichne, entwickle Strategien und bahne dir deinen Weg zum Sieg!",
+    "description": "Draw and Break ist ein lockeres Puzzlespiel, bei dem du dein strategisches Denken unter Beweis stellst! Dein Ziel ist einfach: Zeichne Linien, um hüpfende Bälle zu leiten und die köstlichen Donuts zu treffen! Plane deine Züge sorgfältig, erschaffe den perfekten Pfad und beobachte, wie die Bälle sich ihren Weg zum Sieg bahnen.",
+    "Loading": {
+      "title": "Draw and Break wird geladen... Bitte warten!"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikelliste",
+      "home": "Startseite",
+      "next": "Nächste",
+      "previous": "Vorherige"
+    },
+    "HomeIframe": {
+      "title": "Draw and Break",
+      "description": "Erlebe den Nervenkitzel von Draw and Break, einem Puzzlespiel, das dein strategisches Denken herausfordert. Zeichne Linien, um hüpfende Bälle zu leiten und die Donuts zu treffen!",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Draw and Break",
+      "whatIsTitle": "Was ist Draw and Break?",
+      "whatIsDescription": "Draw and Break ist ein lockeres Puzzlespiel, bei dem du dein strategisches Denken unter Beweis stellst! Dein Ziel ist einfach: Zeichne Linien, um hüpfende Bälle zu leiten und die köstlichen Donuts zu treffen!",
+      "howToPlayTitle": "Spielanleitung",
+      "howToPlayStep1": "Verwende die linke Maustaste, um Linien zu zeichnen.",
+      "howToPlayStep2": "Leite die hüpfenden Bälle, um die Donuts zu treffen.",
+      "howToPlayStep3": "Plane deine Züge sorgfältig, um den perfekten Pfad zu erschaffen.",
+      "keyFeaturesTitle": "Hauptmerkmale",
+      "feature1Title": "Strategisches Gameplay",
+      "feature1Description": "Fordere dein strategisches Denken mit jeder Bewegung heraus.",
+      "feature2Title": "Einfache Steuerung",
+      "feature2Description": "Verwende die linke Maustaste, um zu zeichnen und mit der In-Game-UI zu interagieren.",
+      "feature3Title": "Spaß und fesselnd",
+      "feature3Description": "Genieße stundenlangen Spaß mit diesem fesselnden Puzzlespiel.",
+      "feature4Title": "Köstliche Donuts",
+      "feature4Description": "Ziele auf die Donuts und beobachte, wie die Bälle sich ihren Weg zum Sieg bahnen."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

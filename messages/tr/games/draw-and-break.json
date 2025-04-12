@@ -1,0 +1,77 @@
+{
+  "draw-and-break": {
+    "title": "Çiz ve Kır - Eğlenceli ve Stratejik Bir Bulmaca Oyunu",
+    "slogan": "Çizin, Strateji Belirleyin ve Zafere Giden Yolda Kırın!",
+    "description": "Çiz ve Kır, stratejik düşüncenizi test ettiğiniz sıradan bir bulmaca oyunudur! Amacınız basit: zıplayan topları yönlendirmek ve lezzetli donutlara vurmak için çizgiler çizin! Hamlelerinizi dikkatlice planlayın, mükemmel yolu oluşturun ve topların zafere doğru zıplamasını izleyin.",
+    "Loading": {
+      "title": "Çiz ve Kır Yükleniyor... Lütfen bekleyin!"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Oluşturulma Tarihi",
+      "guide": "Rehber",
+      "privacyPolicy": "Gizlilik Politikası",
+      "termsOfServices": "Hizmet Şartları",
+      "text": "İçerik",
+      "help": "Yardım",
+      "friendlyLinks": "Dost Bağlantılar",
+      "articleList": "Makale Listesi",
+      "home": "Anasayfa",
+      "next": "Sonraki",
+      "previous": "Önceki"
+    },
+    "HomeIframe": {
+      "title": "Çiz ve Kır",
+      "description": "Stratejik düşüncenize meydan okuyan bir bulmaca oyunu olan Çiz ve Kır'ın heyecanını yaşayın. Zıplayan topları yönlendirmek ve donutlara vurmak için çizgiler çizin!",
+      "iframeTitle": "Oyun Önizlemesi",
+      "fullscreenButton": "Tam Ekran",
+      "shareButton": "Paylaş",
+      "urlCopied": "URL panoya kopyalandı!",
+      "downloadGame": "Oyunu İndir",
+      "playGame": "Oyunu Oyna"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Çiz ve Kır",
+      "whatIsTitle": "Çiz ve Kır Nedir?",
+      "whatIsDescription": "Çiz ve Kır, stratejik düşüncenizi test ettiğiniz sıradan bir bulmaca oyunudur! Amacınız basit: zıplayan topları yönlendirmek ve lezzetli donutlara vurmak için çizgiler çizin!",
+      "howToPlayTitle": "Nasıl Oynanır",
+      "howToPlayStep1": "Çizgi çizmek için sol fare düğmesini kullanın.",
+      "howToPlayStep2": "Zıplayan topları donutlara vuracak şekilde yönlendirin.",
+      "howToPlayStep3": "Mükemmel yolu oluşturmak için hamlelerinizi dikkatlice planlayın.",
+      "keyFeaturesTitle": "Temel Özellikler",
+      "feature1Title": "Stratejik Oyun",
+      "feature1Description": "Her hamlede stratejik düşüncenize meydan okuyun.",
+      "feature2Title": "Basit Kontroller",
+      "feature2Description": "Oyun içi kullanıcı arayüzü ile çizmek ve etkileşim kurmak için sol fare düğmesini kullanın.",
+      "feature3Title": "Eğlenceli ve Bağımlılık Yapan",
+      "feature3Description": "Bu bağımlılık yapan bulmaca oyunuyla saatlerce eğlenin.",
+      "feature4Title": "Lezzetli Donutlar",
+      "feature4Description": "Donutları hedefleyin ve topların zafere doğru zıplamasını izleyin."
+    },
+    "HomeFAQs": {
+      "title": "SSS"
+    },
+    "HomeRelatedVideo": {
+      "title": "Oyun Videosu"
+    },
+    "HomeRecommendation": {
+      "title": "Öneriler"
+    },
+    "HomeComments": {
+      "title": "Oyun Yorumları"
+    },
+    "GamePage": {
+      "title": "Tüm Oyunlar",
+      "description": "Tüm Oyunlar",
+      "games": "Oyunlar"
+    },
+    "CategoryPage": {
+      "categories": "Kategoriler",
+      "noCategories": "Kategori bulunamadı",
+      "viewMore": "Daha Fazla Göster",
+      "page": "Sayfa"
+    }
+  }
+}

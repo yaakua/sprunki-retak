@@ -1,0 +1,77 @@
+{
+  "enemania": {
+    "title": "Enemania - Défendez votre trésor dans ce jeu de Tower Defense amusant",
+    "slogan": "Tower Defense stratégique avec des ennemis originaux",
+    "description": "Enemania est un jeu de Tower Defense amusant et stratégique où vous défendez votre trésor contre des vagues d'ennemis originaux tels que des squelettes, des orcs et des momies. Placez et améliorez des canons, des catapultes et des bombes pour tenir les envahisseurs à distance. Chaque niveau introduisant de nouveaux défis, une planification intelligente et des décisions rapides vous aideront à rester en tête et à gagner !",
+    "Loading": {
+      "title": "Chargement d'Enemania... Veuillez patienter !"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Enemania",
+      "description": "Défendez votre trésor dans Enemania, un jeu de Tower Defense stratégique avec des ennemis originaux et des niveaux stimulants.",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Enemania",
+      "whatIsTitle": "Qu'est-ce qu'Enemania ?",
+      "whatIsDescription": "Enemania est un jeu de Tower Defense amusant et stratégique où vous défendez votre trésor contre des vagues d'ennemis originaux tels que des squelettes, des orcs et des momies.",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Placez et améliorez des canons, des catapultes et des bombes pour tenir les envahisseurs à distance.",
+      "howToPlayStep2": "Chaque niveau introduisant de nouveaux défis, une planification intelligente et des décisions rapides vous aideront à rester en tête.",
+      "howToPlayStep3": "Gagnez en défendant votre trésor contre toutes les vagues d'ennemis.",
+      "keyFeaturesTitle": "Fonctionnalités clés",
+      "feature1Title": "Gameplay stratégique",
+      "feature1Description": "Planifiez et exécutez des stratégies pour défendre efficacement votre trésor.",
+      "feature2Title": "Ennemis originaux",
+      "feature2Description": "Affrontez des vagues d'ennemis uniques tels que des squelettes, des orcs et des momies.",
+      "feature3Title": "Défenses améliorables",
+      "feature3Description": "Améliorez les canons, les catapultes et les bombes pour améliorer vos défenses.",
+      "feature4Title": "Niveaux stimulants",
+      "feature4Description": "Chaque niveau introduit de nouveaux défis pour vous maintenir engagé."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires des joueurs"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

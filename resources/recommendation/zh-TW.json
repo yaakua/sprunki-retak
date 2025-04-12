@@ -3,13 +3,27 @@
     "title": "Sprunki Retake (Sprunki Retake)",
     "cover": "/game_screenshot.webp",
     "url": "/",
-    "category": "TOP",
+    "category": "熱門",
+    "visible": true
+  },
+  {
+    "title": "Enemania (Enemania)",
+    "cover": "https://public-image.fafafa.ai/game-library/images/enemania_16x9-cover.avif",
+    "url": "/games/enemania",
+    "category": "",
     "visible": true
   },
   {
     "title": "Sprunki: Skibidi Toilet 2.0 (Sprunki: Skibidi Toilet 2.0)",
     "cover": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-02-07/images/1738909317338-bs1p9.png",
     "url": "/games/sprunki-skibidi-toilet-2-0",
+    "category": "",
+    "visible": true
+  },
+  {
+    "title": "Draw and Break (Draw and Break)",
+    "cover": "https://imgs.crazygames.com/draw-and-break_16x9/20250226050342/draw-and-break_16x9-cover?metadata=none&quality=70&width=612.5",
+    "url": "/games/draw-and-break",
     "category": "",
     "visible": true
   },
@@ -24,7 +38,7 @@
     "title": "Sprunki Infected (Sprunki Infected)",
     "cover": "https://public-image.fafafa.ai/cm3tvyn990002mp4f5v0tdr5g/2025-01-07/images/1736252447476-xxuii9.webp",
     "url": "/games/sprunki-infected",
-    "category": "TOP",
+    "category": "熱門",
     "visible": true
   },
   {

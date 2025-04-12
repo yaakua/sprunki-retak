@@ -1,0 +1,77 @@
+{
+  "enemania": {
+    "title": "Enemania - Pertahankan Harta Anda dalam Game Tower Defense yang Menyenangkan Ini",
+    "slogan": "Tower Defense Strategis dengan Musuh yang Unik",
+    "description": "Enemania adalah game tower defense yang menyenangkan dan strategis di mana Anda mempertahankan harta Anda dari gelombang musuh unik seperti kerangka, orc, dan mumi. Tempatkan dan tingkatkan meriam, ketapel, dan bom untuk menahan penjajah. Dengan setiap level memperkenalkan tantangan baru, perencanaan cerdas dan keputusan cepat akan membantu Anda tetap unggul dan menang!",
+    "Loading": {
+      "title": "Memuat Enemania... Harap tunggu!"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Persyaratan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan yang Bermanfaat",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Selanjutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Enemania",
+      "description": "Pertahankan harta Anda di Enemania, game tower defense strategis dengan musuh unik dan level yang menantang.",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Enemania",
+      "whatIsTitle": "Apa itu Enemania?",
+      "whatIsDescription": "Enemania adalah game tower defense yang menyenangkan dan strategis di mana Anda mempertahankan harta Anda dari gelombang musuh unik seperti kerangka, orc, dan mumi.",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Tempatkan dan tingkatkan meriam, ketapel, dan bom untuk menahan penjajah.",
+      "howToPlayStep2": "Dengan setiap level memperkenalkan tantangan baru, perencanaan cerdas dan keputusan cepat akan membantu Anda tetap unggul.",
+      "howToPlayStep3": "Menangkan dengan mempertahankan harta Anda dari semua gelombang musuh.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Gameplay Strategis",
+      "feature1Description": "Rencanakan dan laksanakan strategi untuk mempertahankan harta Anda secara efektif.",
+      "feature2Title": "Musuh yang Unik",
+      "feature2Description": "Hadapi gelombang musuh unik seperti kerangka, orc, dan mumi.",
+      "feature3Title": "Pertahanan yang Dapat Ditingkatkan",
+      "feature3Description": "Tingkatkan meriam, ketapel, dan bom untuk meningkatkan pertahanan Anda.",
+      "feature4Title": "Level yang Menantang",
+      "feature4Description": "Setiap level memperkenalkan tantangan baru untuk membuat Anda tetap terlibat."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Game"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

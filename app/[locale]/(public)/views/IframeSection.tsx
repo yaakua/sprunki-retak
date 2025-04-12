@@ -12,15 +12,13 @@ function getYoutubeVideoId(url: string): string {
 }
 
 export default async function IframeSection({pageName}:{pageName:string|null|undefined}) {
-  const locale = await getLocale();
   const prefix = pageName ? pageName + '.' : '';
   const t = await getTranslations(`${prefix}HomeIframe`);
   const t2 = await getTranslations(`${prefix}Loading`);
   const siteConfig = await loadSiteConfig(pageName);
   const isIframe = siteConfig.gameType === 'iframe';
   const isPopup = siteConfig.gameType === 'popup';
-  const screenshot_prefix = pageName ? '/games/' + pageName : '';
-  const game_screenshot_path = siteConfig.screenshotUrl || `${screenshot_prefix}/game_screenshot.webp`;
+  const game_screenshot_path = siteConfig.screenshotUrl;
 
   return (
     <section className="text-iframe-foreground flex flex-col items-center justify-center  px-2 mb-4 relative min-h-[calc(43vh)] ">

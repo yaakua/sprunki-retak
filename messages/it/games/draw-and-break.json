@@ -1,0 +1,77 @@
+{
+  "draw-and-break": {
+    "title": "Draw and Break - Un divertente e strategico gioco di puzzle",
+    "slogan": "Disegna, pianifica e fatti strada verso la vittoria!",
+    "description": "Draw and Break è un puzzle game casual in cui metti alla prova il tuo pensiero strategico! Il tuo obiettivo è semplice: disegna linee per guidare le palline che rimbalzano e colpire le deliziose ciambelle! Pianifica attentamente le tue mosse, crea il percorso perfetto e guarda le palline rimbalzare verso la vittoria.",
+    "Loading": {
+      "title": "Caricamento di Draw and Break... Attendere prego!"
+    },
+    "Navbar": {
+      "title": "Navigazione"
+    },
+    "Common": {
+      "createAt": "Creato il",
+      "guide": "Guida",
+      "privacyPolicy": "Informativa sulla privacy",
+      "termsOfServices": "Termini di servizio",
+      "text": "Contenuto",
+      "help": "Aiuto",
+      "friendlyLinks": "Link utili",
+      "articleList": "Elenco articoli",
+      "home": "Home",
+      "next": "Successivo",
+      "previous": "Precedente"
+    },
+    "HomeIframe": {
+      "title": "Draw and Break",
+      "description": "Prova l'emozione di Draw and Break, un puzzle game che sfida il tuo pensiero strategico. Disegna linee per guidare le palline che rimbalzano e colpire le ciambelle!",
+      "iframeTitle": "Anteprima del gioco",
+      "fullscreenButton": "Schermo intero",
+      "shareButton": "Condividi",
+      "urlCopied": "URL copiato negli appunti!",
+      "downloadGame": "Scarica il gioco",
+      "playGame": "Gioca"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Draw and Break",
+      "whatIsTitle": "Cos'è Draw and Break?",
+      "whatIsDescription": "Draw and Break è un puzzle game casual in cui metti alla prova il tuo pensiero strategico! Il tuo obiettivo è semplice: disegna linee per guidare le palline che rimbalzano e colpire le deliziose ciambelle!",
+      "howToPlayTitle": "Come giocare",
+      "howToPlayStep1": "Usa il tasto sinistro del mouse per disegnare le linee.",
+      "howToPlayStep2": "Guida le palline che rimbalzano per colpire le ciambelle.",
+      "howToPlayStep3": "Pianifica attentamente le tue mosse per creare il percorso perfetto.",
+      "keyFeaturesTitle": "Caratteristiche principali",
+      "feature1Title": "Gameplay strategico",
+      "feature1Description": "Sfida il tuo pensiero strategico ad ogni mossa.",
+      "feature2Title": "Controlli semplici",
+      "feature2Description": "Usa il tasto sinistro del mouse per disegnare e interagire con l'interfaccia utente del gioco.",
+      "feature3Title": "Divertente e coinvolgente",
+      "feature3Description": "Goditi ore di divertimento con questo avvincente puzzle game.",
+      "feature4Title": "Deliziose ciambelle",
+      "feature4Description": "Punta alle ciambelle e guarda le palline rimbalzare verso la vittoria."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video del gioco"
+    },
+    "HomeRecommendation": {
+      "title": "Consigliati"
+    },
+    "HomeComments": {
+      "title": "Commenti sul gioco"
+    },
+    "GamePage": {
+      "title": "Tutti i giochi",
+      "description": "Tutti i giochi",
+      "games": "Giochi"
+    },
+    "CategoryPage": {
+      "categories": "Categorie",
+      "noCategories": "Nessuna categoria trovata",
+      "viewMore": "Visualizza altro",
+      "page": "Pagina"
+    }
+  }
+}

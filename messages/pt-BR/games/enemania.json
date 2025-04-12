@@ -1,0 +1,77 @@
+{
+  "enemania": {
+    "title": "Enemania - Defenda seu Tesouro Neste Divertido Jogo de Tower Defense",
+    "slogan": "Tower Defense Estratégico com Inimigos Peculiares",
+    "description": "Enemania é um jogo de tower defense divertido e estratégico onde você defende seu tesouro de ondas de inimigos peculiares como esqueletos, orcs e múmias. Posicione e melhore canhões, catapultas e bombas para manter os invasores afastados. Com cada nível introduzindo novos desafios, planejamento inteligente e decisões rápidas irão ajudá-lo a ficar à frente e vencer!",
+    "Loading": {
+      "title": "Carregando Enemania... Por favor, espere!"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Enemania",
+      "description": "Defenda seu tesouro em Enemania, um jogo de tower defense estratégico com inimigos peculiares e níveis desafiadores.",
+      "iframeTitle": "Prévia do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Enemania",
+      "whatIsTitle": "O que é Enemania?",
+      "whatIsDescription": "Enemania é um jogo de tower defense divertido e estratégico onde você defende seu tesouro de ondas de inimigos peculiares como esqueletos, orcs e múmias.",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Posicione e melhore canhões, catapultas e bombas para manter os invasores afastados.",
+      "howToPlayStep2": "Com cada nível introduzindo novos desafios, planejamento inteligente e decisões rápidas irão ajudá-lo a ficar à frente.",
+      "howToPlayStep3": "Vença defendendo seu tesouro de todas as ondas de inimigos.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Jogabilidade Estratégica",
+      "feature1Description": "Planeje e execute estratégias para defender seu tesouro de forma eficaz.",
+      "feature2Title": "Inimigos Peculiares",
+      "feature2Description": "Enfrente ondas de inimigos únicos como esqueletos, orcs e múmias.",
+      "feature3Title": "Defesas Atualizáveis",
+      "feature3Description": "Melhore canhões, catapultas e bombas para aprimorar suas defesas.",
+      "feature4Title": "Níveis Desafiadores",
+      "feature4Description": "Cada nível introduz novos desafios para mantê-lo envolvido."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

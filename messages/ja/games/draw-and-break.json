@@ -1,0 +1,77 @@
+{
+  "draw-and-break": {
+    "title": "ドローアンドブレイク - 楽しくて戦略的なパズルゲーム",
+    "slogan": "描いて、戦略を立てて、勝利への道を切り開け！",
+    "description": "ドローアンドブレイクは、あなたの戦略的思考を試すカジュアルなパズルゲームです！あなたの目標は簡単です：線を描いて跳ねるボールを導き、おいしいドーナツに当てましょう！慎重に動きを計画し、完璧な道を作り、ボールが勝利への道を跳ねるのを見てください。",
+    "Loading": {
+      "title": "ドローアンドブレイクを読み込んでいます... しばらくお待ちください！"
+    },
+    "Navbar": {
+      "title": "ナビ"
+    },
+    "Common": {
+      "createAt": "作成日",
+      "guide": "ガイド",
+      "privacyPolicy": "プライバシーポリシー",
+      "termsOfServices": "利用規約",
+      "text": "コンテンツ",
+      "help": "ヘルプ",
+      "friendlyLinks": "おすすめリンク",
+      "articleList": "記事一覧",
+      "home": "ホーム",
+      "next": "次へ",
+      "previous": "前へ"
+    },
+    "HomeIframe": {
+      "title": "ドローアンドブレイク",
+      "description": "あなたの戦略的思考に挑戦するパズルゲーム、ドローアンドブレイクのスリルを体験してください。線を描いて跳ねるボールを導き、ドーナツに当てましょう！",
+      "iframeTitle": "ゲームプレビュー",
+      "fullscreenButton": "フルスクリーン",
+      "shareButton": "シェア",
+      "urlCopied": "URLをクリップボードにコピーしました！",
+      "downloadGame": "ゲームをダウンロード",
+      "playGame": "ゲームをプレイ"
+    },
+    "HomeFeatures": {
+      "gameTitle": "ドローアンドブレイク",
+      "whatIsTitle": "ドローアンドブレイクとは？",
+      "whatIsDescription": "ドローアンドブレイクは、あなたの戦略的思考を試すカジュアルなパズルゲームです！あなたの目標は簡単です：線を描いて跳ねるボールを導き、おいしいドーナツに当てましょう！",
+      "howToPlayTitle": "遊び方",
+      "howToPlayStep1": "左マウスボタンを使って線を描きます。",
+      "howToPlayStep2": "跳ねるボールを導いてドーナツに当てます。",
+      "howToPlayStep3": "慎重に動きを計画して、完璧な道を作りましょう。",
+      "keyFeaturesTitle": "主な機能",
+      "feature1Title": "戦略的なゲームプレイ",
+      "feature1Description": "すべての動きであなたの戦略的思考に挑戦してください。",
+      "feature2Title": "シンプルな操作",
+      "feature2Description": "左マウスボタンを使用して、ゲーム内のUIを描画および操作します。",
+      "feature3Title": "楽しくて病みつきになる",
+      "feature3Description": "この病みつきになるパズルゲームで何時間も楽しんでください。",
+      "feature4Title": "おいしいドーナツ",
+      "feature4Description": "ドーナツを目指して、ボールが勝利への道を跳ねるのを見てください。"
+    },
+    "HomeFAQs": {
+      "title": "よくある質問"
+    },
+    "HomeRelatedVideo": {
+      "title": "ゲームビデオ"
+    },
+    "HomeRecommendation": {
+      "title": "おすすめ"
+    },
+    "HomeComments": {
+      "title": "プレイコメント"
+    },
+    "GamePage": {
+      "title": "すべてのゲーム",
+      "description": "すべてのゲーム",
+      "games": "ゲーム"
+    },
+    "CategoryPage": {
+      "categories": "カテゴリ",
+      "noCategories": "カテゴリが見つかりません",
+      "viewMore": "もっと見る",
+      "page": "ページ"
+    }
+  }
+}

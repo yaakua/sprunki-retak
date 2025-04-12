@@ -1,0 +1,77 @@
+{
+  "draw-and-break": {
+    "title": "Draw and Break - Un jeu de puzzle amusant et stratégique",
+    "slogan": "Dessinez, élaborez des stratégies et frayez-vous un chemin vers la victoire !",
+    "description": "Draw and Break est un jeu de puzzle occasionnel où vous mettez votre pensée stratégique à l'épreuve ! Votre objectif est simple : dessinez des lignes pour guider les balles rebondissantes et frapper les délicieux donuts ! Planifiez soigneusement vos mouvements, créez le chemin parfait et regardez les balles rebondir vers la victoire.",
+    "Loading": {
+      "title": "Chargement de Draw and Break... Veuillez patienter !"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Créé le",
+      "guide": "Guide",
+      "privacyPolicy": "Politique de confidentialité",
+      "termsOfServices": "Conditions d'utilisation",
+      "text": "Contenu",
+      "help": "Aide",
+      "friendlyLinks": "Liens utiles",
+      "articleList": "Liste des articles",
+      "home": "Accueil",
+      "next": "Suivant",
+      "previous": "Précédent"
+    },
+    "HomeIframe": {
+      "title": "Draw and Break",
+      "description": "Découvrez le frisson de Draw and Break, un jeu de puzzle qui met votre pensée stratégique au défi. Dessinez des lignes pour guider les balles rebondissantes et frapper les donuts !",
+      "iframeTitle": "Aperçu du jeu",
+      "fullscreenButton": "Plein écran",
+      "shareButton": "Partager",
+      "urlCopied": "URL copiée dans le presse-papiers !",
+      "downloadGame": "Télécharger le jeu",
+      "playGame": "Jouer au jeu"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Draw and Break",
+      "whatIsTitle": "Qu'est-ce que Draw and Break ?",
+      "whatIsDescription": "Draw and Break est un jeu de puzzle occasionnel où vous mettez votre pensée stratégique à l'épreuve ! Votre objectif est simple : dessinez des lignes pour guider les balles rebondissantes et frapper les délicieux donuts !",
+      "howToPlayTitle": "Comment jouer",
+      "howToPlayStep1": "Utilisez le bouton gauche de la souris pour tracer des lignes.",
+      "howToPlayStep2": "Guidez les balles rebondissantes pour frapper les donuts.",
+      "howToPlayStep3": "Planifiez soigneusement vos mouvements pour créer le chemin parfait.",
+      "keyFeaturesTitle": "Fonctionnalités clés",
+      "feature1Title": "Gameplay stratégique",
+      "feature1Description": "Mettez votre pensée stratégique au défi à chaque mouvement.",
+      "feature2Title": "Commandes simples",
+      "feature2Description": "Utilisez le bouton gauche de la souris pour dessiner et interagir avec l'interface utilisateur du jeu.",
+      "feature3Title": "Amusant et addictif",
+      "feature3Description": "Profitez d'heures de plaisir avec ce jeu de puzzle addictif.",
+      "feature4Title": "Délicieux donuts",
+      "feature4Description": "Visez les donuts et regardez les balles rebondir vers la victoire."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vidéo du jeu"
+    },
+    "HomeRecommendation": {
+      "title": "Recommandations"
+    },
+    "HomeComments": {
+      "title": "Commentaires sur le jeu"
+    },
+    "GamePage": {
+      "title": "Tous les jeux",
+      "description": "Tous les jeux",
+      "games": "Jeux"
+    },
+    "CategoryPage": {
+      "categories": "Catégories",
+      "noCategories": "Aucune catégorie trouvée",
+      "viewMore": "Voir plus",
+      "page": "Page"
+    }
+  }
+}

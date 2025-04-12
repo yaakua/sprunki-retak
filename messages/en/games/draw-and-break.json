@@ -1,0 +1,77 @@
+{
+  "draw-and-break": {
+    "title": "Draw and Break - A Fun and Strategic Puzzle Game",
+    "slogan": "Draw, Strategize, and Break Your Way to Victory!",
+    "description": "Draw and Break is a casual puzzle game where you put your strategic thinking to the test! Your goal is simple: draw lines to guide bouncing balls and hit the delicious donuts! Plan your moves carefully, create the perfect path, and watch the balls bounce their way to victory.",
+    "Loading": {
+      "title": "Loading Draw and Break... Please wait!"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Draw and Break",
+      "description": "Experience the thrill of Draw and Break, a puzzle game that challenges your strategic thinking. Draw lines to guide bouncing balls and hit the donuts!",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Draw and Break",
+      "whatIsTitle": "What is Draw and Break?",
+      "whatIsDescription": "Draw and Break is a casual puzzle game where you put your strategic thinking to the test! Your goal is simple: draw lines to guide bouncing balls and hit the delicious donuts!",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Use the left mouse button to draw lines.",
+      "howToPlayStep2": "Guide the bouncing balls to hit the donuts.",
+      "howToPlayStep3": "Plan your moves carefully to create the perfect path.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Strategic Gameplay",
+      "feature1Description": "Challenge your strategic thinking with every move.",
+      "feature2Title": "Simple Controls",
+      "feature2Description": "Use the left mouse button to draw and interact with the in-game UI.",
+      "feature3Title": "Fun and Addictive",
+      "feature3Description": "Enjoy hours of fun with this addictive puzzle game.",
+      "feature4Title": "Delicious Donuts",
+      "feature4Description": "Aim for the donuts and watch the balls bounce their way to victory."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

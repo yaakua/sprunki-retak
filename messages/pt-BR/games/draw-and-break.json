@@ -1,0 +1,77 @@
+{
+  "draw-and-break": {
+    "title": "Desenhe e Quebre - Um Jogo de Puzzle Divertido e Estratégico",
+    "slogan": "Desenhe, Estrategize e Abra Caminho para a Vitória!",
+    "description": "Desenhe e Quebre é um jogo de puzzle casual onde você coloca seu pensamento estratégico à prova! Seu objetivo é simples: desenhe linhas para guiar as bolas saltitantes e acertar os deliciosos donuts! Planeje seus movimentos cuidadosamente, crie o caminho perfeito e veja as bolas saltarem em direção à vitória.",
+    "Loading": {
+      "title": "Carregando Desenhe e Quebre... Por favor, aguarde!"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Criado em",
+      "guide": "Guia",
+      "privacyPolicy": "Política de Privacidade",
+      "termsOfServices": "Termos de Serviço",
+      "text": "Conteúdo",
+      "help": "Ajuda",
+      "friendlyLinks": "Links Amigáveis",
+      "articleList": "Lista de Artigos",
+      "home": "Página Inicial",
+      "next": "Próximo",
+      "previous": "Anterior"
+    },
+    "HomeIframe": {
+      "title": "Desenhe e Quebre",
+      "description": "Experimente a emoção de Desenhe e Quebre, um jogo de puzzle que desafia seu pensamento estratégico. Desenhe linhas para guiar as bolas saltitantes e acertar os donuts!",
+      "iframeTitle": "Visualização do Jogo",
+      "fullscreenButton": "Tela Cheia",
+      "shareButton": "Compartilhar",
+      "urlCopied": "URL copiado para a área de transferência!",
+      "downloadGame": "Baixar Jogo",
+      "playGame": "Jogar"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Desenhe e Quebre",
+      "whatIsTitle": "O que é Desenhe e Quebre?",
+      "whatIsDescription": "Desenhe e Quebre é um jogo de puzzle casual onde você coloca seu pensamento estratégico à prova! Seu objetivo é simples: desenhe linhas para guiar as bolas saltitantes e acertar os deliciosos donuts!",
+      "howToPlayTitle": "Como Jogar",
+      "howToPlayStep1": "Use o botão esquerdo do mouse para desenhar linhas.",
+      "howToPlayStep2": "Guie as bolas saltitantes para acertar os donuts.",
+      "howToPlayStep3": "Planeje seus movimentos cuidadosamente para criar o caminho perfeito.",
+      "keyFeaturesTitle": "Principais Características",
+      "feature1Title": "Jogabilidade Estratégica",
+      "feature1Description": "Desafie seu pensamento estratégico a cada movimento.",
+      "feature2Title": "Controles Simples",
+      "feature2Description": "Use o botão esquerdo do mouse para desenhar e interagir com a interface do jogo.",
+      "feature3Title": "Divertido e Viciante",
+      "feature3Description": "Desfrute de horas de diversão com este jogo de puzzle viciante.",
+      "feature4Title": "Donuts Deliciosos",
+      "feature4Description": "Mire nos donuts e veja as bolas saltarem em direção à vitória."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Vídeo do Jogo"
+    },
+    "HomeRecommendation": {
+      "title": "Recomendações"
+    },
+    "HomeComments": {
+      "title": "Comentários do Jogo"
+    },
+    "GamePage": {
+      "title": "Todos os Jogos",
+      "description": "Todos os Jogos",
+      "games": "Jogos"
+    },
+    "CategoryPage": {
+      "categories": "Categorias",
+      "noCategories": "Nenhuma categoria encontrada",
+      "viewMore": "Ver Mais",
+      "page": "Página"
+    }
+  }
+}

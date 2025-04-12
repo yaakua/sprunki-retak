@@ -72,7 +72,7 @@ async function getGames(locale: string) {
             name: gameName,
             pagePath: config.pagePath,
             directory: entry.name,
-            screenshotUrl: config.screenshotUrl || `/games/${entry.name}/game_screenshot.webp`,
+            screenshotUrl: config.screenshotUrl,
             createdTime: config.createdTime || new Date().toISOString(),
           });
         }

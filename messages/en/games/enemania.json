@@ -1,0 +1,77 @@
+{
+  "enemania": {
+    "title": "Enemania - Defend Your Treasure in This Fun Tower Defense Game",
+    "slogan": "Strategic Tower Defense with Quirky Enemies",
+    "description": "Enemania is a fun and strategic tower defense game where you defend your treasure from waves of quirky enemies like skeletons, orcs, and mummies. Place and upgrade cannons, catapults, and bombs to keep the invaders at bay. With each level introducing new challenges, smart planning and quick decisions will help you stay ahead and win!",
+    "Loading": {
+      "title": "Loading Enemania... Please wait!"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Create At",
+      "guide": "Guide",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfServices": "Terms of Services",
+      "text": "Content",
+      "help": "Help",
+      "friendlyLinks": "Friendly Links",
+      "articleList": "Article List",
+      "home": "Home",
+      "next": "Next",
+      "previous": "Previous"
+    },
+    "HomeIframe": {
+      "title": "Enemania",
+      "description": "Defend your treasure in Enemania, a strategic tower defense game with quirky enemies and challenging levels.",
+      "iframeTitle": "Game Preview",
+      "fullscreenButton": "Fullscreen",
+      "shareButton": "Share",
+      "urlCopied": "URL copied to clipboard!",
+      "downloadGame": "Download Game",
+      "playGame": "Play Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Enemania",
+      "whatIsTitle": "What is Enemania?",
+      "whatIsDescription": "Enemania is a fun and strategic tower defense game where you defend your treasure from waves of quirky enemies like skeletons, orcs, and mummies.",
+      "howToPlayTitle": "How to Play",
+      "howToPlayStep1": "Place and upgrade cannons, catapults, and bombs to keep the invaders at bay.",
+      "howToPlayStep2": "With each level introducing new challenges, smart planning and quick decisions will help you stay ahead.",
+      "howToPlayStep3": "Win by defending your treasure from all waves of enemies.",
+      "keyFeaturesTitle": "Key Features",
+      "feature1Title": "Strategic Gameplay",
+      "feature1Description": "Plan and execute strategies to defend your treasure effectively.",
+      "feature2Title": "Quirky Enemies",
+      "feature2Description": "Face waves of unique enemies like skeletons, orcs, and mummies.",
+      "feature3Title": "Upgradeable Defenses",
+      "feature3Description": "Upgrade cannons, catapults, and bombs to enhance your defenses.",
+      "feature4Title": "Challenging Levels",
+      "feature4Description": "Each level introduces new challenges to keep you engaged."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Game Video"
+    },
+    "HomeRecommendation": {
+      "title": "Recommends"
+    },
+    "HomeComments": {
+      "title": "Play Comments"
+    },
+    "GamePage": {
+      "title": "All Games",
+      "description": "All Games",
+      "games": "Games"
+    },
+    "CategoryPage": {
+      "categories": "Categories",
+      "noCategories": "No categories found",
+      "viewMore": "View More",
+      "page": "Page"
+    }
+  }
+}

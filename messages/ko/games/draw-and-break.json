@@ -1,0 +1,77 @@
+{
+  "draw-and-break": {
+    "title": "Draw and Break - 재미있고 전략적인 퍼즐 게임",
+    "slogan": "그려, 전략을 세우고, 승리를 향해 나아가세요!",
+    "description": "Draw and Break는 당신의 전략적 사고를 시험하는 캐주얼 퍼즐 게임입니다! 당신의 목표는 간단합니다: 선을 그려 튕기는 공을 유도하고 맛있는 도넛을 맞추세요! 신중하게 움직임을 계획하고 완벽한 경로를 만들어 공이 승리를 향해 튕겨 나가는 것을 지켜보세요.",
+    "Loading": {
+      "title": "Draw and Break 로딩 중... 잠시만 기다려주세요!"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "만든 날짜",
+      "guide": "안내",
+      "privacyPolicy": "개인 정보 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "콘텐츠",
+      "help": "도움말",
+      "friendlyLinks": "관련 링크",
+      "articleList": "기사 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Draw and Break",
+      "description": "당신의 전략적 사고에 도전하는 퍼즐 게임 Draw and Break의 스릴을 경험해보세요. 선을 그려 튕기는 공을 유도하고 도넛을 맞추세요!",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임하기"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Draw and Break",
+      "whatIsTitle": "Draw and Break란 무엇인가요?",
+      "whatIsDescription": "Draw and Break는 당신의 전략적 사고를 시험하는 캐주얼 퍼즐 게임입니다! 당신의 목표는 간단합니다: 선을 그려 튕기는 공을 유도하고 맛있는 도넛을 맞추세요!",
+      "howToPlayTitle": "게임 방법",
+      "howToPlayStep1": "마우스 왼쪽 버튼을 사용하여 선을 그립니다.",
+      "howToPlayStep2": "튕기는 공을 유도하여 도넛을 맞추세요.",
+      "howToPlayStep3": "신중하게 움직임을 계획하여 완벽한 경로를 만드세요.",
+      "keyFeaturesTitle": "주요 특징",
+      "feature1Title": "전략적인 게임 플레이",
+      "feature1Description": "매 움직임마다 전략적 사고에 도전하세요.",
+      "feature2Title": "간단한 컨트롤",
+      "feature2Description": "마우스 왼쪽 버튼을 사용하여 게임 내 UI와 상호 작용하세요.",
+      "feature3Title": "재미있고 중독성 있는",
+      "feature3Description": "이 중독성 있는 퍼즐 게임으로 몇 시간 동안 즐거운 시간을 보내세요.",
+      "feature4Title": "맛있는 도넛",
+      "feature4Description": "도넛을 목표로 공이 승리를 향해 튕겨 나가는 것을 지켜보세요."
+    },
+    "HomeFAQs": {
+      "title": "자주 묻는 질문"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 비디오"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "플레이 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다.",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}

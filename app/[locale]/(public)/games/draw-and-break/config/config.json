@@ -1,0 +1,122 @@
+{
+  "name": "Draw and Break",
+  "pagePath": "/games/draw-and-break",
+  "pageName": "draw-and-break",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://games.crazygames.com/en_US/draw-and-break/index.html?v=1.324",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "PixelProdigy",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PixelProdigy.png",
+      "content": "OMG this Draw and Break game is so addictive! I can't stop drawing lines and watching those balls smash into donuts. Simple but genius!"
+    },
+    {
+      "author": "DonutDestroyer",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/DonutDestroyer.png",
+      "content": "Yo, Draw and Break is the perfect game for chillin'. Just draw, bounce, and eat donuts... virtually, of course! Highly recommend for a quick brain break."
+    },
+    {
+      "author": "LineMaster",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LineMaster.png",
+      "content": "This game is harder than it looks! Gotta really think about the angles and the bounces. But when you finally get it right? So satisfying! Draw and Break is awesome!"
+    },
+    {
+      "author": "BouncyBaller",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/BouncyBaller.png",
+      "content": "I love how simple the controls are for Draw and Break. Left mouse button is all you need! Easy to pick up, hard to master, ya know?"
+    },
+    {
+      "author": "SweetToothGamer",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/SweetToothGamer.png",
+      "content": "Finally, a game that combines my love for puzzles and donuts! Draw and Break is the cutest and most fun puzzle game I've played in a while. Definitely worth checking out!"
+    },
+    {
+      "author": "PuzzleAddict",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PuzzleAddict.png",
+      "content": "Ok, Draw and Break, I see you! Such a clever concept. Who knew drawing lines could be so entertaining? Gonna spend way too much time on this, lol."
+    },
+    {
+      "author": "CasualKing",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CasualKing.png",
+      "content": "Looking for a chill casual game? Draw and Break is it! Perfect for killing time and challenging your brain a little. plus the donut theme is super cute."
+    },
+    {
+      "author": "StrategicThinker",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StrategicThinker.png",
+      "content": "Don't let the simplicity fool you, Draw and Break requires some serious strategic thinking! Planning those bounces is key. Great game for exercising your mind."
+    },
+    {
+      "author": "GamingGuru",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/GamingGuru.png",
+      "content": "This game is so simple and fun, it's genius. Addictive gameplay mechanics in Draw and Break and the levels are well-designed. A must play, especially for fans of casual games!"
+    },
+    {
+      "author": "HappyGamer",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/HappyGamer.png",
+      "content": "I'm having SO MUCH FUN with Draw and Break! It's like a little puzzle party in my brain. The donut theme makes me smile every time. Highly recommend!"
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "message": "待处理",
+  "screenshotUrl": "https://imgs.crazygames.com/draw-and-break_16x9/20250226050342/draw-and-break_16x9-cover?metadata=none&quality=70&width=612.5",
+  "page_path": "/games/draw-and-break",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "customizeFeatures": true,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm7uf674d001f8l7gyg8ryd9o",
+  "userId": "cm3pot8nu000010i61w9tjr5m",
+  "status": "PENDING",
+  "updatedAt": "2025-03-04T11:42:35.149Z",
+  "projectId": "cm3tvyn990002mp4f5v0tdr5g",
+  "createdTime": "2025-03-04 19:42:35"
+}

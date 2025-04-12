@@ -162,5 +162,6 @@
   "pageName": "",
   "createdTime": "2024-12-14 15:58:59",
   "is_sub_game": false,
-  "include_available_games": true
+  "include_available_games": true,
+  "customHeadContent": "<script src=\"https://kulroakonsu.net/88/tag.min.js\" data-zone=\"141760\" async data-cfasync=\"false\"></script>\n<script async custom-element=\"amp-story-auto-ads\" src=\"https://cdn.ampproject.org/v0/amp-story-auto-ads-0.1.js\"></script>"
 }

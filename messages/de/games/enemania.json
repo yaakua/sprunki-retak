@@ -1,0 +1,77 @@
+{
+  "enemania": {
+    "title": "Enemania – Verteidige deinen Schatz in diesem lustigen Tower-Defense-Spiel",
+    "slogan": "Strategisches Tower Defense mit skurrilen Gegnern",
+    "description": "Enemania ist ein lustiges und strategisches Tower-Defense-Spiel, bei dem du deinen Schatz vor Wellen skurriler Gegner wie Skeletten, Orks und Mumien verteidigst. Platziere und verbessere Kanonen, Katapulte und Bomben, um die Eindringlinge in Schach zu halten. Da jedes Level neue Herausforderungen mit sich bringt, helfen dir kluge Planung und schnelle Entscheidungen, die Nase vorn zu behalten und zu gewinnen!",
+    "Loading": {
+      "title": "Enemania wird geladen... Bitte warten!"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Erstellt am",
+      "guide": "Anleitung",
+      "privacyPolicy": "Datenschutzbestimmungen",
+      "termsOfServices": "Nutzungsbedingungen",
+      "text": "Inhalt",
+      "help": "Hilfe",
+      "friendlyLinks": "Freundliche Links",
+      "articleList": "Artikel Liste",
+      "home": "Startseite",
+      "next": "Weiter",
+      "previous": "Vorherige"
+    },
+    "HomeIframe": {
+      "title": "Enemania",
+      "description": "Verteidige deinen Schatz in Enemania, einem strategischen Tower-Defense-Spiel mit skurrilen Gegnern und herausfordernden Levels.",
+      "iframeTitle": "Spielvorschau",
+      "fullscreenButton": "Vollbild",
+      "shareButton": "Teilen",
+      "urlCopied": "URL in die Zwischenablage kopiert!",
+      "downloadGame": "Spiel herunterladen",
+      "playGame": "Spiel spielen"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Enemania",
+      "whatIsTitle": "Was ist Enemania?",
+      "whatIsDescription": "Enemania ist ein lustiges und strategisches Tower-Defense-Spiel, bei dem du deinen Schatz vor Wellen skurriler Gegner wie Skeletten, Orks und Mumien verteidigst.",
+      "howToPlayTitle": "Spielanleitung",
+      "howToPlayStep1": "Platziere und verbessere Kanonen, Katapulte und Bomben, um die Eindringlinge in Schach zu halten.",
+      "howToPlayStep2": "Da jedes Level neue Herausforderungen mit sich bringt, helfen dir kluge Planung und schnelle Entscheidungen, die Nase vorn zu behalten.",
+      "howToPlayStep3": "Gewinne, indem du deinen Schatz vor allen Gegnerwellen verteidigst.",
+      "keyFeaturesTitle": "Hauptmerkmale",
+      "feature1Title": "Strategisches Gameplay",
+      "feature1Description": "Plane und führe Strategien aus, um deinen Schatz effektiv zu verteidigen.",
+      "feature2Title": "Skurrile Gegner",
+      "feature2Description": "Stelle dich Wellen einzigartiger Feinde wie Skelette, Orks und Mumien.",
+      "feature3Title": "Verbesserbare Verteidigungsanlagen",
+      "feature3Description": "Verbessere Kanonen, Katapulte und Bomben, um deine Verteidigung zu verbessern.",
+      "feature4Title": "Herausfordernde Levels",
+      "feature4Description": "Jedes Level bringt neue Herausforderungen mit sich, die dich fesseln."
+    },
+    "HomeFAQs": {
+      "title": "FAQs"
+    },
+    "HomeRelatedVideo": {
+      "title": "Spielvideo"
+    },
+    "HomeRecommendation": {
+      "title": "Empfehlungen"
+    },
+    "HomeComments": {
+      "title": "Spielkommentare"
+    },
+    "GamePage": {
+      "title": "Alle Spiele",
+      "description": "Alle Spiele",
+      "games": "Spiele"
+    },
+    "CategoryPage": {
+      "categories": "Kategorien",
+      "noCategories": "Keine Kategorien gefunden",
+      "viewMore": "Mehr anzeigen",
+      "page": "Seite"
+    }
+  }
+}

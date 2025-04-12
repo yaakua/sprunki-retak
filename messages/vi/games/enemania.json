@@ -1,0 +1,77 @@
+{
+  "enemania": {
+    "title": "Enemania - Bảo vệ kho báu của bạn trong trò chơi phòng thủ tháp thú vị này",
+    "slogan": "Phòng thủ tháp chiến lược với những kẻ thù kỳ quặc",
+    "description": "Enemania là một trò chơi phòng thủ tháp thú vị và mang tính chiến lược, nơi bạn bảo vệ kho báu của mình khỏi các đợt tấn công của những kẻ thù kỳ quặc như bộ xương, Orc và xác ướp. Đặt và nâng cấp pháo, máy phóng và bom để ngăn chặn quân xâm lược. Với mỗi cấp độ giới thiệu những thử thách mới, việc lên kế hoạch thông minh và đưa ra quyết định nhanh chóng sẽ giúp bạn luôn dẫn đầu và giành chiến thắng!",
+    "Loading": {
+      "title": "Đang tải Enemania... Vui lòng chờ!"
+    },
+    "Navbar": {
+      "title": "Điều hướng"
+    },
+    "Common": {
+      "createAt": "Được tạo vào",
+      "guide": "Hướng dẫn",
+      "privacyPolicy": "Chính sách bảo mật",
+      "termsOfServices": "Điều khoản dịch vụ",
+      "text": "Nội dung",
+      "help": "Trợ giúp",
+      "friendlyLinks": "Liên kết hữu ích",
+      "articleList": "Danh sách bài viết",
+      "home": "Trang chủ",
+      "next": "Tiếp theo",
+      "previous": "Trước"
+    },
+    "HomeIframe": {
+      "title": "Enemania",
+      "description": "Bảo vệ kho báu của bạn trong Enemania, một trò chơi phòng thủ tháp chiến lược với những kẻ thù kỳ quặc và các cấp độ đầy thử thách.",
+      "iframeTitle": "Xem trước trò chơi",
+      "fullscreenButton": "Toàn màn hình",
+      "shareButton": "Chia sẻ",
+      "urlCopied": "Đã sao chép URL vào clipboard!",
+      "downloadGame": "Tải trò chơi",
+      "playGame": "Chơi trò chơi"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Enemania",
+      "whatIsTitle": "Enemania là gì?",
+      "whatIsDescription": "Enemania là một trò chơi phòng thủ tháp thú vị và mang tính chiến lược, nơi bạn bảo vệ kho báu của mình khỏi các đợt tấn công của những kẻ thù kỳ quặc như bộ xương, Orc và xác ướp.",
+      "howToPlayTitle": "Cách chơi",
+      "howToPlayStep1": "Đặt và nâng cấp pháo, máy phóng và bom để ngăn chặn quân xâm lược.",
+      "howToPlayStep2": "Với mỗi cấp độ giới thiệu những thử thách mới, việc lên kế hoạch thông minh và đưa ra quyết định nhanh chóng sẽ giúp bạn luôn dẫn đầu.",
+      "howToPlayStep3": "Giành chiến thắng bằng cách bảo vệ kho báu của bạn khỏi tất cả các đợt tấn công của kẻ thù.",
+      "keyFeaturesTitle": "Các tính năng chính",
+      "feature1Title": "Lối chơi chiến lược",
+      "feature1Description": "Lên kế hoạch và thực hiện các chiến lược để bảo vệ kho báu của bạn một cách hiệu quả.",
+      "feature2Title": "Kẻ thù kỳ quặc",
+      "feature2Description": "Đối mặt với các đợt tấn công của những kẻ thù độc đáo như bộ xương, Orc và xác ướp.",
+      "feature3Title": "Phòng thủ có thể nâng cấp",
+      "feature3Description": "Nâng cấp pháo, máy phóng và bom để tăng cường khả năng phòng thủ của bạn.",
+      "feature4Title": "Các cấp độ đầy thử thách",
+      "feature4Description": "Mỗi cấp độ giới thiệu những thử thách mới để giúp bạn luôn hứng thú."
+    },
+    "HomeFAQs": {
+      "title": "Câu hỏi thường gặp"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video trò chơi"
+    },
+    "HomeRecommendation": {
+      "title": "Đề xuất"
+    },
+    "HomeComments": {
+      "title": "Bình luận về trò chơi"
+    },
+    "GamePage": {
+      "title": "Tất cả trò chơi",
+      "description": "Tất cả trò chơi",
+      "games": "Trò chơi"
+    },
+    "CategoryPage": {
+      "categories": "Danh mục",
+      "noCategories": "Không tìm thấy danh mục nào",
+      "viewMore": "Xem thêm",
+      "page": "Trang"
+    }
+  }
+}

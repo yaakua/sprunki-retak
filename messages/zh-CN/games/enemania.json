@@ -1,0 +1,77 @@
+{
+  "enemania": {
+    "title": "Enemania - 在这款有趣的塔防游戏中保卫你的宝藏",
+    "slogan": "具有古怪敌人的战略塔防",
+    "description": "Enemania 是一款有趣且具有战略意义的塔防游戏，您可以在其中防御骷髅、兽人和木乃伊等古怪敌人的攻击，保卫您的宝藏。 放置和升级大炮、投石车和炸弹，以抵御入侵者。 随着每个级别都带来新的挑战，明智的计划和快速的决定将帮助您保持领先并获胜！",
+    "Loading": {
+      "title": "正在加载 Enemania... 请稍候！"
+    },
+    "Navbar": {
+      "title": "导航"
+    },
+    "Common": {
+      "createAt": "创建于",
+      "guide": "指南",
+      "privacyPolicy": "隐私政策",
+      "termsOfServices": "服务条款",
+      "text": "内容",
+      "help": "帮助",
+      "friendlyLinks": "友情链接",
+      "articleList": "文章列表",
+      "home": "首页",
+      "next": "下一页",
+      "previous": "上一页"
+    },
+    "HomeIframe": {
+      "title": "Enemania",
+      "description": "在 Enemania 中保卫您的宝藏，这是一款具有古怪敌人和具有挑战性的关卡的战略塔防游戏。",
+      "iframeTitle": "游戏预览",
+      "fullscreenButton": "全屏",
+      "shareButton": "分享",
+      "urlCopied": "网址已复制到剪贴板！",
+      "downloadGame": "下载游戏",
+      "playGame": "开始游戏"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Enemania",
+      "whatIsTitle": "什么是 Enemania？",
+      "whatIsDescription": "Enemania 是一款有趣且具有战略意义的塔防游戏，您可以在其中防御骷髅、兽人和木乃伊等古怪敌人的攻击，保卫您的宝藏。",
+      "howToPlayTitle": "怎么玩",
+      "howToPlayStep1": "放置和升级大炮、投石车和炸弹，以抵御入侵者。",
+      "howToPlayStep2": "每个级别都会带来新的挑战，明智的计划和快速的决定将帮助您保持领先。",
+      "howToPlayStep3": "通过防御所有敌人的攻击来赢得胜利。",
+      "keyFeaturesTitle": "主要特点",
+      "feature1Title": "战略游戏",
+      "feature1Description": "计划并执行策略以有效地防御您的宝藏。",
+      "feature2Title": "古怪的敌人",
+      "feature2Description": "面对一波又一波独特的敌人，如骷髅、兽人和木乃伊。",
+      "feature3Title": "可升级的防御",
+      "feature3Description": "升级大炮、投石车和炸弹，以加强防御。",
+      "feature4Title": "具有挑战性的关卡",
+      "feature4Description": "每个级别都会带来新的挑战，让您保持参与。"
+    },
+    "HomeFAQs": {
+      "title": "常见问题"
+    },
+    "HomeRelatedVideo": {
+      "title": "游戏视频"
+    },
+    "HomeRecommendation": {
+      "title": "推荐"
+    },
+    "HomeComments": {
+      "title": "玩家评论"
+    },
+    "GamePage": {
+      "title": "所有游戏",
+      "description": "所有游戏",
+      "games": "游戏"
+    },
+    "CategoryPage": {
+      "categories": "分类",
+      "noCategories": "未找到分类",
+      "viewMore": "查看更多",
+      "page": "页"
+    }
+  }
+}

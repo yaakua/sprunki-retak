@@ -1,0 +1,122 @@
+{
+  "name": "Enemania",
+  "pagePath": "/games/enemania",
+  "pageName": "enemania",
+  "theme": {
+    "headFont": null,
+    "primaryColor": null,
+    "fontColor": null,
+    "backgroundColor": null
+  },
+  "gameType": "iframe",
+  "gameIframeUrl": "https://games.crazygames.com/en_US/enemania/index.html?v=1.324",
+  "gameRedirectUrl": "",
+  "bgType": "iframe",
+  "bgImage": "",
+  "bgVideo": "",
+  "gameDownload": {
+    "showDownloadButton": true,
+    "downloadUrls": {
+      "ios": "",
+      "android": "",
+      "pc": "",
+      "steam": "",
+      "mac": ""
+    }
+  },
+  "isShowFAQs": true,
+  "isShowVideo": false,
+  "isShowGuide": true,
+  "videos": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "isShowComments": true,
+  "isShowTweets": false,
+  "useRealTweets": false,
+  "tweets": [
+    ""
+  ],
+  "comments": [
+    {
+      "author": "GameMasterX",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/GameMasterX.png",
+      "content": "OMG, Enemania is seriously addictive! I love how you have to actually think about your tower placements. So much fun!"
+    },
+    {
+      "author": "PixelPusherPro",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/PixelPusherPro.png",
+      "content": "This game is awesome! The art style is super cute, and it's surprisingly challenging. Keeps me coming back for more!"
+    },
+    {
+      "author": "CannonCommander",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CannonCommander.png",
+      "content": "Enemania's got me hooked! Upgrading my cannons is so satisfying, especially when I obliterate those pesky skeletons. XD"
+    },
+    {
+      "author": "StrategistSam",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/StrategistSam.png",
+      "content": "I'm really enjoying the strategic depth of Enemania. Figuring out the best tower combinations is a blast!"
+    },
+    {
+      "author": "TowerDefenseFanatic",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/TowerDefenseFanatic.png",
+      "content": "This is a solid tower defense game! Simple to pick up, but hard to master. Enemania definitely scratches that TD itch."
+    },
+    {
+      "author": "BombasticGamer",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/BombasticGamer.png",
+      "content": "Bombs away! Blowing up those mummies in Enemania is so therapeutic after a long day, lol."
+    },
+    {
+      "author": "OrcObliterator",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/OrcObliterator.png",
+      "content": "Man, I just love obliterating hordes of orcs in Enemania! What a great past time! XD"
+    },
+    {
+      "author": "CatapultKing",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/CatapultKing.png",
+      "content": "There’s something really satisfying about launching stuff at those enemies haha. Enemania is great, ngl!"
+    },
+    {
+      "author": "LevelUpLegend",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/LevelUpLegend.png",
+      "content": "I'm addicted to leveling up my towers in Enemania! The progression system keeps me motivated to keep playing!"
+    },
+    {
+      "author": "QuickThinkerQT",
+      "role": "player",
+      "avatar": "https://api.randomx.ai/avatar/QuickThinkerQT.png",
+      "content": "Frantically placing towers in Enemania when the enemies are closing in? The best feeling ever! Def recommend."
+    }
+  ],
+  "isShowRecommendation": true,
+  "isShowRightGames": true,
+  "message": "待处理",
+  "screenshotUrl": "https://public-image.fafafa.ai/game-library/images/enemania_16x9-cover.avif",
+  "page_path": "/games/enemania",
+  "override_page_path": true,
+  "auto_deploy": false,
+  "enablePromotion": false,
+  "customizeFeatures": true,
+  "color_scheme_id": "default",
+  "is_sub_game": true,
+  "include_available_games": true,
+  "gameTaskRecordId": "cm7ueeq3g00198l7gq363gtge",
+  "userId": "cm3pot8nu000010i61w9tjr5m",
+  "status": "PENDING",
+  "updatedAt": "2025-03-04T11:21:13.371Z",
+  "projectId": "cm3tvyn990002mp4f5v0tdr5g",
+  "createdTime": "2025-03-04 19:21:13"
+}

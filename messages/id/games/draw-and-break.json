@@ -1,0 +1,77 @@
+{
+  "draw-and-break": {
+    "title": "Draw and Break - Game Puzzle yang Seru dan Strategis",
+    "slogan": "Gambar, Susun Strategi, dan Pecahkan Jalanmu Menuju Kemenangan!",
+    "description": "Draw and Break adalah game puzzle kasual di mana kamu menguji pemikiran strategismu! Tujuanmu sederhana: gambar garis untuk memandu bola yang memantul dan mengenai donat lezat! Rencanakan gerakanmu dengan hati-hati, buat jalur yang sempurna, dan saksikan bola-bola itu memantul menuju kemenangan.",
+    "Loading": {
+      "title": "Memuat Draw and Break... Mohon tunggu!"
+    },
+    "Navbar": {
+      "title": "Nav"
+    },
+    "Common": {
+      "createAt": "Dibuat Pada",
+      "guide": "Panduan",
+      "privacyPolicy": "Kebijakan Privasi",
+      "termsOfServices": "Ketentuan Layanan",
+      "text": "Konten",
+      "help": "Bantuan",
+      "friendlyLinks": "Tautan Persahabatan",
+      "articleList": "Daftar Artikel",
+      "home": "Beranda",
+      "next": "Selanjutnya",
+      "previous": "Sebelumnya"
+    },
+    "HomeIframe": {
+      "title": "Draw and Break",
+      "description": "Rasakan serunya Draw and Break, game puzzle yang menantang pemikiran strategismu. Gambar garis untuk memandu bola yang memantul dan mengenai donat!",
+      "iframeTitle": "Pratinjau Game",
+      "fullscreenButton": "Layar Penuh",
+      "shareButton": "Bagikan",
+      "urlCopied": "URL disalin ke clipboard!",
+      "downloadGame": "Unduh Game",
+      "playGame": "Mainkan Game"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Draw and Break",
+      "whatIsTitle": "Apa itu Draw and Break?",
+      "whatIsDescription": "Draw and Break adalah game puzzle kasual di mana kamu menguji pemikiran strategismu! Tujuanmu sederhana: gambar garis untuk memandu bola yang memantul dan mengenai donat lezat!",
+      "howToPlayTitle": "Cara Bermain",
+      "howToPlayStep1": "Gunakan tombol kiri mouse untuk menggambar garis.",
+      "howToPlayStep2": "Arahkan bola yang memantul untuk mengenai donat.",
+      "howToPlayStep3": "Rencanakan gerakanmu dengan hati-hati untuk membuat jalur yang sempurna.",
+      "keyFeaturesTitle": "Fitur Utama",
+      "feature1Title": "Gameplay Strategis",
+      "feature1Description": "Tantang pemikiran strategismu dengan setiap gerakan.",
+      "feature2Title": "Kontrol Sederhana",
+      "feature2Description": "Gunakan tombol kiri mouse untuk menggambar dan berinteraksi dengan UI dalam game.",
+      "feature3Title": "Seru dan Adiktif",
+      "feature3Description": "Nikmati kesenangan berjam-jam dengan game puzzle adiktif ini.",
+      "feature4Title": "Donat Lezat",
+      "feature4Description": "Bidik donat dan saksikan bola-bola itu memantul menuju kemenangan."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "Video Game"
+    },
+    "HomeRecommendation": {
+      "title": "Rekomendasi"
+    },
+    "HomeComments": {
+      "title": "Komentar Permainan"
+    },
+    "GamePage": {
+      "title": "Semua Game",
+      "description": "Semua Game",
+      "games": "Game"
+    },
+    "CategoryPage": {
+      "categories": "Kategori",
+      "noCategories": "Tidak ada kategori yang ditemukan",
+      "viewMore": "Lihat Lebih Banyak",
+      "page": "Halaman"
+    }
+  }
+}

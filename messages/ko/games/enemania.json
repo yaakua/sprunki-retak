@@ -1,0 +1,77 @@
+{
+  "enemania": {
+    "title": "Enemania - 재미있는 타워 디펜스 게임에서 보물을 지키세요",
+    "slogan": "기발한 적들과 함께하는 전략적인 타워 디펜스",
+    "description": "Enemania는 해골, 오크, 미라 같은 기발한 적들의 파상 공격으로부터 보물을 지키는 재미있고 전략적인 타워 디펜스 게임입니다. 대포, 투석기, 폭탄을 배치하고 업그레이드하여 침략자들을 막으세요. 각 레벨마다 새로운 도전이 주어지므로, 현명한 계획과 빠른 결정을 통해 앞서나가 승리하세요!",
+    "Loading": {
+      "title": "Enemania 로딩 중... 잠시만 기다려 주세요!"
+    },
+    "Navbar": {
+      "title": "탐색"
+    },
+    "Common": {
+      "createAt": "생성일",
+      "guide": "가이드",
+      "privacyPolicy": "개인 정보 보호 정책",
+      "termsOfServices": "서비스 약관",
+      "text": "내용",
+      "help": "도움말",
+      "friendlyLinks": "관련 링크",
+      "articleList": "게시글 목록",
+      "home": "홈",
+      "next": "다음",
+      "previous": "이전"
+    },
+    "HomeIframe": {
+      "title": "Enemania",
+      "description": "기발한 적들과 도전적인 레벨이 있는 전략 타워 디펜스 게임 Enemania에서 보물을 지키세요.",
+      "iframeTitle": "게임 미리보기",
+      "fullscreenButton": "전체 화면",
+      "shareButton": "공유",
+      "urlCopied": "URL이 클립보드에 복사되었습니다!",
+      "downloadGame": "게임 다운로드",
+      "playGame": "게임 플레이"
+    },
+    "HomeFeatures": {
+      "gameTitle": "Enemania",
+      "whatIsTitle": "Enemania란 무엇인가요?",
+      "whatIsDescription": "Enemania는 해골, 오크, 미라 같은 기발한 적들의 파상 공격으로부터 보물을 지키는 재미있고 전략적인 타워 디펜스 게임입니다.",
+      "howToPlayTitle": "플레이 방법",
+      "howToPlayStep1": "대포, 투석기, 폭탄을 배치하고 업그레이드하여 침략자들을 막으세요.",
+      "howToPlayStep2": "각 레벨마다 새로운 도전이 주어지므로, 현명한 계획과 빠른 결정을 통해 앞서나가세요.",
+      "howToPlayStep3": "모든 적의 공격으로부터 보물을 지켜 승리하세요.",
+      "keyFeaturesTitle": "주요 기능",
+      "feature1Title": "전략적 게임 플레이",
+      "feature1Description": "효과적으로 보물을 지키기 위해 전략을 계획하고 실행하세요.",
+      "feature2Title": "기발한 적들",
+      "feature2Description": "해골, 오크, 미라와 같은 독특한 적들의 공격에 맞서세요.",
+      "feature3Title": "업그레이드 가능한 방어 시설",
+      "feature3Description": "대포, 투석기, 폭탄을 업그레이드하여 방어력을 강화하세요.",
+      "feature4Title": "도전적인 레벨",
+      "feature4Description": "각 레벨마다 새로운 도전이 주어지므로 계속 몰입할 수 있습니다."
+    },
+    "HomeFAQs": {
+      "title": "FAQ"
+    },
+    "HomeRelatedVideo": {
+      "title": "게임 비디오"
+    },
+    "HomeRecommendation": {
+      "title": "추천"
+    },
+    "HomeComments": {
+      "title": "플레이 댓글"
+    },
+    "GamePage": {
+      "title": "모든 게임",
+      "description": "모든 게임",
+      "games": "게임"
+    },
+    "CategoryPage": {
+      "categories": "카테고리",
+      "noCategories": "카테고리가 없습니다",
+      "viewMore": "더보기",
+      "page": "페이지"
+    }
+  }
+}
